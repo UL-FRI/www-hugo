@@ -1,3 +1,11 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+DefaultContentLanguage = "si"
+
+[languages]
+  [languages.en]
+    title = "Hugo FRI website"
+
+  [languages.si]
+    title = "Hugo FRI spletna stran"
+
