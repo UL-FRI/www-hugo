@@ -4,11 +4,9 @@ DefaultContentLanguage = "si"
 
 [languages]
   [languages.si]
-    contentDir = "content/si"
     title = "Hugo FRI spletna stran"
     weight = 0
 
   [languages.en]
-    contentDir = "content/en"
     title = "Hugo FRI website"
     weight = 1

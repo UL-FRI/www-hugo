@@ -1,0 +1,13 @@
+{{- $file := .Params.acronym }}
+<div class="list-katedra">
+	<ul>
+
+		{{ range (index $.Site.Data $file).item}}
+		<li><a href="{{ .employeeURL | absURL }}">
+			{{ .Name }} {{ with .Role }},{{ . }}{{ end }}
+		</a></li>
+		{{ end }}
+
+	</ul>
+</div>
+
