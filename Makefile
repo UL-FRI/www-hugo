@@ -3,7 +3,7 @@ default: hugo-dev-server
 
 .PHONY: hugo-dev-server
 hugo-dev-server:
-	hugo server
+	hugo server --ignoreCache --disableFastRender
 
 .PHONY: hugo-build-prod
 hugo-build-prod:
