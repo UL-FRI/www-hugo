@@ -1,5 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Lrgm"
+date: 2019-07-29T12:50:40+02:00
 draft: true
 url: "/"
 bannerText: ""

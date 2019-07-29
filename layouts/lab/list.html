@@ -1,131 +1,19 @@
 {{ define "main" }}
-
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1637 node-type-laboratorij i18n-sl" >
-  <div style="position: relative">
-    <div id="mobile-menu-backgroud-dark"></div>
-
-    {{ partial "header.html" .}}
-
-    <div class="region region-content">
-      <div id="block-system-main" class="block block-system">
-        <div class="content">
-          <div class="header-margin"></div>
-          <div id="block-studij-banner-block-custom" class="block block-studij">
-            <div class="content">
-
-							{{ partial "lab-banner.html" . }}
-
-            </div>
-          </div>
-
-					<div class="container" id="katedre-main-container">
-						<div class="flex-space-between">
-							<div id="katedre-container" >
-
-								<div class="contactInfo">
-
-									<div class="info-lab">
-										<span style="color: #999999"> Lokacija:</span>
-										<span style="padding-left: 12px">{{ .Params.location }}</span>
-									</div>
-
-									<div class="info-lab">
-										<span style="color: #999999"> Povezava:</span>
-										<span style="padding-left: 12px"><a href="{{ .Params.url }}">{{ .Params.acronym }}</a></span>
-									</div>
-
-								</div>
-
-								<div class="grayDots"></div>
-
-								<div id="katedra-items" class="laboratories laboratorijOpis">
-
-									<div class="katedra-item">
-										<div class="laboratorijOpis">
-											<div id="katedre-quote">{{ .Content }}</div>
-											<div>&nbsp;</div>
-										</div>
-									</div>
-
-									<div class="katedra-item">
-										<div class="heading-article">
-											<ul>
-												<li>Sodelavci</li>
-											</ul>
-										</div>
-										<div class="grayDots"></div>
-
-										{{ partial "list-employees.html" . }}
-
-									</div>
-
-									<div class="katedra-item">
-										<div class="heading-article">
-											<ul>
-												<li>Projekti</li>
-											</ul>
-										</div>
-										<div class="grayDots"></div>
-
-										{{ partial "list-projects.html" . }}
-
-									</div>
-								</div>
-							</div>
-
-							{{ partial "side-menu.html" . }}
-
-						</div>
-					</div>
-
-        </div>
-      </div>
-    </div>
-
-    {{ partial "footer.html" . }}
-
-    {{ partial "js.html" . }}
-
-  </div>
-
-	<!--
-			<script>
-				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-				$(document).ready(function() {
-					if (!Drupal.eu_cookie_compliance.hasAgreed()){
-					ga('create', 'UA-129699751-1', {
-						'storage': 'none',
-						'clientId': "ANON"
-					});
-
-					ga('send', 'pageview');
-
-					//window['ga-disable-UA-71142817-1'] = true;
-				} else {
-					ga('create', 'UA-129699751-1', 'auto');
-						ga('send', 'pageview');
-				}
-			});
-
-
-		</script>
-	-->
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<!--
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129699751-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', 'UA-129699751-1');
-	</script>
-	-->
-
-</body>
-
+<main>
+	<article>
+		<header>
+			<h1>{{.Title}}</h1>
+		</header>
+		<!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+		{{.Content}}
+	</article>
+	<ul>
+		<!-- Ranges through content/posts/*.md -->
+		{{ range .Pages }}
+		<li>
+			<a href="{{.url}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+		</li>
+		{{ end }}
+	</ul>
+</main>
 {{ end }}

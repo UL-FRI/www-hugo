@@ -1,0 +1,16 @@
+[
+  {
+    "abbreviation":  "LASPP",
+    "description":
+    {
+      "en": "ANG opis",
+      "sl": "SLO opis"
+    },
+    "id": 1,
+    "title":
+    {
+      "en": "Laboratory for Adaptive Systems and Parallel Processing",
+      "sl": "Laboratorij za adaptivne sisteme in paralelno procesiranje"
+    }
+  }
+]
