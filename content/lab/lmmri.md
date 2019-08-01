@@ -1,6 +1,5 @@
 ---
-title: "Lkrv"
-date: 2019-07-29T12:50:39+02:00
+title: "Lmmri"
 draft: true
 url: "/"
 bannerText: ""

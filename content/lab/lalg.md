@@ -1,6 +1,5 @@
 ---
-title: "Biolab"
-date: 2019-07-29T12:50:37+02:00
+title: "Lalg"
 draft: true
 url: "/"
 bannerText: ""

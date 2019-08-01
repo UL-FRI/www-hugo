@@ -1,6 +1,5 @@
 ---
-title: "Lalg"
-date: 2019-07-29T12:50:37+02:00
+title: "Lrgmlrk"
 draft: true
 url: "/"
 bannerText: ""

@@ -1,6 +1,5 @@
 ---
-title: "Lbrso"
-date: 2019-07-29T12:50:38+02:00
+title: "Lpt"
 draft: true
 url: "/"
 bannerText: ""
