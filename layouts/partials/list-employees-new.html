@@ -1,7 +1,6 @@
-{{- $file := .Params.acronym }}
+{{- $file := .Params.abbreviation }}
 <div class="list-katedra">
 	<ul>
-
 		{{ range (index $.Site.Data $file).item}}
 		<li><a href="{{ .employeeURL | absURL }}">
 			{{ .Name }} {{ with .Role }},{{ . }}{{ end }}
