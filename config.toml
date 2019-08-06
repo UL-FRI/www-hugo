@@ -1,14 +1,15 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "si"
 
 [languages]
   [languages.si]
+    baseURL = "http://example.org/sl"
     contentDir = "content/si"
     title = "Hugo FRI spletna stran"
     weight = 0
 
   [languages.en]
+    baseURL = "http://example.org/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
     weight = 1
