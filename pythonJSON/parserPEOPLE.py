@@ -1,50 +1,66 @@
 import json
 import frontmatter
 import io
+from os import path
 from shutil import copyfile
 
-with open('persons.json') as json_people:
-    data = json.load(json_people)
-    employeeID = 0
-    for p in data['persons']:
-        fname = './md/' + str(employeeID) + '.md'
-        copyfile('template_employee.md', fname)
 
-        with io.open(fname, 'r') as f:
+def json_to_md(loaded_json):
+
+    for p in loaded_json:
+        fname = './content/sl/labs/' + p['abbreviation'].lower() + '.md'
+        fname_en = './content/en/labs/' + p['abbreviation'].lower() + '.md'
+
+        if not path.isfile(fname):
+            copyfile('./sampleJSON/template_lab.md', fname)
+        if not path.isfile(fname_en):
+            copyfile('./sampleJSON/template_lab.md', fname_en)
+
+        with io.open(fname, 'r', encoding='utf8') as f, io.open(fname_en, 'r', encoding='utf8') as f_en:
 
             # Parse file's front matter
-            post = frontmatter.load(f)
-            if post.get('fullname_and_title') is None:
-                post['fullname_and_title'] = str(p['fullname_and_title']['sl'])
-            if post.get('web_category') is None:
-                post['web_category'] = str(p['web_category']['sl'])
-            if post.get('phone') is None:
-                post['phone'] = str(p['phone'])
-            if post.get('sicris_researcher_number') is None:
-                post['sicris_num'] = str(p['sicris_researcher_number'])
-            if post.get('picture') is None:
-                post['picture'] = str(p['picture'])
-            if post.get('description') is None:
-                post.content = str(p['description']['sl'])
+            post = frontmatter.load(f, encoding='utf-8')
+            post_en = frontmatter.load(f_en, encoding='utf-8')
 
+            if post.get('abbreviation') is None and p['abbreviation'] is not None:
+                post['abbreviation'] = p['abbreviation']
+                post_en['abbreviation'] = post['abbreviation']
 
+            if post.get('title') is None and p['title'] is not None:
+                post['title'] = p['title']['sl']
+                post_en['title'] = p['title']['en']
+
+            if post.get('location') is None and p['location'] is not None:
+                post['location'] = p['location']
+                post_en['location'] = post['location']
+
+            if post.get('body') is None and p['description'] is not None:
+                post.content = p['description']['sl']
+                post_en.content = p['description']['en']
+
+            if post.get('id') is None and 'id' in p:
+                post['id'] = p['id']
+                post_en['id'] = p['id']
 
             # Save the file
             new = io.open(fname, 'wb')
+            new_en = io.open(fname_en, 'wb')
+            frontmatter.dump(post_en, new_en)
             frontmatter.dump(post, new)
             new.close()
+            new_en.close()
 
-        fname = './data/' + str(employeeID) + '_employee.json'
-        with io.open(fname, 'w+') as to:
-            from_insert = p['subjects']
-            json.dump(from_insert, to)
-            from_insert = p['labs']
-            json.dump(from_insert, to)
+        if 'members' in p:
+            jname = './data/' + str(p['abbreviation']).lower() + '_mem.json'
 
-        employeeID += 1
-
+            with io.open(jname, 'w+', encoding='utf8') as to:
+                from_insert = p['members']
+                json.dump(from_insert, to)
 
 
-
-
-
+with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons, \
+        io.open('./sampleJSON/staffDescriptions.json', 'r', encoding='utf8') as desc_persons:
+    data = json.load(json_persons)
+    desc = json.load(desc_persons)
+    json_to_md(data['labs'])
+    json_to_md(desc)

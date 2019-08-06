@@ -1,17 +1,13 @@
-## PYTHON 3.6
-
 import json
-import sys
-
 import frontmatter
 import io
 from os import path
 from shutil import copyfile
 
 
-def json_to_md(loadedJSON):
+def json_to_md(loaded_json):
 
-    for p in loadedJSON:
+    for p in loaded_json:
         fname = './content/sl/labs/' + p['abbreviation'].lower() + '.md'
         fname_en = './content/en/labs/' + p['abbreviation'].lower() + '.md'
 
@@ -41,7 +37,6 @@ def json_to_md(loadedJSON):
             if post.get('body') is None and p['description'] is not None:
                 post.content = p['description']['sl']
                 post_en.content = p['description']['en']
-                print(str(p['description']['sl']))
 
             if post.get('id') is None and 'id' in p:
                 post['id'] = p['id']
@@ -55,7 +50,7 @@ def json_to_md(loadedJSON):
             new.close()
             new_en.close()
 
-        if 'members' in post:
+        if 'members' in p:
             jname = './data/' + str(p['abbreviation']).lower() + '_mem.json'
 
             with io.open(jname, 'w+', encoding='utf8') as to:
