@@ -3,13 +3,17 @@ DefaultContentLanguage = "si"
 
 [languages]
   [languages.si]
-    baseURL = "http://example.org/sl"
+    baseURL = "https://www-hugo.netlify.com/-/sl"
     contentDir = "content/si"
     title = "Hugo FRI spletna stran"
     weight = 0
+    [languages.si.params]
+      labPos = "predstojnik laboratorija"
 
   [languages.en]
-    baseURL = "http://example.org/en"
+    baseURL = "https://www-hugo.netlify.com/-/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
     weight = 1
+    [languages.en.params]
+      labPos = "Head of Laboratory"

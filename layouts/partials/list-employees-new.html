@@ -1,9 +1,11 @@
-{{- $file := .Params.abbreviation }}
+{{- $file := printf "%s_mem" (lower .Params.abbreviation) -}}
 <div class="list-katedra">
 	<ul>
-		{{ range (index $.Site.Data $file).item}}
-		<li><a href="{{ .employeeURL | absURL }}">
-			{{ .Name }} {{ with .Role }},{{ . }}{{ end }}
+		{{ range (index $.Site.Data.laboratorij $file)}}
+
+		<li><a href="blank">
+			{{ .name }} {{ .surname }}
+			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ $.Site.Params.labPos }} {{ end }}
 		</a></li>
 		{{ end }}
 
