@@ -20,6 +20,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "/"
-  to = "/-/si"
+  to = "/-/sl"
   status = 301
   force = true
