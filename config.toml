@@ -1,4 +1,3 @@
-languageCode = "en-us"
 DefaultContentLanguage = "si"
 
 [languages]
@@ -7,6 +6,7 @@ DefaultContentLanguage = "si"
     contentDir = "content/si"
     title = "Hugo FRI spletna stran"
     weight = 0
+    languageCode = "sl-SI"
     [languages.si.params]
       labPos = "predstojnik laboratorija"
 
@@ -14,6 +14,7 @@ DefaultContentLanguage = "si"
     baseURL = "https://www-hugo.netlify.com/-/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
+    languageCode = "en-us"
     weight = 1
     [languages.en.params]
       labPos = "Head of Laboratory"
