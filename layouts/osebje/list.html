@@ -3,7 +3,7 @@
 	<div style="position:relative">
 		<div id="mobile-menu-backgroud-dark"></div>
 
-		{{ partial "header.html" .}}
+		{{ partial "header.html" . }}
 
 
 		<div class="region region-content">
@@ -35,7 +35,7 @@
 											Osebje                    </div>
 									</div>
 									<div class="dots">
-										<div class="whiteDotsBanner" style="top : 0px;left: 0x;width: 395px;"></div>
+										<div class="whiteDotsBanner" style="top : 0;left: 0;width: 395px;"></div>
 									</div>
 									<div class="text">
 									</div>
@@ -52,7 +52,7 @@
 								<div style='background-image:url(https://fri.uni-lj.si/sites/default/files/marko_robnik%20%C5%A0ikonja.png)' class="os-image"></div>
 							</div>
 							<div id="aboutProfPovezave">Povezave</div>
-							<a id='buttonSicris' target='_blank' href='http://www.sicris.si/public/jqm/search_basic.aspx?lang=slv&opdescr=search&opt=2&subopt=1&code1=cmn&code2=auto&search_term=15295'>
+							<a id='buttonSicris' target='_blank' href="http://www.sicris.si/public/jqm/search_basic.aspx?lang=slv&opdescr=search&opt=2&subopt=1&code1=cmn&code2=auto&search_term={{ .Params.SICRIS }}">
 								<div >SICRIS</div>
 							</a>
 						</div>
