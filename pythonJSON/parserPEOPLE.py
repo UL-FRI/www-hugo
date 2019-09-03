@@ -42,8 +42,9 @@ def json_to_md(persons, staff_desc, indexes, names):
     for (m, b) in zip(indexes, names):
         # persons[a] is same person as c
         if m != -1:
-            fname_sl = './content/sl/osebje/' + re.sub(r'\s+', '_', b.lstrip(' ').lower()) + '.md'
-            fname_en = './content/en/osebje/' + re.sub(r'\s+', '_', b.lstrip(' ').lower()) + '.md'
+            fix_name = re.sub(r'\s+', '_', b.lstrip(' ').lower())
+            fname_sl = './content/sl/osebje/' + fix_name + '.md'
+            fname_en = './content/en/osebje/' + fix_name + '.md'
 
             with io.open(fname_sl, 'r', encoding='utf8') as f, io.open(fname_en, 'r', encoding='utf8') as f_en:
                 person_json = persons[m]
@@ -52,11 +53,6 @@ def json_to_md(persons, staff_desc, indexes, names):
                 # Open file's frontmatter
                 post_sl = frontmatter.load(f, encoding='utf8')
                 post_en = frontmatter.load(f_en, encoding='utf8')
-
-                print(person_json)
-                print(desc_json)
-                print(b)
-                print()
 
                 if post_sl.get('profName') is None and person_json['fullname_and_title'] is not None:
                     post_sl['profName'] = person_json['fullname_and_title']['sl']
@@ -84,6 +80,30 @@ def json_to_md(persons, staff_desc, indexes, names):
                     post_sl.content = desc_json['descSl']
                 if post_en.get('body') is None and desc_json['descSl'] is not None:
                     post_en.content = desc_json['descEn']
+
+                if person_json['picture'] is not None:
+                    iname = './img/' + fix_name + '.html'
+
+                    with io.open(iname, 'w+', encoding='utf8') as to:
+                        from_insert = person_json['picture']
+                        json.dump(from_insert, to)
+
+                if len(person_json['labs']) != 0:
+                    for i in person_json['labs']:
+                        post_sl['lab'] = i['title']['sl']
+                        post_en['lab'] = i['title']['en']
+                        post_sl['labPos'] = i['function_in_lab']['sl']
+                        post_en['labPos'] = i['function_in_lab']['en']
+
+                if 'subjects' in person_json:
+                    sname = './data/' + fix_name + '_sub_and_lab.json'
+
+                    with io.open(sname, 'w+', encoding='utf8') as to:
+                        from_insert = {
+                            "subjects": person_json['subjects']
+                        }
+                        json.dump(from_insert, to)
+
 
             # Save the file
             new = io.open(fname_sl, 'wb')
