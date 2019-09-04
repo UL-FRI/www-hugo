@@ -86,13 +86,6 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if post_en.get('body') is None and desc_json['descSl'] is not None:
                     post_en.content = desc_json['descEn']
 
-                if person_json['picture'] is not None:
-                    iname = './img/' + fix_name + '.html'
-
-                    with io.open(iname, 'w+', encoding='utf8') as to:
-                        from_insert = person_json['picture']
-                        json.dump(from_insert, to)
-
                 if len(person_json['labs']) != 0:
                     for i in person_json['labs']:
                         post_sl['lab'] = i['title']['sl']
@@ -101,11 +94,12 @@ def json_to_md(persons, staff_desc, indexes, names):
                         post_en['labPos'] = i['function_in_lab']['en']
 
                 if 'subjects' in person_json:
-                    sname = './data/' + fix_name + '_subjects.json'
+                    sname = './data/osebje/' + fix_name + '_subjects_and_img.json'
 
                     with io.open(sname, 'w+', encoding='utf8') as to:
                         from_insert = {
-                            "subjects": person_json['subjects']
+                            "subjects": person_json['subjects'],
+                            "img": person_json['picture']
                         }
                         json.dump(from_insert, to)
 

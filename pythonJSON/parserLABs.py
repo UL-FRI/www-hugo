@@ -61,5 +61,5 @@ def json_to_md(loaded_json):
 with io.open('./sampleJSON/labs.json', 'r', encoding='utf8') as json_labs, open('./sampleJSON/labDescriptions.json', 'r', encoding='utf8') as desc_labs:
     data = json.load(json_labs)
     desc = json.load(desc_labs)
-    json_to_md(data['persons'])
+    json_to_md(data['labs'])
     json_to_md(desc)
