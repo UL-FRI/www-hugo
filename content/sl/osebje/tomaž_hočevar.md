@@ -1,5 +1,5 @@
 ---
-SICRIS: '35424'
+SICRIS: 15295
 draft: false
 fixName: tomaž_hočevar
 lab: Laboratorij za bioinformatiko

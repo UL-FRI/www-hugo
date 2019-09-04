@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Branko Šter, PhD
+SICRIS: 15295
 draft: false
 fixName: branko_šter
 lab: Laboratory for Adaptive Systems and Parallel Processing

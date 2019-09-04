@@ -1,5 +1,5 @@
 ---
-SICRIS: '04242'
+SICRIS: 15295
 draft: false
 fixName: igor_kononenko
 lab: Laboratorij za kognitivno modeliranje

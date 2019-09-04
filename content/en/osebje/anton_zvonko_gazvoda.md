@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: anton_zvonko_gazvoda
 lab: Laboratory for Integration of Information Systems

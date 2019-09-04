@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: darja_peljhan
-lab: null
-labPos: null
 location: null
 mailInfo: darja.peljhan@ef.uni-lj.si
 officeHours: null

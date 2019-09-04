@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: anže_rezelj
 lab: Laboratorij za umetne vizualne spoznavne sisteme

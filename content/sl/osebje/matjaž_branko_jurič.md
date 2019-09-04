@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: matjaž_branko_jurič
 lab: Laboratorij za integracijo informacijskih sistemov

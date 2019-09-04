@@ -1,5 +1,5 @@
 ---
-SICRIS: '29021'
+SICRIS: 15295
 draft: false
 fixName: martin_možina
 lab: Laboratorij za umetno inteligenco

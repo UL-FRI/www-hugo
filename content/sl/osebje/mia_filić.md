@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: mia_filić
 lab: Laboratorij za kriptografijo in računalniško varnost

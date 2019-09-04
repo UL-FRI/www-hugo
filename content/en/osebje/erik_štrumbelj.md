@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Erik Štrumbelj, PhD
+SICRIS: 15295
 draft: false
 fixName: erik_štrumbelj
 lab: Laboratory for Cognitive Modeling

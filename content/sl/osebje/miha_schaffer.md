@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: miha_schaffer
-lab: null
-labPos: null
 location: null
 mailInfo: miha.schaffer@fri.uni-lj.si
 officeHours: null

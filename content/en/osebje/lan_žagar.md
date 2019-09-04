@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Lan Žagar, PhD
+SICRIS: 15295
 draft: false
 fixName: lan_žagar
 lab: Bioinformatics Laboratory

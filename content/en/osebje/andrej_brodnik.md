@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Andrej Brodnik, PhD
+SICRIS: 15295
 draft: false
 fixName: andrej_brodnik
 lab: Laboratory for Ubiquitous systems

@@ -1,5 +1,5 @@
 ---
-SICRIS: '33795'
+SICRIS: 15295
 draft: false
 fixName: rok_češnovar
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

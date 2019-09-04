@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Tomaž Curk, PhD
+SICRIS: 15295
 draft: false
 fixName: tomaž_curk
 lab: Bioinformatics Laboratory

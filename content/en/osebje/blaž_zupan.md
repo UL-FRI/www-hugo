@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Blaž Zupan, PhD
+SICRIS: 15295
 draft: false
 fixName: blaž_zupan
 lab: Bioinformatics Laboratory

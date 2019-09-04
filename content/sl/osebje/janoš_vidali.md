@@ -1,5 +1,5 @@
 ---
-SICRIS: '30920'
+SICRIS: 15295
 draft: false
 fixName: janoš_vidali
 lab: Laboratorij za kriptografijo in računalniško varnost

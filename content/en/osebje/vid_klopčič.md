@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: vid_klopčič
 lab: 'Laboratory of Computer Graphics and Multimedia '

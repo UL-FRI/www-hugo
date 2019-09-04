@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: ratko_pilipović
-lab: null
-labPos: null
 location: null
 mailInfo: ratko.pilipovic@fri.uni-lj.si
 officeHours: null

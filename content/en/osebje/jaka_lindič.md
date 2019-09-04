@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jaka_lindič
-lab: null
-labPos: null
 location: null
 mailInfo: jaka.lindic@ef.uni-lj.si
 officeHours: null

@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: gregor_weiss
 lab: Laboratory for Data Technologies

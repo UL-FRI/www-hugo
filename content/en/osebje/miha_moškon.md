@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Miha Moškon, PhD
+SICRIS: 15295
 draft: false
 fixName: miha_moškon
 lab: Computer Structures and Systems Laboratory

@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Marko Bajec, PhD
+SICRIS: 15295
 draft: false
 fixName: marko_bajec
 lab: Laboratory for Data Technologies

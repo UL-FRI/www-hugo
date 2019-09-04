@@ -1,5 +1,5 @@
 ---
-SICRIS: '23400'
+SICRIS: 15295
 draft: false
 fixName: uroš_čibej
 lab: Laboratorij za algoritmiko

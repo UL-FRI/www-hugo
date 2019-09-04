@@ -1,5 +1,5 @@
 ---
-SICRIS: '28365'
+SICRIS: 15295
 draft: false
 fixName: matej_guid
 lab: Laboratorij za algoritmiko

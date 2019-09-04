@@ -1,5 +1,5 @@
 ---
-SICRIS: '11077'
+SICRIS: 15295
 draft: false
 fixName: denis_trček
 lab: Laboratorij za e-medije

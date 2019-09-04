@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Aleksandar Jurišić, PhD
+SICRIS: 15295
 draft: false
 fixName: aleksandar_jurišić
 lab: Laboratory for Cryptography and Computer Security

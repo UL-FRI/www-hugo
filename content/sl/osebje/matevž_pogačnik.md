@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: matevž_pogačnik
-lab: null
-labPos: null
 location: null
 mailInfo: matevz.pogacnik@fe.uni-lj.si
 officeHours: null

@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: maher_kaddoura
-lab: null
-labPos: null
 location: R3.40 - Finančno računovodska služba
 mailInfo: maher.kaddoura@fri.uni-lj.si
 officeHours: null

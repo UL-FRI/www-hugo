@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Martin Vuk, PhD
+SICRIS: 15295
 draft: false
 fixName: martin_vuk
 lab: Laboratory for Mathematical Methods in Computer and Information Science

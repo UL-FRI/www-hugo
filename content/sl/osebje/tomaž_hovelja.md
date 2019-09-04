@@ -1,5 +1,5 @@
 ---
-SICRIS: '31407'
+SICRIS: 15295
 draft: false
 fixName: tomaž_hovelja
 lab: Laboratorij za informatiko

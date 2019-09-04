@@ -1,5 +1,5 @@
 ---
-SICRIS: '16154'
+SICRIS: 15295
 draft: false
 fixName: marko_bajec
 lab: Laboratorij za podatkovne tehnologije

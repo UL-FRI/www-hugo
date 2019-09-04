@@ -1,5 +1,5 @@
 ---
-SICRIS: '12766'
+SICRIS: 15295
 draft: false
 fixName: boštjan_slivnik
 lab: Laboratorij za algoritmiko

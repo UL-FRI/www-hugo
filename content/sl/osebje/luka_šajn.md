@@ -1,5 +1,5 @@
 ---
-SICRIS: '23401'
+SICRIS: 15295
 draft: false
 fixName: luka_šajn
 lab: Laboratorij za računalniški vid

@@ -1,5 +1,5 @@
 ---
-SICRIS: '02275'
+SICRIS: 15295
 draft: false
 fixName: ivan_bratko
 lab: Laboratorij za umetno inteligenco

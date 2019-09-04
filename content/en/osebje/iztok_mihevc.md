@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: iztok_mihevc
-lab: null
-labPos: null
 location: null
 mailInfo: iztok.mihevc@fe.uni-lj.si
 officeHours: null

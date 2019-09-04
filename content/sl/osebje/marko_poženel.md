@@ -1,5 +1,5 @@
 ---
-SICRIS: '23953'
+SICRIS: 15295
 draft: false
 fixName: marko_poženel
 lab: Laboratorij za tehnologijo programske opreme

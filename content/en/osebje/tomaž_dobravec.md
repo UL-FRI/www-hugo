@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Tomaž Dobravec, PhD
+SICRIS: 15295
 draft: false
 fixName: tomaž_dobravec
 lab: null

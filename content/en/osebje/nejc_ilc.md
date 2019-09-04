@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Nejc Ilc
+SICRIS: 15295
 draft: false
 fixName: nejc_ilc
 lab: Laboratory for Adaptive Systems and Parallel Processing

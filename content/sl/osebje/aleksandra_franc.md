@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: aleksandra_franc
 lab: Laboratorij za matematične metode v računalništvu in informatiki

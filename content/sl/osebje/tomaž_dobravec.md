@@ -1,5 +1,5 @@
 ---
-SICRIS: '18188'
+SICRIS: 15295
 draft: false
 fixName: tomaž_dobravec
 lab: Laboratorij za algoritmiko

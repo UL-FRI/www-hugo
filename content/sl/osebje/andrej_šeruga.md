@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: andrej_šeruga
-lab: null
-labPos: null
 location: R2.32 - Vzdrževalci
 mailInfo: andrej.seruga@fri.uni-lj.si
 officeHours: null

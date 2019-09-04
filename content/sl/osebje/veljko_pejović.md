@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: veljko_pejović
 lab: Laboratorij za računalniške komunikacije

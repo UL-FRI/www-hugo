@@ -1,5 +1,5 @@
 ---
-SICRIS: Lect. Bojan Klemenc, MSc
+SICRIS: 15295
 draft: false
 fixName: bojan_klemenc
 lab: Computer Vision Laboratory

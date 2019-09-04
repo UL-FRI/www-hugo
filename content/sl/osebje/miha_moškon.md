@@ -1,5 +1,5 @@
 ---
-SICRIS: '29198'
+SICRIS: 15295
 draft: false
 fixName: miha_moškon
 lab: Laboratorij za računalniške strukture in sisteme

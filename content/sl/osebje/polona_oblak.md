@@ -1,5 +1,5 @@
 ---
-SICRIS: '22723'
+SICRIS: 15295
 draft: false
 fixName: polona_oblak
 lab: Laboratorij za matematične metode v računalništvu in informatiki

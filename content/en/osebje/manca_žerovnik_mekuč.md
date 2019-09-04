@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: manca_žerovnik_mekuč
-lab: null
-labPos: null
 location: null
 mailInfo: manca.zerovnik@fri.uni-lj.si
 officeHours: null

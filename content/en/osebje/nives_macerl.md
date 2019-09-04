@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: nives_macerl
-lab: null
-labPos: null
 location: R3.36 - Tajnik fakultete
 mailInfo: Nives.Macerl@fri.uni-lj.si
 officeHours: null

@@ -1,5 +1,5 @@
 ---
-SICRIS: '23987'
+SICRIS: 15295
 draft: false
 fixName: martin_vuk
 lab: Laboratorij za matematične metode v računalništvu in informatiki

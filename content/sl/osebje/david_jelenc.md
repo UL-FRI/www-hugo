@@ -1,5 +1,5 @@
 ---
-SICRIS: '32040'
+SICRIS: 15295
 draft: false
 fixName: david_jelenc
 lab: Laboratorij za e-medije

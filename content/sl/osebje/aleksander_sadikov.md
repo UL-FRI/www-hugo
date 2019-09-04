@@ -1,5 +1,5 @@
 ---
-SICRIS: '20389'
+SICRIS: 15295
 draft: false
 fixName: aleksander_sadikov
 lab: Laboratorij za umetno inteligenco

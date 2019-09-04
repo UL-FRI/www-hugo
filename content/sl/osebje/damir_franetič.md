@@ -1,5 +1,5 @@
 ---
-SICRIS: '34640'
+SICRIS: 15295
 draft: false
 fixName: damir_franetič
 lab: Laboratorij za matematične metode v računalništvu in informatiki

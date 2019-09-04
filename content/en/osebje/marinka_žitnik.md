@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Marinka Žitnik, PhD
+SICRIS: 15295
 draft: false
 fixName: marinka_žitnik
 lab: Bioinformatics Laboratory

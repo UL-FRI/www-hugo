@@ -1,5 +1,5 @@
 ---
-SICRIS: '22472'
+SICRIS: 15295
 draft: false
 fixName: borut_batagelj
 lab: Laboratorij za računalniški vid

@@ -1,5 +1,5 @@
 ---
-SICRIS: Sen. Lect. Igor Rožanc, PhD
+SICRIS: 15295
 draft: false
 fixName: igor_rožanc
 lab: Software Engineering Laboratory

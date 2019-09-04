@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Tomaž Hovelja, PhD
+SICRIS: 15295
 draft: false
 fixName: tomaž_hovelja
 lab: Information Systems Laboratory

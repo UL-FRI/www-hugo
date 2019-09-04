@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Jurij Mihelič, PhD
+SICRIS: 15295
 draft: false
 fixName: jurij_mihelič
 lab: null

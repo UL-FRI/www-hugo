@@ -1,5 +1,5 @@
 ---
-SICRIS: akad. Prof. Ivan Bratko, PhD
+SICRIS: 15295
 draft: false
 fixName: ivan_bratko
 lab: Artificial Intelligence Laboratory

@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Luka Čehovin Zajc, PhD
+SICRIS: 15295
 draft: false
 fixName: luka_čehovin_zajc
 lab: Visual Cognitive Systems Laboratory

@@ -1,5 +1,5 @@
 ---
-SICRIS: '14300'
+SICRIS: 15295
 draft: false
 fixName: branko_šter
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

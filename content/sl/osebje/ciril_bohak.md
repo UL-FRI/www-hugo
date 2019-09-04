@@ -1,5 +1,5 @@
 ---
-SICRIS: '30062'
+SICRIS: 15295
 draft: false
 fixName: ciril_bohak
 lab: Laboratorij za računalniško grafiko in multimedije

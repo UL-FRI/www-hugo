@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Marko Janković
+SICRIS: 15295
 draft: false
 fixName: marko_janković
 lab: Laboratory for Data Technologies

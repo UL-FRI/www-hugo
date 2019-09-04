@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: blaž_meden
 lab: Computer Vision Laboratory

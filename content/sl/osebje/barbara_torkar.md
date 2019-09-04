@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: barbara_torkar
-lab: null
-labPos: null
 location: null
 mailInfo: barbara.torkar@fri.uni-lj.si
 officeHours: null

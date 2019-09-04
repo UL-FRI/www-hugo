@@ -1,5 +1,5 @@
 ---
-SICRIS: '15294'
+SICRIS: 15295
 draft: false
 fixName: rok_rupnik
 lab: Laboratorij za informatiko

@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: matej_vitek
 lab: Laboratorij za računalniški vid

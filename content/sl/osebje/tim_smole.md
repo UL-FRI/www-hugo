@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: tim_smole
 lab: Laboratorij za kognitivno modeliranje

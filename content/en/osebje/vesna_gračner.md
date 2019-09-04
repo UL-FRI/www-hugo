@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: vesna_gračner
-lab: null
-labPos: null
 location: R3.73 - Mednarodna pisarna, Praktično izobraževanje, Karierni center UL
 mailInfo: vesna.gracner@fri.uni-lj.si
 officeHours: null

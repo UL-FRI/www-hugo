@@ -1,5 +1,5 @@
 ---
-SICRIS: '11161'
+SICRIS: 15295
 draft: false
 fixName: aleš_jaklič
 lab: Laboratorij za računalniški vid

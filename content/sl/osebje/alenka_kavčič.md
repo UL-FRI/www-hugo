@@ -1,5 +1,5 @@
 ---
-SICRIS: '16131'
+SICRIS: 15295
 draft: false
 fixName: alenka_kavčič
 lab: Laboratorij za računalniško grafiko in multimedije

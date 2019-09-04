@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Miha Nagelj
+SICRIS: 15295
 draft: false
 fixName: miha_nagelj
 lab: Laboratory for Integration of Information Systems

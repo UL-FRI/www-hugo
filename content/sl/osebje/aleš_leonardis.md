@@ -1,5 +1,5 @@
 ---
-SICRIS: 05896
+SICRIS: 15295
 draft: false
 fixName: aleš_leonardis
 lab: Laboratorij za umetne vizualne spoznavne sisteme

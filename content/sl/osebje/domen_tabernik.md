@@ -1,5 +1,5 @@
 ---
-SICRIS: '34398'
+SICRIS: 15295
 draft: false
 fixName: domen_tabernik
 lab: Laboratorij za umetne vizualne spoznavne sisteme

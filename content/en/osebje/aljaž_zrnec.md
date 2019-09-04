@@ -1,5 +1,5 @@
 ---
-SICRIS: Sen. Lect. Aljaž Zrnec, PhD
+SICRIS: 15295
 draft: false
 fixName: aljaž_zrnec
 lab: Laboratory for Data Technologies

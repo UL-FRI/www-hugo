@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Uroš Lotrič, PhD
+SICRIS: 15295
 draft: false
 fixName: uroš_lotrič
 lab: Laboratory for Adaptive Systems and Parallel Processing

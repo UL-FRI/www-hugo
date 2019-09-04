@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: urška_žnidarič
-lab: null
-labPos: null
 location: null
 mailInfo: urska.znidaric@fri.uni-lj.si
 officeHours: null

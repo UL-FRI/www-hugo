@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Mira Trebar, PhD
+SICRIS: 15295
 draft: false
 fixName: mira_trebar
 lab: Laboratory of e-media

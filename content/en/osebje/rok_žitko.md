@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: rok_žitko
-lab: null
-labPos: null
 location: null
 mailInfo: rok.zitko@ijs.si
 officeHours: null

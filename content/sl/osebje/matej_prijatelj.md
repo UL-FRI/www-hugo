@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: matej_prijatelj
-lab: null
-labPos: null
 location: null
 mailInfo: matej.prijatelj@ijs.si
 officeHours: null

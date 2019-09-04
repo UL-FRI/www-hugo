@@ -1,5 +1,5 @@
 ---
-SICRIS: '19515'
+SICRIS: 15295
 draft: false
 fixName: patricio_bulić
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

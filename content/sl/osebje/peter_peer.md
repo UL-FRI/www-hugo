@@ -1,5 +1,5 @@
 ---
-SICRIS: '19226'
+SICRIS: 15295
 draft: false
 fixName: peter_peer
 lab: Laboratorij za računalniški vid

@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Miha Mraz, PhD
+SICRIS: 15295
 draft: false
 fixName: miha_mraz
 lab: Computer Structures and Systems Laboratory

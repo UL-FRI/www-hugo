@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Franc Jager, PhD
+SICRIS: 15295
 draft: false
 fixName: franc_jager
 lab: Laboratory for Biomedical Computer Systems and Imaging

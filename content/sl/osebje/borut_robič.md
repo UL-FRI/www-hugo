@@ -1,5 +1,5 @@
 ---
-SICRIS: '04646'
+SICRIS: 15295
 draft: false
 fixName: borut_robič
 lab: Laboratorij za algoritmiko

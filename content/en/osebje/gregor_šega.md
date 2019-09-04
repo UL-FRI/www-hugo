@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: gregor_šega
-lab: null
-labPos: null
 location: null
 mailInfo: Gregor.Sega@fmf.uni-lj.si
 officeHours: null

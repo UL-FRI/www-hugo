@@ -1,5 +1,5 @@
 ---
-SICRIS: Sen. Lect. Alenka Kavčič, PhD
+SICRIS: 15295
 draft: false
 fixName: alenka_kavčič
 lab: 'Laboratory of Computer Graphics and Multimedia '

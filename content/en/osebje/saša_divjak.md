@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Saša Divjak, PhD
+SICRIS: 15295
 draft: false
 fixName: saša_divjak
 lab: 'Laboratory of Computer Graphics and Multimedia '

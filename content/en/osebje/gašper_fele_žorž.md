@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Gašper Fele Žorž, PhD
+SICRIS: 15295
 draft: false
 fixName: gašper_fele_žorž
 lab: Laboratory for Ubiquitous systems

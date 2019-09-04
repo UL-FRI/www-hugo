@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: david_modic
 lab: Laboratorij za računalniške komunikacije

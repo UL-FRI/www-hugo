@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Damir Franetič, PhD
+SICRIS: 15295
 draft: false
 fixName: damir_franetič
 lab: Laboratory for Mathematical Methods in Computer and Information Science

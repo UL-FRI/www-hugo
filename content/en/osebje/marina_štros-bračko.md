@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: marina_štros-bračko
-lab: null
-labPos: null
 location: null
 mailInfo: marina.stros-bracko@fe.uni-lj.si
 officeHours: null

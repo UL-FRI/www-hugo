@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Matevž Pesek, PhD
+SICRIS: 15295
 draft: false
 fixName: matevž_pesek
 lab: 'Laboratory of Computer Graphics and Multimedia '

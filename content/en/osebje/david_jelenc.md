@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. David Jelenc, PhD
+SICRIS: 15295
 draft: false
 fixName: david_jelenc
 lab: Laboratory of e-media

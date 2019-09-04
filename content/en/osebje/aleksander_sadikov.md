@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Aleksander Sadikov, PhD
+SICRIS: 15295
 draft: false
 fixName: aleksander_sadikov
 lab: Artificial Intelligence Laboratory

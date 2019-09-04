@@ -1,5 +1,5 @@
 ---
-SICRIS: '16324'
+SICRIS: 15295
 draft: false
 fixName: janez_demšar
 lab: Laboratorij za bioinformatiko

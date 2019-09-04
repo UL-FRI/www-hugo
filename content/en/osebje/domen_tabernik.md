@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Domen Tabernik
+SICRIS: 15295
 draft: false
 fixName: domen_tabernik
 lab: Visual Cognitive Systems Laboratory

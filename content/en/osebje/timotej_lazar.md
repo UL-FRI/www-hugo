@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Timotej Lazar
+SICRIS: 15295
 draft: false
 fixName: timotej_lazar
 lab: Artificial Intelligence Laboratory

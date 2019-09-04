@@ -1,5 +1,5 @@
 ---
-SICRIS: '19284'
+SICRIS: 15295
 draft: false
 fixName: marko_boben
 lab: Laboratorij za matematične metode v računalništvu in informatiki

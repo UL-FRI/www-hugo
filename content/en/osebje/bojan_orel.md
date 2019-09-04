@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Bojan Orel, PhD
+SICRIS: 15295
 draft: false
 fixName: bojan_orel
 lab: Laboratory for Mathematical Methods in Computer and Information Science

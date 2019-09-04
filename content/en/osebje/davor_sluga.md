@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Davor Sluga
+SICRIS: 15295
 draft: false
 fixName: davor_sluga
 lab: Laboratory for Adaptive Systems and Parallel Processing

@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Danijel Skočaj, PhD
+SICRIS: 15295
 draft: false
 fixName: danijel_skočaj
 lab: Visual Cognitive Systems Laboratory

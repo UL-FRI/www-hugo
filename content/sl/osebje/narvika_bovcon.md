@@ -1,5 +1,5 @@
 ---
-SICRIS: '31252'
+SICRIS: 15295
 draft: false
 fixName: narvika_bovcon
 lab: Laboratorij za računalniški vid

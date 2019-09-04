@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: miran_koprivec
 lab: Laboratorij za računalniške strukture in sisteme

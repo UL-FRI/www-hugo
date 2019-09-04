@@ -1,5 +1,5 @@
 ---
-SICRIS: '12536'
+SICRIS: 15295
 draft: false
 fixName: blaž_zupan
 lab: Laboratorij za bioinformatiko

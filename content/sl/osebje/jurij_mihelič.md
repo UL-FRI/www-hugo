@@ -1,5 +1,5 @@
 ---
-SICRIS: '22475'
+SICRIS: 15295
 draft: false
 fixName: jurij_mihelič
 lab: Laboratorij za algoritmiko

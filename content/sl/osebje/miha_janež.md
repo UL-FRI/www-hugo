@@ -1,5 +1,5 @@
 ---
-SICRIS: '28364'
+SICRIS: 15295
 draft: false
 fixName: miha_janež
 lab: Laboratorij za računalniške strukture in sisteme

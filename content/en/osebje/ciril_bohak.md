@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Ciril Bohak, PhD
+SICRIS: 15295
 draft: false
 fixName: ciril_bohak
 lab: 'Laboratory of Computer Graphics and Multimedia '

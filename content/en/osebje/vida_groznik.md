@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Vida Groznik, PhD
+SICRIS: 15295
 draft: false
 fixName: vida_groznik
 lab: Artificial Intelligence Laboratory

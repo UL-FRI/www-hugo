@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Rok Rupnik, PhD
+SICRIS: 15295
 draft: false
 fixName: rok_rupnik
 lab: Information Systems Laboratory

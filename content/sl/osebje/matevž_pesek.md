@@ -1,5 +1,5 @@
 ---
-SICRIS: '35071'
+SICRIS: 15295
 draft: false
 fixName: matevž_pesek
 lab: Laboratorij za računalniško grafiko in multimedije

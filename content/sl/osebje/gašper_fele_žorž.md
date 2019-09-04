@@ -1,5 +1,5 @@
 ---
-SICRIS: '26513'
+SICRIS: 15295
 draft: false
 fixName: gašper_fele_žorž
 lab: Laboratorij za vseprisotne sisteme

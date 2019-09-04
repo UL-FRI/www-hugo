@@ -1,5 +1,5 @@
 ---
-SICRIS: '34600'
+SICRIS: 15295
 draft: false
 fixName: matej_pičulin
 lab: Laboratorij za kognitivno modeliranje

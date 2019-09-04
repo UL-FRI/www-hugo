@@ -1,5 +1,5 @@
 ---
-SICRIS: '33190'
+SICRIS: 15295
 draft: false
 fixName: simon_vrhovec
 lab: Laboratorij za informatiko

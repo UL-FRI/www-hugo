@@ -1,5 +1,5 @@
 ---
-SICRIS: '29381'
+SICRIS: 15295
 draft: false
 fixName: luka_čehovin_zajc
 lab: Laboratorij za umetne vizualne spoznavne sisteme

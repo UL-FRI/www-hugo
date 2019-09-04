@@ -1,5 +1,5 @@
 ---
-SICRIS: '32887'
+SICRIS: 15295
 draft: false
 fixName: bojan_klemenc
 lab: Laboratorij za računalniški vid

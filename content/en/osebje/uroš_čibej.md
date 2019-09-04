@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Uroš Čibej, PhD
+SICRIS: 15295
 draft: false
 fixName: uroš_čibej
 lab: null

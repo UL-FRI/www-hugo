@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Marko Toplak, PhD
+SICRIS: 15295
 draft: false
 fixName: marko_toplak
 lab: Bioinformatics Laboratory

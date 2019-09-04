@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: alan_lukežič
 lab: Laboratorij za umetne vizualne spoznavne sisteme

@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: matija_rezar
 lab: Laboratory for Adaptive Systems and Parallel Processing

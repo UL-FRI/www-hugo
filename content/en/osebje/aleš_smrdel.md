@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Aleš Smrdel, PhD
+SICRIS: 15295
 draft: false
 fixName: aleš_smrdel
 lab: Laboratory for Biomedical Computer Systems and Imaging

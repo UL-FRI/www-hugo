@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Marko Robnik Šikonja, PhD
+SICRIS: 15295
 draft: false
 fixName: marko_robnik_šikonja
 lab: Laboratory for Cognitive Modeling

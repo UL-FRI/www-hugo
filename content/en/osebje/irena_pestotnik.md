@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: irena_pestotnik
-lab: null
-labPos: null
 location: R3.40 - Finančno računovodska služba
 mailInfo: irena.pestotnik@fri.uni-lj.si
 officeHours: null

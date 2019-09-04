@@ -1,5 +1,5 @@
 ---
-SICRIS: '29020'
+SICRIS: 15295
 draft: false
 fixName: jure_žabkar
 lab: Laboratorij za umetno inteligenco

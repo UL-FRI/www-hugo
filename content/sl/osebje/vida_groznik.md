@@ -1,5 +1,5 @@
 ---
-SICRIS: '33187'
+SICRIS: 15295
 draft: false
 fixName: vida_groznik
 lab: Laboratorij za umetno inteligenco

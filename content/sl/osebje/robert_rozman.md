@@ -1,5 +1,5 @@
 ---
-SICRIS: '14989'
+SICRIS: 15295
 draft: false
 fixName: robert_rozman
 lab: Laboratorij za algoritmiko

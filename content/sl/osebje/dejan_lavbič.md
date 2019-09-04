@@ -1,5 +1,5 @@
 ---
-SICRIS: '25526'
+SICRIS: 15295
 draft: false
 fixName: dejan_lavbič
 lab: Laboratorij za podatkovne tehnologije

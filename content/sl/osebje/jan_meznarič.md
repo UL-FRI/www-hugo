@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jan_meznarič
 lab: Laboratorij za integracijo informacijskih sistemov

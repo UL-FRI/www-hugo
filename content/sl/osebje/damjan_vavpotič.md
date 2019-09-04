@@ -1,5 +1,5 @@
 ---
-SICRIS: '21393'
+SICRIS: 15295
 draft: false
 fixName: damjan_vavpotič
 lab: Laboratorij za informatiko

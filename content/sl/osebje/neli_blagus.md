@@ -1,5 +1,5 @@
 ---
-SICRIS: '33188'
+SICRIS: 15295
 draft: false
 fixName: neli_blagus
 lab: Laboratorij za podatkovne tehnologije

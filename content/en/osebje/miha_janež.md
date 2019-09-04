@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Miha Janež, PhD
+SICRIS: 15295
 draft: false
 fixName: miha_janež
 lab: Computer Structures and Systems Laboratory

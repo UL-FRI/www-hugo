@@ -1,5 +1,5 @@
 ---
-SICRIS: '20334'
+SICRIS: 15295
 draft: false
 fixName: aljaž_zrnec
 lab: Laboratorij za podatkovne tehnologije

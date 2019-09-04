@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Polona Oblak, PhD
+SICRIS: 15295
 draft: false
 fixName: polona_oblak
 lab: Laboratory for Mathematical Methods in Computer and Information Science

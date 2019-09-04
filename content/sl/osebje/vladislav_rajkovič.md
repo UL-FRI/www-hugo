@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: vladislav_rajkovič
-lab: null
-labPos: null
 location: null
 mailInfo: VLADISLAV.RAJKOVIC@fov.uni-mb.si
 officeHours: null

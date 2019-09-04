@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Denis Trček, PhD
+SICRIS: 15295
 draft: false
 fixName: denis_trček
 lab: Laboratory of e-media

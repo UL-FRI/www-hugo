@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: alen_horvat
-lab: null
-labPos: null
 location: null
 mailInfo: alen.horvat@ijs.si
 officeHours: null

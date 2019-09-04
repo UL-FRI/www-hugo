@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Aleš Jaklič, PhD
+SICRIS: 15295
 draft: false
 fixName: aleš_jaklič
 lab: Computer Vision Laboratory

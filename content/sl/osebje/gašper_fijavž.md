@@ -1,5 +1,5 @@
 ---
-SICRIS: '16332'
+SICRIS: 15295
 draft: false
 fixName: gašper_fijavž
 lab: Laboratorij za matematične metode v računalništvu in informatiki

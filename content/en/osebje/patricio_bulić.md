@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Patricio Bulić, PhD
+SICRIS: 15295
 draft: false
 fixName: patricio_bulić
 lab: Laboratory for Adaptive Systems and Parallel Processing

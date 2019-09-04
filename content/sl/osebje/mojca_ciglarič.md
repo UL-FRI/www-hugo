@@ -1,5 +1,5 @@
 ---
-SICRIS: '13982'
+SICRIS: 15295
 draft: false
 fixName: mojca_ciglarič
 lab: Laboratorij za računalniške komunikacije

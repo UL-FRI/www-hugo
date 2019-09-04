@@ -1,5 +1,5 @@
 ---
-SICRIS: Sen. Lect. Borut Batagelj, PhD
+SICRIS: 15295
 draft: false
 fixName: borut_batagelj
 lab: Computer Vision Laboratory

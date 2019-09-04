@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: dejan_verčič
-lab: null
-labPos: null
 location: null
 mailInfo: dejan.vercic@fdv.uni-lj.si
 officeHours: null

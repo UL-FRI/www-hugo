@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: maja_kerkez
-lab: null
-labPos: null
 location: R3.04 - Dekanat
 mailInfo: maja.kerkez@fri.uni-lj.si
 officeHours: null

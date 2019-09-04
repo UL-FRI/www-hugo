@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: slavko_žitnik
 lab: Laboratorij za podatkovne tehnologije

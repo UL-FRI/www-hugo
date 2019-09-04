@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Gregor Jerše, PhD
+SICRIS: 15295
 draft: false
 fixName: gregor_jerše
 lab: Laboratory for Mathematical Methods in Computer and Information Science

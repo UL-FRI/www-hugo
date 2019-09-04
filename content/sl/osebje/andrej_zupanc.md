@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: andrej_zupanc
 lab: Laboratorij za umetno inteligenco

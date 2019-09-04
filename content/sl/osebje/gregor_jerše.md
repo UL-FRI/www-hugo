@@ -1,5 +1,5 @@
 ---
-SICRIS: '25594'
+SICRIS: 15295
 draft: false
 fixName: gregor_jerše
 lab: Laboratorij za matematične metode v računalništvu in informatiki

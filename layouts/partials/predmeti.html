@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{{- $file := printf "%s_sub_img" .Params.fixName -}}
+<div class="aboutMainSectionContainer">
+    <div class="aboutMainSectionTitle">Predmeti</div>
+    <div class="aboutMainSectionLi">
+        <ul class="customList">
+            {{ range (index .Site.Data.osebje $file).subjects}}
+            <li>
+                <a href='' >{{if eq .Site.Language.Lang "en"}}{{ .title.en }}{{ else }}{{ .title.sl }}{{ end }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
 
-</body>
-</html>

@@ -1,5 +1,5 @@
 ---
-SICRIS: 02268
+SICRIS: 15295
 draft: false
 fixName: saša_divjak
 lab: Laboratorij za računalniško grafiko in multimedije

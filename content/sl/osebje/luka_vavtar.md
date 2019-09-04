@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: luka_vavtar
-lab: null
-labPos: null
 location: R3.38 - Služba za raziskovalno dejavnost
 mailInfo: luka.vavtar@fri.uni-lj.si
 officeHours: null

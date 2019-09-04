@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Luka Šajn, PhD
+SICRIS: 15295
 draft: false
 fixName: luka_šajn
 lab: Computer Vision Laboratory

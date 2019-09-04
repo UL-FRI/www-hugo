@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Tomaž Hočevar
+SICRIS: 15295
 draft: false
 fixName: tomaž_hočevar
 lab: Bioinformatics Laboratory

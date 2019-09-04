@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: aleš_smonig_grnjak
-lab: null
-labPos: null
 location: R1.03 - Študentski referat
 mailInfo: ales.grnjak@fri.uni-lj.si
 officeHours: null

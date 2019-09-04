@@ -1,5 +1,5 @@
 ---
-SICRIS: '13442'
+SICRIS: 15295
 draft: false
 fixName: miha_mraz
 lab: Laboratorij za računalniške strukture in sisteme

@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: tadej_škvorc
 lab: Laboratorij za kognitivno modeliranje

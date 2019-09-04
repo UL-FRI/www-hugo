@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Matej Pičulin, PhD
+SICRIS: 15295
 draft: false
 fixName: matej_pičulin
 lab: Laboratory for Cognitive Modeling

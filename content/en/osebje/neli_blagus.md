@@ -1,5 +1,5 @@
 ---
-SICRIS: Neli Blagus, PhD
+SICRIS: 15295
 draft: false
 fixName: neli_blagus
 lab: Laboratory for Data Technologies

@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Gašper Fijavž, PhD
+SICRIS: 15295
 draft: false
 fixName: gašper_fijavž
 lab: Laboratory for Mathematical Methods in Computer and Information Science

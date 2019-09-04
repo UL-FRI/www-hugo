@@ -1,5 +1,5 @@
 ---
-SICRIS: '14565'
+SICRIS: 15295
 draft: false
 fixName: matjaž_kukar
 lab: Laboratorij za kognitivno modeliranje

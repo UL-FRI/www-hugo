@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jure_leskovec
-lab: null
-labPos: null
 location: null
 mailInfo: jure@cs.stanford.edu
 officeHours: null

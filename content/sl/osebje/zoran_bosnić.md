@@ -1,5 +1,5 @@
 ---
-SICRIS: '28779'
+SICRIS: 15295
 draft: false
 fixName: zoran_bosnić
 lab: Laboratorij za kognitivno modeliranje

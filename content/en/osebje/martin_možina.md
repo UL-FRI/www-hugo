@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Martin Možina, PhD
+SICRIS: 15295
 draft: false
 fixName: martin_možina
 lab: Artificial Intelligence Laboratory

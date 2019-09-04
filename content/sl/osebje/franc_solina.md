@@ -1,5 +1,5 @@
 ---
-SICRIS: 09581
+SICRIS: 15295
 draft: false
 fixName: franc_solina
 lab: Laboratorij za računalniški vid

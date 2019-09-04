@@ -1,5 +1,5 @@
 ---
-SICRIS: 09634
+SICRIS: 15295
 draft: false
 fixName: bojan_orel
 lab: Laboratorij za matematične metode v računalništvu in informatiki

@@ -1,5 +1,5 @@
 ---
-SICRIS: '31563'
+SICRIS: 15295
 draft: false
 fixName: petar_vračar
 lab: Laboratorij za kognitivno modeliranje

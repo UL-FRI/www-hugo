@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Nikolaj Zimic, PhD
+SICRIS: 15295
 draft: false
 fixName: nikolaj_zimic
 lab: Computer Structures and Systems Laboratory

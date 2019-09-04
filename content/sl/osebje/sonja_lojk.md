@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: sonja_lojk
-lab: null
-labPos: null
 location: null
 mailInfo: sonja.lojk@fri.uni-lj.si
 officeHours: null

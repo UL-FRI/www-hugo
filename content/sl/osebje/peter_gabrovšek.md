@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: peter_gabrovšek
 lab: Laboratorij za algoritmiko

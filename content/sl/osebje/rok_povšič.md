@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: rok_povšič
-lab: null
-labPos: null
 location: null
 mailInfo: rok.povsic@fri.uni-lj.si
 officeHours: null

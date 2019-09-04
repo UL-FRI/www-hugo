@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Narvika Bovcon, PhD
+SICRIS: 15295
 draft: false
 fixName: narvika_bovcon
 lab: Computer Vision Laboratory

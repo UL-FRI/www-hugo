@@ -1,5 +1,5 @@
 ---
-SICRIS: '31379'
+SICRIS: 15295
 draft: false
 fixName: nejc_ilc
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

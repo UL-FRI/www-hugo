@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: žiga_pirnar
 lab: Laboratorij za biomedicinske računalniške sisteme in oslikave

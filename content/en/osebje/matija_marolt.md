@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Matija Marolt, PhD
+SICRIS: 15295
 draft: false
 fixName: matija_marolt
 lab: 'Laboratory of Computer Graphics and Multimedia '

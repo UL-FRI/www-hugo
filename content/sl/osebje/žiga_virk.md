@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: žiga_virk
 lab: Laboratorij za matematične metode v računalništvu in informatiki

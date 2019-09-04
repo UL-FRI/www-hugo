@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: petra_simonič
-lab: null
-labPos: null
 location: null
 mailInfo: petra.simonic@fri.uni-lj.si
 officeHours: null

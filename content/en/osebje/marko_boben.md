@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Marko Boben, PhD
+SICRIS: 15295
 draft: false
 fixName: marko_boben
 lab: Laboratory for Mathematical Methods in Computer and Information Science

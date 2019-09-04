@@ -1,5 +1,5 @@
 ---
-SICRIS: '35425'
+SICRIS: 15295
 draft: false
 fixName: marko_janković
 lab: Laboratorij za podatkovne tehnologije

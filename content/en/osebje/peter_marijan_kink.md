@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Peter Marijan Kink, PhD
+SICRIS: 15295
 draft: false
 fixName: peter_marijan_kink
 lab: Laboratory for Mathematical Methods in Computer and Information Science

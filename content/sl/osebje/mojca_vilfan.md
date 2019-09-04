@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: mojca_vilfan
-lab: null
-labPos: null
 location: null
 mailInfo: mojca.vilfan@ijs.si
 officeHours: null

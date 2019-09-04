@@ -1,5 +1,5 @@
 ---
-SICRIS: '30155'
+SICRIS: 15295
 draft: false
 fixName: matej_kristan
 lab: Laboratorij za umetne vizualne spoznavne sisteme

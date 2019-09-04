@@ -1,5 +1,5 @@
 ---
-SICRIS: '23399'
+SICRIS: 15295
 draft: false
 fixName: tomaž_curk
 lab: Laboratorij za bioinformatiko

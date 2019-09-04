@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Matej Kristan, PhD
+SICRIS: 15295
 draft: false
 fixName: matej_kristan
 lab: Visual Cognitive Systems Laboratory

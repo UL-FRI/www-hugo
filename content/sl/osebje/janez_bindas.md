@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: janez_bindas
 lab: Laboratorij za podatkovne tehnologije

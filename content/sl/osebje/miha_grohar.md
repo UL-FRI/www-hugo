@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: miha_grohar
 lab: Laboratorij za računalniške komunikacije

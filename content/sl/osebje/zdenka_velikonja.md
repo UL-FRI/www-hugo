@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: zdenka_velikonja
-lab: null
-labPos: null
 location: R3.74 - Kabinet
 mailInfo: zdenka.velikonja@fri.uni-lj.si
 officeHours: null

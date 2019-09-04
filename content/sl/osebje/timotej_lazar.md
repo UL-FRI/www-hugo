@@ -1,5 +1,5 @@
 ---
-SICRIS: '35423'
+SICRIS: 15295
 draft: false
 fixName: timotej_lazar
 lab: Laboratorij za umetno inteligenco

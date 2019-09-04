@@ -1,5 +1,5 @@
 ---
-SICRIS: '30918'
+SICRIS: 15295
 draft: false
 fixName: lovro_šubelj
 lab: Laboratorij za podatkovne tehnologije

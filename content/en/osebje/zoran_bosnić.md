@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Zoran Bosnić, PhD
+SICRIS: 15295
 draft: false
 fixName: zoran_bosnić
 lab: Laboratory for Cognitive Modeling

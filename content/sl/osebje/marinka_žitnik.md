@@ -1,5 +1,5 @@
 ---
-SICRIS: '35422'
+SICRIS: 15295
 draft: false
 fixName: marinka_žitnik
 lab: Laboratorij za bioinformatiko

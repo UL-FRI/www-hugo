@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Damjan Vavpotič, PhD
+SICRIS: 15295
 draft: false
 fixName: damjan_vavpotič
 lab: Information Systems Laboratory

@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: helena_marija_zupan
-lab: null
-labPos: null
 location: R3.74 - Kabinet
 mailInfo: HELENA.ZUPAN@fri.uni-lj.si
 officeHours: null

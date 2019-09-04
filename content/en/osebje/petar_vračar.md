@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Petar Vračar, MSc
+SICRIS: 15295
 draft: false
 fixName: petar_vračar
 lab: Laboratory for Cognitive Modeling

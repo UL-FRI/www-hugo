@@ -1,5 +1,5 @@
 ---
-SICRIS: '29486'
+SICRIS: 15295
 draft: false
 fixName: erik_štrumbelj
 lab: Laboratorij za kognitivno modeliranje

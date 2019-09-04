@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: taja_runovc
-lab: null
-labPos: null
 location: null
 mailInfo: taja.runovc@fri.uni-lj.si
 officeHours: null

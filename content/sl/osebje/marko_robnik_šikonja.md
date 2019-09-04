@@ -1,5 +1,5 @@
 ---
-SICRIS: '15295'
+SICRIS: 15295
 draft: false
 fixName: marko_robnik_šikonja
 lab: Laboratorij za kognitivno modeliranje

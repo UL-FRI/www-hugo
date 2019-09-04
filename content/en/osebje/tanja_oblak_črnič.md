@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: tanja_oblak_črnič
-lab: null
-labPos: null
 location: null
 mailInfo: tanja.oblak@fdv.uni-lj.si
 officeHours: null

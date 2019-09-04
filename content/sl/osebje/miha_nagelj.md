@@ -1,5 +1,5 @@
 ---
-SICRIS: '35522'
+SICRIS: 15295
 draft: false
 fixName: miha_nagelj
 lab: Laboratorij za integracijo informacijskih sistemov

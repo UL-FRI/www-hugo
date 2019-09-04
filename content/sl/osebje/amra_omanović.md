@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: amra_omanović
 lab: Laboratorij za bioinformatiko

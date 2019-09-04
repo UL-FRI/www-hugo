@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Aleš Leonardis, PhD
+SICRIS: 15295
 draft: false
 fixName: aleš_leonardis
 lab: Visual Cognitive Systems Laboratory

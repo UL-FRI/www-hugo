@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Iztok Lebar Bajec, PhD
+SICRIS: 15295
 draft: false
 fixName: iztok_lebar_bajec
 lab: Computer Structures and Systems Laboratory

@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Janoš Vidali, PhD
+SICRIS: 15295
 draft: false
 fixName: janoš_vidali
 lab: Laboratory for Cryptography and Computer Security

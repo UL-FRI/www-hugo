@@ -1,5 +1,5 @@
 ---
-SICRIS: '24815'
+SICRIS: 15295
 draft: false
 fixName: peter_marijan_kink
 lab: Laboratorij za matematične metode v računalništvu in informatiki

@@ -1,5 +1,5 @@
 ---
-SICRIS: '13564'
+SICRIS: 15295
 draft: false
 fixName: igor_rožanc
 lab: Laboratorij za tehnologijo programske opreme

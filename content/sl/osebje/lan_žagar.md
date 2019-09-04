@@ -1,5 +1,5 @@
 ---
-SICRIS: '30921'
+SICRIS: 15295
 draft: false
 fixName: lan_žagar
 lab: Laboratorij za bioinformatiko

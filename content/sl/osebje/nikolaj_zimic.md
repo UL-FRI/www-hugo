@@ -1,5 +1,5 @@
 ---
-SICRIS: 05957
+SICRIS: 15295
 draft: false
 fixName: nikolaj_zimic
 lab: Laboratorij za računalniške strukture in sisteme

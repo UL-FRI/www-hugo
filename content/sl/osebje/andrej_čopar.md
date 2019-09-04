@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: andrej_čopar
 lab: Laboratorij za bioinformatiko

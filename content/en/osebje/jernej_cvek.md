@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jernej_cvek
 lab: Laboratory for Data Technologies

@@ -1,5 +1,5 @@
 ---
-SICRIS: '21404'
+SICRIS: 15295
 draft: false
 fixName: iztok_lebar_bajec
 lab: Laboratorij za računalniške strukture in sisteme

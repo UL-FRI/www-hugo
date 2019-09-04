@@ -1,0 +1,4 @@
+{{- $file := printf "%s_sub_img" .Params.fixName -}}
+<div>
+    <div style='background-image:url({{ (index .Site.Data.osebje $file).img | safeURL }})' class="os-image"></div>
+</div>

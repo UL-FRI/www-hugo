@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: martin_stražar
 lab: Bioinformatics Laboratory

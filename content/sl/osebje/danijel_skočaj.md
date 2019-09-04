@@ -1,5 +1,5 @@
 ---
-SICRIS: '18198'
+SICRIS: 15295
 draft: false
 fixName: danijel_skočaj
 lab: Laboratorij za umetne vizualne spoznavne sisteme

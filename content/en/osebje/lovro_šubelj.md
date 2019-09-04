@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Lovro Šubelj, PhD
+SICRIS: 15295
 draft: false
 fixName: lovro_šubelj
 lab: Laboratory for Data Technologies

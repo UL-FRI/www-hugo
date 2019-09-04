@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Franc Solina, PhD
+SICRIS: 15295
 draft: false
 fixName: franc_solina
 lab: Computer Vision Laboratory

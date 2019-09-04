@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: dejan_velušček
-lab: null
-labPos: null
 location: null
 mailInfo: null
 officeHours: null

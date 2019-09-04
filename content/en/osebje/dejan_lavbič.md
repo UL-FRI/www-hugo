@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Dejan Lavbič, PhD
+SICRIS: 15295
 draft: false
 fixName: dejan_lavbič
 lab: Laboratory for Data Technologies

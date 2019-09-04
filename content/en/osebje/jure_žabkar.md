@@ -1,5 +1,5 @@
 ---
-SICRIS: Assist. Prof. Jure Žabkar, PhD
+SICRIS: 15295
 draft: false
 fixName: jure_žabkar
 lab: Artificial Intelligence Laboratory

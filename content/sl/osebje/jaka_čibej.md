@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jaka_čibej
 lab: Laboratorij za kognitivno modeliranje

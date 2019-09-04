@@ -1,5 +1,5 @@
 ---
-SICRIS: '16109'
+SICRIS: 15295
 draft: false
 fixName: uroš_lotrič
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

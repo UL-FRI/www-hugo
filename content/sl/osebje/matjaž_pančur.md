@@ -1,5 +1,5 @@
 ---
-SICRIS: '19365'
+SICRIS: 15295
 draft: false
 fixName: matjaž_pančur
 lab: Laboratorij za računalniške komunikacije

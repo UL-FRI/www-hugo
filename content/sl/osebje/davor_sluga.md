@@ -1,5 +1,5 @@
 ---
-SICRIS: '33385'
+SICRIS: 15295
 draft: false
 fixName: davor_sluga
 lab: Laboratorij za adaptivne sisteme in paralelno procesiranje

@@ -41,16 +41,14 @@
                                 </div>
                             </div>
                         </div>
-                            <div class="header-image-katedre" style="background-image: url({{ .Params.fixName baseURL }}) !important;"></div></div>
+                            <div class="header-image-katedre" style="background-image: url(https://fri.uni-lj.si/sites/default/files/O%20fakulteti_Osebje-osebne%20straniC75T4315.jpg) !important;"></div></div>
                     </div>
                 </div>
 
 
                 <div class="container" id="flexContainerOsebje">
                     <div id="aboutImageSection">
-                        <div>
-                            <div style='background-image:url(https://fri.uni-lj.si/sites/default/files/marko_robnik%20%C5%A0ikonja.png)' class="os-image"></div>
-                        </div>
+                        {{ partial "personal-img.html" . }}
                         <div id="aboutProfPovezave">Povezave</div>
                         <a id='buttonSicris' target='_blank' href="http://www.sicris.si/public/jqm/search_basic.aspx?lang=slv&opdescr=search&opt=2&subopt=1&code1=cmn&code2=auto&search_term={{ .Params.SICRIS }}">
                             <div >SICRIS</div>
@@ -92,32 +90,14 @@
                                     </div>
                                 </div>
 
-                                <div class="aboutMainSectionContainer">
-                                    <div class="aboutMainSectionTitle">Predmeti</div>
-                                    <div class="aboutMainSectionLi">
-                                        <ul class="customList">
-                                            <li>
-                                                <a href='/sl/predmet/racunska-zahtevnost-hevristicno-programiranje' >Računska zahtevnost in hevristično programiranje</a>
-                                            </li>
-                                            <li>
-                                                <a href='/sl/predmet/inteligentni-sistemi' >Inteligentni sistemi</a>
-                                            </li>
-                                            <li>
-                                                <a href='/sl/predmet/podatkovno-rudarjenje-vizualizacija' >Podatkovno rudarjenje in vizualizacija</a>
-                                            </li>
-                                            <li>
-                                                <a href='/sl/predmet/obdelava-naravnega-jezika' >Obdelava naravnega jezika     </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                {{ partial "predmeti.html" . }}
 
                                 <div class="aboutMainSectionContainer">
                                     <div class="aboutMainSectionTitle">Laboratorij</div>
                                     <div class="aboutMainSectionLi">
                                         <ul class="customList">
                                             <li>
-                                                <a href='/sl/laboratorij/lkm' target='_blank'><b>Laboratorij za kognitivno modeliranje</b>, Član laboratorija</a>
+                                                <a href='/sl/laboratorij/lkm' target='_blank'><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -288,7 +268,7 @@
                         </div>
                     </div>
 
-                    {{ partial "side-menu.html" . }}
+                    {{ partial "side-menu-personal.html" . }}
 
                 </div>
             </div>

@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Janez Demšar, PhD
+SICRIS: 15295
 draft: false
 fixName: janez_demšar
 lab: Bioinformatics Laboratory

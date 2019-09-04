@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: aleksandra_franc
 lab: Laboratory for Mathematical Methods in Computer and Information Science

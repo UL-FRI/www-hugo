@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: marjana_harcet
-lab: null
-labPos: null
 location: null
 mailInfo: marjana.harcet@fri.uni-lj.si
 officeHours: null

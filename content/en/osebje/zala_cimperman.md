@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: zala_cimperman
-lab: null
-labPos: null
 location: null
 mailInfo: zala.cimperman@fri.uni-lj.si
 officeHours: null

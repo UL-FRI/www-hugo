@@ -1,5 +1,5 @@
 ---
-SICRIS: Assoc. Prof. Matjaž Kukar, PhD
+SICRIS: 15295
 draft: false
 fixName: matjaž_kukar
 lab: Laboratory for Cognitive Modeling

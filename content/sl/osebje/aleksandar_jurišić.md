@@ -1,5 +1,5 @@
 ---
-SICRIS: 08724
+SICRIS: 15295
 draft: false
 fixName: aleksandar_jurišić
 lab: Laboratorij za kriptografijo in računalniško varnost

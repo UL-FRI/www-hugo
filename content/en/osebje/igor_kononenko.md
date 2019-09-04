@@ -1,5 +1,5 @@
 ---
-SICRIS: Prof. Igor Kononenko, PhD
+SICRIS: 15295
 draft: false
 fixName: igor_kononenko
 lab: Laboratory for Cognitive Modeling

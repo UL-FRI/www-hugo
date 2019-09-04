@@ -1,5 +1,5 @@
 ---
-SICRIS: '15677'
+SICRIS: 15295
 draft: false
 fixName: matija_marolt
 lab: Laboratorij za računalniško grafiko in multimedije

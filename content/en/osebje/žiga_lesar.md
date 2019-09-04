@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: žiga_lesar
 lab: 'Laboratory of Computer Graphics and Multimedia '

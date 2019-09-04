@@ -1,9 +1,7 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: jan_ravnik
-lab: null
-labPos: null
 location: null
 mailInfo: jan.ravnik@fmf.uni-lj.si
 officeHours: null

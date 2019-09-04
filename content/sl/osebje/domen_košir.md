@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: domen_košir
 lab: Laboratorij za kognitivno modeliranje

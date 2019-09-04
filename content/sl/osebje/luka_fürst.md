@@ -1,5 +1,5 @@
 ---
-SICRIS: null
+SICRIS: 15295
 draft: false
 fixName: luka_fürst
 lab: Laboratorij za tehnologijo programske opreme

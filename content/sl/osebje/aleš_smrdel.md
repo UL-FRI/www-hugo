@@ -1,5 +1,5 @@
 ---
-SICRIS: '18199'
+SICRIS: 15295
 draft: false
 fixName: aleš_smrdel
 lab: Laboratorij za biomedicinske računalniške sisteme in oslikave
