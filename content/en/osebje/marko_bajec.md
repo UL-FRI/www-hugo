@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Marko Bajec, PhD
 draft: false
+fixName: marko_bajec
+lab: Laboratory for Data Technologies
+labPos: Head of Laboratory
 location: R2.46 - Kabinet
 mailInfo: marko.bajec@fri.uni-lj.si
 officeHours: null
 profName: Prof. Marko Bajec, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Marko Bajec
 ---
 
 

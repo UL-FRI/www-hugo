@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Borut Robič, PhD
 draft: false
+fixName: borut_robič
+lab: null
+labPos: Head of Laboratory
 location: R2.05 - Kabinet
 mailInfo: borut.robic@fri.uni-lj.si
 officeHours: null
 profName: Prof. Borut Robič, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Borut Robič
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 SICRIS: null
 draft: false
+fixName: matej_dobrevski
+lab: Laboratorij za umetne vizualne spoznavne sisteme
+labPos: Član laboratorija
 location: null
 mailInfo: matej.dobrevski@fri.uni-lj.si
 officeHours: null
 profName: Matej Dobrevski
 profTitle: Zunanji sodelavec
 telephoneInfo: null
-title: null
+title: Matej Dobrevski
 ---

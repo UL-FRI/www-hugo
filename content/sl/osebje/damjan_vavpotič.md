@@ -1,13 +1,16 @@
 ---
 SICRIS: '21393'
 draft: false
+fixName: damjan_vavpotič
+lab: Laboratorij za informatiko
+labPos: Predstojnik laboratorija
 location: R2.62 - Kabinet
 mailInfo: damjan.vavpotic@fri.uni-lj.si
 officeHours: null
 profName: izr. prof. dr. Damjan Vavpotič
 profTitle: Docent
 telephoneInfo: null
-title: null
+title: Damjan Vavpotič
 ---
 
 

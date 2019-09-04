@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: ajda_pretnar
+lab: Bioinformatics Laboratory
+labPos: Laboratory Member
 location: R3.22 - Laboratorij LB
 mailInfo: ajda.pretnar@fri.uni-lj.si
 officeHours: null
 profName: Ajda Pretnar
 profTitle: Researcher
 telephoneInfo: null
-title: null
+title: Ajda Pretnar
 ---
 
 

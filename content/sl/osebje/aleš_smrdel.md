@@ -1,13 +1,16 @@
 ---
 SICRIS: '18199'
 draft: false
+fixName: aleš_smrdel
+lab: Laboratorij za biomedicinske računalniške sisteme in oslikave
+labPos: Član laboratorija
 location: R3.27 - Laboratorij LBRSO
 mailInfo: ales.smrdel@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Aleš Smrdel
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Aleš Smrdel
 ---
 
 

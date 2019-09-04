@@ -1,13 +1,16 @@
 ---
 SICRIS: '32040'
 draft: false
+fixName: david_jelenc
+lab: Laboratorij za e-medije
+labPos: Član laboratorija
 location: R3.50 - Laboratorij LEM
 mailInfo: david.jelenc@fri.uni-lj.si
 officeHours: null
 profName: asist. dr. David Jelenc
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: David Jelenc
 ---
 
 

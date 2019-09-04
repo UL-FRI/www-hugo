@@ -1,13 +1,16 @@
 ---
 SICRIS: '20334'
 draft: false
+fixName: aljaž_zrnec
+lab: Laboratorij za podatkovne tehnologije
+labPos: Član laboratorija
 location: R2.58 - Kabinet
 mailInfo: aljaz.zrnec@fri.uni-lj.si
 officeHours: null
 profName: viš. pred. dr. Aljaž Zrnec
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Aljaž Zrnec
 ---
 
 

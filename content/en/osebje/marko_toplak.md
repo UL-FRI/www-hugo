@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Marko Toplak, PhD
 draft: false
+fixName: marko_toplak
+lab: Bioinformatics Laboratory
+labPos: Laboratory Member
 location: R3.22 - Laboratorij LB
 mailInfo: marko.toplak@fri.uni-lj.si
 officeHours: null
 profName: Assist. Marko Toplak, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Marko Toplak
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: rok_gomišček
+lab: Bioinformatics Laboratory
+labPos: Laboratory Member
 location: null
 mailInfo: Rok.Gomiscek@fri.uni-lj.si
 officeHours: null
 profName: Assist. Rok Gomišček
 profTitle: Collaborator
 telephoneInfo: null
-title: null
+title: Rok Gomišček
 ---
 
 None

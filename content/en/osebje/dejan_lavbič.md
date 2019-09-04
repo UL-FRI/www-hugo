@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Dejan Lavbič, PhD
 draft: false
+fixName: dejan_lavbič
+lab: Laboratory for Data Technologies
+labPos: Laboratory Member
 location: R2.49 - Kabinet
 mailInfo: Dejan.Lavbic@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Dejan Lavbič, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Dejan Lavbič
 ---
 
 

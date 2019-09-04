@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Boštjan Slivnik, PhD
 draft: false
+fixName: boštjan_slivnik
+lab: null
+labPos: Laboratory Member
 location: R2.14 - Kabinet
 mailInfo: bostjan.slivnik@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Boštjan Slivnik, PhD
 profTitle: Assistant Professor
 telephoneInfo: null
-title: null
+title: Boštjan Slivnik
 ---
 
 

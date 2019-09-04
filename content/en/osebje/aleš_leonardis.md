@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Aleš Leonardis, PhD
 draft: false
+fixName: aleš_leonardis
+lab: Visual Cognitive Systems Laboratory
+labPos: Laboratory Member
 location: R3.07 - Kabinet
 mailInfo: ales.leonardis@fri.uni-lj.si
 officeHours: null
 profName: Prof. Aleš Leonardis, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Aleš Leonardis
 ---
 
 

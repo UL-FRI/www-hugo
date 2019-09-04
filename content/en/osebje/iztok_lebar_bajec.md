@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Iztok Lebar Bajec, PhD
 draft: false
+fixName: iztok_lebar_bajec
+lab: Computer Structures and Systems Laboratory
+labPos: Laboratory Member
 location: R3.61 - Kabinet
 mailInfo: ilb@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Iztok Lebar Bajec, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Iztok Lebar Bajec
 ---
 
 

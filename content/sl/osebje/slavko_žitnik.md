@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: slavko_žitnik
+lab: Laboratorij za podatkovne tehnologije
+labPos: Član laboratorija
 location: R2.44 - Laboratorij LPT
 mailInfo: slavko.zitnik@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Slavko Žitnik
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Slavko Žitnik
 ---
 
 

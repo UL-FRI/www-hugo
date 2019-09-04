@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Matevž Pesek, PhD
 draft: false
+fixName: matevž_pesek
+lab: 'Laboratory of Computer Graphics and Multimedia '
+labPos: Laboratory Member
 location: R2.29 - Laboratorij LGM
 mailInfo: matevz.pesek@fri.uni-lj.si
 officeHours: null
 profName: Assist. Matevž Pesek, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Matevž Pesek
 ---
 
 

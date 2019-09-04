@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Luka Šajn, PhD
 draft: false
+fixName: luka_šajn
+lab: Computer Vision Laboratory
+labPos: Laboratory Member
 location: R2.15 - Kabinet
 mailInfo: luka.sajn@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Luka Šajn, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Luka Šajn
 ---
 
 

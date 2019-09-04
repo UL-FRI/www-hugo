@@ -1,13 +1,16 @@
 ---
 SICRIS: Sen. Lect. Robert Rozman, PhD
 draft: false
+fixName: robert_rozman
+lab: null
+labPos: Laboratory Member
 location: R2.50 - Kabinet
 mailInfo: robert.rozman@fri.uni-lj.si
 officeHours: null
 profName: Sen. Lect. Robert Rozman, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Robert Rozman
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Franc Solina, PhD
 draft: false
+fixName: franc_solina
+lab: Computer Vision Laboratory
+labPos: Head of Laboratory
 location: R2.16 - Kabinet
 mailInfo: franc.solina@fri.uni-lj.si
 officeHours: null
 profName: Prof. Franc Solina, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Franc Solina
 ---
 
 

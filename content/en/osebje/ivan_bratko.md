@@ -1,13 +1,16 @@
 ---
 SICRIS: akad. Prof. Ivan Bratko, PhD
 draft: false
+fixName: ivan_bratko
+lab: Artificial Intelligence Laboratory
+labPos: Laboratory Member
 location: R3.58 - Kabinet
 mailInfo: ivan.bratko@fri.uni-lj.si
 officeHours: null
 profName: akad. Prof. Ivan Bratko, PhD
 profTitle: Collaborator
 telephoneInfo: null
-title: null
+title: Ivan Bratko
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: žiga_emeršič
+lab: Laboratorij za računalniški vid
+labPos: Član laboratorija
 location: null
 mailInfo: Ziga.Emersic@fri.uni-lj.si
 officeHours: null
 profName: asist. Žiga Emeršič
 profTitle: Zunanji sodelavec
 telephoneInfo: null
-title: null
+title: Žiga Emeršič
 ---
 
 

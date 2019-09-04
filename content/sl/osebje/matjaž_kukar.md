@@ -1,13 +1,16 @@
 ---
 SICRIS: '14565'
 draft: false
+fixName: matjaž_kukar
+lab: Laboratorij za kognitivno modeliranje
+labPos: Član laboratorija
 location: R2.04 - Kabinet
 mailInfo: matjaz.kukar@fri.uni-lj.si
 officeHours: null
 profName: izr. prof. dr. Matjaž Kukar
 profTitle: Izredni profesor
 telephoneInfo: null
-title: null
+title: Matjaž Kukar
 ---
 
 

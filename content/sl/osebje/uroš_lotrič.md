@@ -1,13 +1,16 @@
 ---
 SICRIS: '16109'
 draft: false
+fixName: uroš_lotrič
+lab: Laboratorij za adaptivne sisteme in paralelno procesiranje
+labPos: Član laboratorija
 location: R2.56 - Kabinet
 mailInfo: uros.lotric@fri.uni-lj.si
 officeHours: null
 profName: izr. prof. dr. Uroš Lotrič
 profTitle: Izredni profesor
 telephoneInfo: null
-title: null
+title: Uroš Lotrič
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: '04646'
 draft: false
+fixName: borut_robič
+lab: Laboratorij za algoritmiko
+labPos: Predstojnik laboratorija
 location: R2.05 - Kabinet
 mailInfo: borut.robic@fri.uni-lj.si
 officeHours: null
 profName: prof. dr. Borut Robič
 profTitle: Redni profesor
 telephoneInfo: null
-title: null
+title: Borut Robič
 ---
 
 

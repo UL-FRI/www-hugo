@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: aleks_huč
+lab: Laboratory of e-media
+labPos: Laboratory Member
 location: R3.50 - Laboratorij LEM
 mailInfo: aleks.huc@fri.uni-lj.si
 officeHours: null
 profName: Assist. Aleks Huč
 profTitle: Young Researcher
 telephoneInfo: null
-title: null
+title: Aleks Huč
 ---
 
 

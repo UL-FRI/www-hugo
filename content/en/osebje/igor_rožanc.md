@@ -1,13 +1,16 @@
 ---
 SICRIS: Sen. Lect. Igor Rožanc, PhD
 draft: false
+fixName: igor_rožanc
+lab: Software Engineering Laboratory
+labPos: Head of Laboratory
 location: R2.50 - Kabinet
 mailInfo: igor.rozanc@fri.uni-lj.si
 officeHours: null
 profName: Sen. Lect. Igor Rožanc, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Igor Rožanc
 ---
 
 None

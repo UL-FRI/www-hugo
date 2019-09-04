@@ -1,11 +1,14 @@
 ---
 SICRIS: null
 draft: false
+fixName: jaka_lindič
+lab: null
+labPos: null
 location: null
 mailInfo: jaka.lindic@ef.uni-lj.si
 officeHours: null
 profName: doc. dr. Jaka Lindič
 profTitle: Zunanji sodelavec
 telephoneInfo: null
-title: null
+title: Jaka Lindič
 ---

@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Blaž Zupan, PhD
 draft: false
+fixName: blaž_zupan
+lab: Bioinformatics Laboratory
+labPos: Head of Laboratory
 location: R3.17 - Kabinet
 mailInfo: blaz.zupan@fri.uni-lj.si
 officeHours: null
 profName: Prof. Blaž Zupan, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Blaž Zupan
 ---
 
 

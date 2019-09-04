@@ -1,13 +1,16 @@
 ---
 SICRIS: 09581
 draft: false
+fixName: franc_solina
+lab: Laboratorij za računalniški vid
+labPos: Predstojnik laboratorija
 location: R2.16 - Kabinet
 mailInfo: franc.solina@fri.uni-lj.si
 officeHours: null
 profName: prof. dr. Franc Solina
 profTitle: Redni profesor
 telephoneInfo: null
-title: null
+title: Franc Solina
 ---
 
 

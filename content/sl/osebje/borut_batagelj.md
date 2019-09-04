@@ -1,13 +1,16 @@
 ---
 SICRIS: '22472'
 draft: false
+fixName: borut_batagelj
+lab: Laboratorij za računalniški vid
+labPos: Član laboratorija
 location: R2.15 - Kabinet
 mailInfo: borut.batagelj@fri.uni-lj.si
 officeHours: null
 profName: viš. pred. dr. Borut Batagelj
 profTitle: Asistent
 telephoneInfo: '741'
-title: null
+title: Borut Batagelj
 ---
 
 

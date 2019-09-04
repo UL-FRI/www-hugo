@@ -1,13 +1,16 @@
 ---
 SICRIS: '23401'
 draft: false
+fixName: luka_šajn
+lab: Laboratorij za računalniški vid
+labPos: Član laboratorija
 location: R2.15 - Kabinet
 mailInfo: luka.sajn@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Luka Šajn
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Luka Šajn
 ---
 
 

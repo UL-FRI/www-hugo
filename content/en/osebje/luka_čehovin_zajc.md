@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Luka Čehovin Zajc, PhD
 draft: false
+fixName: luka_čehovin_zajc
+lab: Visual Cognitive Systems Laboratory
+labPos: Laboratory Member
 location: R2.37 - Laboratorij LUVSS
 mailInfo: luka.cehovin@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Luka Čehovin Zajc, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Luka Čehovin Zajc
 ---
 
 

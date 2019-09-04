@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Janez Demšar, PhD
 draft: false
+fixName: janez_demšar
+lab: Bioinformatics Laboratory
+labPos: Laboratory Member
 location: R3.18 - Kabinet
 mailInfo: Janez.Demsar@fri.uni-lj.si
 officeHours: null
 profName: Prof. Janez Demšar, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Janez Demšar
 ---
 
 

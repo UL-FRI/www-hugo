@@ -1,11 +1,14 @@
 ---
 SICRIS: null
 draft: false
+fixName: zala_cimperman
+lab: null
+labPos: null
 location: null
 mailInfo: zala.cimperman@fri.uni-lj.si
 officeHours: null
 profName: Zala Cimperman
 profTitle: Dekanat
 telephoneInfo: null
-title: null
+title: Zala Cimperman
 ---

@@ -1,13 +1,16 @@
 ---
 SICRIS: '12766'
 draft: false
+fixName: boštjan_slivnik
+lab: Laboratorij za algoritmiko
+labPos: Član laboratorija
 location: R2.14 - Kabinet
 mailInfo: bostjan.slivnik@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Boštjan Slivnik
 profTitle: Docent
 telephoneInfo: null
-title: null
+title: Boštjan Slivnik
 ---
 
 

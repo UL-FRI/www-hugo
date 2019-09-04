@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Uroš Lotrič, PhD
 draft: false
+fixName: uroš_lotrič
+lab: Laboratory for Adaptive Systems and Parallel Processing
+labPos: Laboratory Member
 location: R2.56 - Kabinet
 mailInfo: uros.lotric@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Uroš Lotrič, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Uroš Lotrič
 ---
 
 

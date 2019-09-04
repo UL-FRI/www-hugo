@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: veljko_pejović
+lab: Laboratorij za računalniške komunikacije
+labPos: Član laboratorija
 location: R3.15 - Kabinet
 mailInfo: veljko.pejovic@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Veljko Pejović
 profTitle: Docent
 telephoneInfo: null
-title: null
+title: Veljko Pejović
 ---
 
 

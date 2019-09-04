@@ -1,13 +1,16 @@
 ---
 SICRIS: '30155'
 draft: false
+fixName: matej_kristan
+lab: Laboratorij za umetne vizualne spoznavne sisteme
+labPos: Član laboratorija
 location: R2.57 - Kabinet
 mailInfo: matej.kristan@fri.uni-lj.si
 officeHours: null
 profName: izr. prof. dr. Matej Kristan
 profTitle: Izredni profesor
 telephoneInfo: null
-title: null
+title: Matej Kristan
 ---
 
 

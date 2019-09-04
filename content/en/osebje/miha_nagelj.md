@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Miha Nagelj
 draft: false
+fixName: miha_nagelj
+lab: Laboratory for Integration of Information Systems
+labPos: Laboratory Member
 location: R2.20 - Laboratorij LIIS
 mailInfo: miha.nagelj@fri.uni-lj.si
 officeHours: null
 profName: Assist. Miha Nagelj
 profTitle: Researcher
 telephoneInfo: null
-title: null
+title: Miha Nagelj
 ---
 
 

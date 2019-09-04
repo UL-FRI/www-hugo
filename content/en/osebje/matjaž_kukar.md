@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Matjaž Kukar, PhD
 draft: false
+fixName: matjaž_kukar
+lab: Laboratory for Cognitive Modeling
+labPos: Laboratory Member
 location: R2.04 - Kabinet
 mailInfo: matjaz.kukar@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Matjaž Kukar, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Matjaž Kukar
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Aleš Smrdel, PhD
 draft: false
+fixName: aleš_smrdel
+lab: Laboratory for Biomedical Computer Systems and Imaging
+labPos: Laboratory Member
 location: R3.27 - Laboratorij LBRSO
 mailInfo: ales.smrdel@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Aleš Smrdel, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Aleš Smrdel
 ---
 
 

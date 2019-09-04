@@ -1,13 +1,16 @@
 ---
 SICRIS: '14989'
 draft: false
+fixName: robert_rozman
+lab: Laboratorij za algoritmiko
+labPos: Član laboratorija
 location: R2.50 - Kabinet
 mailInfo: robert.rozman@fri.uni-lj.si
 officeHours: null
 profName: viš. pred. dr. Robert Rozman
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Robert Rozman
 ---
 
 

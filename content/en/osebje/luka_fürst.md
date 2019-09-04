@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: luka_fürst
+lab: Software Engineering Laboratory
+labPos: Laboratory Member
 location: R2.30 - Laboratorij LTPO
 mailInfo: luka.fuerst@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Luka Fürst, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Luka Fürst
 ---
 
 

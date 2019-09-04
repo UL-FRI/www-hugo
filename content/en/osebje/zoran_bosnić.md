@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Zoran Bosnić, PhD
 draft: false
+fixName: zoran_bosnić
+lab: Laboratory for Cognitive Modeling
+labPos: Laboratory Member
 location: R2.17 - Kabinet
 mailInfo: zoran.bosnic@fri.uni-lj.si
 officeHours: null
 profName: Prof. Zoran Bosnić, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Zoran Bosnić
 ---
 
 

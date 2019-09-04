@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: martin_stražar
+lab: Laboratorij za bioinformatiko
+labPos: Član laboratorija
 location: R3.22 - Laboratorij LB
 mailInfo: martin.strazar@fri.uni-lj.si
 officeHours: null
 profName: asist. dr. Martin Stražar
 profTitle: Raziskovalec
 telephoneInfo: null
-title: null
+title: Martin Stražar
 ---
 
 

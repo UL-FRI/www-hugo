@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Miha Mraz, PhD
 draft: false
+fixName: miha_mraz
+lab: Computer Structures and Systems Laboratory
+labPos: Laboratory Member
 location: R3.59 - Kabinet
 mailInfo: miha.mraz@fri.uni-lj.si
 officeHours: null
 profName: Prof. Miha Mraz, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Miha Mraz
 ---
 
 

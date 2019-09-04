@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Rok Rupnik, PhD
 draft: false
+fixName: rok_rupnik
+lab: Information Systems Laboratory
+labPos: Laboratory Member
 location: R2.58 - Kabinet
 mailInfo: rok.rupnik@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Rok Rupnik, PhD
 profTitle: Assistant Professor
 telephoneInfo: null
-title: null
+title: Rok Rupnik
 ---
 
 

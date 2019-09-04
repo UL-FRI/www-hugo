@@ -1,13 +1,16 @@
 ---
 SICRIS: Sen. Lect. Alenka Kavčič, PhD
 draft: false
+fixName: alenka_kavčič
+lab: 'Laboratory of Computer Graphics and Multimedia '
+labPos: Laboratory Member
 location: R2.29 - Laboratorij LGM
 mailInfo: alenka.kavcic@fri.uni-lj.si
 officeHours: null
 profName: Sen. Lect. Alenka Kavčič, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Alenka Kavčič
 ---
 
 

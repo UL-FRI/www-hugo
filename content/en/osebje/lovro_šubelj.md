@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Lovro Šubelj, PhD
 draft: false
+fixName: lovro_šubelj
+lab: Laboratory for Data Technologies
+labPos: Laboratory Member
 location: R2.49 - Kabinet
 mailInfo: lovro.subelj@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Lovro Šubelj, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Lovro Šubelj
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Danijel Skočaj, PhD
 draft: false
+fixName: danijel_skočaj
+lab: Visual Cognitive Systems Laboratory
+labPos: Head of Laboratory
 location: R2.57 - Kabinet
 mailInfo: danijel.skocaj@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Danijel Skočaj, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Danijel Skočaj
 ---
 
 

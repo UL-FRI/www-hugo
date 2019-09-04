@@ -1,13 +1,16 @@
 ---
 SICRIS: '13442'
 draft: false
+fixName: miha_mraz
+lab: Laboratorij za računalniške strukture in sisteme
+labPos: Član laboratorija
 location: R3.59 - Kabinet
 mailInfo: miha.mraz@fri.uni-lj.si
 officeHours: null
 profName: prof. dr. Miha Mraz
 profTitle: Redni profesor
 telephoneInfo: null
-title: null
+title: Miha Mraz
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: luka_fürst
+lab: Laboratorij za tehnologijo programske opreme
+labPos: Član laboratorija
 location: R2.30 - Laboratorij LTPO
 mailInfo: luka.fuerst@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Luka Fürst
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Luka Fürst
 ---
 
 

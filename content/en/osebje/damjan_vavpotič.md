@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Damjan Vavpotič, PhD
 draft: false
+fixName: damjan_vavpotič
+lab: Information Systems Laboratory
+labPos: Head of Laboratory
 location: R2.62 - Kabinet
 mailInfo: damjan.vavpotic@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Damjan Vavpotič, PhD
 profTitle: Assistant Professor
 telephoneInfo: null
-title: null
+title: Damjan Vavpotič
 ---
 
 

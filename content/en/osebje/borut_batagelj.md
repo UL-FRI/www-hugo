@@ -1,13 +1,16 @@
 ---
 SICRIS: Sen. Lect. Borut Batagelj, PhD
 draft: false
+fixName: borut_batagelj
+lab: Computer Vision Laboratory
+labPos: Laboratory Member
 location: R2.15 - Kabinet
 mailInfo: borut.batagelj@fri.uni-lj.si
 officeHours: null
 profName: Sen. Lect. Borut Batagelj, PhD
 profTitle: Assistant
 telephoneInfo: '741'
-title: null
+title: Borut Batagelj
 ---
 
 

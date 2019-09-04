@@ -1,13 +1,16 @@
 ---
 SICRIS: '02275'
 draft: false
+fixName: ivan_bratko
+lab: Laboratorij za umetno inteligenco
+labPos: Član laboratorija
 location: R3.58 - Kabinet
 mailInfo: ivan.bratko@fri.uni-lj.si
 officeHours: null
 profName: akad. prof. dr. Ivan Bratko
 profTitle: Zunanji sodelavec
 telephoneInfo: null
-title: null
+title: Ivan Bratko
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: Prof. Marko Robnik Šikonja, PhD
 draft: false
+fixName: marko_robnik_šikonja
+lab: Laboratory for Cognitive Modeling
+labPos: Laboratory Member
 location: R2.06 - Kabinet
 mailInfo: marko.robniksikonja@fri.uni-lj.si
 officeHours: null
 profName: Prof. Marko Robnik Šikonja, PhD
 profTitle: Full Professor
 telephoneInfo: null
-title: null
+title: Marko Robnik Šikonja
 ---
 
 

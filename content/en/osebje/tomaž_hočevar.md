@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Tomaž Hočevar
 draft: false
+fixName: tomaž_hočevar
+lab: Bioinformatics Laboratory
+labPos: Laboratory Member
 location: R3.20 - Laboratorij LB
 mailInfo: tomaz.hocevar@fri.uni-lj.si
 officeHours: null
 profName: Assist. Tomaž Hočevar
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Tomaž Hočevar
 ---
 
 

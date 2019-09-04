@@ -1,13 +1,16 @@
 ---
 SICRIS: null
 draft: false
+fixName: vladislav_rajkovič
+lab: null
+labPos: null
 location: null
 mailInfo: VLADISLAV.RAJKOVIC@fov.uni-mb.si
 officeHours: null
 profName: prof. dr. Vladislav Rajkovič
 profTitle: Zunanji sodelavec
 telephoneInfo: null
-title: null
+title: Vladislav Rajkovič
 ---
 
 

@@ -1,13 +1,16 @@
 ---
 SICRIS: '29198'
 draft: false
+fixName: miha_moškon
+lab: Laboratorij za računalniške strukture in sisteme
+labPos: Član laboratorija
 location: R3.61 - Kabinet
 mailInfo: miha.moskon@fri.uni-lj.si
 officeHours: null
 profName: doc. dr. Miha Moškon
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Miha Moškon
 ---
 
 

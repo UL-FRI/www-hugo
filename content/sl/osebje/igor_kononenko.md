@@ -1,13 +1,16 @@
 ---
 SICRIS: '04242'
 draft: false
+fixName: igor_kononenko
+lab: Laboratorij za kognitivno modeliranje
+labPos: Predstojnik laboratorija
 location: R2.07 - Kabinet
 mailInfo: igor.kononenko@fri.uni-lj.si
 officeHours: null
 profName: prof. dr. Igor Kononenko
 profTitle: Redni profesor
 telephoneInfo: null
-title: null
+title: Igor Kononenko
 ---
 
 

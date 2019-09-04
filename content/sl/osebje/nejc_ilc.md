@@ -1,13 +1,16 @@
 ---
 SICRIS: '31379'
 draft: false
+fixName: nejc_ilc
+lab: Laboratorij za adaptivne sisteme in paralelno procesiranje
+labPos: Član laboratorija
 location: R2.41 - Laboratorij LASPP
 mailInfo: nejc.ilc@fri.uni-lj.si
 officeHours: null
 profName: asist. Nejc Ilc
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Nejc Ilc
 ---
 
 

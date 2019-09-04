@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Matija Marolt, PhD
 draft: false
+fixName: matija_marolt
+lab: 'Laboratory of Computer Graphics and Multimedia '
+labPos: Head of Laboratory
 location: R2.14 - Kabinet
 mailInfo: Matija.Marolt@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Matija Marolt, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Matija Marolt
 ---
 
 

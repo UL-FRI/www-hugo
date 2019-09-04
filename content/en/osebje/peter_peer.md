@@ -1,13 +1,16 @@
 ---
 SICRIS: Assoc. Prof. Peter Peer, PhD
 draft: false
+fixName: peter_peer
+lab: Computer Vision Laboratory
+labPos: Laboratory Member
 location: R2.08 - Kabinet
 mailInfo: peter.peer@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Peter Peer, PhD
 profTitle: Associate Professor
 telephoneInfo: null
-title: null
+title: Peter Peer
 ---
 
 

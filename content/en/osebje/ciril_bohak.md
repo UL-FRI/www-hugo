@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Ciril Bohak, PhD
 draft: false
+fixName: ciril_bohak
+lab: 'Laboratory of Computer Graphics and Multimedia '
+labPos: Laboratory Member
 location: R2.29 - Laboratorij LGM
 mailInfo: ciril.bohak@fri.uni-lj.si
 officeHours: null
 profName: Assist. Ciril Bohak, PhD
 profTitle: Assistant
 telephoneInfo: null
-title: null
+title: Ciril Bohak
 ---
 
 

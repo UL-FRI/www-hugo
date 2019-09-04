@@ -1,13 +1,16 @@
 ---
 SICRIS: '23400'
 draft: false
+fixName: uroš_čibej
+lab: Laboratorij za algoritmiko
+labPos: Član laboratorija
 location: R2.30 - Laboratorij LTPO
 mailInfo: uros.cibej@fri.uni-lj.si
 officeHours: null
 profName: asist. dr. Uroš Čibej
 profTitle: Asistent
 telephoneInfo: null
-title: null
+title: Uroš Čibej
 ---
 
 

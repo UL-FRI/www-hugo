@@ -1,13 +1,16 @@
 ---
 SICRIS: 05896
 draft: false
+fixName: aleš_leonardis
+lab: Laboratorij za umetne vizualne spoznavne sisteme
+labPos: Član laboratorija
 location: R3.07 - Kabinet
 mailInfo: ales.leonardis@fri.uni-lj.si
 officeHours: null
 profName: prof. dr. Aleš Leonardis
 profTitle: Redni profesor
 telephoneInfo: null
-title: null
+title: Aleš Leonardis
 ---
 
 

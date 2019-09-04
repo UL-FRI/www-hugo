@@ -1,13 +1,16 @@
 ---
 SICRIS: Assist. Prof. Mira Trebar, PhD
 draft: false
+fixName: mira_trebar
+lab: Laboratory of e-media
+labPos: Laboratory Member
 location: R3.70 - Kabinet
 mailInfo: mira.trebar@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Mira Trebar, PhD
 profTitle: Assistant Professor
 telephoneInfo: null
-title: null
+title: Mira Trebar
 ---
 
 
