@@ -94,7 +94,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                         post_en['labPos'] = i['function_in_lab']['en']
 
                 if 'subjects' in person_json:
-                    sname = './data/osebje/' + fix_name + '_subjects_and_img.json'
+                    sname = './data/osebje/' + fix_name + '_sub_img.json'
 
                     with io.open(sname, 'w+', encoding='utf8') as to:
                         from_insert = {
