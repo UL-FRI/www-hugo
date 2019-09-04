@@ -54,6 +54,11 @@ def json_to_md(persons, staff_desc, indexes, names):
                 post_sl = frontmatter.load(f, encoding='utf8')
                 post_en = frontmatter.load(f_en, encoding='utf8')
 
+                if post_sl.get('title') is None:
+                    post_sl['title'] = b.lstrip(' ')
+                    post_en['title'] = b.lstrip(' ')
+                    post_sl['fixName'] = fix_name
+                    post_en['fixName'] = fix_name
                 if post_sl.get('profName') is None and person_json['fullname_and_title'] is not None:
                     post_sl['profName'] = person_json['fullname_and_title']['sl']
                     post_en['profName'] = person_json['fullname_and_title']['en']
@@ -96,7 +101,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                         post_en['labPos'] = i['function_in_lab']['en']
 
                 if 'subjects' in person_json:
-                    sname = './data/' + fix_name + '_sub_and_lab.json'
+                    sname = './data/' + fix_name + '_subjects.json'
 
                     with io.open(sname, 'w+', encoding='utf8') as to:
                         from_insert = {

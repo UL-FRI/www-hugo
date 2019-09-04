@@ -1,3 +1,6 @@
 /sampleJSON/
 *.idea
 /.idea/
+/content/
+/data/
+/img/
