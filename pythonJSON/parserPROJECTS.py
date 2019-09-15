@@ -1,9 +1,7 @@
 import json
-import frontmatter
 import re
 import io
 import os
-from shutil import copyfile
 import requests
 
 
@@ -23,37 +21,64 @@ def match_id(data_json, refrence_json):
                 ids.append(
                     {
                         "id": a['id'],
-                        "fullname": fname + '_projects.json'
+                        "fullname": fname
                     }
                 )
                 ref = 'blank'
     return ids
 
 
+def match_lab(ref_lab, ref_people):
+    complete_ref = []
+    for a in ref_lab:
+        fname = './data/laboratorij/' + a + '_mem.json'
+        if os.path.isfile(fname):
+            with io.open(fname, 'r', encoding='utf8') as labs:
+                load = json.load(labs)
+                for mem in load:
+                    for person in ref_people:
+                        mem_fname = re.sub(r'\s+', '_', (mem['name']+' '+mem['surname']).lower())
+                        if mem_fname == person['fullname']:
+                            complete_ref.append(
+                                {
+                                    "id": person['id'],
+                                    "fullname": person['fullname'] + '_projects.json',
+                                    "lab": a
+                                }
+                            )
+                            person['fullname'] = 'blank'
+
+    return complete_ref
+
+
+def append_json(file, p):
+    if os.path.isfile(file):
+        with io.open(file, 'r', encoding='utf8') as to:
+            project_json = json.load(to)
+            temp_list = []
+            for obj in project_json:
+                temp_list.append(obj)
+            temp_list.append(p)
+            project_json = temp_list
+            with io.open(file, 'w', encoding='utf8') as target:
+                target.write(json.dumps(project_json, indent=4, sort_keys=True))
+    else:
+        with io.open(file, 'w', encoding='utf8') as to:
+            arr = [p]
+            json.dump(arr, to)
+
+
 def json_to_md(data_json, ref_ids):
     for p in data_json:
-        p = p['si']
-
-        for x in p['persons']:
+        for x in p['si']['persons']:
             for ref in ref_ids:
                 if x['id'] == ref['id']:
 
                     fname = './data/osebje/' + ref['fullname']
+                    fname_lab = './data/laboratorij/' + ref['lab'] + '_projects.json'
 
-                    if os.path.isfile(fname):
-                        with io.open(fname, 'r', encoding='utf8') as to:
-                            project_json = json.load(to)
-                            temp_list = []
-                            for obj in project_json:
-                                temp_list.append(obj)
-                            temp_list.append(p)
-                            project_json = temp_list
-                            with io.open(fname, 'w', encoding='utf8') as target:
-                                target.write(json.dumps(project_json, indent=4, sort_keys=True))
-                    else:
-                        with io.open(fname, 'w', encoding='utf8') as to:
-                            arr = [p]
-                            json.dump(arr, to)
+                    append_json(fname_lab, p)
+                    append_json(fname, p)
 
 
 def get_xml():
@@ -73,7 +98,7 @@ def get_xml():
 
 with io.open('projekti.json', 'r', encoding='utf8') as projekti:
     data = json.load(projekti)
-    reference = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
+    referencePeople = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
                  "Aljoša Besednjak ", "Jasna Bevk ", "Janez Bindas ", "Neli Blagus ", "Marko Boben ", "Ciril Bohak ",
                  "Alenka Bone ", "Zoran Bosnić ", "Narvika Bovcon ", "Borja Bovcon ", "Ivan Bratko ", "Andrej Brodnik ",
                  "Patricio Bulić ", "Mojca Ciglarič ", "Jaka Cijan ", "Zala Cimperman ", "Tomaž Curk ", "Jernej Cvek ",
@@ -115,9 +140,14 @@ with io.open('projekti.json', 'r', encoding='utf8') as projekti:
                  "Jure Žabkar ", "Lan Žagar ", "Manca Žerovnik Mekuč ", "Rok Žitko ", "Marinka Žitnik ",
                  "Slavko Žitnik ", "Urška Žnidarič"}
 
-    idList = match_id(data['projects'], reference)
-    print(idList)
-    json_to_md(data['projects'], idList)
+    referenceLabs = {
+        "biolab", "lalg", "laps", "laspp", "lbrso", "lem", "lgm", "li", "liis", "lkm", "lkrv", "lmmri", "lpt", "lrk",
+        "lrss", "lrv", "ltpo", "lui", "lusy", "luvss"
+    }
+
+    idList = match_id(data['projects'], referencePeople)
+    reference = match_lab(referenceLabs, idList)
+    json_to_md(data['projects'], reference)
 
 
 
