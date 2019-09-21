@@ -52,12 +52,12 @@ def match_lab(ref_lab, ref_people):
     return complete_ref
 
 
-def check_if_project_exist(id, fname):
+def check_if_project_exist(proj_id, fname):
     if os.path.isfile(fname):
         with io.open(fname, 'r', encoding='utf8') as ref:
             ref_lab = json.load(ref)
             for i in ref_lab:
-                if i['id'] == id:
+                if i['id'] == proj_id:
                     return True
             return False
     else:
@@ -98,7 +98,7 @@ def json_to_md(data_json, ref_ids):
                             fname = './data/osebje/projekti/' + ref['fullname'] + '_end.json'
                             fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_end.json'
 
-                    if not check_if_project_exist(x['id'], fname_lab):
+                    if not check_if_project_exist(p['id'], fname_lab):
                         append_json(fname_lab, p)
                     append_json(fname, p)
 
