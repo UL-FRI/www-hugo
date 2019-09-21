@@ -3,6 +3,7 @@ import re
 import io
 import os
 import requests
+from datetime import datetime, date
 
 
 def match_id(data_json, refrence_json):
@@ -42,7 +43,7 @@ def match_lab(ref_lab, ref_people):
                             complete_ref.append(
                                 {
                                     "id": person['id'],
-                                    "fullname": person['fullname'] + '_projects.json',
+                                    "fullname": person['fullname'] + '_projects',
                                     "lab": a
                                 }
                             )
@@ -74,8 +75,16 @@ def json_to_md(data_json, ref_ids):
             for ref in ref_ids:
                 if x['id'] == ref['id']:
 
-                    fname = './data/osebje/' + ref['fullname']
-                    fname_lab = './data/laboratorij/' + ref['lab'] + '_projects.json'
+                    datetime_str = p['si']['end_date']
+                    fname = './data/osebje/projekti/' + ref['fullname'] + '.json'
+                    fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_projects.json'
+
+                    if datetime_str is not None:
+                        datetime_obj = datetime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
+                        current_date_time = datetime.today()
+                        if current_date_time > datetime_obj:
+                            fname = './data/osebje/projekti/' + ref['fullname'] + '_end.json'
+                            fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_projects_end.json'
 
                     append_json(fname_lab, p)
                     append_json(fname, p)
