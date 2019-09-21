@@ -1,0 +1,336 @@
+[
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2020-05-10 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "COSTNET",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2016-05-11 00:00:00",
+            "title": "COSTNET - European Cooperation for Statistics of Network Data Science (COST Action CA15109)"
+        },
+        "id": 500,
+        "si": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2020-05-10 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "COSTNET",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2016-05-11 00:00:00",
+            "title": "COSTNET - European Cooperation for Statistics of Network Data Science (COST Action CA15109)"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our work is focused on the analysis of information processing capabilities of biological systems from both, syntetic and analytic aspect. Computational part of the project addresses the questions, such us how to design a set of biological modules that are functionally complete, robust and may be used in a scalable manner. In order to do this efficiently our group is developing computational methods for efficient modelling, simulation, analysis and design of biological systems, with a special focus on gene regulatory networks with complex regulation, such as competitive regulation with multiple transcription factor binding sites.</p>\r\n<p>One hypothesis about the origins and evolution of coordinated animal movements is that they may serve as a defensive mechanism against predation. Computational studies of the possible evolution of coordinated movement in prey typically concentrate on predators with simple attack tactics. Numerous studies, however, suggest that to overcome the apparent defensive mechanisms which grouping and coordinated movement may provide to prey, predators in nature appear to use elaborate target selection and pursuit/hunting tactics. We concentrate on the development of artificial life-like evolutionary models based on fuzzy logic in order to study the evolution of complex target selection and pursuit tactics, as well as the evolution of non-trivial coordinated movement. Collective behaviour is a research field with a very wide interdisciplinary appeal, studies showed that it can aid gaining a better insight into the behaviour of animals, start and stop traffic jams, crowd behaviour at events such as football games or music concerts, and even in the bureaucracy of the European Union. Finally yet importantly comparable patterns were observed in cancerous cells.</p>\r\n",
+            "end_date": "2023-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630731",
+                    "ime": "Aleks",
+                    "priimek": "Hu\u010d",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630746",
+                    "ime": "Damjan",
+                    "priimek": "Vavpoti\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2018-01-01 00:00:00",
+            "title": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "id": 525,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Raziskovalni program Vseprisotno ra\u010dunalni\u0161tvo raziskuje nove ra\u010dunalni\u0161ke paradigme in komunikacijsko mo\u010dno povezano omre\u017eje raznovrstnih ra\u010dunalni\u0161kih naprav, ki avtonomno ali skupaj zajemajo in procesirajo podatke oz. informacije z namenom, da jih prek ustreznih storitev uporabijo glede na kontekst in dolo\u010deno aktivnost uporabnika. S tem se prilagajo uporabniku v zasebnem in poslovnem okolju ter na javnih mestih tako, da zagotavljajo varnost, zasebnost ter prepre\u010dujejo prevare.</p>\r\n\r\n",
+            "end_date": "2023-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630731",
+                    "ime": "Aleks",
+                    "priimek": "Hu\u010d",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630746",
+                    "ime": "Damjan",
+                    "priimek": "Vavpoti\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2018-01-01 00:00:00",
+            "title": "Vseprisotno ra\u010dunalni\u0161tvo"
+        }
+    }
+]

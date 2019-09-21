@@ -1,0 +1,444 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our work is focused on the analysis of information processing capabilities of biological systems from both, syntetic and analytic aspect. Computational part of the project addresses the questions, such us how to design a set of biological modules that are functionally complete, robust and may be used in a scalable manner. In order to do this efficiently our group is developing computational methods for efficient modelling, simulation, analysis and design of biological systems, with a special focus on gene regulatory networks with complex regulation, such as competitive regulation with multiple transcription factor binding sites.</p>\r\n<p>One hypothesis about the origins and evolution of coordinated animal movements is that they may serve as a defensive mechanism against predation. Computational studies of the possible evolution of coordinated movement in prey typically concentrate on predators with simple attack tactics. Numerous studies, however, suggest that to overcome the apparent defensive mechanisms which grouping and coordinated movement may provide to prey, predators in nature appear to use elaborate target selection and pursuit/hunting tactics. We concentrate on the development of artificial life-like evolutionary models based on fuzzy logic in order to study the evolution of complex target selection and pursuit tactics, as well as the evolution of non-trivial coordinated movement. Collective behaviour is a research field with a very wide interdisciplinary appeal, studies showed that it can aid gaining a better insight into the behaviour of animals, start and stop traffic jams, crowd behaviour at events such as football games or music concerts, and even in the bureaucracy of the European Union. Finally yet importantly comparable patterns were observed in cancerous cells.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Pervasive Computing"
+        },
+        "id": 15,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Raziskovalni program Vseprisotno ra\u010dunalni\u0161tvo raziskuje nove ra\u010dunalni\u0161ke paradigme in komunikacijsko mo\u010dno povezano omre\u017eje raznovrstnih ra\u010dunalni\u0161kih naprav, ki avtonomno ali skupaj zajemajo in procesirajo podatke oz. informacije z namenom, da jih prek ustreznih storitev uporabijo glede na kontekst in dolo\u010deno aktivnost uporabnika. S tem se prilagajo uporabniku v zasebnem in poslovnem okolju ter na javnih mestih tako, da zagotavljajo varnost, zasebnost ter prepre\u010dujejo prevare.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Vseprisotno ra\u010dunalni\u0161tvo"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>In this project we will develop a prototype system and supporting methods for intelligent ontology-based</p>\r\n<p>information extractioniOBIE. The proposed system will first semantically analyze the given text corpuses, and then automatically</p>\r\n<p>process, merge and enrich revealed entities and relationships. Throughout the system, a semantic dimension of data will be</p>\r\n<p>considered adequately, while the results will be presented as a graph of identified entities and semantic relationships among them.</p>\r\n<p>The system will operate completely autonomously, and will improve after continuous use through active learning.</p>\r\n",
+            "end_date": "2013-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2012-01-01 00:00:00",
+            "title": "Intelligent ontology-based information retreival"
+        },
+        "id": 59,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Projekt je namenjen razvoju prototipnega ra\u010dunalni\u0161kega sistema in podpornih metod za inteligentno</p>\r\n<p>pridobivanje besedilnih podatkov s pomo\u010djo ontologij. Sistem bo podan nabor besedil najprej pomensko analiziral, ter nato</p>\r\n<p>avtomatsko obdelal, zdru\u017eil in obogatil. Pri vseh delih obdelave bo ustrezno upo\u0161tevana semanti\u010dna komponenta besedil,</p>\r\n<p>rezultat pa bo predstavljen v obliki omre\u017eja prepoznanih entitet in pomenskih povezav med njimi. Sistem bo deloval popolnoma</p>\r\n<p>avtonomno ter se u\u010dil ob kontinuirani uporabi.</p>\r\n",
+            "end_date": "2013-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2012-01-01 00:00:00",
+            "title": "Inteligentno pridobivanje podatkov s pomo\u010djo ontologij"
+        }
+    }
+]

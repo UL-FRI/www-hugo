@@ -1,0 +1,329 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The long term goal of the proposed collaboration between Bioinformatics Lab at University of Ljubljana and Baylor College of Medicine in Houston is the discovery of entirely new drugs to treat bacterial infections. In the project we will craft new data fusion techniques that can simultaneously address gene prioritization and inference of gene networks. We will apply them to the problem of bacterial response in Dictyostelium, and package it within a visual programming data analytics toolbox to support its (re)use for the broad community of Dictyostelium researchers and beyond.</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Computational approaches for identification of bacterial resistance pathways in Dictyostelium "
+        },
+        "id": 52,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Dolgoro\u010dni cilj predlaganega sodelovanja med Laboratorijem za bioinformatiko Univerze v Ljubljani in Baylor College of Medicine v Houstonu je odkritje novi u\u010dinkovin za zdravljenje bakterijskih infekcij. V okviru projekta razvijamo tehnike za zlivanje podatkov, s katerimi lahko so\u010dasno analiziramo podatke iz razli\u010dnih podatkovnih virov in na ta na\u010din tvorimo sezname kandidatnih genov in razkrivamo genske interakcije. Tehnike bomo uporabili na problemu razumevanje mehanizmov bakterijske odpornosti modelnega organizma Dictyostelium. Razvita orodja bomo objavili v odprti kodi ter jih preko grafi\u010dnega spletnega vmesnika ponudili v uporabo ostalim raziskovalnim skupinam.</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Ra\u010dunski pristopi za odkrivanje mehanizmov baterijske rezistence v Dictyosteliumu"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "In everyday life, we prefer to make decisions by considering all the available information, and often find that the inclusion of even seemingly circumstantial evidence provides an advantage. In the natural sciences, incorporating all the data can be difficult, time consuming and imprecise, if even possible. We have recently developed a method for large\u00acscale data fusion. Our fundamental question is: can we improve the results of predictive data mining by fusing numerous, sometimes loosely related, heterogeneous datasets? In this bilateral project, we will use computational approach of data fusion to simultaneously consider all the available genome\u00acscale data sets for a social amoeba Dictyostelium. Integration will include gene expression data sets, data on protein binding, mutant phenotype data, data on gene annotations and pathway assignments, pathway ontologies, data on KEGG pathways, data on and chemicals and their structural properties, and data from the literature.",
+            "end_date": "2016-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630718",
+                    "ime": "Martin",
+                    "priimek": "Stra\u017ear",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Data Fusion in Systems Biology of a Social Amoeba Dictyostelium"
+        },
+        "id": 65,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>V vsakodnevnem \u017eivljenju ljudje sprejemamo odlo\u010ditve tako, da sku\u0161amo pri tem upo\u0161tevati vse informacije, ki so nam na voljo. Mnogokrat nam pri tem pomagajo tudi podatki, ki so s predmetom odlo\u010danja povezani le posredno. V znanosti o \u017eivljenju, kjer je zaradi tehnolo\u0161kih prebojev v zadnji dekadi na voljo ogromno podatkov, nam povezovanje podatkov in njihova skupna uporaba predstavlja velik problem. Pred kratkim smo v Ljubljani razvili povsem nov postopek za zdru\u017eeno obravnavo heterogenih podatkovnih baz. Postavlja se vpra\u0161anje, ali lahko zlivanje podatkov na podro\u010dju sistemske biologije bistveno izbolj\u0161a kakovost napovednih modelov, ki jih iz podatkov lahko oblikujemo v namene odkrivanja novih znanj in razumevanja biologije? V tem interdisciplinarnem bilateralnem projektu bomo uporabili metodo za zlivanje podatkov, ki je bila nedavno razvita v sodelujo\u010dem Laboratoriju za bioinformatiko. Metoda temelji na so\u010dasni tri&#172;faktorizaciji matrik in lahko zgradi skupen model iz potencialno zelo velike mno\u017eice raznovrstnih podatkov. V projektu bomo tako gradili napovedne modele iz podatkov o genskih izrazih, vezavnih mestih proteinov, podatkih o fenotipu mutant, podatkih o genskih poteh, ontologijah genskih poti, metabolnih poteh, podatkih o kemijskih u\u010dinkovinah in njihovih strukturnih lastnostih in podatkih skritih v besedilih objavljenih v \u010dlankih.</p>\r\n",
+            "end_date": "2016-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630718",
+                    "ime": "Martin",
+                    "priimek": "Stra\u017ear",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Zlivanje podatkov v sistemski biologiji socialne amebe Dictyostelium"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630620",
+                    "ime": "Niko",
+                    "priimek": "Colneri\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630717",
+                    "ime": "Andrej",
+                    "priimek": "\u010copar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2017-01-01 00:00:00",
+            "title": "Deep Models for Image Embedding in Systems Biology of a Social Amoeba Dictyostelium"
+        },
+        "id": 374,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630620",
+                    "ime": "Niko",
+                    "priimek": "Colneri\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630717",
+                    "ime": "Andrej",
+                    "priimek": "\u010copar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2017-01-01 00:00:00",
+            "title": "Uporaba globokih modelov pri analizi slik na podro\u010dju sistemske biologije socialne amebe Dictyostelium"
+        }
+    }
+]

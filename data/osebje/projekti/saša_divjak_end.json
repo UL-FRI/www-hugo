@@ -1,0 +1,317 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our research goals are to develop algorithms for retrieval and analysis of folk music. The work is based on the Slovenian archive of folk music and dance culture Ethnomuse, which gathers a large variety of multimedia materials, including audio, scores, videos, lyrics and textual metadata (including GIS locations). Music includes solo and choir singing, instrumental music, as well as change ringing. The goals of our research group are to develop tools and methods that will be used by folk music researchers (such as transcription and search-by-melody in symbolic and audio domains), as well as to develop algorithms for data mining and visualisation of the archives contents. Folk music is passed on orally, so songs change over the time, mix with other songs etc. Complex relations exist between song variants in the archive, which encourages us to research methods of discovering and visualising these relations.</p>\r\n",
+            "end_date": "2011-01-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "http://lgm.fri.uni-lj.si/matic/ethnocatalogue/",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2008-02-01 00:00:00",
+            "title": "EtnoKatalog: retrieval of semantic data from folk song and music, based on melodic and metro-rhythmic analysis"
+        },
+        "id": 23,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Cilji projekta so razvoj algoritmov za pridobivanje in analizo ljudske glasbe. Delo temelji na slovenskem arhivu ljudske glasbene in plesne kulture &quot;ETNOMUZA&quot;, ki sestoji iz \u0161irokega nabora multimedijskih gradiv, vklju\u010dujo\u010d avdio, video, besedila in tekstualne meta podatke (vklju\u010dno z GPS lokacijami). Glasba vklju\u010duje solo in zborovsko petje, in\u0161trumentalno glasbo, kot tudi pritrkavanje. Cilji na\u0161e raziskovalne skupine so razviti orodja in metode, ki jih bodo uporabljali muzikologi (kot so transkripcija, iskanje po melodiji v simboli\u010dni in avdio domeni), kot tudi razvoj algoritmov za podatkovno rudarjenje in vizualizacijo vsebine arhiva. Ljudska glasba se ohranja samo z ustnim izro\u010dilom, zaradi tega se pesmi skozi \u010das spreminjajo, me\u0161ajo z drugimi pesmimi itd. Med posameznimi variantnimi tipi v arhivu obstajajo kompleksne povezave, ki nas vzpodbujajo k razvoju metod za njihovo odkrivanje in vizualizacijo.</p>\r\n",
+            "end_date": "2011-01-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "http://lgm.fri.uni-lj.si/matic/ethnocatalogue/",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2008-02-01 00:00:00",
+            "title": "EtnoKatalog: pridobivanje semanti\u010dnih opisov ljudske pesmi in glasbe na podlagi melodi\u010dne in metro-ritmi\u010dne analize"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS, Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>A networked multimedia computer represents a device which enables an adequate computer supported education.  Such support raises several problems and questions, e.g. education of teachers, support for ICT usage for teachers and learners, preparation and access to educational materials, computer technology in learning curricula. The aim of the project is to find the answers to some of these questions. Next to the adequate teacher&#39;s training for ICT usage, the improvement of the current state could be obtained by introducing and using the adequate user friendly programming tools, which simplify the way to provide the teachers all the possibilities offered by ICT. The combination of various approaches and domains of didactic of ICT usage in teaching and learning will upgrade the outcomes already achieved.</p>\r\n",
+            "end_date": "2010-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2008-09-01 00:00:00",
+            "title": "DIDIKTA - analysis and development of didactics in ICT supported teaching and learning"
+        },
+        "id": 49,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS, Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>Multimedijski ra\u010dunalnik, povezan v omre\u017eje, prestavlja napravo, ki omogo\u010da ustrezno podporo informatizacije izobra\u017eevanja. Ta prina\u0161a cel kup problemov in vpra\u0161anj, kot so: izobra\u017eevanje u\u010diteljev, podpora uporabe IKT za u\u010ditelje in u\u010dence, priprava in dostop do izobra\u017eevalnih gradiv, ra\u010dunalni\u0161tvo in informatika v u\u010dnih na\u010drtih \u2026 Na nekatere izmed njih bomo poskusili odgovoriti v tem projektu. Poleg ustreznega izobra\u017eevanja u\u010diteljev za rabo IKT lahko k izbolj\u0161anju stanja bistveno prispeva tudi uvajanje in raba ustreznih prijaznih programskih orodij, ki u\u010diteljem na enostaven na\u010din pribli\u017eajo mo\u017enosti, ki jih ponuja IKT. S kombinacijo izsledkov razli\u010dnih pristopov in podro\u010dij didaktike uporabe IKT pri pou\u010devanju in u\u010denju bomo nadgradili dosedanje dose\u017eke in izsledke.</p>\r\n",
+            "end_date": "2010-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2008-09-01 00:00:00",
+            "title": "DIDIKTA - analiza in razvoj didaktike uporabe IKT pri prou\u010devanju in u\u010denju"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>ASPECT is a 30-month, Best Practice Network for educational content that involves 22 partners from 15 countries, including 9 Ministries of Education (MoE), four commercial content developers and leading technology providers. For the first time, experts from all international standardisation bodies and consortia active in e-learning (CEN/ISSS, IEEE, ISO, IMS, ADL) will work together in order to improve the adoption of learning technology standards and specifications. Initially, 14 content providers add additional content (both professionally produced and user-generated by teachers/pupils) to a critical mass of educational resources in an existing Learning Resource Exchange (LRE) for schools. This is a federated network of 20 learning content repositories that has been developed by European Schoolnet and its supporting MoEs together with other partners that include the ARIADNE Foundation.</p>\r\n\r\n<p>Technology providers and standards experts in the project work with ASPECT content providers to develop best practice approaches to implementing standards for both educational content discovery and use. Content providers apply these best practice approaches to a critical mass of resources in the expanded LRE. These resources are then validated with up to 40 schools in four countries in order to determine how the implementation of standards and specifications in the project leads to greater usability of LRE content. Based on this practical implementation of standards, which will be independently evaluated, ASPECT partners will feed the projects experience into pre-standardisation activities and run an extensive set of dissemination actions that include international workshops, plugfests, regional events and an award. The aim is to involve a wider group of organisations in ASPECT BPN activities and to develop a unique co-operation framework for all stakeholders who will also benefit from a set of new support services that include: a LOR registry; Vocabulary Bank for Education; Application Profile registry; automatic translation service for LOM and content packaging formats; compliance testing; transformer services; and access to known interoperability issues.</p>\r\n\r\n<p>As a result of its work, the ASPECT project will have a strategic impact on pre-standardisation activities and the ability of partners to submit and support proposals to European and international standardisation bodies. Together with the CALIBRATE and MELT projects, ASPECT will also help European Schoolnet and its supporting 28 MoE and partners to implement its strategic development plan for the LRE and provide standards based, high quality learning resources both to schools in Europe and globally.</p>\r\n",
+            "end_date": "2011-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630872",
+                    "ime": "Jernej",
+                    "priimek": "Ju\u017ena",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "ASPECT",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2008-09-01 00:00:00",
+            "title": "ASPECT - Adopting standards and specifications for educational content"
+        },
+        "id": 69,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>Projekt ASPECT (Sprejemanje standardov in specifikacij za izobra\u017eevalne vsebine) je 30-mese\u010dni projekt Best Practice Network (BPN) za izobra\u017eevalne vsebine, ki zdru\u017euje 22 partnerjev iz 15 dr\u017eav, vklju\u010dno z devetimi ministrstvi za \u0161olstvo, \u0161tirimi komercialnimi ponudniki vsebine in vodilnimi ponudniki tehnologije. Strokovnjaki iz vseh mednarodnih standardizacijskih teles in konzorcijev, ki so aktivni na podro\u010dju e-izobra\u017eevanja (CEN/ISSS, IEEE, ISO, IMS, ADL), bodo pri tem projektu prvi\u010d delovali skupaj z namenom izbolj\u0161ati privzemanje standardov in specifikacij na podro\u010dju u\u010dnih tehnologij. Na za\u010detku projekta bo \u0161tirinajst ponudnikov vsebin dodalo dodatne vsebine (tako profesionalno izdelane vsebine kot tudi vsebine uporabnikov, to je u\u010diteljev in u\u010dencev) h kriti\u010dni masi izobra\u017eevalnih virov v obstoje\u010di portal Learning Resource Exchange (LRE) za \u0161ole. Portal LRE je zdru\u017eena mre\u017ea dvajsetih zbirk u\u010dnih vsebin, ki jo je razvilo evropsko \u0161olsko omre\u017eje European Schoolnet s podporo ministrstev za \u0161olstvo in drugih partnerjev, vklju\u010dno s fundacijo Ariadne Foundation.</p>\r\n\r\n<p>Ponudniki tehnologij in eksperti na podro\u010dju standardizacije bodo na tem projektu sodelovali s ponudniki vsebine pri razvoju najprimernej\u0161ih pristopov k implementaciji standardov tako za iskanje kot tudi za uporabo izobra\u017eevalne vsebine. Ponudniki vsebin bodo te pristope uporabili na kriti\u010dni masi u\u010dnih objektov v raz\u0161irjenem portalu LRE. Pristope bomo preverili tudi s pomo\u010djo 40 \u0161ol v \u0161tirih dr\u017eavah, s pomo\u010djo katerih bomo posku\u0161ali ugotoviti, kako implementacija standardov in specifikacij v projektu vpliva na ve\u010djo uporabnost vsebine LRE. Na podlagi te prakti\u010dne implementacije standardov, ki bo neodvisno ovrednotena, bodo partnerji projekta ASPECT uporabili svoje izku\u0161nje na projektu pri dejavnostih, povezanih s postopki standardizacije, ter pripravili obse\u017een sklop diseminacijskih aktivnosti, ki bodo vklju\u010devale mednarodne delavnice, regionalne dogodke in tudi podelitev nagrade. Cilj je vklju\u010diti \u0161ir\u0161o skupino organizacij v aktivnosti ASPECT BPN ter razviti edinstven sodelovalni okvir za vse zainteresirane, ki bodo imeli koristi tudi od vrste novih podpornih storitev: registra u\u010dnih objektov, banke \u0161ifrantov za izobra\u017eevanje, registra metapodatkovnih shem, samodejne prevajalske storitve za LOM in formate pakiranja vsebine, testiranja skladnosti, storitev preoblikovanja ter dostopa do znanih vpra\u0161anj interoperabilnosti.</p>\r\n\r\n<p>Projekt ASPECT bo imel preko svojih rezultatov strate\u0161ki vpliv na predstandardizacijske dejavnosti in na zmo\u017enost partnerjev, da predlo\u017eijo in podprejo predloge pri evropskih in mednarodnih telesih za standardizacijo. Skupaj s projektoma CALIBRATE in MELT bo projekt ASPECT pomagal tudi evropskemu \u0161olskemu omre\u017eju European Schoolnet ter njegovim 28 podpornim ministrstvom za \u0161olstvo in partnerjem pri izvedbi njihovega strate\u0161kega na\u010drta razvoja portala LRE ter s tem priskrbel na standardih temelje\u010de, visokokakovostne izobra\u017eevalne vsebine za \u0161ole tako v Evropi kot tudi po svetu.</p>\r\n",
+            "end_date": "2011-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630899",
+                    "ime": "Ciril",
+                    "priimek": "Bohak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630045",
+                    "ime": "Sa\u0161a",
+                    "priimek": "Divjak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630872",
+                    "ime": "Jernej",
+                    "priimek": "Ju\u017ena",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630537",
+                    "ime": "Alenka",
+                    "priimek": "Kav\u010di\u010d",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630565",
+                    "ime": "Matija",
+                    "priimek": "Marolt",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630476",
+                    "ime": "Marko",
+                    "priimek": "Privo\u0161nik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "ASPECT",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2008-09-01 00:00:00",
+            "title": "ASPECT - Adopting standards and specifications for educational content"
+        }
+    }
+]

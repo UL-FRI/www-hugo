@@ -1,0 +1,317 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "The impact of technological development and digitalization in the field of communications and information processing, greatly influenced the realm of medical science, especially in the computer-aided diagnosis. The use of digital radiology in the past decade greatly accelerates the process of diagnosis and reduces the cost of storing large amounts of data. In addition, the digital radiology opened up new opportunities for research on large amounts of data.  Medical images play a central role in patient diagnosis, therapy, surgical planning, medical reference, and training. With the advent of digital imaging modalities, as well as images digitized from conventional devices, collections of medical images are increasingly being held in digital form. It becomes increasingly expensive to manually annotate medical images. Consequently, automatic medical image annotation becomes important. In addition to medical image processing, an increasing need for processing large quantities of medical video clips and their use in diagnosis has increased in recent years. Due to the large number of the video frames without text information, content-based medical image retrieval (CBMIR) has received increased attention. The demand for automatically annotating and retrieving medical images and videos is growing faster than ever. Technological developments have enabled the use of small cameras that capture video clips in high resolution, allowing for a minimally invasive or even non-invasive procedure in patients. The best example of this use of modern technologies is the use of cameras for endoscopic examinations. These devices can capture long video sequences, which can then be processed and used in the detection of early stages of tumors and internal bleedings. Recently, the use of capsule endoscopy has become a way to record images of the digestive tract. The capsule is the size and shape of a pill and contains a tiny camera. After a patient swallows the capsule, it takes pictures of the inside of the gastrointestinal tract. The capsule can record a few hours of videos and the processing time of such a video is extremely large, making the analysis extremely difficult. This usually leads to failure in the detection od regions of interest. Manually processing the database that contains a large quantity of medical video clips has become very time consuming task with high potential for error in the interpretation of the content. Therefore, it is extremely important to explore the possibility of automatic detection of areas showing pathological changes or indicate the possibility that pathological changes occur. This would allow for faster and more reliable diagnosis. Automatic identification of regions of interest highly depends on the image retrieval and image classification.",
+            "end_date": "2015-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630687",
+                    "ime": "Uro\u0161",
+                    "priimek": "Lotri\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630719",
+                    "ime": "Tom",
+                    "priimek": "Vodopivec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2014-01-01 00:00:00",
+            "title": "Automatic annotation of medical video sequences"
+        },
+        "id": 54,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Vpliv tehnolo\u0161kega razvoja ter digitalizacija na podro\u010dju komunikacij in obdelave informacij mo\u010dno vplivata tudi na podro\u010dje medicinskih ved, posebej v lu\u010di ra\u010dunalni\u0161ko podprte diagnostike. Uporaba digitalne radiologije v preteklem desetletju mo\u010dno pospe\u0161ila proces diagnostike ter reducirala stro\u0161ke hranjenja velike koli\u010dine podatkov. Poleg tega je digitalna radiologija odprla nove mo\u017enosti za raziskave na velikih koli\u010dinah podatkov. Svetovni trendi na tem podro\u010dju obsegajo nenehne izbolj\u0161ave ter pohitritve algoritmov za obdelavo velike koli\u010dine medicinskih slik. Poleg obdelave medicinskih slik, v zadnjih letih nara\u0161\u010da potreba po obdelavi velike koli\u010dine medicinskih video posnetkov ter njihova uporaba v diagnostiki.</p>\r\n\r\n<p>Tehnolo\u0161ki razvoj je omogo\u010dil uporabo majhnih kamer, ki zajemajo video posnetke v visoki resoluciji, pri \u010demer zagotavljajo minimalno invazivne ali celo neinvazivne posege pri pacientih. Najbolj\u0161i primer tovrstne uporabe modernih tehnologij je uporaba kamer pri endoskopskih in gastroskopskih pregledih. Pri teh postopkih lahko zajamemo dalj\u0161e video sekvence, ki jih je nato potrebno obdelati ter uporabiti pri detekciji za\u010detnih stadijev tumorjev, notranjih krvavitev ipd. Zadnja leta je posebej zanimiva uporaba miniaturnih kamer, ki se v telo vna\u0161ajo s tabletami. Le te omogo\u010dajo nekajurne video posnetke, katerih obdelava in pregledovanje je \u010dasovno izredno zahtevna. Ravno zaradi \u010dasovne zahtevnosti pri obdelavi velike koli\u010dine video sekvenc prihaja do neuspe\u0161nih detekcij podro\u010dij interesa, tj. podro\u010dij na katerih so jasno vidne patolo\u0161ke spremembe.</p>\r\n\r\n<p>Tendenca raziskav na podro\u010dju obdelave medicinskih video signalov in slik se nana\u0161a predvsem na njihovo klasifikacijo, tj. izlo\u010danje slik in video sekvenc, ki so zanimive s stali\u0161\u010da nadaljnje diagnostike. Po drugi strani pa je razvoj digitalne tehnike omogo\u010dil hiter in nepri\u010dakovan  porast baz medicinskih slik in video zapisov. Pregledovanje baz je postalo \u010dasovno zelo zahtevno opravilo z veliko mo\u017enostjo napak pri tolma\u010denju vsebine. Zato je izjemno pomembno raziskati mo\u017enosti avtomatske detekcije podro\u010dij, ki ka\u017eejo patolo\u0161ke spremembe ali ka\u017eejo mo\u017enost, da do patolo\u0161kih sprememb pride. To bi omogo\u010dilo hitrej\u0161o in zanesljivej\u0161o diagnostiko. Avtomatsko ozna\u010devanje podro\u010dij interesov je tako zelo odvisna od klasifikacije medicinskih slik in video posnetkov. Razvoj avtomatskega ozna\u010devanja podro\u010dij interesov bi tako omogo\u010dil hitrej\u0161o in enostavnej\u0161o obdelavo dolgih video zapisov.</p>\r\n",
+            "end_date": "2015-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630687",
+                    "ime": "Uro\u0161",
+                    "priimek": "Lotri\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630719",
+                    "ime": "Tom",
+                    "priimek": "Vodopivec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2014-01-01 00:00:00",
+            "title": "Samodejno ozna\u010devanje medicinskih video zapisov"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The number of sensors that collect information about the environment is constantly increasing. The amount of information obtained from the sensors is constantly increasing, also. For example, information obtained is ambient conditions, health status of the patient, video sequences from surveillance systems, aero and satellite images, and the like. Wireless sensors networks play an important role in the collection of large amounts of data. The sensors network is made up of a large number of sensor nodes, which are distributed in an environment, which is monitored. Sensor nodes frequently sense ambient conditions such as humidity, light, pressure, sound pressure level, presence of natural barriers etc. Recently, we have witnessed the expansion of the use of body sensor networks, which monitor the health status of patients and elderly people (temperature, pressure, ECG, blood sugar, bio-impedance) and prevent deterioration of health condition.</p>\r\n<p>These examples demonstrate a wide range of applications of sensor networks. Recent developments in electronics, digital signal processing and computer hardware allow for capture of large amounts of information in the real time. Almost daily new techniques of signal acquisition appear. Therefore, we are constantly looking for effective methods for signal processing, analysis and interpretation of the information obtained.</p>\r\n<p>The purpose of this research is to find new and effective methods of digital signal processing and information analysis and interpretation for signals and data obtained in sensor networks. Also, we will search for the appropriate hardware platform for their implementation. The effectiveness of the proposed algorithms will be mainly reflected in the ability to extract useful information from a large amount of data obtained from the sensor network and to determine the actual state of the object, which is monitored, and eventually to take appropriate decisions. Algorithms should be time, space (memory) and energy efficient. Moreover, given the large amount of information acquired from the sensor networks we will also focus on the effective use of distributed and parallel computation (e.g. GPGPU). Research for this project will be highly multidisciplinary as it covers the area of digital signal processing, computer hardware, electronics, telecommunications, system software, bioengineering, medicine, biology, etc.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630719",
+                    "ime": "Tom",
+                    "priimek": "Vodopivec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Signal and information processing systems in sensor networks"
+        },
+        "id": 203,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>\u0160tevilo senzorjev, ki zbirajo informacije o okolju, se stalno zvi\u0161uje. Prav tako se zvi\u0161uje koli\u010dina pridobljene informacije, npr. ambientalni pogoji, zdravstveno stanje pacientov, video sekvence iz nadzornih sistemov, aero in satelitski posnetki, ipd.</p>\r\n<p>Pomembno mesto v zbiranju velike koli\u010dine podatkov imajo v zadnjem \u010dasu senzorska omre\u017eja. Ta so sestavljena iz velikega \u0161tevila senzorskih vozli\u0161\u010d, ki so porazdeljeni v obmo\u010dju, ki ga spremljamo. Senzorska vozli\u0161\u010da najpogosteje spremljajo ambientalne pogoje, kot so vlaga, osvetlitev, pritisk, nivo glasnosti, prisotnost fizi\u010dnih preprek ipd. V zadnjem \u010dasu pa smo pri\u010da ekspanziji uporabe t.i. telesnih senzorskih omre\u017eij (Body Sensor Network) pri spremljanju zdravstvenega stanja oseb (telesna temperatura, pritisk, EKG, nivo sladkorja, bioimpedanca) ter prepre\u010devanju poslab\u0161anja le-tega. </p>\r\n<p>Navedeni primeri demonstrirajo \u0161irok spekter uporabe senzorskih omre\u017eij. Razvoj na podro\u010dju elektronike, digitalne obdelave signalov ter ra\u010dunalni\u0161ke strojne opreme omogo\u010da zajem velike koli\u010dine informacije v realnem \u010dasu. Skoraj dnevno se pojavljajo novi modeli akvizicije signalov. Zato se nenehno i\u0161\u010dejo u\u010dinkovite metode za obdelavo signalov ter analizo in interpretacijo pridobljene informacije.</p>\r\n<p>Namen te raziskave je iskanje novih in u\u010dinkovitih metod za obdelavo in analizo informacije in signalov pridobljenih v senzorskih omre\u017ejih ter tudi v iskanje ustreznih hardverskih platform za njihovo implementacijo. U\u010dinkovitost obdelave se ka\u017ee predvsem v zmo\u017enosti, da se iz velike koli\u010dine pridobljenih podatkov ugotovi dejansko stanje objekta, ki se ga spremlja, ter se na osnovi tega sprejmejo ustrezne odlo\u010ditve. Algoritmi morajo biti \u010dasovno u\u010dinkoviti ter taki, da porabijo \u010dimmanj pomnilnika in energije. Poleg tega, glede na veliko koli\u010dino informacije, ki jo pridobimo iz senzorskih omre\u017eij, je uporaba distribuiranega in paralelnega ra\u010dunanja (npr. GPGPU) nuja. Raziskave v okviru tega projekta bodo izrazito multidisciplinarne, saj pokrivajo podro\u010dje obdelave signalov, ra\u010dunalni\u0161kega hardverja, elektronike, telekomunikacije, sistemske programske opreme, bioin\u017eeniringa, medicine, biologije, ipd.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630719",
+                    "ime": "Tom",
+                    "priimek": "Vodopivec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Sistemi za obdelavo signalov in informacij v senzorskih omre\u017ejih"
+        }
+    },
+    {
+        "en": {
+            "client": "C-Path",
+            "description": "<p>This project is the research and implementation of a software package for R that allows the user to run statistical models that are parallelized on a graphical processing unit. As part of this project, we will implement the framework and a model - the generalized logistic based model that is being used as the underlying model for the Critical path for Parkinsons clinical trial simulation tool. </p>\r\n\r\n",
+            "end_date": "2019-07-25 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630555",
+                    "ime": "Gregor",
+                    "priimek": "Pir\u0161",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2019-03-25 00:00:00",
+            "title": "Hypercomputing for Critical Path Parkinsons Consortium"
+        },
+        "id": 1597,
+        "si": {
+            "client": "C-Path",
+            "description": "<p>Projekt so raziskave in implementacija programskega paketa za R, ki uporabnikom omogo\u010da uporabo statisti\u010dnih modelov, ki so paralelizirani na grafi\u010dnih procesnih enotah. V okviru tega projekta bomo implementirali ogrodje in en model - model s posplo\u0161eno logisti\u010dno funcijo, ki se uporablja kot jedro orodja za klini\u010dne simulacije v konzorciju Critical path za Parkinsonovo bolezen.</p>\r\n\r\n\r\n",
+            "end_date": "2019-07-25 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630943",
+                    "ime": "Davor",
+                    "priimek": "Sluga",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630555",
+                    "ime": "Gregor",
+                    "priimek": "Pir\u0161",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2019-03-25 00:00:00",
+            "title": "Raziskovalno delo"
+        }
+    }
+]

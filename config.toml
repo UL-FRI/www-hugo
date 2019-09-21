@@ -9,6 +9,16 @@ DefaultContentLanguage = "sl"
     languageCode = "sl-SI"
     [languages.sl.params]
       labPos = "predstojnik laboratorija"
+      proj_types = [
+        "EU projekti",
+        "Bilateralni projekti",
+        "Ostali mednarodni projekti",
+        "Raziskovalni programi ARRS",
+        "Raziskovalni projekti ARRS",
+        "Projekti strukturnih skladov",
+        "Ostali nacionalni projekti",
+        "Tržni projekti"
+      ]
 
   [languages.en]
     baseURL = "https://www-hugo.netlify.com/en"
@@ -18,3 +28,13 @@ DefaultContentLanguage = "sl"
     weight = 1
     [languages.en.params]
       labPos = "Head of Laboratory"
+      proj_types = [
+              "European projects",
+              "Bilateral projects",
+              "Ostali mednarodni projekti",
+              "ARRS research programmes",
+              "Research projects ARRS",
+              "Projects Structural Funds",
+              "Ostali nacionalni projekti",
+              "Tržni projekti"
+            ]

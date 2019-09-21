@@ -1,0 +1,829 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our work is focused on the analysis of information processing capabilities of biological systems from both, syntetic and analytic aspect. Computational part of the project addresses the questions, such us how to design a set of biological modules that are functionally complete, robust and may be used in a scalable manner. In order to do this efficiently our group is developing computational methods for efficient modelling, simulation, analysis and design of biological systems, with a special focus on gene regulatory networks with complex regulation, such as competitive regulation with multiple transcription factor binding sites.</p>\r\n<p>One hypothesis about the origins and evolution of coordinated animal movements is that they may serve as a defensive mechanism against predation. Computational studies of the possible evolution of coordinated movement in prey typically concentrate on predators with simple attack tactics. Numerous studies, however, suggest that to overcome the apparent defensive mechanisms which grouping and coordinated movement may provide to prey, predators in nature appear to use elaborate target selection and pursuit/hunting tactics. We concentrate on the development of artificial life-like evolutionary models based on fuzzy logic in order to study the evolution of complex target selection and pursuit tactics, as well as the evolution of non-trivial coordinated movement. Collective behaviour is a research field with a very wide interdisciplinary appeal, studies showed that it can aid gaining a better insight into the behaviour of animals, start and stop traffic jams, crowd behaviour at events such as football games or music concerts, and even in the bureaucracy of the European Union. Finally yet importantly comparable patterns were observed in cancerous cells.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Pervasive Computing"
+        },
+        "id": 15,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Raziskovalni program Vseprisotno ra\u010dunalni\u0161tvo raziskuje nove ra\u010dunalni\u0161ke paradigme in komunikacijsko mo\u010dno povezano omre\u017eje raznovrstnih ra\u010dunalni\u0161kih naprav, ki avtonomno ali skupaj zajemajo in procesirajo podatke oz. informacije z namenom, da jih prek ustreznih storitev uporabijo glede na kontekst in dolo\u010deno aktivnost uporabnika. S tem se prilagajo uporabniku v zasebnem in poslovnem okolju ter na javnih mestih tako, da zagotavljajo varnost, zasebnost ter prepre\u010dujejo prevare.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Vseprisotno ra\u010dunalni\u0161tvo"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS, Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The project Managing the technical and economic-social aspects of the internet-of-things in the Slovenian environment (OTGDV-IST) aims to comprehensively investigate, analyze and identify trends and action steps to manage the Internet of Things (IST) in Slovenia. The project will cover areas relevant to technological aspects (available and emerging technologies, standards), direct and indirect implications, impacts on safety and privacy, economy and critical infrastructures, and society in general, including impacts on the environment, energy consumption and legislation.</p>\r\n",
+            "end_date": "2011-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630865",
+                    "ime": "Ale\u0161",
+                    "priimek": "Kumer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2010-10-01 00:00:00",
+            "title": "Managing technical, business and social implications of Internet of things\u2002in Slovene environment"
+        },
+        "id": 50,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS, Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>Projekt Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju (OTGDV-ISt) ima za cilj celovito raziskati, analizirati in identificirati trende in akcijske korake pri obvladovanju interneta stvari (ISt) v Sloveniji. Projekt bo pokril podro\u010dja relevantnih tehnolo\u0161kih vidikov (razpolo\u017eljive in porajajo\u010de se tehnologije, standardi), neposrednih in izvedenih podro\u010dij uporabe in u\u010dinkov, vidikov varnosti in zasebnosti, vpliva na gospodarstvo in kriti\u010dne infrastrukture ter dru\u017ebo \u0161ir\u0161e, nadalje vpliva na okolje in porabo energije, ter vpliva na zakonodajo.</p>\r\n",
+            "end_date": "2011-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630865",
+                    "ime": "Ale\u0161",
+                    "priimek": "Kumer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2010-10-01 00:00:00",
+            "title": "OTGDV-Ist - Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "Trust is not essential ingredient only for prosperity of societies, but increasingly so for advanced information services and e-environments in general. In this latter domain, where it is referred to as computational trust, it has been researched now for roughly twenty years. The reasons are mainly the following two: E-solutions started to widely penetrate the Internet in the mid-nineties, so trust became a crucial issue in this emerging ubiquitous computing world, where \"ordinary\" signals and pieces of information (which are vital for trust formation processes) are no longer available. Next, research of this phenomenon required appropriate computing power and technologies, which became available to the required extent approximately at the same time. During these twenty years of computational trust management many methods emerged to model - to better or worse extent - the trust phenomenon. Among those that have received wider interest is also method called Qualitative Assessment Dynamics developed by FRI UL. Another important issue, directly related to trust, is reputation. Now that the notion of trust and related methodologies is getting clear, this does not hold true for reputation. How does this phenomenon emerge? How is it related to trust? Which are the feed-back loops that govern interdependence of trust and reputation? To find solutions in this area which is highly dynamic and non-linear, multiagent systems (MAS) are a promising tool, which enable research in this field from several perspectives, including belief revision, arguments based reasoning (e.g., modelling argument accrual with possibilistic uncertainty), and retransmission of information based on credibility. And these are the areas where Universidad Nacional del Sur is a strong partner. Therefore the proposed project collaboration will issue the following three core problems: -derivation of reputation on the basis of trust and feed-back processes between trust and reputation (i.e. beliefs); -research of reputation and trust dynamics in relation to decision processes; -real life applications (rules and policies for achieving coherent and trustfull societies, evaluation of honesty of opinions on e-forums). The methodologies that will be used: -use of methods developed by Argentinian partners (e.g., arguments based reasoning) and methods developed by Slovene partner (e.g., Qualitative Assessment Dynamics); -use of agents (MAS) based tools for simulations (like Jade and Alpha Agent developed by FRI UL). The time-line of research and expected outputs: -Year 1) clear derivation of concepts and system relationships between trust and reputation; -Year 2) definition of reference scenarios and experimental verification with emphasis on trust - reputation dynamics and its relation to decision making together with evaluation of honesty of opinions (e.g., on e-forums like e-Bay and Tripadvisor); -Year 3) the analysis of results and writing of a common research article that will be submitted to a quality SCI journal in a co-authorship between Argentinian and Slovene partners.",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630893",
+                    "ime": "Iztok",
+                    "priimek": "Starc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Trust Management and Reputation Systems"
+        },
+        "id": 64,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Zaupanje ni pomemben element le za blaginjo posamezne dru\u017ebe, ampak postaja vse pomembnej\u0161e tudi za uporabo naprednih informacijskih storitev in e-okolij na splo\u0161no. Raziskavam zaupanja na tem podro\u010dju pravimo obvladovanje ra\u010dunalni\u0161ko podprtega zaupanja (ORPZ) in to ima sedaj \u017ee kakih dvajset let dolgo tradicijo. Razloga sta predvsem dva: Prvi je ta, da je sredi devetdesetih let prej\u0161njega stoletja pri\u0161lo do razmaha sodobnih informacijskih storitev in vseprisotnega ra\u010dunalni\u0161tva - pojavila se je potreba po mo\u017enosti podpore zaupanja v digitalnem komunikacijskem okolju, kjer ni na voljo tistih signalov in informacij, ki v obi\u010dajnem svetu omogo\u010dajo formiranje zaupanja. Drugi pa je, da je za to potrebna ra\u010dunska mo\u010d in tehnologija postala dostopna v pribli\u017eno istem \u010dasu.</p>\r\n\r\n<p>V teh dvajsetih letih je podro\u010dje ORPZ porodilo mnogo metod, ki - ene bolje, druge slab\u0161e - modelirajo zaupanje. Ena med njimi, ki se je &quot;prijela&quot; v mednarodnem prostoru je tudi Kvalitativna dinamika, ki smo jo razvili na FRI UL in s pomo\u010djo katere smo postali kredibilen partner na tem podro\u010dju.</p>\r\n\r\n<p>Druga pomembna kategorija, povezana z zaupanjem, je ugled. Medtem ko je pomen zaupanja in na\u010din uporabe pripadajo\u010dih metod \u017ee relativno dobro razdelan, pa na podro\u010dju ugleda obstaja \u0161e kar nekaj odprtih vpra\u0161anj, npr.: Kako se vzpostavi ugled? V kaki povezavi je z zaupanjem? Kake so sistemske povezave (spremenljivke in povratne zanke med njimi) med ugledom in zaupanjem? Da bi na\u0161li odgovore na ta vpra\u0161anja so eno najprimernej\u0161ih orodij multiagentna okolja (MO), ki omogo\u010dajo raziskave z ve\u010dih zornih kotov, vklju\u010dno revidiranjem prepri\u010danj agentov, sklepanjem na osnovi argumentiranja, posredovanjem informacij na osnovi kredibilnosti, itd. Prav na teh podro\u010djih pa je Universidad Nacional del Sur mo\u010dan in kredibilen partner.</p>\r\n\r\n<p>Zato bodo v okviru predlaganega projekta v fokusu naslednja podro\u010dja:</p>\r\n\r\n<p>-izpeljva uleda na osnovi zaupanja in povratnih zank med ustreznimi spremenljivkami (npr. verjetjem in dejanji);</p>\r\n<p>-raziskava dinamike zaupanja in ugleda glede na referen\u010dne strukture;</p>\r\n<p>-raziskava ugleda in zaupanja v odnosu do procesa odlo\u010danja;</p>\r\n<p>-realne aplikacije (izpeljava pravil za ustrezne politike, ki bi vodile do koherentnih in na zaupanju temelje\u010dih zdru\u017eb, vrednotenje nepotvorjenosti mnenj na javnih e-forumih).</p>\r\n\r\n<p>Uporabljene bodo naslednje metode in metodologije:</p>\r\n\r\n<p>-metode argentinskih partnerjev (t.i. &quot;arguments based reasoning&quot;) in metode slovenskih partnerjev (e.g., Qualitative Assessment Dynamics);</p>\r\n<p>-agentna okolja (AO) za simulacije (kot je npr. Jade and Agent Alfa, ki smo ga razvili na FRI UL).</p>\r\n\r\n<p>\u010casovni potek in predvideni rezultati:</p>\r\n\r\n<p>1. leto) jasna konceptualizacija problemske domene in definicija sistemske strukture, ki podaja odnos med zaupanjem in ugledom;</p>\r\n<p>2. leto) opredelitev referen\u010dnih senenarijev in raziskave dinamike zaupanje - ugled, odnos le-te do procesa odlo\u010danja, eksperimentalno vrednotenje nepotvorjenosti mnenj (npr. na javnih e-forumih kot sta e-Bay in Tripadvisor);</p>\r\n<p>3. leto) analiza pridobljenih rezultatov in priprava skupnega \u010dlanka, ki bo poslan v objavo v kakovostno revijo, ki je rangirana po SCI ISI / WoS.</p>\r\n\r\n<p>Klju\u010dne reference:</p>\r\n<p>-A. Garc&#237;a, C Ches&#241;evar, N. Rotstein, G. Simari, &quot;Formalizing Dialectical Explanation Support for Argument-Based Reasoning in Knowledge-Based Systems&quot;, Expert Systems With Applications, Elsevier, 40(8): 3233-3247, 2013.</p>\r\n<p>-M, G&#243;mez Lucero, C Ches&#241;evar, G. Simari, Modelling Argument Accrual with Possibilistic Uncertainty in a Logic Programming Setting, Information Sciences, Elsevier (228), 1-15, 2013.</p>\r\n<p>-Jelenc David, Tr\u010dek Denis, Qualitative trust model with a configurable method to aggregate ordinal data, Autonomous agents and multi-agent systems, ISSN 1387-2532, 2013, pp. 1-31.</p>\r\n<p>-Tr\u010dek 2011 Tr\u010dek D., Trust Management in the Pervasive Computing Era, On the Horizon, IEEE Security &amp; Privacy, May/June, 2011, pp ?-?.</p>\r\n<p>-Maximiliano Celmo Bud&#225;n, Mauro Javier G&#243;mez Lucero, Guillermo Ricardo Simari: An AIF-Based Labeled Argumentation Framework. FoIKS 2014: 117-135.</p>\r\n<p>-Maximiliano Celmo Bud&#225;n, Mauro Javier G&#243;mez Lucero, Carlos Iv&#225;n Ches&#241;evar, Guillermo Ricardo Simari: Modelling Time and Reliability in Structured Argumentation Frameworks. KR 2012.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630893",
+                    "ime": "Iztok",
+                    "priimek": "Starc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Upravljanje zaupanja in sistemi za obvladovanje ugleda"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "Public Protection and Disaster Relief (PPDR) agencies in EC member states are relying on digital Private Mobile Radio (PMR) networks for mission-critical voice and data communication. These networks are highly resilient and properly dimensioned to cope with crisis and emergency handling, and are well protected against monitoring and intrusion by means of encryption, authentication and integrity. The two main standards for digital PMR networks in Europe are TETRA (TErrestrial Trunked RAdio) and TETRAPOL. The majority of these networks are based on mature technology, requiring old-fashion synchronous links (backbone), and using proprietary hardware solutions that eventually become obsolete. These networks also provide limited inter-technology coverage providing very ineffective management of emergency events, both at the national level and in cross-border regions. The main goal of SALUS is to design, implement and evaluate a next generation communication network for Public Protection and Disaster Relief (PPDR) agencies, supported by network operators and industry, which will provide security, privacy, seamless mobility, QoS and reliability support for mission-critical PMR voice and broadband data services. The project covers the full techno-economic scope regarding development and deployment of the next generation PPDR networks by focusing on the integration with / migration to 4G wireless communications developments targeting three critical scenarios 1) city security, 2) disaster recovery, and 3) temporary protection. Salus will address key research challenges such as enterprise architectures, economic and business analysis, and a number of technical aspects concerning QoS, resilience, inter-systems handover (secure, seamless and fast), enhanced security, privacy mechanisms in heterogeneous network infrastructure, and multicast broadband PPDR services.",
+            "end_date": "2016-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": null,
+                    "ime": "Damjan",
+                    "priimek": "Tratnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "SALUS",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2013-09-01 00:00:00",
+            "title": "SALUS - Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS"
+        },
+        "id": 76,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>V dr\u017eavah Evropske unije javne slu\u017ebe za za\u0161\u010dito in re\u0161evanje (angl. public protection and disaster relief, PPDR) uporabljajo zasebna mobilna komunikacijska omre\u017eja (angl. private mobile radio, PMR) za prenos zvoka in podatkov. Tak\u0161na omre\u017eja so robustna in dobro delujejo ob re\u0161evalnih akcijah in drugih nujnih posredovanjih. V Evropi sta glavna standarda za omre\u017eja PMR TETRA (TErrestrial Trunked RAdio) in TETRAPOL. Ve\u010dina omre\u017eij temelji na preizku\u0161enih tehnologijah, ki zahtevajo klasi\u010dne sinhrone povezave in uporabljajo lastni\u0161ke strojne re\u0161itve, ki bodo s\u010dasoma zastarele.  Obstoje\u010da omre\u017eja imajo tudi omejeno stopnjo interoperabilnosti, kar ote\u017euje sodelovanje med razli\u010dnimi slu\u017ebami, tako na dr\u017eavni kot tudi meddr\u017eavni ravni.</p>\r\n\r\n<p>Cilj projekta SALUS je podati na\u010drt, implementacijo in ovrednotenje naslednje generacije komunikacijskega omre\u017eja za potrebe javnih slu\u017eb za za\u0161\u010dito in re\u0161evanje, ki bo podprto tako s strani omre\u017enih operaterjev kot tudi industrije, in ki bo zagotavljajo komunikacijsko varnost, zasebnost, brez\u0161ivno mobilnost (angl. seamless mobility), kvaliteto storitev (angl. quality of service) in zanesljivost pri nudenju glasovnih in podatkovnih storitev. Projekt pokriva tehni\u010dno-ekonomske vidike, ki obsegajo razvoj in namestitev naslednje generacije PPDR omre\u017eij osredoto\u010denih na integracijo/migracijo na mobilna omre\u017eja nove generacije (4G/LTE). Obravnavani so trije osnovni scenariji, in sicer 1) varovanje mest (angl. city security), 2) odprava posledic nesre\u010d (angl. disaster recovery) in 3) za\u010dasno varovanje (angl. tepmorary protection). SALUS naslavlja klju\u010dne raziskovalne izzive kot so izvedba sistemske arhitekture (angl. enterprise architecture) in analiza ekonomskih in poslovnih vidikov ter re\u0161uje cel nabor tehnolo\u0161kih vpra\u0161anj: zagotavljanje kvalitete storitev, odpornosti omre\u017eja, hitrega, brez\u0161ivnega in varnega med-sistemskega preklapljanja, izbolj\u0161ane varnosti, zagotavljanja zasebnosti med heterogenimi omre\u017enimi infrastrukturami ter storitev razpo\u0161iljanja v \u0161irokopasovnih omre\u017ejih PPDR.</p>\r\n",
+            "end_date": "2016-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": null,
+                    "ime": "Damjan",
+                    "priimek": "Tratnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "SALUS",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2013-09-01 00:00:00",
+            "title": "SALUS - Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>Agreement Technologies (AT) refer to computer systems in which autonomous software agents negotiate with one another, typically on behalf of humans, in order to come to mutually acceptable agreements.</p>\r\n<p>This Action aims at coordinating national efforts on a new paradigm for next generation distributed systems, based on the concept of agreement between computational agents. An entity may choose whether to fulfil an agreement or not, and it should fulfil it when there is an obligation to do so derived from the standing agreements. Autonomy, interaction, mobility and openness are the characteristics that the paradigm will cover from a theoretical and practical perspective. Semantic alignment, negotiation, argumentation, virtual organisations, learning, real time, and several other technologies will be in the sandbox to define, specify and verify such systems. Both functional and non-functional properties are to be studied. Security on execution will be based on trust and reputation measures. These measures will help agents to determine with whom to interact and what terms and conditions to accept.</p>\r\n",
+            "end_date": "2012-10-16 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630928",
+                    "ime": "Eva",
+                    "priimek": "Zupan\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2008-10-17 00:00:00",
+            "title": "Agreement Technologies (COST Action IC0801)"
+        },
+        "id": 141,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>Agreement Technologies (AT) so tehnologije, ki se nana\u0161ajo na ra\u010dunalni\u0161ke sisteme, v katerih se avtonomni programski agenti (obi\u010dajno v imenu ljudi) pogajajo drug z drugim, da bi pri\u0161li do obojestranskega dogovora.</p>\r\n<p>Cilj projekta je koordinacija nacionalnih prizadevanj glede nove paradigme porazdeljenih sistemov, ki bo temeljila na konceptu dogovarjanja med programskimi agenti. Agent ima mo\u017enost, da dogovor sprejme ali ne; vendar ga mora sprejeti, \u010de tako narekujejo pravila v \u017ee sprejetih dogovorih. V paradigmo bodo vklju\u010dene lastnosti, kot so avtonomija, interakcije, mobilnost in odprtost, ki bodo obravnavane iz prakti\u010dnega in teoreti\u010dnega vidika.  Pri opredelitvi, specifikaciji in verifikaciji takih sistemov bodo uporabljeni koncepti, kot so semanti\u010dna poravnava, pogajanje, dokazovanje, virtualne organizacije, u\u010denje, realni \u010das in \u0161tevilne druge tehnologije. Preu\u010dene bodo tako funkcionalne kot nefunkcionalne lastnosti. Varnost izvedbe bo temeljila na zaupanju in ugledu.  Stopnja zaupanja in ugleda bo v pomo\u010d agentom pri odlo\u010ditvah, s kom stopiti v interakcijo in kak\u0161ne pogoje sprejeti.</p>\r\n",
+            "end_date": "2012-10-16 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630928",
+                    "ime": "Eva",
+                    "priimek": "Zupan\u010di\u010d",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2008-10-17 00:00:00",
+            "title": "Agreement Technologies (COST Action IC0801)"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2018-04-06 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2014-04-07 00:00:00",
+            "title": "Cryptography for Secure Digital Interaction (COST Action IC1306)"
+        },
+        "id": 497,
+        "si": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2018-04-06 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2014-04-07 00:00:00",
+            "title": "Kriptografija za omogo\u010danje varnih digitalnih interakcij (COST Action IC1306)"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2018-12-11 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "CRYPTACUS",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2014-12-12 00:00:00",
+            "title": "CRYPTACUS - Cryptanalysis of ubiquitous computing systems (COST Action IC1403)"
+        },
+        "id": 498,
+        "si": {
+            "client": "Evropska komisija",
+            "description": null,
+            "end_date": "2018-12-11 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "CRYPTACUS",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 3,
+            "start_date": "2014-12-12 00:00:00",
+            "title": "CRYPTACUS - Kriptoanaliza za vseprisotne sisteme (COST Action IC1403)"
+        }
+    }
+]

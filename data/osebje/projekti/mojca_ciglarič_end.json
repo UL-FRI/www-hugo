@@ -1,0 +1,1766 @@
+[
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The consortium joins the partners, who work on a high priority IT field, the highest number from the fields of the networking systems. It employs 400 researchers and developers from six small businesses, four middle-size enterprises and seven research organisations. As a result, it offers a cutting edge know-how on security, mobile applications and terminals, identity management, data processing, quality assurance, high availability computation, service-oriented architectures, infrastructures, etc. The partners in the consortium are the IT enterprises covering business, logistics, medical and environmentalist informational systems. We also pay a lot of attention to the knowledge transfer systems.</p>\r\n<p> </p>\r\n<p>The main aim is to develop services and products in the field of cloud computing. Research and construction skills are focused on the following topics: safety, mobility, multi-tenancy, identity management, security, data management and open interfaces. This knowledge will be used as assistive technology for the construction of a new generation of applications for installation and implementation of a computer cloud. Among the application areas, the following  will receive special attention: distributed processes, product management, development of knowledge, health and the environment. All these skills will be upgraded with the services and products that will situated in the global marketplace. One of the key goals of KC is to penetrate the international markets with a greater number of services and products.</p>\r\n<p> </p>\r\n<p>KC is based on the development of appropriate competencies of each partner and their interconnection. KC promotes activities with the help of the international involvement of its members. International involvement of KC will be increased by memberships in international organizations (such as Cloud Security Alliance) and standardization bodies and by participation in international events in the field of cloud computing. KC Management is be based on long experience of the consortium members, who have already participated in many international projects and made many services and products for global corporations. In addition to internal guidance and supervisory bodies, formed by members of the consortium, we place special emphasis on external control of both research and technological content, to ensure excellence in research and development. One of the key tasks of KC is to provide the flow of knowledge from research organizations in business and in this services and products.</p>\r\n<p> </p>\r\n<p>Our program brings together all the key organizations in Slovenia dealing with cloud computing, and has also broad support for industry as well as support from international organizations. The program includes a critical mass of knowledge and includes various disciplines of computer science to develop innovative services and products.</p>\r\n\r\n<p>If you wish to know more, please visit the official web-site (http://www.kc-class.eu/) of the program.</p>\r\n",
+            "end_date": "2013-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630662",
+                    "ime": "Peter",
+                    "priimek": "Peer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "KC CLASS",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2011-01-01 00:00:00",
+            "title": "KC CLASS - Cloud Assisted Services"
+        },
+        "id": 86,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>Projekt poteka v okviru javnega razpisa Razvoj kompeten\u010dnih centrov v obdobju 2010-2013.</p>\r\n<p>Operacijo delno financira Evropska unija, Evropski sklad za regionalni razvoj.</p>\r\n\r\n<p>Strategija: Ra\u010dunalni\u0161tvo v oblaku (ang. cloud computing) je eno od najhitreje rasto\u010dih podro\u010dij v sektorju IKT in eno najpomembnej\u0161ih podro\u010dij omre\u017enih sistemov. Z razvojem kompetenc na tem podro\u010dju je mo\u017eno pove\u010dati konkuren\u010dnost tako sodelujo\u010dih partnerjev na projektu kot  s pomo\u010djo dostopa do najnovej\u0161ih tehnologij in znanja na tem podro\u010dju  tudi konkuren\u010dnost slovenskega gospodarstva vob\u010de. Konzorcij bo s koncentracijo kriti\u010dne mase znanja iz razli\u010dnih komplementarnih disciplin omogo\u010dil razvoj inovativnih storitev in izdelkov. Razvoj KC bo temeljil na: mednarodnem prodoru storitev in izdelkov, znanstveni odli\u010dnosti in dolgoro\u010dnem razvoju in gradnji konzorcija. Klju\u010dna komponenta za dosego zastavljenih ciljev je u\u010dinkovit pretok znanja iz raziskovalnih ustanov v podjetja in nazaj. S tem omogo\u010dimo  prenos z raziskavami pridobljenega znanja v  inovativne storitve in izdelke z visoko dodano vrednostjo. Preko standardizacijskih aktivnosti bo konzorcij podpiral odprte vmesnike in protokole.</p>\r\n<p> </p>\r\n<p>Cilji: Glavni cilj programa je razvoj storitev in izdelkov na podro\u010dju ra\u010dunalni\u0161tva v oblaku. Raziskave in izgradnja kompetenc bodo osredoto\u010dene na naslednje teme: varnost, mobilnost, skupna raba (ang. multi-tenancy), upravljanje identitete, zanesljivost, upravljanje podatkov in odprtost vmesnikov. To znanje bomo uporabili kot podporne tehnologije za izgradnjo nove generacije aplikacij namenjenih namestitvi in izvajanju v ra\u010dunalni\u0161kem oblaku. Med aplikacijskimi podro\u010dji bo posebna pozornost posve\u010dena naslednjim: porazdeljeni procesi, upravljanje z izdelki, razvoj znanja, zdravje in okolje. Vse omenjene kompetence bomo nadgradili s storitvami in izdelki, ki jih bomo s pomo\u010djo kompeten\u010dnega centra tr\u017eili na globalnem trgu. En od klju\u010dnih ciljev delovanja KC je prodor na mednarodne trge z ve\u010djim \u0161tevilom storitev in izdelkov.</p>\r\n<p> </p>\r\n<p>Izvajanje programa: KC bo temeljil na razvoju ustreznih kompetenc posameznih partnerjev ter njihovem medsebojnem povezovanju. Aktivnosti KC bomo promovirali tudi s pomo\u010djoo mednarodne vpetosti \u010dlanov. Mednarodno vpetost KC bomo izbolj\u0161ali z v\u010dlanitvijo v mednarodne organizacije (npr. Cloud Security Alliance) in standardizacijska telesa in s sodelovanjem na mednarodnih dogodkih na podro\u010dju ra\u010dunalni\u0161tva v oblaku. Upravljanje KC bo temeljilo na dolgoletnih izku\u0161njah \u010dlanov konzorcija, ki so \u017ee sodelovali v \u0161tevilnih mednarodnih projektih ter izdelali marsikatero storitev in izdelke za globalne korporacije. Poleg notranjih usmerjevalnih in nadzornih teles, ki jih tvorijo \u010dlani konzorcija, bomo dali poseben poudarek zunanjemu nadzoru tako raziskovalnih kot tehnolo\u0161kih vsebin ter tako zagotovili odli\u010dnost v raziskavah in razvoju. Ena klju\u010dnih nalog KC je zagotovitev pretoka znanja iz raziskovalnih organizacij v podjetja in s tem v storitve in izdelke.</p>\r\n<p> </p>\r\n<p>Prednosti: Predlagani program povezuje vse klju\u010dne organizacije v Sloveniji, ki se ukvarjajo z ra\u010dunalni\u0161tvom v oblaku, in ima hkrati \u0161ir\u0161o podporo industrije kot tudi podporo mednarodnih organizacij. Program vklju\u010duje kriti\u010dno maso znanja in vpenja razli\u010dne discipline ra\u010dunalni\u0161tva za razvoj inovativnih storitev in izdelkov. Ujemanje z namenom in cilji razpisa: KC naslavlja vse to\u010dke namena in ciljev razpisa, saj razvija program na o\u017ejem tehnolo\u0161kem podro\u010dju, ki ima ogromne mo\u017enosti rasti in prodora tako raziskovalnih kot tudi razvojnih rezultatov. Naslavlja tudi \u0161tevilne horizontalne cilje trajnostnega razvoja.</p>\r\n\r\n<p>\u010ce \u017eelite vedeti ve\u010d o programu, lahko obi\u0161\u010dete uradno spletno stran CLASS (http://www.kc-class.eu/sl/). </p>\r\n",
+            "end_date": "2013-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630662",
+                    "ime": "Peter",
+                    "priimek": "Peer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "KC CLASS",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2011-01-01 00:00:00",
+            "title": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
+        }
+    },
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "",
+            "end_date": "2015-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630296",
+                    "ime": "Ne\u017eka",
+                    "priimek": "Mramor Kosta",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630630",
+                    "ime": "Danijel",
+                    "priimek": "Sko\u010daj",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2013-07-26 00:00:00",
+            "title": "Internacionalizacija UL"
+        },
+        "id": 97,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "",
+            "end_date": "2015-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630296",
+                    "ime": "Ne\u017eka",
+                    "priimek": "Mramor Kosta",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630630",
+                    "ime": "Danijel",
+                    "priimek": "Sko\u010daj",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2013-07-26 00:00:00",
+            "title": "Internacionalizacija UL"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>To learn more about the project plase visit the official EPSIAE web site (http://www.epsiae.com/index.php).</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EPSIAE",
+            "project_link": "http://www.epsiae.com/index.php",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2010-09-01 00:00:00",
+            "title": "EPSIAE - Green IT: Entering Sustainability within academic ICT studies"
+        },
+        "id": 145,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>Ve\u010d o programu si lahko ogledate na uradni spletni strani EPSIAE (http://www.epsiae.com/index.php).</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EPSIAE",
+            "project_link": "http://www.epsiae.com/index.php",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2010-09-01 00:00:00",
+            "title": "EPSIAE - Zelene informacijske tehnologije: vklju\u010devanje trajnostnega razmi\u0161ljanja v akademski \u0161tudij informacijsko-komunikacijskih tehnologij"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>The students will explore the possibilities for using information technologies, home devices (phone, tablet...) and wireless networks for health-related purposes. In groups of 4 or 5 they will carry out their projects and in April 2014 they will visit Helsinki (Finland) for two weeks. Beside interesting lectures, they will refine their projects there and present them to their colleagues from 6 european countries.</p>\r\n",
+            "end_date": "2014-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630848",
+                    "ime": "Ga\u0161per",
+                    "priimek": "Fele \u017dor\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "HESUDI",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2013-09-01 00:00:00",
+            "title": "HESUDI - HEalthcare Support Using Domotics and IT"
+        },
+        "id": 146,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>\u0160tudentje bodo raziskovali mo\u017enosti za uporabo informacijskih tehnologij, &#187;doma\u010dih&#171; naprav (telefoni, tablice...) in brez\u017ei\u010dnih omre\u017eij v zdravstvene namene. V skupinah po 4-5 bodo izdelali svoje projekte, v aprilu 2014 pa bodo za 2 tedna od\u0161li na intenzivni program v Helsinke (Finska). Tam bodo poleg \u0161tevilnih zanimivih predavanj \u0161e dopolnili svoje projekte in jih predstavili ostalim udele\u017eencem iz 6 evropskih dr\u017eav.</p>\r\n",
+            "end_date": "2014-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630848",
+                    "ime": "Ga\u0161per",
+                    "priimek": "Fele \u017dor\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "HESUDI",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2013-09-01 00:00:00",
+            "title": "HESUDI - HEalthcare Support Using Domotics and IT"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-07-14 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-08-26 00:00:00",
+            "title": "Izvedba delavnic"
+        },
+        "id": 169,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-07-14 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-08-26 00:00:00",
+            "title": "Izvedba delavnic"
+        }
+    },
+    {
+        "en": {
+            "client": "Institut Jo\u017eef Stefan (IJS)",
+            "description": null,
+            "end_date": "2015-07-09 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-01-30 00:00:00",
+            "title": "Integracija avtentikacije STORK v \u0161tudijski informacijski sistem"
+        },
+        "id": 170,
+        "si": {
+            "client": "Institut Jo\u017eef Stefan (IJS)",
+            "description": null,
+            "end_date": "2015-07-09 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-01-30 00:00:00",
+            "title": "Integracija avtentikacije STORK v \u0161tudijski informacijski sistem"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2015-11-12 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-10-12 00:00:00",
+            "title": "Razvoj te\u010dajev in priprava materialov"
+        },
+        "id": 175,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2015-11-12 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-10-12 00:00:00",
+            "title": "Razvoj te\u010dajev in priprava materialov"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2015-07-09 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-12-22 00:00:00",
+            "title": "Razvoj programske opreme Stacklabs"
+        },
+        "id": 205,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2015-07-09 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-12-22 00:00:00",
+            "title": "Razvoj programske opreme Stacklabs"
+        }
+    },
+    {
+        "en": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-02-01 00:00:00",
+            "title": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju"
+        },
+        "id": 213,
+        "si": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-02-01 00:00:00",
+            "title": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju"
+        }
+    },
+    {
+        "en": {
+            "client": "FMC d.o.o.",
+            "description": null,
+            "end_date": "2014-10-21 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-09-30 00:00:00",
+            "title": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT"
+        },
+        "id": 217,
+        "si": {
+            "client": "FMC d.o.o.",
+            "description": null,
+            "end_date": "2014-10-21 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2014-09-30 00:00:00",
+            "title": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT"
+        }
+    },
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": null,
+            "end_date": "2015-04-05 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-03-06 00:00:00",
+            "title": "Posodobitveni program Internet pod drobnogledom"
+        },
+        "id": 222,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": null,
+            "end_date": "2015-04-05 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2015-03-06 00:00:00",
+            "title": "Posodobitveni program Internet pod drobnogledom"
+        }
+    },
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The purpose of the EkoSMART programme is to develop a smart city ecosystem with all the support mechanisms required for the efficient, optimised and gradual integration of various smart city areas into a unified and well connected system of value chains. The programme focuses on three key pillars for smart cities (health, active life and mobility) and is strategically linked with municipalities and other important smart city domains, such as energy, smart buildings, citizen involvement and engagement and smart communities. EkoSMART introduces a universal architecture for a smart city that is based on self-learning and self-optimising agents</p>\r\n<p>which can find a common Nash equilibrium between heterogenous sources. This architecture allows for the realisation of smart city concepts such as interoperability, adaptability, self-configurability, open data, semantic interoperability and the integration of social capital. In economic terms, the vision of the EkoSMART programme is to enable Slovenian smart city innovations and products to enter the global market. This vision will be achieved through the following key approaches: the concentration of critical mass of knowledge and experience; a focus on the user; evolutionary development; and flexible architecture.</p>\r\n\r\n<p>The EkoSMART programme differs from other initiatives in the following ways: </p>\r\n<p> there is an emphasis on electronic and mobile health and mobility as the pillars of smart cities; </p>\r\n<p> it introduces modular, selfconfigurable, self-optimising, flexible, adaptable and intelligent universal architecture; </p>\r\n<p> there is an intensive focus on the development and implementation of new ICT methods and concepts such as the Internet of things and artificial intelligence for the continued development of technology and human society; </p>\r\n<p> is based on a high-quality consortium of advanced partners, and is therefore also strategically linked to smart home and health programmes;</p>\r\n<p> it puts strong emphasis on smart specialisation, i.e. the introduction of interconnected citizen, technology and market value chains.</p>\r\n\r\n\r\n\r\n\r\n\r\n",
+            "end_date": "2019-07-31 00:00:00",
+            "logo": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RDyRXhpZgAATU0AKgAAAAgABAE7AAIAAAANAAAISodpAAQAAAABAAAIWJydAAEAAAAaAAAQ0OocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFZhdnRhciwgTHVrYQAAAAWQAwACAAAAFAAAEKaQBAACAAAAFAAAELqSkQACAAAAAzg2AACSkgACAAAAAzg2AADqHAAHAAAIDAAACJoAAAAAHOoAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyMDE3OjExOjA2IDEzOjAzOjQ5ADIwMTc6MTE6MDYgMTM6MDM6NDkAAABWAGEAdgB0AGEAcgAsACAATAB1AGsAYQAAAP/hCx9odHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDE3LTExLTA2VDEzOjAzOjQ5Ljg2NDwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5WYXZ0YXIsIEx1a2E8L3JkZjpsaT48L3JkZjpTZXE+DQoJCQk8L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+PC9yZGY6UkRGPjwveDp4bXBtZXRhPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQg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",
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630539",
+                    "ime": "Sandi",
+                    "priimek": "Gec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630987",
+                    "ime": "Marko",
+                    "priimek": "Jankovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630750",
+                    "ime": "An\u017ee",
+                    "priimek": "Rezelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630638",
+                    "ime": "Petar",
+                    "priimek": "Kochovski",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630796",
+                    "ime": "Janez",
+                    "priimek": "Bindas",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EkoSmart",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2016-08-01 00:00:00",
+            "title": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem"
+        },
+        "id": 230,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>Namen programa EkoSmart je razviti ekosistem pametnega mesta z vsemi podpornimi mehanizmi, ki so potrebni za u\u010dinkovito, optimizirano in postopno integracijo posameznih podro\u010dij v enovit in povezan sistem vrednostnih verig. Program se osredoto\u010da na tri klju\u010dne domene pametnega mesta, zdravje, aktivno \u017eivljenje in mobilnost ter se strate\u0161ko povezuje (glejte pisma podpore) z ob\u010dinami ter z drugimi podro\u010dji pametnega mesta, kot so energetika, pametne stavbe, vklju\u010denost dr\u017eavljanov, pametne skupnosti ipd.</p>\r\n<p>EkoSMART uvaja univerzalno arhitekturo pametnega mesta, temelje\u010do na zdru\u017ebi samou\u010de\u010dih in samooptizirajo\u010dih se agentov, ki znajo poiskati skupno Nashevo ravnovesje tudi med nehomogenimi viri; ta arhitektura omogo\u010da realizacijo vseh konceptov pametnih mest kot interoperabilnost, samoadaptivnost in samokonfigurabilnost, odprte podatke, semanti\u010dno povezljivost, integracijo socialnega kapitala.</p>\r\n<p>Z vidika gospodarstva je vizija programa EkoSmart omogo\u010diti preboj slovenskih re\u0161itev s podro\u010dja pametnih mest na svetovni trg. To vizijo bo program uresni\u010deval z ve\u010d pomembnimi pristopi: koncentracija znanja in izku\u0161enj, osredoto\u010denost na uporabnika, evolucijski razvoj, fleksibilna arhitektura.Namen programa EkoSmart je razviti ekosistem pametnega mesta z vsemi podpornimi mehanizmi, ki so potrebni za u\u010dinkovito, optimizirano in postopno integracijo posameznih podro\u010dij v enovit in povezan sistem vrednostnih verig.</p>\r\n<p>Program se osredoto\u010da na tri klju\u010dne domene pametnega mesta, zdravje, aktivno \u017eivljenje in mobilnost ter se strate\u0161ko povezuje (glejte pisma podpore) z ob\u010dinami ter z drugimi podro\u010dji pametnega mesta, kot so energetika, pametne stavbe, vklju\u010denost dr\u017eavljanov, pametne skupnosti ipd. EkoSMART uvaja univerzalno arhitekturo pametnega mesta, temelje\u010do na zdru\u017ebi samou\u010de\u010dih in samooptizirajo\u010dih se agentov, ki znajo poiskati skupno Nashevo ravnovesje tudi med nehomogenimi viri; ta arhitektura omogo\u010da realizacijo vseh konceptov pametnih mest kot interoperabilnost, samoadaptivnost in samokonfigurabilnost, odprte podatke, semanti\u010dno povezljivost, integracijo socialnega kapitala. Z vidika gospodarstva je vizija programa EkoSmart omogo\u010diti preboj slovenskih re\u0161itev s podro\u010dja pametnih mest na svetovni trg. To vizijo bo program uresni\u010deval z ve\u010d pomembnimi pristopi: koncentracija znanja in izku\u0161enj, osredoto\u010denost na uporabnika, evolucijski razvoj, fleksibilna arhitektura.</p>\r\n",
+            "end_date": "2019-07-31 00:00:00",
+            "logo": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RDyRXhpZgAATU0AKgAAAAgABAE7AAIAAAANAAAISodpAAQAAAABAAAIWJydAAEAAAAaAAAQ0OocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFZhdnRhciwgTHVrYQAAAAWQAwACAAAAFAAAEKaQBAACAAAAFAAAELqSkQACAAAAAzg2AACSkgACAAAAAzg2AADqHAAHAAAIDAAACJoAAAAAHOoAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyMDE3OjExOjA2IDEzOjAzOjQ5ADIwMTc6MTE6MDYgMTM6MDM6NDkAAABWAGEAdgB0AGEAcgAsACAATAB1AGsAYQAAAP/hCx9odHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDE3LTExLTA2VDEzOjAzOjQ5Ljg2NDwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5WYXZ0YXIsIEx1a2E8L3JkZjpsaT48L3JkZjpTZXE+DQoJCQk8L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+PC9yZGY6UkRGPjwveDp4bXBtZXRhPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQg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",
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630539",
+                    "ime": "Sandi",
+                    "priimek": "Gec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630987",
+                    "ime": "Marko",
+                    "priimek": "Jankovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630750",
+                    "ime": "An\u017ee",
+                    "priimek": "Rezelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630638",
+                    "ime": "Petar",
+                    "priimek": "Kochovski",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630796",
+                    "ime": "Janez",
+                    "priimek": "Bindas",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EkoSmart",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2016-08-01 00:00:00",
+            "title": "EkoSmart - Eko Sistem Pametnega Mesta"
+        }
+    },
+    {
+        "en": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2014-11-18 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-05-09 00:00:00",
+            "title": "Razvojne storitve"
+        },
+        "id": 253,
+        "si": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2014-11-18 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-05-09 00:00:00",
+            "title": "Razvojne storitve"
+        }
+    },
+    {
+        "en": {
+            "client": "Ob\u010dina Piran",
+            "description": null,
+            "end_date": "2014-04-18 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-17 00:00:00",
+            "title": "Izvedensko mnenje"
+        },
+        "id": 256,
+        "si": {
+            "client": "Ob\u010dina Piran",
+            "description": null,
+            "end_date": "2014-04-18 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-17 00:00:00",
+            "title": "Izvedensko mnenje"
+        }
+    },
+    {
+        "en": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2013-12-19 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-19 00:00:00",
+            "title": "Izobra\u017eevalna delavnica"
+        },
+        "id": 257,
+        "si": {
+            "client": "ISKRATEL, telekomunikacijski sistemi, d.o.o., Kranj",
+            "description": null,
+            "end_date": "2013-12-19 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-19 00:00:00",
+            "title": "Izobra\u017eevalna delavnica"
+        }
+    },
+    {
+        "en": {
+            "client": "RC IKT d.o.o.",
+            "description": null,
+            "end_date": "2013-12-19 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-19 00:00:00",
+            "title": "Izobra\u017eevalna delavnica"
+        },
+        "id": 258,
+        "si": {
+            "client": "RC IKT d.o.o.",
+            "description": null,
+            "end_date": "2013-12-19 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630653",
+                    "ime": "Matja\u017e",
+                    "priimek": "Pan\u010dur",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-12-19 00:00:00",
+            "title": "Izobra\u017eevalna delavnica"
+        }
+    },
+    {
+        "en": {
+            "client": "RC IKT d.o.o.",
+            "description": null,
+            "end_date": "2012-09-11 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2012-06-15 00:00:00",
+            "title": "Oblaki v telekomunikacijskem okolju"
+        },
+        "id": 259,
+        "si": {
+            "client": "RC IKT d.o.o.",
+            "description": null,
+            "end_date": "2012-09-11 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2012-06-15 00:00:00",
+            "title": "Oblaki v telekomunikacijskem okolju"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2013-07-17 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-05-30 00:00:00",
+            "title": "Izvedba raziskave na podro\u010dju virtualnih laboratorijev"
+        },
+        "id": 260,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2013-07-17 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2013-05-30 00:00:00",
+            "title": "Izvedba raziskave na podro\u010dju virtualnih laboratorijev"
+        }
+    },
+    {
+        "en": {
+            "client": "Univerza v Ljubljani",
+            "description": null,
+            "end_date": "2012-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2010-12-01 00:00:00",
+            "title": "Vzdr\u017eevalna in razvojna dela"
+        },
+        "id": 262,
+        "si": {
+            "client": "Univerza v Ljubljani",
+            "description": null,
+            "end_date": "2012-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2010-12-01 00:00:00",
+            "title": "Vzdr\u017eevalna in razvojna dela"
+        }
+    },
+    {
+        "en": {
+            "client": "Retarget d.o.o.",
+            "description": null,
+            "end_date": "2011-08-23 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2011-03-23 00:00:00",
+            "title": "Izdelava strokovnega mnenja glede anonimizacije"
+        },
+        "id": 263,
+        "si": {
+            "client": "Retarget d.o.o.",
+            "description": null,
+            "end_date": "2011-08-23 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2011-03-23 00:00:00",
+            "title": "Izdelava strokovnega mnenja glede anonimizacije"
+        }
+    },
+    {
+        "en": {
+            "client": "Humane tehnologije d.o.o.",
+            "description": null,
+            "end_date": "2011-08-23 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2011-03-23 00:00:00",
+            "title": "Izdelava varnostne presoje re\u0161itve CRSA"
+        },
+        "id": 264,
+        "si": {
+            "client": "Humane tehnologije d.o.o.",
+            "description": null,
+            "end_date": "2011-08-23 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2011-03-23 00:00:00",
+            "title": "Izdelava varnostne presoje re\u0161itve CRSA"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-07-25 00:00:00",
+            "title": "Dokumentiranje in vzdr\u017eevanje na podro\u010dju virtualnih laboratorijev Stacklabs"
+        },
+        "id": 355,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-07-25 00:00:00",
+            "title": "Dokumentiranje in vzdr\u017eevanje na podro\u010dju virtualnih laboratorijev Stacklabs"
+        }
+    },
+    {
+        "en": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-12-22 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-12-14 00:00:00",
+            "title": "Razvoj te\u010daja \"STORAGE\""
+        },
+        "id": 367,
+        "si": {
+            "client": "CHS Distribucija ra\u010dunalni\u0161ke opreme d.o.o.",
+            "description": null,
+            "end_date": "2016-12-22 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-12-14 00:00:00",
+            "title": "Razvoj te\u010daja \"STORAGE\""
+        }
+    },
+    {
+        "en": {
+            "client": "AKOS Agencija za komunikacijska omre\u017eja in storitve RS",
+            "description": null,
+            "end_date": "2018-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630864",
+                    "ime": "Zoran",
+                    "priimek": "Bosni\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2017-10-26 00:00:00",
+            "title": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "id": 508,
+        "si": {
+            "client": "AKOS Agencija za komunikacijska omre\u017eja in storitve RS",
+            "description": null,
+            "end_date": "2018-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630864",
+                    "ime": "Zoran",
+                    "priimek": "Bosni\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630777",
+                    "ime": "Veljko",
+                    "priimek": "Pejovi\u0107",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2017-10-26 00:00:00",
+            "title": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        }
+    }
+]

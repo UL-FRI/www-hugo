@@ -1,0 +1,1156 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "Research areas of the center include description of modern Slovene language from all points of view, and computer-aided learning and teaching of Slovene and foreign languages. Practically oriented tasks include continuous and user-friendly access to corpora, lexical, terminological and other databases, creation and maintenance of web-based language learning and teaching environments, as well as distribution of publicly financed and open source language resources and tools.",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630309",
+                    "ime": "Igor",
+                    "priimek": "Kononenko",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2009-01-01 00:00:00",
+            "title": "Artificial intelligence and inteligent systems"
+        },
+        "id": 3,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>\u010clani programske skupine se ukvarjajo z raziskavami na naslednjih podro\u010djih:</p>\r\n<p>strojno u\u010denje in odkrivanje zakonitosti v podatkih;</p>\r\n<p>evolucijsko ra\u010dunanje in preiskovalni algoritmi;</p>\r\n<p>programiranje z omejitvami in kombinatori\u010dna optimizacija;</p>\r\n<p>metode kvalitativnega sklepanja;</p>\r\n<p>strojno u\u010denje v biomedicinski informatiki;</p>\r\n<p>agentni sistemi in semanti\u010dni splet.</p>\r\n<p>Vse raziskovalne teme so vseskozi motivirane z mo\u017enostmi uporabe in neposrednimi konkretnimi aplikacijami.</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630309",
+                    "ime": "Igor",
+                    "priimek": "Kononenko",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2009-01-01 00:00:00",
+            "title": "Umetna inteligenca in inteligentni sistemi"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>It is generally accepted that one-to-one tutoring is by far more effective than in-class teaching, but too costly in most situations. To carry out one-to-one tutoring at reasonable cost, CAI (Computer Assisted Instruction) is an alternative. To overcome CAIs rigid behaviour, ITS (Intelligent Tutoring Systems) are generally considered as the most promising option. However, the costs of ITS development are high because it requires major involvement of a domain expert to realise intelligent student-system interaction. The purpose of this project is to develop methods for automating the process of developing ITS and thus considerably decrease the high costs of building ITS, by enabling more economical, semi-automatic development of  ITS.</p>\r\n\r\n<p>In particular, the main goals of the project is to develop methods to support automated conceptualisation of learning domains, which can be viewed as a key component in the construction of ITS systems. In the project, several experimental case studies in selected learning domains will be carried out from two types of domains: symbolic problem solving, like physics, medical reasoning and chess, and motor and/or control skill domains like running, walking in parients, or tennis.</p>\r\n\r\n<p>The role of domain conceptualisation is as follows. In complex domains, the connection between the basic domain theory (axioms, laws, formulas, rules of the game, etc.) and problem solutions is usually rather complex and hard for a human to execute. Therefore, there is typically a need for an intermediate theory, conceptualised domain theory,  that serves as a bridge between the basic declarative domain theory and procedural knowledge for concrete problem solving. This can be viewed in terms of a derivation chain as follows. Basic domain theory (axioms, etc.) logically entails a  conceptualised domain theory, which in turn entails problem solutions. Logically, the basic domain theory also entails problems solutions, but at much higher problem-solving effort. The basic theory is typically non-operational for a human (requires excessive computation, or it may be too complex to memorise), whereas the conceptualised theory is human-assimilable. These relations can be illustrated as follows:</p>\r\n<p> </p>\r\n<p>original theory ------------------------------------------&gt; problem solution</p>\r\n<p>original theory  ----&gt;  conceptualised theory ---&gt; problem solution</p>\r\n<p> </p>\r\n<p>A conceptualised domain is a problem solving tool for a human, and therefore it should be simple and compact, so that it can be understood, memorised, and executed in problem solving by the student.</p>\r\n\r\n<p>The planned conceptualisation methods will be based on some recent methods and paradigms of AI which will be adapted and further elaborated for the purpose of this project. These techniques and paradigms include: ABML (Argument Based Machine Learning) , QR (Qualitative Reasoning and modelling) , Q2 learning (Qualitatively faithful Quantitative learning), EBG and EBL (Explanation Based Generalisation and Learning), ILP (Inductive Logic Programming), and specific techniques of behavioural cloning (capturing human skill from observed humans behaviours).</p>\r\n\r\n<p>The developed conceptualisation methods will be experimentally applied to intelligent tutoring systems for selected domains as follows:</p>\r\n<p>(1) symbolic problem-solving domains: physics, medical diagnostic reasoning (diagnosis of tremors), and chess;</p>\r\n<p>(2) motor skill domains: running, tennis, walking in patients (multiple sclerosis)</p>\r\n<p>The AI part of the project will be carried out by the Artificial Intelligence Laboratory of Univ. of Ljubljana, and LMG laboratory of the Ljubljana Clinical Centre will collaborate in the neurological medical applications. These medical applications are expected to be directly adopted in the medical practice.</p>\r\n",
+            "end_date": "2014-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2011-07-01 00:00:00",
+            "title": "Machine learning for building intelligent tutoring systems"
+        },
+        "id": 40,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Splo\u0161no je sprejeto, da je posami\u010dno pou\u010devanje bistveno bolj u\u010dinkovito kot pou\u010devanje v razredu u\u010dencev, vendar predrago v ve\u010dini situacij. Za ekonomi\u010dno izvedbo posami\u010dnega pou\u010devanja je zato zanimiva alternativa pou\u010devanje z ra\u010dunalniki (CAI, computer aided instruction). Vendar je CAI pou\u010devanje zelo togo, zato se za najbolj obetavno mo\u017enost smatrajo inteligentni pou\u010devalni sistemi (ITS, intelligent tutoring systems). Vendar je ovira spet v visoki ceni razvoja ITS sistemov, saj njihov razvoj zahteva obse\u017eno sodelovanje podro\u010dnega eksperta za realizacijo inteligentne interakcije med u\u010dencem in ra\u010dunalnikom. Glavni namen tega projekta je razviti metode, s katerimi bi bilo mogo\u010de vsaj delno avtomatizirati gradnjo ITS sistemov in s tem bistveno zni\u017eati stro\u0161ke gradnje.</p>\r\n\r\n<p>Glavni cilj projekta je razviti metode za avtomatsko konceptualizacijo u\u010dnih domen, kar je bistvena komponenta razvoja ITS sistemov. Izpeljali bomo tudi vrsto eksperimentalnih \u0161tudij iz dveh tipov u\u010dnih domen: simboli\u010dno re\u0161evanje problemov, kot sta fizika in \u0161ah, ter domene motori\u010dnih in kontrolnih spretnosti, kot jih najdemo pri pilotiranju, teku ali tenisu.</p>\r\n\r\n<p>Pomen konceptualizacije domen je v naslednjem.  V zahtevnih problemskih domenah je pot od osnovne teorije domene (aksiomi, zakoni, formule, pravila igre itd.) do re\u0161itev problema pogosto zelo dolga in za \u010dloveka te\u017eko izvedljiva. Zato se zna\u010dilno pojavi potreba po vmesni teoriji, konceptualizirani domenski teoriji, ki slu\u017ei kot most med osnovno deklarativno teorijo in postopkovnim znanjem, potrebnim za re\u0161evanje konkretnih problemov. To pot lahko gledamo kot verigo izpeljav: iz osnovne teorije domene logi\u010dno sledi konceptualizirana teorija, iz te pa naprej re\u0161itev problema. Re\u0161itev problema sledi tudi iz same osnovne teorije, vendar je ta pot veliko dalj\u0161a. Tako je osnovna teorija tipi\u010dno neoperativna za \u010dloveka (zahteva preve\u010d ra\u010dunanja ali pa je preobse\u017ena, da bi si jo u\u010denec sploh lahko zapomnil), medtem ko konceptualizirano teorijo po definiciji \u010dlovek lahko asimilira. Te relacije lahko ponazorimo takole:</p>\r\n<p> </p>\r\n<p>osnovna teorija ------------------------------------------&gt;  re\u0161itev problema</p>\r\n<p>osnovna teorija ---&gt; konceptualizirana teorija ---&gt; re\u0161itev problema</p>\r\n<p> </p>\r\n<p>Tako je konceptualizirana teorija u\u010dinkovito orodje za \u010dlove\u0161ko re\u0161evanje problemov, zato pa mora biti enostavna in kompaktna, da jo lahko u\u010denec razume, si jo zapomni in uporabi pri re\u0161evanju konkretnih problemov. Poleg metod konceptualizacije se bomo posvetili tudi metodam avtomatskega generianja komentarjev re\u0161itev v lu\u010di uporabljene knceptualizacije.</p>\r\n\r\n<p>Kot tehni\u010dno osnovo za razvoj in implementacijo metod konceptualizacije nameravamo uporabiti nekatere novej\u0161e tehnike in paradigme umetne inteligence, ki jih nameravamo dopolniti oz. nadgraditi za potrebe konceptualizacije. Med temi so: argumentirano strojno u\u010denje (ABML; Argument Based Machine Learning), kvalitativno sklepanje in modeliranje (QR; Qualitative Reasoning and modelling), Q2 u\u010denje (Qualitatively faithful Quantitative learning), generalizacija in u\u010denje z razlago (EBG, EBL; Explanation Based Generalisation and Learning), induktivno logi\u010dno programiranje (ILP; Inductive Logic Programming), ter specifi\u010dne tehnike za vedenjsko kloniranje (zajemanje \u010dlove\u0161kih motori\u010dnih/kontrolnih ve\u0161\u010din).</p>\r\n\r\n<p>Razvite metode konceptualizacije bomo eksperimentalno uporabili na izbranih domenah pou\u010devanja z ITS kot sledi:</p>\r\n<p>(1) simbolno re\u0161evanje problemov: fizika, medicinsko diagnosti\u010dno sklepanje (diagnostika tremorjev) in \u0161ah;</p>\r\n<p>(2) motori\u010dne spretnosti: tek, tenis in hoja pri bolnikih (multipla skleroza).</p>\r\n<p> </p>\r\n<p>Raziskave iz umetne inteligence v tem projektu bo izvajal Laboratorij za umetno inteligenco Univerze v Ljubljani, medtem ko bo Laboratorij za motnje gibanja Klini\u010dnega centra v Ljubljani sodeloval pri medicinskih aplikacijah. Pri\u010dakujemo, da bosta obe medicinski aplikaciji neposredno postali del klini\u010dne prakse.</p>\r\n\r\n\r\n",
+            "end_date": "2014-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2011-07-01 00:00:00",
+            "title": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Lung cancer is the leading cause of death due to cancer worldwide. Survival rates of patients with lung cancer and mesothelioma continue to be very low, with 5-year survival rates of 12% and 5%, respectively. Systemic treatment with chemotherapy has reached its plateau.  Better survival rates can only be achieved through a better understanding of molecular biology of primary tumors and host characteristics, which will enable us to tailor and individualize therapy for these malignancies in future.  The treatment of non- small-cell lung cancer (NSCL) with tyrosine kinase inhibitors (TKIs), targeted against the epidermal growth factor (EGFR), represent the first individualized treatment approach based on the molecular biology of tumor in lung cancer. Patients with activating EGFR mutations (EGFRmu+) in the primary tumor respond especially well to this type of treatment. However, not all the patients with EGFRmu + tumors respond to therapy and almost all of them eventually develop resistance to the treatment. To overcome resistance, additional biomarkers of sensitivity/resistance to TKIs, such as additional EGFR mutations, KRAS mutations and others need to be researched. Platinum-based chemotherapy represents the standard treatment of lung cancer as well as mesothelioma nowadays. It is predicted that in the near future, by means of a better understanding and detection of certain biomarkers, such as ERCC1 and TOPO2, we will be able to select which patients will respond to a particular cytostatic . In addition, host characteristics were found to influence the efficacy of any particular systemic therapy substantially, with various polymorphisms in genes which code for enzymes from the CYP family playing an important role. All of these factors, alongside with new biomarkers such as tumor stem cells, have not yet been researched thoroughly enough in lung cancer and mesothelioma to allow for individualized treatment approaches.</p>\r\n<p> The main goal of our research project is to study the value of various EGFR mutations, KRAS mutations, cMET amplifications and EML4/ALK translocation for response to TKI therapy in lung adenocarcinoma and mesothelioma and by doing that to form a prognostic model which will predict for resistance/sensitivity to TKI treatment. We will also study the predictive value of the expression of ERCC1 and TOPO2 in primary tumors of lung cancer and mesothelioma for response to different cytostatics, such as cisplatin and etoposide. By determining the plasma drug concentrations and by defining polymorphisms of the CYP3A enzyme, our research will look into the pharmacokinetics of per oral and/or intravenous administered etoposide. Additional research focus will be on determining the presence of cancer stem cells in the blood of lung cancer patients. The trial will include 330 patients with lung cancer and mesothelioma, treated with standard systemic therapy at the University Clinic Golnik (UCG) during the next two years. The efficacy of treatment will be determined by using the RECIST method and on the basis of survival rates. Simultaneously the standards for a tissue and blood sample biobank will be formed and institutionalized. Biological markers in the primary tumor tissue and in the blood will be determined by use of the standard methods at histological and molecular biology laboratory at the UCG. Drug concentrations in the plasma will be determined by liquid chromatography. Prognostic models for response to certain systemic therapy, based on the presence of multiple biomarkers will be formed by using standardized statistical tools and artificial intelligence methods. We strongly believe that our findings will have a significant contribution towards improving the overall understanding of the molecular biology of lung cancer and host characteristics on the outcome of systemic therapy, thus enabling us individualize treatment of patients with these types of cancer in everyday clinical practice.</p>\r\n",
+            "end_date": "2014-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2011-07-01 00:00:00",
+            "title": "Molecular and other prognosticators of lung cancer and mesothelioma "
+        },
+        "id": 41,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Rak plju\u010d je najpogostej\u0161i vzrok smrti zaradi raka, pre\u017eivetja bolnikov z rakom plju\u010d in mezoteliomom pa so \u0161e vedno slaba in zna\u0161ajo 5-letna pre\u017eivetja le okoli 12% za rak plju\u010d in 5% za mezoteliom. Sistemsko zdravljenje s kemoterapijo, katerega potrebuje ve\u010dina bolnikov, je doseglo svoj plato. Bolj\u0161a pre\u017eivetja bolnikov z rakom plju\u010d in mezoteliomombo je mogo\u010de dose\u010di samo z bolj\u0161im poznavanjem biologije teh rakov in lastnosti gostitelja in temu prilagojenim individualiziranim zdravljenjem. Prvi uspeh individualiziranega, biolo\u0161kim lastnostim tumorja prilagojenega, tar\u010dnega zdravljenja raka plju\u010d, predstavlja zdravljenje nedrobnoceli\u010dnega raka plju\u010d (NSCL) s tirozin kinaznimi inhibitorji (TKI) usmerjenimi proti epidermalnemu rastnemu dejavniku (EGFR). Na to zdravljenje zlasti dobro odgovorijo bolniki s prisotnimi aktivirajo\u010dimi EGFR mutacijami (EGFRmu+) v primarnem tumorju. Vendar pa vsi bolniki zvEGFRmu + tumorji ne odgovorijo na zdravljeni  in ve\u010dina tistih, ki odgovorijo, tekom mesecev ali let razvije rezistenco na zdravljenje. Zato se raziskujejo dodatni biolo\u0161ki ozna\u010devalci, na podlagi katerih bi bilo mogo\u010de \u0161e bolje v naprej dolo\u010diti ob\u010dutljivost/rezistenco na zdravljenje s TKI, kot so dodtane EGFR mutacije, KRAS mutacije in drugi. Kemoterapija na bazi platine predstavlja danes standardno zdravljenje raka plju\u010d in  mezotelioma. Ka\u017ee, da bo mogo\u010de v bodo\u010dnosti z bolj\u0161o razpoznavo dolo\u010denih bioozna\u010devalcev v primarnem tumorju, kot sta ERCC1 in TOPO2, vnaprej opredeliti kateri bolniki bodo odgovorili na zdravljenje z dolo\u010denim citostatikom. Dodatno na u\u010dinkovitost kateregakoli sistemskega zdravljenja raka vplivajo tudi lastnosti gostitelja. Vedno bolj postaja jasno, da igrajo pri tem pomembno vlogo razli\u010dni polimorfizmi v genih, ki kodirajo za presnovne encime iz dru\u017eine CYP-ov. Vsi ti faktorji kot tudi povsem novi biomarkerji, kot je prisotnost zarodnih mati\u010dnih rakavih celic pri raku plju\u010d in mezoteliomu, \u0161e niso dovolj raziskani, da bi jih lahko uporabili v vsakodnevni klini\u010dni praksi za individualizacijo zdravljenja posameznega bolnika.</p>\r\n<p>Namen na\u0161ega projekta je prou\u010diti pomen posameznih EGFR mutacij, KRAS mutacij, cMET amplifikacije in EML4/ALK translokacije za odgovor na zdravljenje z TKI pri adenokarcinomu plju\u010d in pri mezoteliomu ter izdelati napovedni model za napoved ob\u010dutljivosti/rezistence na zdravljenje z TKI. Prou\u010dili bomo tudi napovedno vrednost izra\u017eenosti ERCC1 in TOPO2 v primarnih tumorjih raka plju\u010d in mezotelioma za odgovor na posamezne citostatike, kot sta platinol in etopozid. Framakokinetiko peroralno in/ali intravenozno apliciranega etopozida bomo dodatno prou\u010dili z dolo\u010ditvijo koncentracij zdravila v plazmi ter z dolo\u010ditvijo polimorfizmov CYP3A encimov. Dodatno bomo dolo\u010dili prisotnost celic z ekspesijo genskih ozna\u010devalcev za rakave mati\u010den celice v krvi bolnikov z rakom plju\u010d. V raziskavo bo vklju\u010denih 330 bolnikov z rakom plju\u010d zdravljenih s standardnim sistemskim zdravljenjem na Univezitetni kliniki Golnik (UKG). U\u010dinkovitost zdravljenja bomo dolo\u010dili po metodi RECIST in na podlagi pre\u017eivetij. Paralelno bodo izdelani in udejanjeni standardi za biobanko tkivnih in krvnih vzorcev. Biolo\u0161ki ozna\u010devalci na tkivu primarnega tumorja in v krvi bodo dolo\u010deni v histolo\u0161kem in molekularno biolo\u0161kem laboratoriju UKG. Koncentracije zdravila v plazmi bodo dolo\u010dene z metodo teko\u010dinske kromatografije. Napovedne modele za odgovor na dolo\u010deno sistemsko terapijo, temelje\u010de na prisotonosti ve\u010dih biomarkerjev, bo s pomo\u010djo standardnih statisti\u010dnih orodij in s pomo\u010djo metod umetne intelegence izdelala sodelujo\u010da raziskovalna in\u0161titucija. Pri\u010dakujemo, da bodo izsledki na\u0161e raziskave bistveno doprinesli k bolj\u0161emu razpoznavanju molekularne biologije raka plju\u010d in lastnosti gostitelja, ki lahko vplivajo na izhod sistemskega zdravljenja in tako v ve\u010dji meri omogo\u010dili individualizacijo zdravljenja bolnikov s temi raki v vsakodnevni klini\u010dni praksi.</p>\r\n",
+            "end_date": "2014-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2011-07-01 00:00:00",
+            "title": "Molekularni in drugi ozna\u010devalci raka plju\u010d in mezotelioma"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The goal of this project was to establish collaboration between Artificial Intelligence Laboratory of the Faculty of Computer and Information Sc., Univ. of Ljubljana, and Department of Cybernetics and AI, Faculty of Electrical Eng. and Informatics, Technology</p>\r\n<p>University of Ko\u0161ice. Most of the work was done during two working visits of researchers from Ko\u0161ice in Ljubljana. Two research topics for collaboration in a potential European project were defined: </p>\r\n<ol>\r\n\t<li>the programming of robots by learning from human demonstration or controlling the robot to carry out a given task, and </li>\r\n\t<li>robot planning by means-ends technique which would enable the explanation by the robot of how the robot intends to perform a task and what is the purpose of actions the robot is executing. </li>\r\n\r\n</ol>\r\n<p>During their visit, two researchers from Ko\u0161ice were working in Ljubljana on a concrete task of programming a Nao robot through human demonstration, and they were capturing human motion using our motion capture equipment Animazoo. The captured human trajectories were the basis for an adapted imitation by the robot of human demonstration, and later at FRI for the development of a method for automatic learning of compositional hierarchies in sensory-motor systems. </p>\r\n",
+            "end_date": "2012-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630910",
+                    "ime": "Tadej",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630913",
+                    "ime": "Alja\u017e",
+                    "priimek": "Ko\u0161merlj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Peter",
+                    "priimek": "Sin\u010d\u00e1k",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Rudolf",
+                    "priimek": "Jak\u0161a",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Jaroslav",
+                    "priimek": "Tuharsky",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2011-01-01 00:00:00",
+            "title": "Towards Multi-Agent Intelligent Systems with Ability of Incremental Learning"
+        },
+        "id": 58,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Cilj tega bilateralnega projekta je bil vzpostavitev raziskovalnega sodelovanja med Laboratorijem za umetno inteligenco Fakultete za ra\u010dunalni\u0161tvo in informatiko Univerze v Ljubljani ter Oddelkom za kibernetiko in umetno inteligenco Fakultete za elektrotehniko in informatiko Tehni\u0161ke univerze v Ko\u0161icah. Ve\u010dina dela je bila opravljena v okviru dveh delovnih obiskov raziskovalcev iz Ko\u0161ic v Ljubljani. Definirali smo dve konkretni mo\u017eni raziskovalni temi za potencialni evropski projekt: </p>\r\n<ol>\r\n\t<li>programiranje robotov z u\u010denjem iz \u010dlovekove demonstracije ali vodenja robota za izvedbo dane naloge in </li>\r\n\t<li>robotsko planiranje po principu sredstev in ciljev, ki bi bilo osnova za robotovo razlago, namenjeno uporabniku, kako se robot namerava lotiti dane naloge in \u010demu slu\u017eijo akcije, ki jih izvaja. </li>\r\n\r\n</ol>\r\n<p>Med svojim obiskom sta dva raziskovalca iz Ko\u0161ic izvedla poskuse s konkretno nalogo programiranja robota Nao s \u010dlovekovo demonstracijo in pri tem zajemala \u010dlovekovo gibanje z opremo Animazoo. Zajete \u010dlovekove trajektorije so bile osnova za robotovo prilagojeno posnemanje \u010dlovekove demonstracije ter kasneje na FRI za razvoj metode u\u010denja kompozicijskih hierarhij v senzori-motori\u010dnem sistemu.</p>\r\n",
+            "end_date": "2012-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630910",
+                    "ime": "Tadej",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630913",
+                    "ime": "Alja\u017e",
+                    "priimek": "Ko\u0161merlj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Peter",
+                    "priimek": "Sin\u010d\u00e1k",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Rudolf",
+                    "priimek": "Jak\u0161a",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Jaroslav",
+                    "priimek": "Tuharsky",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2011-01-01 00:00:00",
+            "title": "Ve\u010dagentni inteligentni sistemi z zmo\u017enostjo inkrementalnega u\u010denja"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>It is generally accepted that one-to-one tutoring is by far more effective than in-class teaching, but too costly in most situations. To carry out one-to-one tutoring at reasonable cost, CAI (Computer Assisted Instruction) is an alternative. To overcome CAIs rigid behaviour, ITS (Intelligent Tutoring Systems) are generally considered as the most promising option. However, the costs of ITS development are high because it requires major involvement of a domain expert to realise intelligent student-system interaction. The purpose of this project is to develop methods for automating the process of developing ITS and thus considerably decrease the high costs of building ITS, by enabling more economical, semi-automatic development of  ITS.</p>\r\n<p>In particular, the main goals of the project is to develop methods to support automated conceptualisation of learning domains, which can be viewed as a key component in the construction of ITS systems. In the project, several experimental case studies in selected learning domains will be carried out from two types of domains: symbolic problem solving, like physics, medical reasoning and chess, and motor and/or control skill domains like running, walking in parients, or tennis.</p>\r\n<p>The role of domain conceptualisation is as follows. In complex domains, the connection between the basic domain theory (axioms, laws, formulas, rules of the game, etc.) and problem solutions is usually rather complex and hard for a human to execute. Therefore, there is typically a need for an intermediate theory, conceptualised domain theory,  that serves as a bridge between the basic declarative domain theory and procedural knowledge for concrete problem solving. This can be viewed in terms of a derivation chain as follows. Basic domain theory (axioms, etc.) logically entails a  conceptualised domain theory, which in turn entails problem solutions. Logically, the basic domain theory also entails problems solutions, but at much higher problem-solving effort. The basic theory is typically non-operational for a human (requires excessive computation, or it may be too complex to memorise), whereas the conceptualised theory is human-assimilable. These relations can be illustrated as follows:</p>\r\n<p> </p>\r\n<p>original theory ------------------------------------------&gt; problem solution</p>\r\n<p>original theory  ----&gt;  conceptualised theory ---&gt; problem solution</p>\r\n<p> </p>\r\n<p>A conceptualised domain is a problem solving tool for a human, and therefore it should be simple and compact, so that it can be understood, memorised, and executed in problem solving by the student.</p>\r\n<p>The planned conceptualisation methods will be based on some recent methods and paradigms of AI which will be adapted and further elaborated for the purpose of this project. These techniques and paradigms include: ABML (Argument Based Machine Learning) , QR (Qualitative Reasoning and modelling) , Q2 learning (Qualitatively faithful Quantitative learning), EBG and EBL (Explanation Based Generalisation and Learning), ILP (Inductive Logic Programming), and specific techniques of behavioural cloning (capturing human skill from observed humans behaviours).</p>\r\n<p>The developed conceptualisation methods will be experimentally applied to intelligent tutoring systems for selected domains as follows:</p>\r\n<p>(1) symbolic problem-solving domains: physics, medical diagnostic reasoning (diagnosis of tremors), and chess;</p>\r\n<p>(2) motor skill domains: running, tennis, walking in patients (multiple sclerosis)</p>\r\n<p>The AI part of the project will be carried out by the Artificial Intelligence Laboratory of Univ. of Ljubljana, and LMG laboratory of the Ljubljana Clinical Centre will collaborate in the neurological medical applications. These medical applications are expected to be directly adopted in the medical practice.</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Zvezdan",
+                    "priimek": "Pirto\u0161ek",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Sa\u0161a",
+                    "priimek": "\u0160ega Jazbec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Alenka",
+                    "priimek": "Horvat",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Uro\u0161",
+                    "priimek": "Rot",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Machine learning for building intelligent tutoring systems: conceptualization of problem-solving domains"
+        },
+        "id": 60,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Splo\u0161no je sprejeto, da je posami\u010dno pou\u010devanje bistveno bolj u\u010dinkovito kot pou\u010devanje v razredu u\u010dencev, vendar predrago v ve\u010dini situacij. Za ekonomi\u010dno izvedbo posami\u010dnega pou\u010devanja je zato zanimiva alternativa pou\u010devanje z ra\u010dunalniki (CAI, computer aided instruction). Vendar je CAI pou\u010devanje zelo togo, zato se za najbolj obetavno mo\u017enost smatrajo inteligentni pou\u010devalni sistemi (ITS, intelligent tutoring systems). Vendar je ovira spet v visoki ceni razvoja ITS sistemov, saj njihov razvoj zahteva obse\u017eno sodelovanje podro\u010dnega eksperta za realizacijo inteligentne interakcije med u\u010dencem in ra\u010dunalnikom. Glavni namen tega projekta je razviti metode, s katerimi bi bilo mogo\u010de vsaj delno avtomatizirati gradnjo ITS sistemov in s tem bistveno zni\u017eati stro\u0161ke gradnje.</p>\r\n<p>Glavni cilj projekta je razviti metode za avtomatsko konceptualizacijo u\u010dnih domen, kar je bistvena komponenta razvoja ITS sistemov. Izpeljali bomo tudi vrsto eksperimentalnih \u0161tudij iz dveh tipov u\u010dnih domen: simboli\u010dno re\u0161evanje problemov, kot sta fizika in \u0161ah, ter domene motori\u010dnih in kontrolnih spretnosti, kot jih najdemo pri pilotiranju, teku ali tenisu.</p>\r\n<p>Pomen konceptualizacije domen je v naslednjem.  V zahtevnih problemskih domenah je pot od osnovne teorije domene (aksiomi, zakoni, formule, pravila igre itd.) do re\u0161itev problema pogosto zelo dolga in za \u010dloveka te\u017eko izvedljiva. Zato se zna\u010dilno pojavi potreba po vmesni teoriji, konceptualizirani domenski teoriji, ki slu\u017ei kot most med osnovno deklarativno teorijo in postopkovnim znanjem, potrebnim za re\u0161evanje konkretnih problemov. To pot lahko gledamo kot verigo izpeljav: iz osnovne teorije domene logi\u010dno sledi konceptualizirana teorija, iz te pa naprej re\u0161itev problema. Re\u0161itev problema sledi tudi iz same osnovne teorije, vendar je ta pot veliko dalj\u0161a. Tako je osnovna teorija tipi\u010dno neoperativna za \u010dloveka (zahteva preve\u010d ra\u010dunanja ali pa je preobse\u017ena, da bi si jo u\u010denec sploh lahko zapomnil), medtem ko konceptualizirano teorijo po definiciji \u010dlovek lahko asimilira. Te relacije lahko ponazorimo takole:</p>\r\n<p> </p>\r\n<p>osnovna teorija ------------------------------------------&gt;  re\u0161itev problema</p>\r\n<p>osnovna teorija ---&gt; konceptualizirana teorija ---&gt; re\u0161itev problema</p>\r\n<p> </p>\r\n<p>Tako je konceptualizirana teorija u\u010dinkovito orodje za \u010dlove\u0161ko re\u0161evanje problemov, zato pa mora biti enostavna in kompaktna, da jo lahko u\u010denec razume, si jo zapomni in uporabi pri re\u0161evanju konkretnih problemov. Poleg metod konceptualizacije se bomo posvetili tudi metodam avtomatskega generianja komentarjev re\u0161itev v lu\u010di uporabljene knceptualizacije.</p>\r\n<p>Kot tehni\u010dno osnovo za razvoj in implementacijo metod konceptualizacije nameravamo uporabiti nekatere novej\u0161e tehnike in paradigme umetne inteligence, ki jih nameravamo dopolniti oz. nadgraditi za potrebe konceptualizacije. Med temi so: argumentirano strojno u\u010denje (ABML; Argument Based Machine Learning), kvalitativno sklepanje in modeliranje (QR; Qualitative Reasoning and modelling), Q2 u\u010denje (Qualitatively faithful Quantitative learning), generalizacija in u\u010denje z razlago (EBG, EBL; Explanation Based Generalisation and Learning), induktivno logi\u010dno programiranje (ILP; Inductive Logic Programming), ter specifi\u010dne tehnike za vedenjsko kloniranje (zajemanje \u010dlove\u0161kih motori\u010dnih/kontrolnih ve\u0161\u010din).</p>\r\n<p>Razvite metode konceptualizacije bomo eksperimentalno uporabili na izbranih domenah pou\u010devanja z ITS kot sledi:</p>\r\n<p>(1) simbolno re\u0161evanje problemov: fizika, medicinsko diagnosti\u010dno sklepanje (diagnostika tremorjev) in \u0161ah;</p>\r\n<p>(2) motori\u010dne spretnosti: tek, tenis in hoja pri bolnikih (multipla skleroza).</p>\r\n<p> </p>\r\n<p>Raziskave iz umetne inteligence v tem projektu bo izvajal Laboratorij za umetno inteligenco Univerze v Ljubljani, medtem ko bo Laboratorij za motnje gibanja Klini\u010dnega centra v Ljubljani sodeloval pri medicinskih aplikacijah. Pri\u010dakujemo, da bosta obe medicinski aplikaciji neposredno postali del klini\u010dne prakse.</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Zvezdan",
+                    "priimek": "Pirto\u0161ek",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Sa\u0161a",
+                    "priimek": "\u0160ega Jazbec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Alenka",
+                    "priimek": "Horvat",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Uro\u0161",
+                    "priimek": "Rot",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje: konceptualizacija domen simboli\u010dnega re\u0161evanja problemov"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>X-Media addresses the issue of knowledge management in complex distributed environments. It studies, develops and implements large scale methodologies and techniques for knowledge management able to support sharing and reuse of knowledge that is distributed in different media (images, documents and data) and repositories (data bases, knowledge bases, document repositories, etc.) or that is inaccessible for current systems, which cannot capture the knowledge implicit across media. X-Media studies, designes and developes:</p>\r\n\r\n<p>1) Effective and efficient new paradigms for knowledge retrieval, sharing and reuse which enable users to define and parameterize views on the available knowledge according to their needs. Users are supported by an anticipatory system able to trace automatically the user profile and help focusing in the large search space.</p>\r\n\r\n<p>2) Novel and cutting-edge knowledge fusion methods to support knowledge workers in making decisions when confronted with - possibly contradicting - knowledge derived from different resources.</p>\r\n\r\n<p>3) Techniques able to represent and manage (i) uncertainty, (ii) trust and provenance as well as (iii) dynamic aspects of knowledge, in order to help users balancing their judgment;</p>\r\n\r\n<p>4)Robust and scalable knowledge acquisition and data analysis tools operating across media boundaries (text, images and data) to automatically cross-relate and annotate text and images with metadata for easier sharing and retrieval as well as fostering integration with other resources.</p>\r\n\r\n<p>5) A methodology and a technical infrastructure able to deliver knowledge from across media to the knowledge workers, taking into account the complexity of managing different media with different size of data.</p>\r\n\r\n<p>6) A generic and flexible architecture allowing end users to easily customize it and integrate it with their KM practices or needs as well as a mainly open source reference implementation and libraries which technology providing companies can reuse.</p>\r\n",
+            "end_date": "2009-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "X-MEDIA",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2006-03-01 00:00:00",
+            "title": "X-MEDIA - Large Scale Knowledge Sharing and Reuse Across Media"
+        },
+        "id": 68,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>V projektu X-Media se ukvarjamo s problemom upravljanja znanja (ang. knowledge management) v velikih porazdeljenih sistemih. Cilj projekta je razviti metodologije in tehnike ter implementirati sisteme, ki bodo omogocali delo z znanjem pridobljenim iz razlicnih vrst podatkov (slike, tekst, podatki) in shranjenim na razlicnih mestih (razlicne podatkovne baze, baze znanja, itd.).</p>\r\n",
+            "end_date": "2009-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "X-MEDIA",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2006-03-01 00:00:00",
+            "title": "X-MEDIA - Large Scale Knowledge Sharing and Reuse Across Media"
+        }
+    },
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The project&#39;s goal is to develop a web and mobile application for timely detection and monitoring of Parkinson&#39;s disease (PD) and some other tremors. The application will be based on spirography and will include an expert system enabling automatic diagnostics. Thus it will be able to encourage potential patients to see the doctor in the early stage of the disease leading to timely start of the treatment and the improvement of the quality of life associated with the treatment.</p>\r\n<p>PB is currently not curable, however the treatment can ease the symptoms and improve the quality of patients life. The latest research also suggests that the start of the treatment in the early motoric phase with l-dopa or MAO-B inhibitors can slow down the progress of the disease. Since PB is a chronic disease its efficient monitoring is very important. Early detection of PB is also beneficial from the scientific point of view, since currently its early phase biological markers are not well known.</p>\r\n<p>The tremor is one of PB&#39;s main symptoms. The spirography is a technique for quantitative assessment of the tremors: on the basis of a drawn spiral several parameters are calculated, and these parameters are then employed by the expert system to differentiate between different tremor types and to perform automatic diagnostics. In this way, the application is able to detect not only PB, but also some other types of tremor, e.g. essential tremor.</p>\r\n<p>The application offers a free possibility of self-diagnosis to the whole population using the smart phones. We envision that this will encourage many patients to see the doctor at a much earlier phase of the disease. We also envision the web application as a cheap possibility of diagnostics in primary health centres, e.g. as part of routine check-ups.</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "PARKINSCHECK",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2012-08-21 00:00:00",
+            "title": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni"
+        },
+        "id": 88,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>V okviru projekta razvijamo eStoritev in mobilno aplikacijo za pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni (PB) in hkrati nekaterih drugih tremorjev. Aplikacija bo temeljila na spirografiji in bo vsebovala ekspertni sistem za avtomatsko diagnostiko. Tako bo lahko potencialne bolnike napotila do zdravnika \u017ee v zgodnji fazi bolezni in s tem omogo\u010dila pravo\u010dasen za\u010detek zdravljenja in s tem povezano izbolj\u0161anje kvalitete \u017eivljenja.</p>\r\n<p>PB trenutno ni ozdravljiva, a zdravljenje omogo\u010da laj\u0161anje simptomov, kar bistveno izbolj\u0161a kvaliteto bolnikovega \u017eivljenja. Obenem novej\u0161e \u0161tudije ka\u017eejo, da za\u010detek zdravljenja PB v zgodnji motori\u010dni fazi z l-dopo oz. z dopaminskimi agonisti ali MAO-B inhibitorji upo\u010dasni napredovanje bolezni. Ker je PB kroni\u010dna bolezen, je u\u010dinkovito spremljanje bolnikov izrednega pomena. Pravo\u010dasno odkrivanje PB je koristno tudi iz znanstvenega vidika, saj zaenkrat ne poznamo dobro biolo\u0161kih (klini\u010dnih in laboratorijskih) markerjev zgodnje faze PB.</p>\r\n<p>Tremor je eden izmed glavnih simptomov PB. Spirografija je tehnika za kvantitativno ocenjevanje tremorjev; na podlagi narisane spirale se izra\u010duna ve\u010d parametrov, ki jih ekspertni sistem uporabi za avtomatsko diagnostiko in razlo\u010devanje razli\u010dnih tipov tremorjev. Na ta na\u010din aplikacija poleg PB zazna tudi druge vrste tremorjev, kot npr. esencialni tremor.</p>\r\n<p>Predlagana re\u0161itev ponuja brezpla\u010dno mo\u017enost samodiagnoze celotni populaciji preko pametnih telefonov. Predvidevamo, da bo to marsikaterega bolnika vzpodbudilo, da pride na zdravljenje v veliko bolj zgodnji fazi bolezni. Obenem vidimo eStoritev kot poceni mo\u017enost diagnostike v zdravstvenih domovih na primarni ravni, npr. kot del sistemati\u010dnih pregledov.</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "PARKINSCHECK",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2012-08-21 00:00:00",
+            "title": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni"
+        }
+    },
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The purpose of the EkoSMART programme is to develop a smart city ecosystem with all the support mechanisms required for the efficient, optimised and gradual integration of various smart city areas into a unified and well connected system of value chains. The programme focuses on three key pillars for smart cities (health, active life and mobility) and is strategically linked with municipalities and other important smart city domains, such as energy, smart buildings, citizen involvement and engagement and smart communities. EkoSMART introduces a universal architecture for a smart city that is based on self-learning and self-optimising agents</p>\r\n<p>which can find a common Nash equilibrium between heterogenous sources. This architecture allows for the realisation of smart city concepts such as interoperability, adaptability, self-configurability, open data, semantic interoperability and the integration of social capital. In economic terms, the vision of the EkoSMART programme is to enable Slovenian smart city innovations and products to enter the global market. This vision will be achieved through the following key approaches: the concentration of critical mass of knowledge and experience; a focus on the user; evolutionary development; and flexible architecture.</p>\r\n\r\n<p>The EkoSMART programme differs from other initiatives in the following ways: </p>\r\n<p> there is an emphasis on electronic and mobile health and mobility as the pillars of smart cities; </p>\r\n<p> it introduces modular, selfconfigurable, self-optimising, flexible, adaptable and intelligent universal architecture; </p>\r\n<p> there is an intensive focus on the development and implementation of new ICT methods and concepts such as the Internet of things and artificial intelligence for the continued development of technology and human society; </p>\r\n<p> is based on a high-quality consortium of advanced partners, and is therefore also strategically linked to smart home and health programmes;</p>\r\n<p> it puts strong emphasis on smart specialisation, i.e. the introduction of interconnected citizen, technology and market value chains.</p>\r\n\r\n\r\n\r\n\r\n\r\n",
+            "end_date": "2019-07-31 00:00:00",
+            "logo": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RDyRXhpZgAATU0AKgAAAAgABAE7AAIAAAANAAAISodpAAQAAAABAAAIWJydAAEAAAAaAAAQ0OocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFZhdnRhciwgTHVrYQAAAAWQAwACAAAAFAAAEKaQBAACAAAAFAAAELqSkQACAAAAAzg2AACSkgACAAAAAzg2AADqHAAHAAAIDAAACJoAAAAAHOoAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyMDE3OjExOjA2IDEzOjAzOjQ5ADIwMTc6MTE6MDYgMTM6MDM6NDkAAABWAGEAdgB0AGEAcgAsACAATAB1AGsAYQAAAP/hCx9odHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDE3LTExLTA2VDEzOjAzOjQ5Ljg2NDwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5WYXZ0YXIsIEx1a2E8L3JkZjpsaT48L3JkZjpTZXE+DQoJCQk8L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+PC9yZGY6UkRGPjwveDp4bXBtZXRhPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQg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",
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630539",
+                    "ime": "Sandi",
+                    "priimek": "Gec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630987",
+                    "ime": "Marko",
+                    "priimek": "Jankovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630750",
+                    "ime": "An\u017ee",
+                    "priimek": "Rezelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630638",
+                    "ime": "Petar",
+                    "priimek": "Kochovski",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630796",
+                    "ime": "Janez",
+                    "priimek": "Bindas",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EkoSmart",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2016-08-01 00:00:00",
+            "title": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem"
+        },
+        "id": 230,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>Namen programa EkoSmart je razviti ekosistem pametnega mesta z vsemi podpornimi mehanizmi, ki so potrebni za u\u010dinkovito, optimizirano in postopno integracijo posameznih podro\u010dij v enovit in povezan sistem vrednostnih verig. Program se osredoto\u010da na tri klju\u010dne domene pametnega mesta, zdravje, aktivno \u017eivljenje in mobilnost ter se strate\u0161ko povezuje (glejte pisma podpore) z ob\u010dinami ter z drugimi podro\u010dji pametnega mesta, kot so energetika, pametne stavbe, vklju\u010denost dr\u017eavljanov, pametne skupnosti ipd.</p>\r\n<p>EkoSMART uvaja univerzalno arhitekturo pametnega mesta, temelje\u010do na zdru\u017ebi samou\u010de\u010dih in samooptizirajo\u010dih se agentov, ki znajo poiskati skupno Nashevo ravnovesje tudi med nehomogenimi viri; ta arhitektura omogo\u010da realizacijo vseh konceptov pametnih mest kot interoperabilnost, samoadaptivnost in samokonfigurabilnost, odprte podatke, semanti\u010dno povezljivost, integracijo socialnega kapitala.</p>\r\n<p>Z vidika gospodarstva je vizija programa EkoSmart omogo\u010diti preboj slovenskih re\u0161itev s podro\u010dja pametnih mest na svetovni trg. To vizijo bo program uresni\u010deval z ve\u010d pomembnimi pristopi: koncentracija znanja in izku\u0161enj, osredoto\u010denost na uporabnika, evolucijski razvoj, fleksibilna arhitektura.Namen programa EkoSmart je razviti ekosistem pametnega mesta z vsemi podpornimi mehanizmi, ki so potrebni za u\u010dinkovito, optimizirano in postopno integracijo posameznih podro\u010dij v enovit in povezan sistem vrednostnih verig.</p>\r\n<p>Program se osredoto\u010da na tri klju\u010dne domene pametnega mesta, zdravje, aktivno \u017eivljenje in mobilnost ter se strate\u0161ko povezuje (glejte pisma podpore) z ob\u010dinami ter z drugimi podro\u010dji pametnega mesta, kot so energetika, pametne stavbe, vklju\u010denost dr\u017eavljanov, pametne skupnosti ipd. EkoSMART uvaja univerzalno arhitekturo pametnega mesta, temelje\u010do na zdru\u017ebi samou\u010de\u010dih in samooptizirajo\u010dih se agentov, ki znajo poiskati skupno Nashevo ravnovesje tudi med nehomogenimi viri; ta arhitektura omogo\u010da realizacijo vseh konceptov pametnih mest kot interoperabilnost, samoadaptivnost in samokonfigurabilnost, odprte podatke, semanti\u010dno povezljivost, integracijo socialnega kapitala. Z vidika gospodarstva je vizija programa EkoSmart omogo\u010diti preboj slovenskih re\u0161itev s podro\u010dja pametnih mest na svetovni trg. To vizijo bo program uresni\u010deval z ve\u010d pomembnimi pristopi: koncentracija znanja in izku\u0161enj, osredoto\u010denost na uporabnika, evolucijski razvoj, fleksibilna arhitektura.</p>\r\n",
+            "end_date": "2019-07-31 00:00:00",
+            "logo": "data:image/png;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RDyRXhpZgAATU0AKgAAAAgABAE7AAIAAAANAAAISodpAAQAAAABAAAIWJydAAEAAAAaAAAQ0OocAAcAAAgMAAAAPgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFZhdnRhciwgTHVrYQAAAAWQAwACAAAAFAAAEKaQBAACAAAAFAAAELqSkQACAAAAAzg2AACSkgACAAAAAzg2AADqHAAHAAAIDAAACJoAAAAAHOoAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAyMDE3OjExOjA2IDEzOjAzOjQ5ADIwMTc6MTE6MDYgMTM6MDM6NDkAAABWAGEAdgB0AGEAcgAsACAATAB1AGsAYQAAAP/hCx9odHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkJz8+DQo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIj48cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPjxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSJ1dWlkOmZhZjViZGQ1LWJhM2QtMTFkYS1hZDMxLWQzM2Q3NTE4MmYxYiIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIi8+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iPjx4bXA6Q3JlYXRlRGF0ZT4yMDE3LTExLTA2VDEzOjAzOjQ5Ljg2NDwveG1wOkNyZWF0ZURhdGU+PC9yZGY6RGVzY3JpcHRpb24+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iPjxkYzpjcmVhdG9yPjxyZGY6U2VxIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpsaT5WYXZ0YXIsIEx1a2E8L3JkZjpsaT48L3JkZjpTZXE+DQoJCQk8L2RjOmNyZWF0b3I+PC9yZGY6RGVzY3JpcHRpb24+PC9yZGY6UkRGPjwveDp4bXBtZXRhPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQg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",
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630490",
+                    "ime": "Mojca",
+                    "priimek": "Ciglari\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630539",
+                    "ime": "Sandi",
+                    "priimek": "Gec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630976",
+                    "ime": "Miha",
+                    "priimek": "Grohar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630987",
+                    "ime": "Marko",
+                    "priimek": "Jankovi\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630689",
+                    "ime": "Alja\u017e",
+                    "priimek": "Zrnec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630698",
+                    "ime": "Slavko",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630750",
+                    "ime": "An\u017ee",
+                    "priimek": "Rezelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630638",
+                    "ime": "Petar",
+                    "priimek": "Kochovski",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630796",
+                    "ime": "Janez",
+                    "priimek": "Bindas",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "EkoSmart",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2016-08-01 00:00:00",
+            "title": "EkoSmart - Eko Sistem Pametnega Mesta"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630551",
+                    "ime": "Ana",
+                    "priimek": "Herzog",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Molecular and other prognosticators of lung cancer and mesothelioma "
+        },
+        "id": 502,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630551",
+                    "ime": "Ana",
+                    "priimek": "Herzog",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Molekularni ozna\u010devalci raka plju\u010d in njim prilagojeno zdravljenje "
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>The overall objective of the proposed project is to develop an embodied cognitive agent, which is able to conduct experiments in the real world with the purpose of gaining new insights about the world and the objects therein and to develop and improve its own cognitive skills and overall performance. It is obvious that for the ability to conduct experiments in the real world, embodiment is a fundamental prerequisite.Expected results of the project are basic models, techniques, and system solutions, enabling an embodied agent to autonomously design and conduct experiments in a given context - stimulating the agent&#39;s desire to gather new knowledge - and to extract new insights from the results of the experiment.XPERO proposes to approach this problem by developing a methodology for learning by experimentation. Enabling an embodied agent, in the sequel called robot, to design and conduct experiments in a natural real world setting and to extract new insights is more than just adding another feature to a technical system. The ability to conduct experiments in the real world and extract new knowledge and insights pushes open the door to a new quality of embodied systems namely to potentially unlimited autonomous learning. This ability enables the robot to grow in an unlimited fashion its cognitive capacity and its performance to accomplish meaningful tasks in the real world. Limitations are only set by the surrounding world and its own physical capabilities, and not by availability of a programmer, teacher or learning material. We plan to achieve this objective by performing research and development in the following areas Stimulation of Experiment, Design and Execution of Experiments, Observation and Evaluation of Experiments, Representing Knowledge and Gaining Insights, and Engineering the Experimental Loop.</p>\r\n",
+            "end_date": "2009-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "XPERO",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2006-04-01 00:00:00",
+            "title": "XPERO - Learning by Experimentation"
+        },
+        "id": 1575,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>Cilj projekta XPERO je razviti avtonomnega kognitivnega agenta, ki v realnem svetu izvaja poskuse z namenom pridobiti nova spoznanja o zakonitostih sveta; pri tem naj razvija svoje kognitivne sposobnosti oz. svoj model sveta. Osnovna zahteva za izvajanje poskusov je avtonomni robot v fizi\u010dni obliki, ne virtualni agent v simuliranem okolju. Pri\u010dakovani rezultati projekta so osnovni modeli in tehnike avtonomnega u\u010denja, ki robotu omogo\u010dajo avtonomno izvajanje poskusov in sprotno u\u010denje; robot ima vgrajeno \u017eeljo po izpopolnjevanju svojih modelov.</p>\r\n<p>V projektu XPERO razvijemo metodologijo u\u010denja s posku\u0161anjem, ki fizi\u010dnemu robotu omogo\u010da izvajanje poskusov v realnem svetu in pridobiva nova spoznanja o njegovih zakonitostih. Tak pristop robotu omogo\u010da neomejeno razvijanje kognitivnih sposobnosti in zmo\u017enosti izvajanja smiselnih nalog v realnem svetu v okviru fizi\u010dnih omejitev sveta in robota samega. </p>\r\n",
+            "end_date": "2009-09-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "XPERO",
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2006-04-01 00:00:00",
+            "title": "XPERO - U\u010denje s posku\u0161anjem"
+        }
+    }
+]

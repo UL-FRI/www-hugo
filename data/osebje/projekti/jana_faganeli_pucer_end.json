@@ -1,0 +1,168 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The coronary artery disease, also known as ischemic heart disease, frequently results in a heart attack and is the most common cause of death globally. Ischemia (a restriction in blood supply to tissues) is generally caused by problems with blood vessels with resultant damage and dysfunction of tissue.  Currently, the application of state-of-the-art Finite Element Methods (FEM) ischemia modelling techniques in urgent clinical situations, such as alerting patient in case of ischemia, is not possible as it requires knowledge of patient-specific anatomy which requires long measurements. We will develop a two&#172;step solution which alleviates these problems: 1. creation of large virtual FEM based database, 2. detection of ischemic beats and prediction of ischemia location using the developed database and data mining. The final solution will select classifiers, which are successful in detecting ischemic pulses based on potentials measured on the body surface (i.e., ECG), which will allow fast ischemia detection in urgent situations. If the ECG is classified as ischemic by the first stage classifier, it will be processed by the second stage data mining model, which will predict the location of the ischemic area.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630970",
+                    "ime": "Miha",
+                    "priimek": "Drole",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630511",
+                    "ime": "Matja\u017e",
+                    "priimek": "Kukar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630533",
+                    "ime": "Marko",
+                    "priimek": "Robnik \u0160ikonja",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630919",
+                    "ime": "Petar",
+                    "priimek": "Vra\u010dar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2016-02-04 00:00:00",
+            "title": "Automatic detection and localization of ischemia by the use of data mining algorithms"
+        },
+        "id": 200,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Ishemi\u010dna bolezen srca (tudi koronarna sr\u010dna bolezen) se pogosto kon\u010da s sr\u010dno&#172;mi\u0161i\u010dnim infarktom in je po vsem svetu eden najpogostej\u0161ih vzrokov smrti. Ishemijo, ki pomeni nezadostno preskrbo tkiv s krvjo, ve\u010dinoma povzro\u010dajo bolezni o\u017eilja, kar povzro\u010da po\u0161kodbe in odmiranje prizadetega tkiva. Sodobni, izpopolnjeni pristopi k modeliranju ishemij z metodo kon\u010dnih elementov (FEM) zaenkrat \u0161e niso primerni za urgentne situacije, kot je npr. takoj\u0161nje ukrepanje v primeru ishemije, saj zahtevajo poznavanje specifi\u010dnosti anatomije posameznika, ki zahteva natan\u010dne in \u010dasovno dolgotrajne meritve.  Razvili bomo dvostopenjsko re\u0161itev, ki se elegantno izogne tem te\u017eavam: 1.izdelava velike virtualne podatkovne baze FEM modelov, 2. zaznavanje ishemi\u010dnih utripov in napovedovanje ishemij s pomo\u010djo zgrajene baze in podatkovnega rudarjenja. Kon\u010dna re\u0161itev bo izbrala tak\u0161ne klasifikatorje, ki dobro napovedujejo ishemi\u010dne utripe na podlagi potencialov, izmerjenih na povr\u0161ini telesa (torej ECG), kar bo omogo\u010dilo hitro prepoznavanje ishemij tudi v urgentnih situacijah. \u010ce bo v prvi fazi dolo\u010den ECG razvr\u0161\u010den v kategorijo ishemi\u010dnih, bo na njem uporabljen \u0161e drugostopenjski klasifikator, ki bo napovedoval lokacijo ishemi\u010dnega podro\u010dja.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630970",
+                    "ime": "Miha",
+                    "priimek": "Drole",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630511",
+                    "ime": "Matja\u017e",
+                    "priimek": "Kukar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630533",
+                    "ime": "Marko",
+                    "priimek": "Robnik \u0160ikonja",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630919",
+                    "ime": "Petar",
+                    "priimek": "Vra\u010dar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 2,
+            "start_date": "2016-02-04 00:00:00",
+            "title": "Avtomatsko zaznavanje in lokalizacija ishemij z uporabo algoritmov podatkovnega rudarjenja"
+        }
+    },
+    {
+        "en": {
+            "client": "Republika Slovenija, Ministrstvo za okolje in prostor, Agencija RS za okolje",
+            "description": null,
+            "end_date": "2019-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2018-03-05 00:00:00",
+            "title": "Poro\u010danje podatkov o kakovosti zraka na Evropsko okoljsko agencijo in preverjanje statisti\u010dnega modela za napovedovanje onesna\u017eeval"
+        },
+        "id": 514,
+        "si": {
+            "client": "Republika Slovenija, Ministrstvo za okolje in prostor, Agencija RS za okolje",
+            "description": null,
+            "end_date": "2019-02-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2018-03-05 00:00:00",
+            "title": "Poro\u010danje podatkov o kakovosti zraka na Evropsko okoljsko agencijo in preverjanje statisti\u010dnega modela za napovedovanje onesna\u017eeval"
+        }
+    }
+]

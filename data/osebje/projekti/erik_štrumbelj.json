@@ -1,0 +1,514 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "The development of methods for evaluation of reliability of prediction in classification and regression and their incorporation into existing machine learning systems. \r\nThe development of methods for parametrization of images and for image mining on different levels of abstraction and their application in various medical diagnostic problems (such as a whole body scintigraphy, and scintigraphy of coronary vessels). \r\nThe development of algorithms for feature evaluation in classification and regression that take into account various interactions between attributes, and their integration into the existing machine learning and data mining systems. \r\nThe development and practical implementation of the methodology for connection between machine learning and data bases. \r\nThe development of methods for explaining the prediction in classification and regression and various applications of developed methods (for example in medical diagnosis).",
+            "end_date": "2020-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630864",
+                    "ime": "Zoran",
+                    "priimek": "Bosni\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630620",
+                    "ime": "Niko",
+                    "priimek": "Colneri\u010d",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630717",
+                    "ime": "Andrej",
+                    "priimek": "\u010copar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630992",
+                    "ime": "Toma\u017e",
+                    "priimek": "Ho\u010devar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630730",
+                    "ime": "Martin",
+                    "priimek": "Jakomin",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630309",
+                    "ime": "Igor",
+                    "priimek": "Kononenko",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630511",
+                    "ime": "Matja\u017e",
+                    "priimek": "Kukar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630993",
+                    "ime": "Timotej",
+                    "priimek": "Lazar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630716",
+                    "ime": "Matev\u017e",
+                    "priimek": "Pober\u017enik",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630533",
+                    "ime": "Marko",
+                    "priimek": "Robnik \u0160ikonja",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630921",
+                    "ime": "Domen",
+                    "priimek": "\u0160oberl",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630938",
+                    "ime": "Ale\u0161",
+                    "priimek": "Erjavec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Artificial intelligence and inteligent systems"
+        },
+        "id": 6,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>\u010clani programske skupine se ukvarjajo z raziskavami na naslednjih podro\u010djih:</p>\r\n<p>strojno u\u010denje in odkrivanje zakonitosti v podatkih;</p>\r\n<p>evolucijsko ra\u010dunanje in preiskovalni algoritmi;</p>\r\n<p>programiranje z omejitvami in kombinatori\u010dna optimizacija;</p>\r\n<p>metode kvalitativnega sklepanja;</p>\r\n<p>strojno u\u010denje v biomedicinski informatiki;</p>\r\n<p>agentni sistemi in semanti\u010dni splet.</p>\r\n<p>Vse raziskovalne teme so vseskozi motivirane z mo\u017enostmi uporabe in neposrednimi konkretnimi aplikacijami.</p>\r\n",
+            "end_date": "2020-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630864",
+                    "ime": "Zoran",
+                    "priimek": "Bosni\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630620",
+                    "ime": "Niko",
+                    "priimek": "Colneri\u010d",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630891",
+                    "ime": "Toma\u017e",
+                    "priimek": "Curk",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630717",
+                    "ime": "Andrej",
+                    "priimek": "\u010copar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630589",
+                    "ime": "Janez",
+                    "priimek": "Dem\u0161ar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630855",
+                    "ime": "Matej",
+                    "priimek": "Guid",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630992",
+                    "ime": "Toma\u017e",
+                    "priimek": "Ho\u010devar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630730",
+                    "ime": "Martin",
+                    "priimek": "Jakomin",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630309",
+                    "ime": "Igor",
+                    "priimek": "Kononenko",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630511",
+                    "ime": "Matja\u017e",
+                    "priimek": "Kukar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630993",
+                    "ime": "Timotej",
+                    "priimek": "Lazar",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630716",
+                    "ime": "Matev\u017e",
+                    "priimek": "Pober\u017enik",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630533",
+                    "ime": "Marko",
+                    "priimek": "Robnik \u0160ikonja",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630921",
+                    "ime": "Domen",
+                    "priimek": "\u0160oberl",
+                    "role": "Mladi raziskovalec"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630908",
+                    "ime": "Marko",
+                    "priimek": "Toplak",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630650",
+                    "ime": "Bla\u017e",
+                    "priimek": "Zupan",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630995",
+                    "ime": "Marinka",
+                    "priimek": "\u017ditnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630938",
+                    "ime": "Ale\u0161",
+                    "priimek": "Erjavec",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2015-01-01 00:00:00",
+            "title": "Umetna inteligenca in inteligentni sistemi"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2021-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2018-07-01 00:00:00",
+            "title": "Decomposing cognition: Working memory mechanism and representations"
+        },
+        "id": 564,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2021-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630963",
+                    "ime": "Rok",
+                    "priimek": "\u010ce\u0161novar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630896",
+                    "ime": "Jana",
+                    "priimek": "Faganeli Pucer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2018-07-01 00:00:00",
+            "title": "Razstavljanje kognicije: Mehanizmi in reprezentacije delovnega spomina"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The programme is focused on delivering cutting-edge knowledge for adoption of digitalization in society, organizations, and individuals. We aim at fostering a sustainable digital environment in an ethical manner while preparing the next generation for the workplaces of the future.</p>\r\n",
+            "end_date": "2024-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2019-01-01 00:00:00",
+            "title": "Digitalization as Driving Force for Sustainability of Individuals, Organizations, and Society"
+        },
+        "id": 1587,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2024-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta na FRI"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2019-01-01 00:00:00",
+            "title": "Digitalizacija kot gonilo trajnostnega razvoja posameznika, organizacij in dru\u017ebe"
+        }
+    },
+    {
+        "en": {
+            "client": "BSP Regionalna Energetska Borza d.o.o.",
+            "description": null,
+            "end_date": "2019-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630555",
+                    "ime": "Gregor",
+                    "priimek": "Pir\u0161",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2019-01-25 00:00:00",
+            "title": "Sestava namenskih algoritmov"
+        },
+        "id": 1603,
+        "si": {
+            "client": "BSP Regionalna Energetska Borza d.o.o.",
+            "description": null,
+            "end_date": "2019-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630898",
+                    "ime": "Erik",
+                    "priimek": "\u0160trumbelj",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630555",
+                    "ime": "Gregor",
+                    "priimek": "Pir\u0161",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2019-01-25 00:00:00",
+            "title": "Sestava namenskih algoritmov"
+        }
+    }
+]

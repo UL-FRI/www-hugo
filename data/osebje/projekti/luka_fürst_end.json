@@ -1,0 +1,312 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our research interests cover all aspects of computer vision.</p>\r\n<p>Computer vision generally interprets images which represent a 3D environment.</p>\r\n<p>Images can be captured with optical systems (i.e. video camera) or special sensors such as range sensors or medical imaging systems which capture the internal structure of 3D bodies (i.e. CAT, NMR).</p>\r\n\r\n<p>The results of interpretation depend on the goal or the role of computer vision in the overall system (i.e. identification of a person on a photography or visual navigation of a mobile robot). The interpretation results can be the segmentation of an image into</p>\r\n<p>semantic units, a geometric description of the scene, object tracking parameters, identification of classification of objects on the image etc.</p>\r\n\r\n<p>The main reasons why 3D interpretation of images is difficult are:</p>\r\n<p>when a 3D scene is projected on a 2D image plane,</p>\r\n<p>segmentation of an image into meaningful parts depends on the recognition of those parts,</p>\r\n<p>understanding of human and biological vision is also not complete.</p>\r\n\r\n<p>Goals of our research program are:</p>\r\n<p>identification of models and algorithms which are beside the image information crucial for image interpretation, development of computer vision systems for solving specific problems (i.e. reconstruction of CAD models from images, content-based search of image databases, object recognition).</p>\r\n\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630724",
+                    "ime": "Matej",
+                    "priimek": "Arta\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630772",
+                    "ime": "Borut",
+                    "priimek": "Batagelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630892",
+                    "ime": "Luka",
+                    "priimek": "F\u00fcrst",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630405",
+                    "ime": "Ale\u0161",
+                    "priimek": "Jakli\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630688",
+                    "ime": "Matja\u017e",
+                    "priimek": "Jogan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630007",
+                    "ime": "Jaka",
+                    "priimek": "Krivic",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630558",
+                    "ime": "Bojan",
+                    "priimek": "Kverh",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630252",
+                    "ime": "Ale\u0161",
+                    "priimek": "Leonardis",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630449",
+                    "ime": "Jasna",
+                    "priimek": "Maver",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630662",
+                    "ime": "Peter",
+                    "priimek": "Peer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630805",
+                    "ime": "Miha",
+                    "priimek": "Peternel",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630630",
+                    "ime": "Danijel",
+                    "priimek": "Sko\u010daj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2009-01-01 00:00:00",
+            "title": "Computer Vision"
+        },
+        "id": 9,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Raziskovalni program obsega vse vidike ra\u010dunalni\u0161kega vida. Ra\u010dunalni\u0161ki vid se ukvarja z interpretacijo slik, ki prikazujejo 3D okolje. Slike so obi\u010dajno zajete z opti\u010dnim sistemom (npr. video kamera), posebnimi globinskimi senzorji (npr. laser ali strukturirana svetloba) ali sistemi za odslikavo notranje strukture objektov (npr. CAT, NMR). Kak\u0161en je rezultat interpretacije, je odvisno od cilja oziroma vloge ra\u010dunalni\u0161kega vida v \u0161ir\u0161em sistemu (npr. identifikacija osebe na sliki ali navigacija mobilnega robota). Rezultat interpretacije je lahko segmentacija slike na smiselne enote, geometrijski (npr. 3D) opis scene, sledenje objektu, identifikacija ali klasifikacija objektov na sliki itd.</p>\r\n\r\n<p>Osnovni razlogi, zakaj problem 3D interpretacije slik ni re\u0161en, so:</p>\r\n<p>pri odslikavi 3D scene na 2D slikovno ravnino se izgubi precej informacij,</p>\r\n<p>razdelitev slike na smiselne celote je odvisna od razpoznave tistega, kar je na sliki,</p>\r\n<p>tudi razumevanje \u010dlove\u0161kega/biolo\u0161kega vida \u0161e ni popolno.</p>\r\n\r\n<p>Cilji raziskovalnega programa Ra\u010dunalni\u0161ki vid so:</p>\r\n<p>razumevanje, katere informacije (modeli, algoritmi) so poleg informacij na sliki \u0161e potrebne za interpretacijo slik in gradnja sistemov ra\u010dunalni\u0161kega vida za re\u0161itev povsem konkretnih nalog (npr. rekonstrukcija CAD modelov iz slik objektov, preiskovanje slikovnih podatkovnih baz, razpoznavanje objektov itd.).</p>\r\n",
+            "end_date": "2014-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630724",
+                    "ime": "Matej",
+                    "priimek": "Arta\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630772",
+                    "ime": "Borut",
+                    "priimek": "Batagelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630892",
+                    "ime": "Luka",
+                    "priimek": "F\u00fcrst",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630405",
+                    "ime": "Ale\u0161",
+                    "priimek": "Jakli\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630688",
+                    "ime": "Matja\u017e",
+                    "priimek": "Jogan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630007",
+                    "ime": "Jaka",
+                    "priimek": "Krivic",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630558",
+                    "ime": "Bojan",
+                    "priimek": "Kverh",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630252",
+                    "ime": "Ale\u0161",
+                    "priimek": "Leonardis",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630449",
+                    "ime": "Jasna",
+                    "priimek": "Maver",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630662",
+                    "ime": "Peter",
+                    "priimek": "Peer",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630805",
+                    "ime": "Miha",
+                    "priimek": "Peternel",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630630",
+                    "ime": "Danijel",
+                    "priimek": "Sko\u010daj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630376",
+                    "ime": "Franc",
+                    "priimek": "Solina",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2009-01-01 00:00:00",
+            "title": "Ra\u010dunalni\u0161ki vid"
+        }
+    },
+    {
+        "en": {
+            "client": "Visual Assistant Matej Zorec s.p.",
+            "description": null,
+            "end_date": "2017-04-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630813",
+                    "ime": "Uro\u0161",
+                    "priimek": "\u010cibej",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630610",
+                    "ime": "Toma\u017e",
+                    "priimek": "Dobravec",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630892",
+                    "ime": "Luka",
+                    "priimek": "F\u00fcrst",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630775",
+                    "ime": "Jurij",
+                    "priimek": "Miheli\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630575",
+                    "ime": "Borut",
+                    "priimek": "Robi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630601",
+                    "ime": "Bo\u0161tjan",
+                    "priimek": "Slivnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-06-30 00:00:00",
+            "title": "Razvoj na projektu Visual Assistant"
+        },
+        "id": 273,
+        "si": {
+            "client": "Visual Assistant Matej Zorec s.p.",
+            "description": null,
+            "end_date": "2017-04-28 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630813",
+                    "ime": "Uro\u0161",
+                    "priimek": "\u010cibej",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630610",
+                    "ime": "Toma\u017e",
+                    "priimek": "Dobravec",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630892",
+                    "ime": "Luka",
+                    "priimek": "F\u00fcrst",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630775",
+                    "ime": "Jurij",
+                    "priimek": "Miheli\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630575",
+                    "ime": "Borut",
+                    "priimek": "Robi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630601",
+                    "ime": "Bo\u0161tjan",
+                    "priimek": "Slivnik",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2016-06-30 00:00:00",
+            "title": "Razvoj na projektu Visual Assistant"
+        }
+    }
+]

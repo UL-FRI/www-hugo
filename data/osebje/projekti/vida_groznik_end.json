@@ -1,0 +1,216 @@
+[
+    {
+        "en": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>The project&#39;s goal is to develop a web and mobile application for timely detection and monitoring of Parkinson&#39;s disease (PD) and some other tremors. The application will be based on spirography and will include an expert system enabling automatic diagnostics. Thus it will be able to encourage potential patients to see the doctor in the early stage of the disease leading to timely start of the treatment and the improvement of the quality of life associated with the treatment.</p>\r\n<p>PB is currently not curable, however the treatment can ease the symptoms and improve the quality of patients life. The latest research also suggests that the start of the treatment in the early motoric phase with l-dopa or MAO-B inhibitors can slow down the progress of the disease. Since PB is a chronic disease its efficient monitoring is very important. Early detection of PB is also beneficial from the scientific point of view, since currently its early phase biological markers are not well known.</p>\r\n<p>The tremor is one of PB&#39;s main symptoms. The spirography is a technique for quantitative assessment of the tremors: on the basis of a drawn spiral several parameters are calculated, and these parameters are then employed by the expert system to differentiate between different tremor types and to perform automatic diagnostics. In this way, the application is able to detect not only PB, but also some other types of tremor, e.g. essential tremor.</p>\r\n<p>The application offers a free possibility of self-diagnosis to the whole population using the smart phones. We envision that this will encourage many patients to see the doctor at a much earlier phase of the disease. We also envision the web application as a cheap possibility of diagnostics in primary health centres, e.g. as part of routine check-ups.</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "PARKINSCHECK",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2012-08-21 00:00:00",
+            "title": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni"
+        },
+        "id": 88,
+        "si": {
+            "client": "Ministrstvo za izobra\u017eevanje, znanost in \u0161port",
+            "description": "<p>V okviru projekta razvijamo eStoritev in mobilno aplikacijo za pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni (PB) in hkrati nekaterih drugih tremorjev. Aplikacija bo temeljila na spirografiji in bo vsebovala ekspertni sistem za avtomatsko diagnostiko. Tako bo lahko potencialne bolnike napotila do zdravnika \u017ee v zgodnji fazi bolezni in s tem omogo\u010dila pravo\u010dasen za\u010detek zdravljenja in s tem povezano izbolj\u0161anje kvalitete \u017eivljenja.</p>\r\n<p>PB trenutno ni ozdravljiva, a zdravljenje omogo\u010da laj\u0161anje simptomov, kar bistveno izbolj\u0161a kvaliteto bolnikovega \u017eivljenja. Obenem novej\u0161e \u0161tudije ka\u017eejo, da za\u010detek zdravljenja PB v zgodnji motori\u010dni fazi z l-dopo oz. z dopaminskimi agonisti ali MAO-B inhibitorji upo\u010dasni napredovanje bolezni. Ker je PB kroni\u010dna bolezen, je u\u010dinkovito spremljanje bolnikov izrednega pomena. Pravo\u010dasno odkrivanje PB je koristno tudi iz znanstvenega vidika, saj zaenkrat ne poznamo dobro biolo\u0161kih (klini\u010dnih in laboratorijskih) markerjev zgodnje faze PB.</p>\r\n<p>Tremor je eden izmed glavnih simptomov PB. Spirografija je tehnika za kvantitativno ocenjevanje tremorjev; na podlagi narisane spirale se izra\u010duna ve\u010d parametrov, ki jih ekspertni sistem uporabi za avtomatsko diagnostiko in razlo\u010devanje razli\u010dnih tipov tremorjev. Na ta na\u010din aplikacija poleg PB zazna tudi druge vrste tremorjev, kot npr. esencialni tremor.</p>\r\n<p>Predlagana re\u0161itev ponuja brezpla\u010dno mo\u017enost samodiagnoze celotni populaciji preko pametnih telefonov. Predvidevamo, da bo to marsikaterega bolnika vzpodbudilo, da pride na zdravljenje v veliko bolj zgodnji fazi bolezni. Obenem vidimo eStoritev kot poceni mo\u017enost diagnostike v zdravstvenih domovih na primarni ravni, npr. kot del sistemati\u010dnih pregledov.</p>\r\n",
+            "end_date": "2013-08-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "PARKINSCHECK",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 6,
+            "start_date": "2012-08-21 00:00:00",
+            "title": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630551",
+                    "ime": "Ana",
+                    "priimek": "Herzog",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Molecular and other prognosticators of lung cancer and mesothelioma "
+        },
+        "id": 502,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": null,
+            "end_date": "2018-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630025",
+                    "ime": "Ivan",
+                    "priimek": "Bratko",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630946",
+                    "ime": "Vida",
+                    "priimek": "Groznik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630854",
+                    "ime": "Martin",
+                    "priimek": "Mo\u017eina",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630690",
+                    "ime": "Aleksander",
+                    "priimek": "Sadikov",
+                    "role": "Vodja projekta na FRI"
+                },
+                {
+                    "id": "630824",
+                    "ime": "Jure",
+                    "priimek": "\u017dabkar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630551",
+                    "ime": "Ana",
+                    "priimek": "Herzog",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2016-01-01 00:00:00",
+            "title": "Molekularni ozna\u010devalci raka plju\u010d in njim prilagojeno zdravljenje "
+        }
+    }
+]

@@ -1,0 +1,783 @@
+[
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Our work is focused on the analysis of information processing capabilities of biological systems from both, syntetic and analytic aspect. Computational part of the project addresses the questions, such us how to design a set of biological modules that are functionally complete, robust and may be used in a scalable manner. In order to do this efficiently our group is developing computational methods for efficient modelling, simulation, analysis and design of biological systems, with a special focus on gene regulatory networks with complex regulation, such as competitive regulation with multiple transcription factor binding sites.</p>\r\n<p>One hypothesis about the origins and evolution of coordinated animal movements is that they may serve as a defensive mechanism against predation. Computational studies of the possible evolution of coordinated movement in prey typically concentrate on predators with simple attack tactics. Numerous studies, however, suggest that to overcome the apparent defensive mechanisms which grouping and coordinated movement may provide to prey, predators in nature appear to use elaborate target selection and pursuit/hunting tactics. We concentrate on the development of artificial life-like evolutionary models based on fuzzy logic in order to study the evolution of complex target selection and pursuit tactics, as well as the evolution of non-trivial coordinated movement. Collective behaviour is a research field with a very wide interdisciplinary appeal, studies showed that it can aid gaining a better insight into the behaviour of animals, start and stop traffic jams, crowd behaviour at events such as football games or music concerts, and even in the bureaucracy of the European Union. Finally yet importantly comparable patterns were observed in cancerous cells.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Pervasive Computing"
+        },
+        "id": 15,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>Raziskovalni program Vseprisotno ra\u010dunalni\u0161tvo raziskuje nove ra\u010dunalni\u0161ke paradigme in komunikacijsko mo\u010dno povezano omre\u017eje raznovrstnih ra\u010dunalni\u0161kih naprav, ki avtonomno ali skupaj zajemajo in procesirajo podatke oz. informacije z namenom, da jih prek ustreznih storitev uporabijo glede na kontekst in dolo\u010deno aktivnost uporabnika. S tem se prilagajo uporabniku v zasebnem in poslovnem okolju ter na javnih mestih tako, da zagotavljajo varnost, zasebnost ter prepre\u010dujejo prevare.</p>\r\n",
+            "end_date": "2017-12-31 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630945",
+                    "ime": "Neli",
+                    "priimek": "Blagus",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630887",
+                    "ime": "Andrej",
+                    "priimek": "Brodnik",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630866",
+                    "ime": "\u0160tefan",
+                    "priimek": "Furlan",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630867",
+                    "ime": "Miha",
+                    "priimek": "Jane\u017e",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630971",
+                    "ime": "Matev\u017e",
+                    "priimek": "Jekovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630930",
+                    "ime": "David",
+                    "priimek": "Jelenc",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630006",
+                    "ime": "Matja\u017e Branko",
+                    "priimek": "Juri\u010d",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630972",
+                    "ime": "Jernej",
+                    "priimek": "Kos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630110",
+                    "ime": "Marjan",
+                    "priimek": "Krisper",
+                    "role": "Vodja delovnega paketa"
+                },
+                {
+                    "id": "630827",
+                    "ime": "Dejan",
+                    "priimek": "Lavbi\u010d",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630833",
+                    "ime": "Primo\u017e",
+                    "priimek": "Pe\u010dar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630792",
+                    "ime": "Fabio",
+                    "priimek": "Ricciato",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630529",
+                    "ime": "Rok",
+                    "priimek": "Rupnik",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630816",
+                    "ime": "Ana",
+                    "priimek": "\u0160a\u0161a Bastinos",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630911",
+                    "ime": "Lovro",
+                    "priimek": "\u0160ubelj",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630880",
+                    "ime": "Denis",
+                    "priimek": "Tr\u010dek",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630948",
+                    "ime": "Simon",
+                    "priimek": "Vrhovec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630619",
+                    "ime": "Gregor",
+                    "priimek": "Weiss",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja delovnega paketa"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 4,
+            "start_date": "2013-01-01 00:00:00",
+            "title": "Vseprisotno ra\u010dunalni\u0161tvo"
+        }
+    },
+    {
+        "en": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "<p>The main objectives of the project are to develop the following deliverables, which also serve as the basis for assessing success of the project: (1) common contextual model forpattern recognition, (2) common contextual model for trend forecasting, (3) system prototype to demonstrate the feasibility of the proposed approach in domain-specific environments. The proposed project addresses fundamental challenges of business intelligence on data generated both within organization and in widersociety. Analysis of existing work has shown that the proposed project presents a unique and innovative approach on the world level and builds on lessons from EU/FP7 projects in which both applicants and collaborating partners from EU have participated. For the purpose of development, verification and validation of the proposed model we will leverage the computer cloud at the UL FRI Cloud Computing Centre.</p>\r\n",
+            "end_date": "2017-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630699",
+                    "ime": "Mattia",
+                    "priimek": "Petroni",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2014-07-01 00:00:00",
+            "title": "Designed cellular logic"
+        },
+        "id": 47,
+        "si": {
+            "client": "Javna agencija za raziskovalno dejavnost RS",
+            "description": "",
+            "end_date": "2017-06-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630018",
+                    "ime": "Jure",
+                    "priimek": "Bordon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630877",
+                    "ime": "Miha",
+                    "priimek": "Mo\u0161kon",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630699",
+                    "ime": "Mattia",
+                    "priimek": "Petroni",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 5,
+            "start_date": "2014-07-01 00:00:00",
+            "title": "Na\u010drtovana celi\u010dna logi\u010dna vezja"
+        }
+    },
+    {
+        "en": {
+            "client": "Evropska komisija",
+            "description": "<p>The aim of the project is to showcase RFID technology to SMEs in the food &amp; drink industry and to identify and trace food information to fulfil societys needs. The Farm2Fork project was officially launched in Brussels by the coordinator, the University of Wolverhampton and the 10 partners, representing 6 EU states in the presence of EC officials. The purpose of the F2F project is to demonstrate the use of RFID at all stages of the production and sales chain, allowing products to be tracked across Europe from the producer (farm) to the end consumer (fork). The project will federate international producers, processors, logistics, retailers and consumers around a data system which will deploy standardised solutions to allow the traceability and authentication of foodstuffs.</p>\r\n",
+            "end_date": "2012-04-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630065",
+                    "ime": "Veselko",
+                    "priimek": "Gu\u0161tin",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Andrej",
+                    "priimek": "Grah",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Miroslav",
+                    "priimek": "Savi\u0107",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "RFID F2F",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2010-05-01 00:00:00",
+            "title": "RFID F2F - RFID from Farm to Fork"
+        },
+        "id": 66,
+        "si": {
+            "client": "Evropska komisija",
+            "description": "<p>Projekt, z naslovom &#39;RFID From Farm to Fork&#39;, vklju\u010duje izvedbo pilota za vpeljavo tehnologije RFID v preskrbovalni verigi \u017eivil, z namenom informiranja potro\u0161nika o izvoru, kakovosti in sestavi \u017eivil, ki se znajdejo na njegovi mizi. V \u0161tirih dr\u017eavah EU bo predstavljena sledljivost \u017eivil na naslednjih podro\u010djih:  (i) RIBA, Slovenija  Fonda.si d.o.o., Portoro\u017e; (ii) VINO: Italija  Azienda Agricola, \u0160panija-Viitivinicola del Ribeiro s.c.g.; (iii) MESO: UK  The Bewdley Delicatessen Ltd.; (iv) MLEKO, SIR: Belgija - Flander&#39;s FOOD. Projekt bo omogo\u010dal zdru\u017eevanje regionalne/mednarodne proizvodnje, predelave, logistike, trgovine in potro\u0161nika s podatkovnim sistemom, ki uporablja standardizirane re\u0161itve za preverjanje pristnosti in izvedbo sledljivosti hrane.</p>\r\n",
+            "end_date": "2012-04-30 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630574",
+                    "ime": "Marko",
+                    "priimek": "Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630645",
+                    "ime": "Patricio",
+                    "priimek": "Buli\u0107",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630065",
+                    "ime": "Veselko",
+                    "priimek": "Gu\u0161tin",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630276",
+                    "ime": "Mira",
+                    "priimek": "Trebar",
+                    "role": "Vodja projekta"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Andrej",
+                    "priimek": "Grah",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": null,
+                    "ime": "Miroslav",
+                    "priimek": "Savi\u0107",
+                    "role": "Sodelavec na projektu"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": "RFID F2F",
+            "project_link": "",
+            "project_picture": null,
+            "ref_project_type": 1,
+            "start_date": "2010-05-01 00:00:00",
+            "title": "RFID F2F - RFID from Farm to Fork"
+        }
+    },
+    {
+        "en": {
+            "client": "Elektrina d.o.o.",
+            "description": null,
+            "end_date": "2008-07-10 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630793",
+                    "ime": "Sanja",
+                    "priimek": "Fidler",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630819",
+                    "ime": "Peter Marijan",
+                    "priimek": "Kink",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630296",
+                    "ime": "Ne\u017eka",
+                    "priimek": "Mramor Kosta",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630155",
+                    "ime": "Bojan",
+                    "priimek": "Orel",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2008-02-04 00:00:00",
+            "title": "Izdelava \u0161tudije"
+        },
+        "id": 345,
+        "si": {
+            "client": "Elektrina d.o.o.",
+            "description": null,
+            "end_date": "2008-07-10 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630793",
+                    "ime": "Sanja",
+                    "priimek": "Fidler",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630819",
+                    "ime": "Peter Marijan",
+                    "priimek": "Kink",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630740",
+                    "ime": "Iztok",
+                    "priimek": "Lebar Bajec",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630296",
+                    "ime": "Ne\u017eka",
+                    "priimek": "Mramor Kosta",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630155",
+                    "ime": "Bojan",
+                    "priimek": "Orel",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2008-02-04 00:00:00",
+            "title": "Izdelava \u0161tudije"
+        }
+    },
+    {
+        "en": {
+            "client": "TMG-BMC d.o.o.",
+            "description": null,
+            "end_date": "2011-05-25 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2010-09-22 00:00:00",
+            "title": "Razvoj algoritma in analiza signalov"
+        },
+        "id": 348,
+        "si": {
+            "client": "TMG-BMC d.o.o.",
+            "description": null,
+            "end_date": "2011-05-25 00:00:00",
+            "logo": null,
+            "menu_picture": null,
+            "persons": [
+                {
+                    "id": "630480",
+                    "ime": "Miha",
+                    "priimek": "Mraz",
+                    "role": "Sodelavec na projektu"
+                },
+                {
+                    "id": "630318",
+                    "ime": "Nikolaj",
+                    "priimek": "Zimic",
+                    "role": "Vodja projekta"
+                }
+            ],
+            "proj_events": null,
+            "proj_news": null,
+            "proj_publications": null,
+            "proj_research": null,
+            "project_id": null,
+            "project_link": null,
+            "project_picture": null,
+            "ref_project_type": null,
+            "start_date": "2010-09-22 00:00:00",
+            "title": "Razvoj algoritma in analiza signalov"
+        }
+    }
+]
