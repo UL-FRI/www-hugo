@@ -52,6 +52,18 @@ def match_lab(ref_lab, ref_people):
     return complete_ref
 
 
+def check_if_project_exist(id, fname):
+    if os.path.isfile(fname):
+        with io.open(fname, 'r', encoding='utf8') as ref:
+            ref_lab = json.load(ref)
+            for i in ref_lab:
+                if i['id'] == id:
+                    return True
+            return False
+    else:
+        return False
+
+
 def append_json(file, p):
     if os.path.isfile(file):
         with io.open(file, 'r', encoding='utf8') as to:
@@ -77,16 +89,17 @@ def json_to_md(data_json, ref_ids):
 
                     datetime_str = p['si']['end_date']
                     fname = './data/osebje/projekti/' + ref['fullname'] + '.json'
-                    fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_projects.json'
+                    fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '.json'
 
                     if datetime_str is not None:
                         datetime_obj = datetime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
                         current_date_time = datetime.today()
                         if current_date_time > datetime_obj:
                             fname = './data/osebje/projekti/' + ref['fullname'] + '_end.json'
-                            fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_projects_end.json'
+                            fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_end.json'
 
-                    append_json(fname_lab, p)
+                    if not check_if_project_exist(x['id'], fname_lab):
+                        append_json(fname_lab, p)
                     append_json(fname, p)
 
 
