@@ -12,11 +12,7 @@
                 <span>{{ if eq .Site.Language.Lang "en"}}{{with .en.title}}{{.}}{{end}}{{else}}{{.si.title}}{{end}}</span>
             </a><br />
             {{with .si.ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
-            <span style='font-size: 12px; cursor:default; color:black;'>
-                {{with .si.start_date}}
-                {{ replace (substr . 0 10 ) "-" "."}}{{end}} -
-                {{with .si.end_date}}{{ replace (substr . 0 10 ) "-" "."}}{{end}}
-            </span>
+            {{with .si.start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .si.end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
 
@@ -30,7 +26,7 @@
                 <span>{{ if eq .Site.Language.Lang "en"}}{{with .en.title}}{{.}}{{end}}{{else}}{{.si.title}}{{end}}</span>
             </a><br />
             {{with .si.ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
-            {{with .si.start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ replace (substr . 0 10 ) "-" "."}}{{end}} - {{with .si.end_date}}{{ replace (substr . 0 10 ) "-" "."}}</span>{{end}}
+            {{with .si.start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .si.end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
 

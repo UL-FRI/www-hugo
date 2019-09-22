@@ -1,0 +1,2 @@
+{{- $fix := replace (substr . 0 10 ) "-" "." -}}
+{{ substr $fix 8 2 }}.{{ substr $fix 5 2 }}.{{ substr $fix 0 4}}
