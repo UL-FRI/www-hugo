@@ -2,7 +2,7 @@
 abbreviation: LI
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 7
 location: Some Random Location
 title: Information Systems Laboratory

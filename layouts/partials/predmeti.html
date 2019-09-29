@@ -1,6 +1,6 @@
 {{- $file := printf "%s_sub_img" .Params.fixName -}}
 <div class="aboutMainSectionContainer">
-    <div class="aboutMainSectionTitle">Predmeti</div>
+    <div class="aboutMainSectionTitle">{{ i18n ""}}</div>
     <div class="aboutMainSectionLi">
         <ul class="customList">
             {{ range (index .Site.Data.osebje $file).subjects}}

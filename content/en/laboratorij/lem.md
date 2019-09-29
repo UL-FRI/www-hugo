@@ -2,7 +2,7 @@
 abbreviation: LeM
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 6
 location: Some Random Location
 title: Laboratory of e-media

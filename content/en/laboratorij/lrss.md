@@ -2,7 +2,7 @@
 abbreviation: LRSS
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 14
 location: Some Random Location
 title: Computer Structures and Systems Laboratory

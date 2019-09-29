@@ -1,0 +1,68 @@
+- id: _location
+  translation: "Location"
+- id: _link
+  translation:
+    one: "Link"
+    other: "Links"
+- id: labMembers
+  translation:
+    one: "lab member"
+    other: "lab members"
+- id: labHead
+  translation: "Head of Laboratory"
+- id: _project
+  translation:
+    one: "project"
+    other: "projects"
+- id: past
+  translation: "Past"
+- id: research
+  translation:
+    one: "Research"
+    other: "Research"
+- id: laboratory
+  translation:
+    one: "Laboratory"
+    other: "Laboratories"
+- id: website
+  translation: "website"
+- id: officeHours
+  translation: "Office hours"
+- id: room
+  translation: "Room"
+- id: class
+  translation:
+    one: "class"
+    other: "classes"
+- id: publications
+  translation: "publications"
+- id: home
+  translation: "Home"
+- id: education
+  translation: "Education"
+- id: afterSchool
+  translation: "After School"
+- id: event
+  translation:
+    one: "event"
+    other: "events"
+- id: about
+  translation: "about"
+- id: newStudents
+  translation: "prospective students"
+- id: library
+  translation: "Library"
+- id: eClassroom
+  translation: "E-classroom"
+- id: schedules
+  translation: "Schedules"
+- id: contact
+  translation: "Contact"
+- id: menuLang
+  translation: "sl"
+- id: search
+  translation: "Search..."
+- id: employees
+  translation: "Employees"
+- id: staff
+  translation: "Staff"

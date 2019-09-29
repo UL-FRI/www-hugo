@@ -2,7 +2,7 @@
 abbreviation: LMMRI
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 11
 location: Some Random Location
 title: Laboratory for Mathematical Methods in Computer and Information Science

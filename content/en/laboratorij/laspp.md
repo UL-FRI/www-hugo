@@ -2,7 +2,7 @@
 abbreviation: LASPP
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 1
 location: Some Random Location
 title: Laboratory for Adaptive Systems and Parallel Processing

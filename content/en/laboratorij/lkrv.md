@@ -2,7 +2,7 @@
 abbreviation: LKRV
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 10
 location: Some Random Location
 title: Laboratory for Cryptography and Computer Security

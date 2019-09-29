@@ -2,7 +2,7 @@
 abbreviation: LUVSS
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 19
 location: Some Random Location
 title: Visual Cognitive Systems Laboratory

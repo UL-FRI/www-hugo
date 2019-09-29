@@ -2,7 +2,7 @@
 abbreviation: LTPO
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 18
 location: Some Random Location
 title: Software Engineering Laboratory

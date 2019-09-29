@@ -2,7 +2,7 @@
 abbreviation: LRK
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 13
 location: Some Random Location
 title: Computer Communications Laboratory

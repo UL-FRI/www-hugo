@@ -2,7 +2,7 @@
 abbreviation: LIIS
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 8
 location: Some Random Location
 title: Laboratory for Integration of Information Systems

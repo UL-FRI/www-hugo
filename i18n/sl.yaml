@@ -1,0 +1,68 @@
+- id: _location
+  translation: "Lokacija"
+- id: _link
+  translation:
+    one: "Povezava"
+    other: "Povezave"
+- id: labMembers
+  translation:
+    one: "sodelavec"
+    other: "sodelavci"
+- id: labHead
+  translation: "predstojnik laboratorija"
+- id: _project
+  translation:
+    one: "projekt"
+    other: "projekti"
+- id: past
+  translation: "Zaključeni"
+- id: research
+  translation:
+    one: "Raziskava"
+    other: "Raziskave"
+- id: laboratory
+  translation:
+    one: "Laboratorij"
+    other: "Laboratoriji"
+- id: website
+  translation: "spletna stran"
+- id: officeHours
+  translation: "Govorilne ure"
+- id: room
+  translation: "Prostor"
+- id: class
+  translation:
+    one: "predmet"
+    other: "predmeti"
+- id: publications
+  translation: "publikacije"
+- id: home
+  translation: "Domov"
+- id: education
+  translation: "Študij"
+- id: afterSchool
+  translation: "Ob študiju"
+- id: event
+  translation:
+    one: "dogodek"
+    other: "dogodki"
+- id: about
+  translation: "O fakulteti"
+- id: newStudents
+  translation: "bodoči študenti"
+- id: library
+  translation: "Knjižnica"
+- id: eClassroom
+  translation: "E-učilnica"
+- id: schedules
+  translation: "Urniki"
+- id: contact
+  translation: "Kontakt"
+- id: menuLang
+  translation: "en"
+- id: search
+  translation: "Išči..."
+- id: employees
+  translation: "Osebje"
+- id: staff
+  translation: "Osebje"

@@ -3,9 +3,9 @@
 	<ul>
 		{{ range (index $.Site.Data.laboratorij $file)}}
 
-		<li><a href="blank">
+		<li><a href="/{{ $.Site.Language.Lang }}/osebje/aleks_huč">
 			{{ .name }} {{ .surname }}
-			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ $.Site.Params.labPos }} {{ end }}
+			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ i18n "labHead" }} {{ end }}
 		</a></li>
 		{{ end }}
 

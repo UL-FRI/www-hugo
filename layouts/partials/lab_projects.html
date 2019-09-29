@@ -18,7 +18,7 @@
         {{ end }}
     </ul>
 
-        <br/>Zaključeni:
+        <br/>{{ i18n "past" }}:
     <ul>
         {{ range (index $.Site.Data.laboratorij.projekti $file_end)}}
         <li>

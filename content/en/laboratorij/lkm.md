@@ -2,7 +2,7 @@
 abbreviation: LKM
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 9
 location: Some Random Location
 title: Laboratory for Cognitive Modeling

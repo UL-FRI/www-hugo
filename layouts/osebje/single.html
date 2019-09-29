@@ -15,13 +15,13 @@
                     <div class="content">
                         <div id="banner-header" class="container">
                             <div class="breadcrumbs">
-                                <a href="/">Domov</a>
+                                <a href="/">{{ i18n "home" }}</a>
 
                                 <span>></span>
-                                <a href="/sl/poslanstvo-vizija"> O fakulteti</a>
+                                <a href="/{{ .Language.Lang }}/poslanstvo-vizija"> {{ i18n "about" }}</a>
 
                                 <span>></span>
-                                <a href="/sl/o-fakulteti/osebje"> Osebje</a>
+                                <a href="/{{ .Language.Lang }}/o-fakulteti/osebje"> {{ i18n "employees" }}</a>
 
                                 <span>></span>
 
@@ -32,7 +32,7 @@
                             <div class="wrap-text flex-space-between">
                                 <div class="title">
                                     <div>
-                                        Osebje                    </div>
+                                        {{ i18n "staff" }}                </div>
                                 </div>
                                 <div class="dots">
                                     <div class="whiteDotsBanner" style="top : 0;left: 0;width: 395px;"></div>
@@ -73,11 +73,11 @@
                                 </div>
                                 <div class="contactInfo2">
                                     <div id="telephoneInfo">
-                                        <span style="color: #999999">Govorilne ure:</span>
+                                        <span style="color: #999999">{{ i18n "officeHours" }}:</span>
                                         <span style="padding-left: 12px">{{ .Params.officeHours }}</span>
                                     </div>
                                     <div id="mailInfo">
-                                        <span style="color: #999999">Prostor:</span>
+                                        <span style="color: #999999">{{ i18n "room" }}:</span>
                                         <span style="padding-left: 12px">{{ .Params.location }}</span>
                                     </div>
                                 </div>
@@ -93,7 +93,7 @@
                                 {{ partial "predmeti.html" . }}
 
                                 <div class="aboutMainSectionContainer">
-                                    <div class="aboutMainSectionTitle">Laboratorij</div>
+                                    <div class="aboutMainSectionTitle">{{ i18n "laboratory" 1 }}</div>
                                     <div class="aboutMainSectionLi">
                                         <ul class="customList">
                                             <li>
@@ -105,12 +105,12 @@
 
                                 <div class="aboutMainSectionContainer">
 
-                                    {{ partial "list-projects-people.html" . }}
+                                    {{ partial "personal_projects.html" . }}
 
                                 </div>
 
                                 <div class="aboutMainSectionContainer">
-                                    <div class="aboutMainSectionTitle">Publikacije</div>
+                                    <div class="aboutMainSectionTitle">{{ i18n "publications" }}</div>
                                     <div class="description-stuff publications">
                                         <p class="rtejustify">Marko Robnik-Šikonja, Igor Kononenko, Erik Štrumbelj: Quality of Classication Explanations with PRBF.&nbsp;<em>Neurocomputing</em>, 96:37-46, 2012&nbsp;<a href="http://lkm.fri.uni-lj.si/rmarko/papers/RobnikSikonja-Neurocomputing2012.pdf" style="padding: 0px; margin: 0px; color: rgb(172, 14, 2);">PDF</a></p>
                                         <div class="podatkiTwo">

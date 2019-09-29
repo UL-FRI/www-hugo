@@ -2,7 +2,7 @@
 abbreviation: LAPS
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 3
 location: Some Random Location
 title: Laboratory for Architecture and Signal Processing

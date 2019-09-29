@@ -2,7 +2,7 @@
 abbreviation: LUI
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 20
 location: Some Random Location
 title: Artificial Intelligence Laboratory

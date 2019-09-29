@@ -2,7 +2,7 @@
 abbreviation: LALG
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 2
 location: Some Random Location
 title: null

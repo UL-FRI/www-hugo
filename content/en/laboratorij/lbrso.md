@@ -2,7 +2,7 @@
 abbreviation: LBRSO
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 5
 location: Some Random Location
 title: Laboratory for Biomedical Computer Systems and Imaging

@@ -2,7 +2,7 @@
 abbreviation: LRV
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 15
 location: Some Random Location
 title: Computer Vision Laboratory

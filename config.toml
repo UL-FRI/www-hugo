@@ -2,13 +2,13 @@ DefaultContentLanguage = "sl"
 
 [languages]
   [languages.sl]
+    languageName = "Slovenščina"
     baseURL = "https://www-hugo.netlify.com/sl"
     contentDir = "content/sl"
     title = "Hugo FRI spletna stran"
     weight = 0
-    languageCode = "sl-SI"
+    languageCode = "sl"
     [languages.sl.params]
-      labPos = "predstojnik laboratorija"
       proj_types = [
         "EU projekti",
         "Bilateralni projekti",
@@ -21,13 +21,13 @@ DefaultContentLanguage = "sl"
       ]
 
   [languages.en]
+    languageName = "English"
     baseURL = "https://www-hugo.netlify.com/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
-    languageCode = "en-us"
+    languageCode = "en-US"
     weight = 1
     [languages.en.params]
-      labPos = "Head of Laboratory"
       proj_types = [
               "European projects",
               "Bilateral projects",

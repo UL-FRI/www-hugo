@@ -2,7 +2,7 @@
 abbreviation: LUSY
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 103
 location: Some Random Location
 title: Laboratory for Ubiquitous systems

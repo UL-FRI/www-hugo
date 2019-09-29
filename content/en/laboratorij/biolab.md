@@ -2,7 +2,7 @@
 abbreviation: BIOLAB
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 4
 location: Some Random Location
 title: Bioinformatics Laboratory

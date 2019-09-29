@@ -2,7 +2,7 @@
 abbreviation: LGM
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 17
 location: Some Random Location
 title: 'Laboratory of Computer Graphics and Multimedia '

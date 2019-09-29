@@ -10,18 +10,18 @@
                             <div class="last"><a target="_blank" href="https://www.youtube.com/playlist?list=PLGYg4ZIlAe557Ad9QGq_G6i9y5CcJY0xt">Youtube</a></div>
                         </div>
                         <div class="right">
-                            <div class="first"><a  href="/sl/knjiznica">Knjižnica</a></div>
+                            <div class="first"><a  href="/sl/knjiznica">{{ i18n "library" }}</a></div>
                             <div class="dot"></div>
                             <div>
                                 <a target='_blank'   href="https://studij.fri.uni-lj.si/">Studis</a>
                             </div>
                             <div class="dot"></div>
                             <div>
-                                <a target='_blank'   href="https://ucilnica.fri.uni-lj.si/">E-učilnica</a>
+                                <a target='_blank'   href="https://ucilnica.fri.uni-lj.si/">{{ i18n "eClassroom" }}</a>
                             </div>
                             <div class="dot"></div>
                             <div>
-                                <a target='_blank'   href="https://urnik.fri.uni-lj.si/">Urniki</a>
+                                <a target='_blank'   href="https://urnik.fri.uni-lj.si/">{{ i18n "schedules" }}</a>
                             </div>
                             <div class="dot"></div>
                             <div>
@@ -29,12 +29,12 @@
                             </div>
                             <div class="dot"></div>
                             <div>
-                                <a    href="/sl/kontakti">Kontakt</a>
+                                <a    href="/sl/kontakti">{{ i18n "contact" }}</a>
                             </div>
                             <div class="dot"></div>
                             <div>
                                 <div>
-                                    <a href="/en/">EN</a>
+                                    <a href="/{{ i18n "menuLang" }}/">{{ upper (i18n "menuLang") }}</a>
                                 </div>
                             </div>
                             <div >
@@ -91,7 +91,7 @@
                     <div class="container">
                         <div class="background "></div>
                         <div class="navigation">
-                            <a href="/sl">
+                            <a href="/{{ $.Site.Language.Lang }}">
                                 <!-- <div class="logo"></div> -->
                                 <img class="logo" src="https://fri.uni-lj.si/sites/all/themes/fri_theme/images/fri_logo.png"/>
                             </a>
@@ -105,7 +105,7 @@
                                 <div class="menus">
                                     <div class="item" ident="menu-studij">
                                         <a href="/sl/studij">
-                                            <div class="title">Študij</div>
+                                            <div class="title">{{ i18n "education"}}</div>
                                         </a>
                                         <div class="image"></div>
                                         <div class='submenu-slide-item' id='menu-studij'>
@@ -143,7 +143,7 @@
                                     </div>
                                     <div class="item" ident="menu-raziskave">
                                         <a href="/sl/raziskave">
-                                            <div class="title">Raziskave</div>
+                                            <div class="title">{{ i18n "research" 0 }}</div>
                                         </a>
                                         <div class="image"></div>
                                         <div class='submenu-slide-item' id='menu-raziskave'> <div class='back'>Nazaj</div>
@@ -169,7 +169,7 @@
                                     </div>
                                     <div class="item" ident="menu-ob-tudiju">
                                         <a href="/sl/obstudiju">
-                                            <div class="title">Ob študiju</div>
+                                            <div class="title">{{ i18n "afterSchool"}}</div>
                                         </a>
                                         <div class="image"></div>
                                         <div class='submenu-slide-item' id='menu-ob-tudiju'> <div class='back'>Nazaj</div>
@@ -193,12 +193,12 @@
                                     </div>
                                     <div class="item" ident="">
                                         <a href="/sl/dogodki">
-                                            <div class="title">Dogodki</div>
+                                            <div class="title">{{ i18n "event" 0 }}</div>
                                         </a>
                                     </div>
                                     <div class="item" ident="menu-o-fakulteti">
                                         <a href="/sl/poslanstvo-vizija">
-                                            <div class="title">O fakulteti</div>
+                                            <div class="title">{{ i18n "about" }}</div>
                                         </a>
                                         <div class="image"></div>
                                         <div class='submenu-slide-item' id='menu-o-fakulteti'> <div class='back'>Nazaj</div>
@@ -232,29 +232,29 @@
                                     </div>
                                     <div class="item" ident="">
                                         <a href="/sl/bodoci-studenti">
-                                            <div class="title">Bodoči študenti</div>
+                                            <div class="title">{{ i18n "newStudents" }}</div>
                                         </a>
                                     </div>
                                 </div>
                                 <div class="links">
                                     <div class="group">
                                         <div>
-                                            <a target='_blank' href="/sl/knjiznica">Knjižnica</a>
+                                            <a target='_blank' href="/sl/knjiznica">{{ i18n "library"}}</a>
                                         </div>
                                         <div>
                                             <a target='_blank' href="https://studij.fri.uni-lj.si/">Studis</a>
                                         </div>
                                         <div>
-                                            <a target='_blank' href="https://ucilnica.fri.uni-lj.si/">E-učilnica</a>
+                                            <a target='_blank' href="https://ucilnica.fri.uni-lj.si/">{{ i18n "eClassroom" }}</a>
                                         </div>
                                         <div>
-                                            <a target='_blank' href="https://urnik.fri.uni-lj.si/">Urniki</a>
+                                            <a target='_blank' href="https://urnik.fri.uni-lj.si/">{{ i18n "schedules" }} </a>
                                         </div>
                                         <div>
                                             <a target='_blank' href="https://intranet.fri.uni-lj.si/sl">Intranet</a>
                                         </div>
                                         <div>
-                                            <a  href="/sl/kontakti">Kontakt</a>
+                                            <a  href="/sl/kontakti">{{ i18n "contact" }}</a>
                                         </div>
                                     </div>
                                     <div class="line"></div>
@@ -271,7 +271,7 @@
                                     <div class="line"></div>
                                     <div class="group">
                                         <div>
-                                            <a href="/en/">EN</a>
+                                            <a href="/{{ i18n "menuLang" }}/">{{ upper (i18n "menuLang") }}</a>
                                         </div>
                                     </div>
                                 </div>
@@ -280,7 +280,7 @@
                                 <div class="block">
                                     <ul>
                                         <li>
-                                            <a class="dropdown-icon" href="/sl/studij">Študij</a>
+                                            <a class="dropdown-icon" href="/sl/studij">{{ i18n "education" }}</a>
                                             <div class="dropDownMenu">
                                                 <div class="dropDownMenuMouse"></div>
                                                 <div class="dropDownMenuContainer">
@@ -569,7 +569,7 @@
 
                                         <li>
 
-                                            <a class="dropdown-icon"           href="/sl/raziskave">Raziskave</a>
+                                            <a class="dropdown-icon"           href="/sl/raziskave">{{ i18n "research" 0}}</a>
 
 
                                             <div class="dropDownMenu">
@@ -653,7 +653,7 @@
 
                                         <li>
 
-                                            <a class="dropdown-icon"           href="/sl/obstudiju">Ob študiju</a>
+                                            <a class="dropdown-icon"           href="/sl/obstudiju">{{ i18n "afterSchool" }}</a>
 
 
                                             <div class="dropDownMenu">
@@ -730,7 +730,7 @@
 
                                         <li>
 
-                                            <a            href="/sl/dogodki">Dogodki</a>
+                                            <a            href="/sl/dogodki">{{ i18n "event" 0}}</a>
 
                                         </li>
 
@@ -738,7 +738,7 @@
 
                                         <li>
 
-                                            <a class="dropdown-icon"           href="/sl/poslanstvo-vizija">O fakulteti</a>
+                                            <a class="dropdown-icon"           href="/sl/poslanstvo-vizija">{{ i18n "about" }}</a>
 
 
                                             <div class="dropDownMenu">
@@ -850,7 +850,7 @@
 
                                         <li>
 
-                                            <a            href="/sl/bodoci-studenti">Bodoči študenti</a>
+                                            <a            href="/sl/bodoci-studenti">{{ i18n "newStudents" }}</a>
 
                                         </li>
 
@@ -875,7 +875,7 @@
                                 <div class="last search-head" id="mobile-search-head">
 
                                     <form style="display:inline" action="/sl/iskanje" method="get">
-                                        <input autocomplete="off" placeholder='Išči...' type="search" name="keys" class="edit-keys"/>
+                                        <input autocomplete="off" placeholder='{{ i18n "search" }}' type="search" name="keys" class="edit-keys"/>
 
                                     </form>
                                 </div>

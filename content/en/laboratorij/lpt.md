@@ -2,7 +2,7 @@
 abbreviation: LPT
 bannerImg: ''
 bannerText: ''
-draft: true
+draft: false
 id: 12
 location: Some Random Location
 title: Laboratory for Data Technologies

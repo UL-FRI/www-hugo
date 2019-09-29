@@ -13,7 +13,7 @@
                 <div id="block-studij-banner-block-custom" class="block block-studij">
                     <div class="content">
 
-                        {{ partial "lab-banner.html" . }}
+                        {{ partial "lab_banner.html" . }}
 
                     </div>
                 </div>
@@ -25,12 +25,12 @@
                             <div class="contactInfo">
 
                                 <div class="info-lab">
-                                    <span style="color: #999999"> Lokacija:</span>
+                                    <span style="color: #999999">{{ i18n "_location" }}:</span>
                                     <span style="padding-left: 12px">{{ .Params.location }}</span>
                                 </div>
 
                                 <div class="info-lab">
-                                    <span style="color: #999999"> Povezava:</span>
+                                    <span style="color: #999999">{{ i18n "_link" 0 }}:</span>
                                     <span style="padding-left: 12px"><a href="{{ .Params.url }}">{{ .Params.acronym }}</a></span>
                                 </div>
 
@@ -50,24 +50,24 @@
                                 <div class="katedra-item">
                                     <div class="heading-article">
                                         <ul>
-                                            <li>Sodelavci</li>
+                                            <li>{{ i18n "labMembers" 0 }}</li>
                                         </ul>
                                     </div>
                                     <div class="grayDots"></div>
 
-                                    {{ partial "list-employees-new.html" . }}
+                                    {{ partial "employees.html" . }}
 
                                 </div>
 
                                 <div class="katedra-item">
                                     <div class="heading-article">
                                         <ul>
-                                            <li>Projekti</li>
+                                            <li>{{ i18n "_project" 0 }}</li>
                                         </ul>
                                     </div>
                                     <div class="grayDots"></div>
 
-                                    {{ partial "list-projects-lab.html" . }}
+                                    {{ partial "lab_projects.html" . }}
 
                                 </div>
                             </div>

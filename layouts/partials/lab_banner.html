@@ -1,12 +1,12 @@
 <div id="banner-header" class="container">
 	<div class="breadcrumbs">
-		<a href="/">Domov</a>
+		<a href="/{{ .Language.Lang }}">{{ i18n "home" }}</a>
 
 		<span>></span>
-		<a href="/sl/raziskave"> Raziskave</a>
+		<a href="/{{ .Language.Lang }}/raziskave"> {{ i18n "research" 0}}</a>
 
 		<span>></span>
-		<a href="/sl/raziskave/laboratoriji"> Laboratoriji</a>
+		<a href="/{{ .Language.Lang }}/raziskave/laboratoriji"> {{ i18n "laboratory" 0}}</a>
 
 		<span>></span>
 		{{ .Title }}

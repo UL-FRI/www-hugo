@@ -4,6 +4,11 @@
     <meta name="generator" content="Drupal 7 (http://drupal.org)" />
     <link rel="canonical" href="https://fri.uni-lj.si/sl/laboratorij/biolab" />
     <link rel="shortlink" href="https://fri.uni-lj.si/sl/node/1632" />
+    {{ if .IsTranslated }}
+    {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+    {{ end }}
+    {{ end }}
 
     <style type="text/css" media="all">
         @import url("https://fri.uni-lj.si/modules/system/system.base.css?pubn3c");
