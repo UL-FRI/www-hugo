@@ -1,6 +1,5 @@
 import json
 import frontmatter
-import itertools
 import re
 import io
 from os import path
@@ -9,11 +8,11 @@ from shutil import copyfile
 
 def compare_names(name1, name2):
     split1 = name2.split()
-    split = name1.split()
+    split2 = name1.split()
     fixed_name1 = ""
     fixed_name2 = ""
 
-    for a in split:
+    for a in split2:
         if a[-1] != '.':
             fixed_name1 += ' ' + a
     for a in split1:
@@ -26,9 +25,9 @@ def compare_names(name1, name2):
         fname_en = './content/en/osebje/' + fname + '.md'
 
         if not path.isfile(fname_sl):
-            copyfile('./sampleJSON/personal.md', fname_sl)
+            copyfile('./sampleJSON/template_personal.md', fname_sl)
         if not path.isfile(fname_en):
-            copyfile('./sampleJSON/personal.md', fname_en)
+            copyfile('./sampleJSON/template_personal.md', fname_en)
 
         return True
     else:
@@ -40,6 +39,7 @@ def json_to_md(persons, staff_desc, indexes, names):
     desc_ind = 0
 
     for (m, b) in zip(indexes, names):
+
         # persons[a] is same person as c
         if m != -1:
             fix_name = re.sub(r'\s+', '_', b.lstrip(' ').lower())
@@ -51,47 +51,55 @@ def json_to_md(persons, staff_desc, indexes, names):
                 desc_json = staff_desc[desc_ind]
 
                 # Open file's frontmatter
-                post_sl = frontmatter.load(f, encoding='utf8')
-                post_en = frontmatter.load(f_en, encoding='utf8')
+                post_md_sl = frontmatter.load(f, encoding='utf8')
+                post_md_en = frontmatter.load(f_en, encoding='utf8')
 
-                if post_sl.get('title') is None:
-                    post_sl['title'] = b.lstrip(' ')
-                    post_en['title'] = b.lstrip(' ')
-                    post_sl['fixName'] = fix_name
-                    post_en['fixName'] = fix_name
-                if post_sl.get('profName') is None and person_json['fullname_and_title'] is not None:
-                    post_sl['profName'] = person_json['fullname_and_title']['sl']
-                    post_en['profName'] = person_json['fullname_and_title']['en']
-                if post_sl.get('SICRIS') is None and person_json['sicris_researcher_number'] is not None:
-                    post_sl['SICRIS'] = person_json['sicris_researcher_number']
-                    post_en['SICRIS'] = person_json['fullname_and_title']['en']
-                if post_sl.get('profTitle') is None and person_json['web_category'] is not None:
-                    post_sl['profTitle'] = person_json['web_category']['sl']
-                    post_en['profTitle'] = person_json['web_category']['en']
-                if post_sl.get('telephoneInfo') is None and person_json['phone'] is not None:
-                    post_sl['telephoneInfo'] = person_json['phone']
-                    post_en['telephoneInfo'] = person_json['phone']
-                if post_sl.get('mailInfo') is None and person_json['email'] is not None:
-                    post_sl['mailInfo'] = person_json['email']
-                    post_en['mailInfo'] = person_json['email']
-                if post_sl.get('officeHours') is None and person_json['office_hours'] is not None:
-                    post_sl['officeHours'] = person_json['office_hours']['sl']
-                    post_en['officeHours'] = person_json['office_hours']['en']
-                if post_sl.get('location') is None and person_json['location'] is not None:
-                    post_sl['location'] = person_json['location']
-                    post_en['location'] = person_json['location']
+                if post_md_sl.get('title') is None:
+                    post_md_sl['title'] = b.lstrip(' ')
+                    post_md_sl['fixName'] = fix_name
+                if post_md_sl.get('profName') is None and person_json['fullname_and_title'] is not None:
+                    post_md_sl['profName'] = person_json['fullname_and_title']['sl']
+                if post_md_sl.get('SICRIS') is None and person_json['sicris_researcher_number'] is not None:
+                    post_md_sl['SICRIS'] = person_json['sicris_researcher_number']
+                if post_md_sl.get('profTitle') is None and person_json['web_category'] is not None:
+                    post_md_sl['profTitle'] = person_json['web_category']['sl']
+                if post_md_sl.get('telephoneInfo') is None and person_json['phone'] is not None:
+                    post_md_sl['telephoneInfo'] = person_json['phone']
+                if post_md_sl.get('mailInfo') is None and person_json['email'] is not None:
+                    post_md_sl['mailInfo'] = person_json['email']
+                if post_md_sl.get('officeHours') is None and person_json['office_hours'] is not None:
+                    post_md_sl['officeHours'] = person_json['office_hours']['sl']
+                if post_md_sl.get('location') is None and person_json['location'] is not None:
+                    post_md_sl['location'] = person_json['location']
+                if post_md_sl.get('body') is None and desc_json['descSl'] is not None:
+                    post_md_sl.content = desc_json['descSl']
 
-                if post_sl.get('body') is None and desc_json['descSl'] is not None:
-                    post_sl.content = desc_json['descSl']
-                if post_en.get('body') is None and desc_json['descSl'] is not None:
-                    post_en.content = desc_json['descEn']
+                if post_md_en.get('title') is None:
+                    post_md_en['title'] = b.lstrip(' ')
+                    post_md_en['fixName'] = fix_name
+                if post_md_en.get('profName') is None and person_json['fullname_and_title'] is not None:
+                    post_md_en['profName'] = person_json['fullname_and_title']['sl']
+                if post_md_en.get('SICRIS') is None and person_json['sicris_researcher_number'] is not None:
+                    post_md_en['SICRIS'] = person_json['sicris_researcher_number']
+                if post_md_en.get('profTitle') is None and person_json['web_category'] is not None:
+                    post_md_en['profTitle'] = person_json['web_category']['sl']
+                if post_md_en.get('telephoneInfo') is None and person_json['phone'] is not None:
+                    post_md_en['telephoneInfo'] = person_json['phone']
+                if post_md_en.get('mailInfo') is None and person_json['email'] is not None:
+                    post_md_en['mailInfo'] = person_json['email']
+                if post_md_en.get('officeHours') is None and person_json['office_hours'] is not None:
+                    post_md_en['officeHours'] = person_json['office_hours']['sl']
+                if post_md_en.get('location') is None and person_json['location'] is not None:
+                    post_md_en['location'] = person_json['location']
+                if post_md_en.get('body') is None and desc_json['descSl'] is not None:
+                    post_md_en.content = desc_json['descSl']
 
                 if len(person_json['labs']) != 0:
-                    for i in person_json['labs']:
-                        post_sl['lab'] = i['title']['sl']
-                        post_en['lab'] = i['title']['en']
-                        post_sl['labPos'] = i['function_in_lab']['sl']
-                        post_en['labPos'] = i['function_in_lab']['en']
+                    for person in person_json['labs']:
+                        post_md_sl['lab'] = person['title']['sl']
+                        post_md_en['lab'] = person['title']['en']
+                        post_md_sl['labPos'] = person['function_in_lab']['sl']
+                        post_md_en['labPos'] = person['function_in_lab']['en']
 
                 if 'subjects' in person_json:
                     sname = './data/osebje/' + fix_name + '_sub_img.json'
@@ -103,12 +111,11 @@ def json_to_md(persons, staff_desc, indexes, names):
                         }
                         json.dump(from_insert, to)
 
-
             # Save the file
             new = io.open(fname_sl, 'wb')
             new_en = io.open(fname_en, 'wb')
-            frontmatter.dump(post_en, new_en)
-            frontmatter.dump(post_sl, new)
+            frontmatter.dump(post_md_en, new_en)
+            frontmatter.dump(post_md_sl, new)
             new.close()
             new_en.close()
         desc_ind += 1

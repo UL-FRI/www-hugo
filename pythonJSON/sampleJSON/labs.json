@@ -1,1 +1,1567 @@
-{"labs":[{"abbreviation":"LASPP","title":{"sl":"Laboratorij za adaptivne sisteme in paralelno procesiranje","en":"Laboratory for Adaptive Systems and Parallel Processing"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Patricio","surname":"Buli\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Rok","surname":"\u010ce\u0161novar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Nejc","surname":"Ilc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Uro\u0161","surname":"Lotri\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matija","surname":"Rezar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Davor","surname":"Sluga","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Branko","surname":"\u0160ter","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}}]},{"abbreviation":"LALG","title":{"sl":"Laboratorij za algoritmiko","en":null},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Uro\u0161","surname":"\u010cibej","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Toma\u017e","surname":"Dobravec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Peter","surname":"Gabrov\u0161ek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Guid","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jurij","surname":"Miheli\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Borut","surname":"Robi\u010d","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Robert","surname":"Rozman","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bo\u0161tjan","surname":"Slivnik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bla\u017e","surname":"Sovdat","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LAPS","title":{"sl":"Laboratorij za arhitekturo in procesiranje signalov","en":"Laboratory for Architecture and Signal Processing"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[]},{"abbreviation":"BIOLAB","title":{"sl":"Laboratorij za bioinformatiko","en":"Bioinformatics Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Toma\u017e","surname":"Curk","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Andrej","surname":"\u010copar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Janez","surname":"Dem\u0161ar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ale\u0161","surname":"Erjavec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Primo\u017e","surname":"Godec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Rok","surname":"Gomi\u0161\u010dek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Toma\u017e","surname":"Ho\u010devar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Amra","surname":"Omanovi\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ajda","surname":"Pretnar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Martin","surname":"Stra\u017ear","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Vesna","surname":"Tanko","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Marko","surname":"Toplak","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bla\u017e","surname":"Zupan","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Lan","surname":"\u017dagar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Marinka","surname":"\u017ditnik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LBRSO","title":{"sl":"Laboratorij za biomedicinske ra\u010dunalni\u0161ke sisteme in oslikave","en":"Laboratory for Biomedical Computer Systems and Imaging"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Franc","surname":"Jager","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"\u017diga","surname":"Pirnar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ale\u0161","surname":"Smrdel","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LeM","title":{"sl":"Laboratorij za e-medije","en":"Laboratory of e-media"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Aleks","surname":"Hu\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"David","surname":"Jelenc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Denis","surname":"Tr\u010dek","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Mira","surname":"Trebar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LI","title":{"sl":"Laboratorij za informatiko","en":"Information Systems Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Toma\u017e","surname":"Hovelja","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Rok","surname":"Rupnik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Damjan","surname":"Vavpoti\u010d","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Simon","surname":"Vrhovec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LIIS","title":{"sl":"Laboratorij za integracijo informacijskih sistemov","en":"Laboratory for Integration of Information Systems"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Matija","surname":"Cankar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Anton Zvonko","surname":"Gazvoda","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matja\u017e Branko","surname":"Juri\u010d","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Benjamin","surname":"Kastelic","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jan","surname":"Meznari\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Miha","surname":"Nagelj","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Luka","surname":"\u0160arc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jure","surname":"Tuta","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LKM","title":{"sl":"Laboratorij za kognitivno modeliranje","en":"Laboratory for Cognitive Modeling"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"\u0160PELA","surname":"ARHAR HOLDT","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Zoran","surname":"Bosni\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jaka","surname":"\u010cibej","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jana","surname":"Faganeli Pucer","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Teja","surname":"Goli","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Martin","surname":"Jakomin","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Igor","surname":"Kononenko","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Domen","surname":"Ko\u0161ir","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matja\u017e","surname":"Kukar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Nikola","surname":"Ljube\u0161i\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Martinc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Kristian","surname":"Miok","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jan","surname":"Pavlin","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Pi\u010dulin","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Gregor","surname":"Pir\u0161","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Marko","surname":"Robnik \u0160ikonja","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Tim","surname":"Smole","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Tadej","surname":"\u0160kvorc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Erik","surname":"\u0160trumbelj","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Ul\u010dar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Anita","surname":"Valmarska"},{"name":"Petar","surname":"Vra\u010dar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LKRV","title":{"sl":"Laboratorij za kriptografijo in ra\u010dunalni\u0161ko varnost","en":"Laboratory for Cryptography and Computer Security"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Mia","surname":"Fili\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Aleksandar","surname":"Juri\u0161i\u0107","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Jano\u0161","surname":"Vidali","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LMMRI","title":{"sl":"Laboratorij za matemati\u010dne metode v ra\u010dunalni\u0161tvu in informatiki","en":"Laboratory for Mathematical Methods in Computer and Information Science"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Marko","surname":"Boben","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ga\u0161per","surname":"Fijav\u017e","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Aleksandra","surname":"Franc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Damir","surname":"Franeti\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Gregor","surname":"Jer\u0161e","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Peter Marijan","surname":"Kink","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jelena","surname":"Klisara","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Polona","surname":"Oblak","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bojan","surname":"Orel","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Martin","surname":"Rai\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"\u017diga","surname":"Virk","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Martin","surname":"Vuk","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Alja\u017e","surname":"Zalar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LPT","title":{"sl":"Laboratorij za podatkovne tehnologije","en":"Laboratory for Data Technologies"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Marko","surname":"Bajec","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Janez","surname":"Bindas","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Neli","surname":"Blagus","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jernej","surname":"Cvek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Sandi","surname":"Gec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Marko","surname":"Jankovi\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Petar","surname":"Kochovski","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Dejan","surname":"Lavbi\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jure","surname":"Lokov\u0161ek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Lovro","surname":"\u0160ubelj","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Aleksander","surname":"Tomi\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Gregor","surname":"Weiss","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Alja\u017e","surname":"Zrnec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Slavko","surname":"\u017ditnik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LRK","title":{"sl":"Laboratorij za ra\u010dunalni\u0161ke komunikacije","en":"Computer Communications Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Mojca","surname":"Ciglari\u010d","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Miha","surname":"Grohar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ivan","surname":"Majhen","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"David","surname":"Modic","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matja\u017e","surname":"Pan\u010dur","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Veljko","surname":"Pejovi\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LRSS","title":{"sl":"Laboratorij za ra\u010dunalni\u0161ke strukture in sisteme","en":"Computer Structures and Systems Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Jure","surname":"Dem\u0161ar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Miha","surname":"Jane\u017e","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Miran","surname":"Koprivec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Iztok","surname":"Lebar Bajec","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Miha","surname":"Mo\u0161kon","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Miha","surname":"Mraz","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Mattia","surname":"Petroni","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"\u017diga","surname":"Pu\u0161nik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Nikolaj","surname":"Zimic","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}}]},{"abbreviation":"LRV","title":{"sl":"Laboratorij za ra\u010dunalni\u0161ki vid","en":"Computer Vision Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Borut","surname":"Batagelj","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Narvika","surname":"Bovcon","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"\u017diga","surname":"Emer\u0161i\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ale\u0161","surname":"Jakli\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bojan","surname":"Klemenc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Bla\u017e","surname":"Meden","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Peter","surname":"Peer","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Franc","surname":"Solina","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Luka","surname":"\u0160ajn","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Vitek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LGM","title":{"sl":"Laboratorij za ra\u010dunalni\u0161ko grafiko in multimedije","en":"Laboratory of Computer Graphics and Multimedia "},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Ciril","surname":"Bohak","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Sa\u0161a","surname":"Divjak","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Alenka","surname":"Kav\u010di\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Vid","surname":"Klop\u010di\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"\u017diga","surname":"Lesar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matija","surname":"Marolt","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Matev\u017e","surname":"Pesek","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LTPO","title":{"sl":"Laboratorij za tehnologijo programske opreme","en":"Software Engineering Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Luka","surname":"F\u00fcrst","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Marko","surname":"Po\u017eenel","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Igor","surname":"Ro\u017eanc","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}}]},{"abbreviation":"LUVSS","title":{"sl":"Laboratorij za umetne vizualne spoznavne sisteme","en":"Visual Cognitive Systems Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Borja","surname":"Bovcon","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Luka","surname":"\u010cehovin Zajc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Dobrevski","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Matej","surname":"Kristan","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ale\u0161","surname":"Leonardis","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Alan","surname":"Luke\u017ei\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jon","surname":"Muhovi\u010d","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"An\u017ee","surname":"Rezelj","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Danijel","surname":"Sko\u010daj","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Domen","surname":"Tabernik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LUI","title":{"sl":"Laboratorij za umetno inteligenco","en":"Artificial Intelligence Laboratory"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Ivan","surname":"Bratko","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Dejan","surname":"Georgiev","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Vida","surname":"Groznik","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Ana","surname":"Herzog","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Timotej","surname":"Lazar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Teodora","surname":"Mati\u0107","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Martin","surname":"Mo\u017eina","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Aleksander","surname":"Sadikov","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Andrej","surname":"Zupanc","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Jure","surname":"\u017dabkar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]},{"abbreviation":"LUSY","title":{"sl":"Laboratorij za vseprisotne sisteme","en":"Laboratory for Ubiquitous systems"},"location":"Some Random Location","description":{"sl":"Nek random opis","en":"Some Random Description"},"members":[{"name":"Katarina","surname":"Bebar","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Andrej","surname":"Brodnik","position":{"sl":"Predstojnik laboratorija","en":"Head of Laboratory"}},{"name":"Ga\u0161per","surname":"Fele \u017dor\u017e","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}},{"name":"Janez","surname":"\u017dibert","position":{"sl":"\u010clan laboratorija","en":"Laboratory Member"}}]}]}
+{
+  "labs": [
+    {
+      "abbreviation": "LASPP",
+      "title": {
+        "sl": "Laboratorij za adaptivne sisteme in paralelno procesiranje",
+        "en": "Laboratory for Adaptive Systems and Parallel Processing"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Patricio",
+          "surname": "Buli\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Rok",
+          "surname": "\u010ce\u0161novar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Nejc",
+          "surname": "Ilc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Uro\u0161",
+          "surname": "Lotri\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matija",
+          "surname": "Rezar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Davor",
+          "surname": "Sluga",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Branko",
+          "surname": "\u0160ter",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LALG",
+      "title": {
+        "sl": "Laboratorij za algoritmiko",
+        "en": null
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Uro\u0161",
+          "surname": "\u010cibej",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Toma\u017e",
+          "surname": "Dobravec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Peter",
+          "surname": "Gabrov\u0161ek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Guid",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jurij",
+          "surname": "Miheli\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Borut",
+          "surname": "Robi\u010d",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Robert",
+          "surname": "Rozman",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bo\u0161tjan",
+          "surname": "Slivnik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bla\u017e",
+          "surname": "Sovdat",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LAPS",
+      "title": {
+        "sl": "Laboratorij za arhitekturo in procesiranje signalov",
+        "en": "Laboratory for Architecture and Signal Processing"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": []
+    },
+    {
+      "abbreviation": "BIOLAB",
+      "title": {
+        "sl": "Laboratorij za bioinformatiko",
+        "en": "Bioinformatics Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Toma\u017e",
+          "surname": "Curk",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Andrej",
+          "surname": "\u010copar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Janez",
+          "surname": "Dem\u0161ar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ale\u0161",
+          "surname": "Erjavec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Primo\u017e",
+          "surname": "Godec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Rok",
+          "surname": "Gomi\u0161\u010dek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Toma\u017e",
+          "surname": "Ho\u010devar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Amra",
+          "surname": "Omanovi\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ajda",
+          "surname": "Pretnar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Martin",
+          "surname": "Stra\u017ear",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Vesna",
+          "surname": "Tanko",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Marko",
+          "surname": "Toplak",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bla\u017e",
+          "surname": "Zupan",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Lan",
+          "surname": "\u017dagar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Marinka",
+          "surname": "\u017ditnik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LBRSO",
+      "title": {
+        "sl": "Laboratorij za biomedicinske ra\u010dunalni\u0161ke sisteme in oslikave",
+        "en": "Laboratory for Biomedical Computer Systems and Imaging"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Franc",
+          "surname": "Jager",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "\u017diga",
+          "surname": "Pirnar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ale\u0161",
+          "surname": "Smrdel",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LeM",
+      "title": {
+        "sl": "Laboratorij za e-medije",
+        "en": "Laboratory of e-media"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Aleks",
+          "surname": "Hu\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "David",
+          "surname": "Jelenc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Denis",
+          "surname": "Tr\u010dek",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Mira",
+          "surname": "Trebar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LI",
+      "title": {
+        "sl": "Laboratorij za informatiko",
+        "en": "Information Systems Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Toma\u017e",
+          "surname": "Hovelja",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Rok",
+          "surname": "Rupnik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Damjan",
+          "surname": "Vavpoti\u010d",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Simon",
+          "surname": "Vrhovec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LIIS",
+      "title": {
+        "sl": "Laboratorij za integracijo informacijskih sistemov",
+        "en": "Laboratory for Integration of Information Systems"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Matija",
+          "surname": "Cankar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Anton Zvonko",
+          "surname": "Gazvoda",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matja\u017e Branko",
+          "surname": "Juri\u010d",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Benjamin",
+          "surname": "Kastelic",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jan",
+          "surname": "Meznari\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Miha",
+          "surname": "Nagelj",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Luka",
+          "surname": "\u0160arc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jure",
+          "surname": "Tuta",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LKM",
+      "title": {
+        "sl": "Laboratorij za kognitivno modeliranje",
+        "en": "Laboratory for Cognitive Modeling"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "\u0160PELA",
+          "surname": "ARHAR HOLDT",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Zoran",
+          "surname": "Bosni\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jaka",
+          "surname": "\u010cibej",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jana",
+          "surname": "Faganeli Pucer",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Teja",
+          "surname": "Goli",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Martin",
+          "surname": "Jakomin",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Igor",
+          "surname": "Kononenko",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Domen",
+          "surname": "Ko\u0161ir",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matja\u017e",
+          "surname": "Kukar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Nikola",
+          "surname": "Ljube\u0161i\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Martinc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Kristian",
+          "surname": "Miok",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jan",
+          "surname": "Pavlin",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Pi\u010dulin",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Gregor",
+          "surname": "Pir\u0161",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Marko",
+          "surname": "Robnik \u0160ikonja",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Tim",
+          "surname": "Smole",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Tadej",
+          "surname": "\u0160kvorc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Erik",
+          "surname": "\u0160trumbelj",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Ul\u010dar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "name": "Petar",
+          "surname": "Vra\u010dar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LKRV",
+      "title": {
+        "sl": "Laboratorij za kriptografijo in ra\u010dunalni\u0161ko varnost",
+        "en": "Laboratory for Cryptography and Computer Security"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Mia",
+          "surname": "Fili\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Aleksandar",
+          "surname": "Juri\u0161i\u0107",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Jano\u0161",
+          "surname": "Vidali",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LMMRI",
+      "title": {
+        "sl": "Laboratorij za matemati\u010dne metode v ra\u010dunalni\u0161tvu in informatiki",
+        "en": "Laboratory for Mathematical Methods in Computer and Information Science"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Marko",
+          "surname": "Boben",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ga\u0161per",
+          "surname": "Fijav\u017e",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Aleksandra",
+          "surname": "Franc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Damir",
+          "surname": "Franeti\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Gregor",
+          "surname": "Jer\u0161e",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Peter Marijan",
+          "surname": "Kink",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jelena",
+          "surname": "Klisara",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Polona",
+          "surname": "Oblak",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bojan",
+          "surname": "Orel",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Martin",
+          "surname": "Rai\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "\u017diga",
+          "surname": "Virk",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Martin",
+          "surname": "Vuk",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Alja\u017e",
+          "surname": "Zalar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LPT",
+      "title": {
+        "sl": "Laboratorij za podatkovne tehnologije",
+        "en": "Laboratory for Data Technologies"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Marko",
+          "surname": "Bajec",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Janez",
+          "surname": "Bindas",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Neli",
+          "surname": "Blagus",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jernej",
+          "surname": "Cvek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Sandi",
+          "surname": "Gec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Marko",
+          "surname": "Jankovi\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Petar",
+          "surname": "Kochovski",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Dejan",
+          "surname": "Lavbi\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jure",
+          "surname": "Lokov\u0161ek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Lovro",
+          "surname": "\u0160ubelj",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Aleksander",
+          "surname": "Tomi\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Gregor",
+          "surname": "Weiss",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Alja\u017e",
+          "surname": "Zrnec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Slavko",
+          "surname": "\u017ditnik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LRK",
+      "title": {
+        "sl": "Laboratorij za ra\u010dunalni\u0161ke komunikacije",
+        "en": "Computer Communications Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Mojca",
+          "surname": "Ciglari\u010d",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Miha",
+          "surname": "Grohar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ivan",
+          "surname": "Majhen",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "David",
+          "surname": "Modic",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matja\u017e",
+          "surname": "Pan\u010dur",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Veljko",
+          "surname": "Pejovi\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LRSS",
+      "title": {
+        "sl": "Laboratorij za ra\u010dunalni\u0161ke strukture in sisteme",
+        "en": "Computer Structures and Systems Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Jure",
+          "surname": "Dem\u0161ar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Miha",
+          "surname": "Jane\u017e",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Miran",
+          "surname": "Koprivec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Iztok",
+          "surname": "Lebar Bajec",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Miha",
+          "surname": "Mo\u0161kon",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Miha",
+          "surname": "Mraz",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Mattia",
+          "surname": "Petroni",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "\u017diga",
+          "surname": "Pu\u0161nik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Nikolaj",
+          "surname": "Zimic",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LRV",
+      "title": {
+        "sl": "Laboratorij za ra\u010dunalni\u0161ki vid",
+        "en": "Computer Vision Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Borut",
+          "surname": "Batagelj",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Narvika",
+          "surname": "Bovcon",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "\u017diga",
+          "surname": "Emer\u0161i\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ale\u0161",
+          "surname": "Jakli\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bojan",
+          "surname": "Klemenc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bla\u017e",
+          "surname": "Meden",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Peter",
+          "surname": "Peer",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Franc",
+          "surname": "Solina",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Luka",
+          "surname": "\u0160ajn",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Vitek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LGM",
+      "title": {
+        "sl": "Laboratorij za ra\u010dunalni\u0161ko grafiko in multimedije",
+        "en": "Laboratory of Computer Graphics and Multimedia "
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Ciril",
+          "surname": "Bohak",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Sa\u0161a",
+          "surname": "Divjak",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Alenka",
+          "surname": "Kav\u010di\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Vid",
+          "surname": "Klop\u010di\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "\u017diga",
+          "surname": "Lesar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matija",
+          "surname": "Marolt",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Matev\u017e",
+          "surname": "Pesek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LTPO",
+      "title": {
+        "sl": "Laboratorij za tehnologijo programske opreme",
+        "en": "Software Engineering Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Luka",
+          "surname": "F\u00fcrst",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Marko",
+          "surname": "Po\u017eenel",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Igor",
+          "surname": "Ro\u017eanc",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LUVSS",
+      "title": {
+        "sl": "Laboratorij za umetne vizualne spoznavne sisteme",
+        "en": "Visual Cognitive Systems Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Borja",
+          "surname": "Bovcon",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Luka",
+          "surname": "\u010cehovin Zajc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Dobrevski",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Matej",
+          "surname": "Kristan",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ale\u0161",
+          "surname": "Leonardis",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Alan",
+          "surname": "Luke\u017ei\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jon",
+          "surname": "Muhovi\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "An\u017ee",
+          "surname": "Rezelj",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Danijel",
+          "surname": "Sko\u010daj",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Domen",
+          "surname": "Tabernik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LUI",
+      "title": {
+        "sl": "Laboratorij za umetno inteligenco",
+        "en": "Artificial Intelligence Laboratory"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Ivan",
+          "surname": "Bratko",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Dejan",
+          "surname": "Georgiev",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Vida",
+          "surname": "Groznik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ana",
+          "surname": "Herzog",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Timotej",
+          "surname": "Lazar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Teodora",
+          "surname": "Mati\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Martin",
+          "surname": "Mo\u017eina",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Aleksander",
+          "surname": "Sadikov",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Andrej",
+          "surname": "Zupanc",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jure",
+          "surname": "\u017dabkar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    },
+    {
+      "abbreviation": "LUSY",
+      "title": {
+        "sl": "Laboratorij za vseprisotne sisteme",
+        "en": "Laboratory for Ubiquitous systems"
+      },
+      "location": "Some Random Location",
+      "description": {
+        "sl": "Nek random opis",
+        "en": "Some Random Description"
+      },
+      "members": [
+        {
+          "name": "Katarina",
+          "surname": "Bebar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Andrej",
+          "surname": "Brodnik",
+          "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Ga\u0161per",
+          "surname": "Fele \u017dor\u017e",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Janez",
+          "surname": "\u017dibert",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "projects":
+  [
+    {
+      "id": 1,
+      "si":
+      {
+        "title": "",
+        "description": "",
+        "proje_news": null,
+        "proj_events": null,
+        "proj_research": null,
+        "proj_publications": null,
+        "client": "Ministrstvo",
+        "project_id": "",
+        "project_link": "",
+        "start_date": "2015-01-01 00:00:00",
+        "end_date": "2015-01-01 00:00:00",
+        "persons":
+        [
+          {
+            "id": "635533",
+            "role": "bla bla",
+            "ime": "Marko",
+            "priimek": ""
+          }
+        ],
+        "ref_project_type": 7,
+        "logo": null,
+        "menu_picture": null,
+        "project_picture": null
+      }
+    }
+  ]
+}

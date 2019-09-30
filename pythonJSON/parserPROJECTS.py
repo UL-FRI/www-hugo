@@ -3,7 +3,7 @@ import re
 import io
 import os
 import requests
-from datetime import datetime, date
+from datetime import datetime
 
 
 def match_id(data_json, refrence_json):
@@ -106,19 +106,21 @@ def json_to_md(data_json, ref_ids):
 def get_xml():
     url = 'http://projektiweb.fri.uni-lj.si/api/projekti'
     response = requests.get(url)
-    with io.open('projekti.json', 'wb+') as file:
+    with io.open('./sampleJSON/projekti.json', 'wb+') as file:
         file.write(response.content)
     url = 'http://projektiweb.fri.uni-lj.si/api/vrsteprojektov'
     response = requests.get(url)
-    with io.open('vrste_projektov.json', 'wb+') as file:
+    with io.open('./sampleJSON/vrste_projektov.json', 'wb+') as file:
         file.write(response.content)
     url = 'http://projektiweb.fri.uni-lj.si/api/partnerji'
     response = requests.get(url)
-    with io.open('partnerji.json', 'wb+') as file:
+    with io.open('./sampleJSON/partnerji.json', 'wb+') as file:
         file.write(response.content)
 
 
-with io.open('projekti.json', 'r', encoding='utf8') as projekti:
+# get_xml() -- Uncomment to get xml files from projektiweb.fri.uni-lj.si
+
+with io.open('./sampleJSON/projekti.json', 'r', encoding='utf8') as projekti:
     data = json.load(projekti)
     referencePeople = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
                  "Aljoša Besednjak ", "Jasna Bevk ", "Janez Bindas ", "Neli Blagus ", "Marko Boben ", "Ciril Bohak ",
@@ -166,10 +168,9 @@ with io.open('projekti.json', 'r', encoding='utf8') as projekti:
         "biolab", "lalg", "laps", "laspp", "lbrso", "lem", "lgm", "li", "liis", "lkm", "lkrv", "lmmri", "lpt", "lrk",
         "lrss", "lrv", "ltpo", "lui", "lusy", "luvss"
     }
-
-    idList = match_id(data['projects'], referencePeople)
-    reference = match_lab(referenceLabs, idList)
-    json_to_md(data['projects'], reference)
+    # idList = match_id(data['projects'], referencePeople)
+    # reference = match_lab(referenceLabs, idList)
+    # json_to_md(data['projects'], reference)
 
 
 

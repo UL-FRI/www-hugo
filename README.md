@@ -1,32 +1,30 @@
-﻿# www-hugo
-The source code for Hugo version of certain websites at fri.uni-lj.si available at https://nejchirci.github.io/ with
-laboratory page at https://nejchirci.github.io/lab/ and personal page at https://nejchirci.github.io/employees/ .
-
+﻿# www-hugo: pythonJSON
+Branch dedicated development of JSON parsers, which distribute to markdown and smaller JSONs.
 
 ## Development
 ### Dependencies
-* [Hugo](https://gohugo.io/)
-* [GNU Make](https://www.gnu.org/software/make/)
+* [python 3.7](https://www.python.org/downloads/release/python-374/)
 
-### Commands
-#### Local development server
-```bash
-make
+Libraries
+* PyYAML	5.1.2
+* python-frontmatter 0.4.5
+* requests 2.22.0
+
+### Necessary folder structure
 ```
-
-#### Builds
-##### Development
-```bash
-make build-dev
-```
-
-##### Production
-```bash
-# Replace "http://example.com" with the base url of the site
-make build-prod url=http://example.com 
-```
-
-#### Other
-```bash
-make clean  # run after "make build-dev" or "make build-prod"
+pythonJSON
+│
+└───content
+    │   
+    └───sl
+    │   │
+    │   └─── laboratorij  
+    │   │   
+    │   └─── osebje
+    │       
+    └───en
+        │
+        └─── laboratorij
+        │
+        └─── osebje
 ```

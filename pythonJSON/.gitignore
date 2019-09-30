@@ -1,6 +1,7 @@
-/sampleJSON/
 *.idea
 /.idea/
 /content/
 /data/
-/img/
+
+/sampleJSON/persons.json
+/sampleJSON/projekti.json
