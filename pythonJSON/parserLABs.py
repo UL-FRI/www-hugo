@@ -22,26 +22,26 @@ def json_to_md(loaded_json):
             post_md = frontmatter.load(md, encoding='utf-8')
             post_md_en = frontmatter.load(md_en, encoding='utf-8')
 
-            if post_md.get('abbreviation') is None and p['abbreviation'] is not None:
+            if post_md.get('abbreviation') is '' and p['abbreviation'] is not None:
                 post_md['abbreviation'] = p['abbreviation']
-            if post_md.get('title') is None and p['title'] is not None:
+            if post_md.get('title') is '' and p['title'] is not None:
                 post_md['title'] = p['title']['sl']
-            if post_md.get('location') is None and p['location'] is not None:
+            if post_md.get('location') is '' and p['location'] is not None:
                 post_md['location'] = p['location']
-            if post_md.get('body') is None and p['description'] is not None:
+            if post_md.get('body') is '' and p['description'] is not None:
                 post_md.content = p['description']['sl']
-            if post_md.get('id') is None and 'id' in p:
+            if post_md.get('id') is '' and 'id' in p:
                 post_md['id'] = p['id']
 
-            if post_md_en.get('abbreviation') is None and p['abbreviation'] is not None:
+            if post_md_en.get('abbreviation') is '' and p['abbreviation'] is not None:
                 post_md_en['abbreviation'] = p['abbreviation']
-            if post_md_en.get('title') is None and p['title'] is not None:
+            if post_md_en.get('title') is '' and p['title'] is not None:
                 post_md_en['title'] = p['title']['en']
-            if post_md_en.get('location') is None and p['location'] is not None:
+            if post_md_en.get('location') is '' and p['location'] is not None:
                 post_md_en['location'] = p['location']
-            if post_md_en.get('body') is None and p['description'] is not None:
+            if post_md_en.get('body') is '' and p['description'] is not None:
                 post_md_en.content = p['description']['en']
-            if post_md_en.get('id') is None and 'id' in p:
+            if post_md_en.get('id') is '' and 'id' in p:
                 post_md_en['id'] = p['id']
 
             # Save the file

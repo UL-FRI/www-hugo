@@ -32,7 +32,7 @@ def match_id(data_json, refrence_json):
 def match_lab(ref_lab, ref_people):
     complete_ref = []
     for a in ref_lab:
-        fname = './data/laboratorij/' + a + '_mem.json'
+        fname = './data/laboratorij/members/' + a + '.json'
         if os.path.isfile(fname):
             with io.open(fname, 'r', encoding='utf8') as labs:
                 load = json.load(labs)
@@ -53,7 +53,7 @@ def match_lab(ref_lab, ref_people):
 
 
 def check_if_project_exist(proj_id, fname):
-    if os.path.isfile(fname):
+    if os.path.isfile(fname) and os.stat(fname).st_size != 0:
         with io.open(fname, 'r', encoding='utf8') as ref:
             ref_lab = json.load(ref)
             for i in ref_lab:
@@ -64,6 +64,31 @@ def check_if_project_exist(proj_id, fname):
         return False
 
 
+def format_project(p):
+    struct = {
+        "id": p["id"],
+        "title":
+            {
+                "si": p['si']['title'],
+                "en": p['en']['title']
+            },
+        "ref_project_type": p['si']['ref_project_type'],
+        "url": get_project_url(p),
+        "start_date": p['si']['start_date'],
+        "end_date": p['si']['end_date']
+    }
+    return struct
+
+
+def get_project_url(p):
+    with io.open('./sampleJSON/projects.json', 'r') as reference_projects:
+        load = json.load(reference_projects)
+        for i in load:
+            if str(p['id']) == i['project_id']:
+                return i['url']
+    return ''
+
+
 def append_json(file, p):
     if os.path.isfile(file):
         with io.open(file, 'r', encoding='utf8') as to:
@@ -71,13 +96,13 @@ def append_json(file, p):
             temp_list = []
             for obj in project_json:
                 temp_list.append(obj)
-            temp_list.append(p)
+            temp_list.append(format_project(p))
             project_json = temp_list
             with io.open(file, 'w', encoding='utf8') as target:
                 target.write(json.dumps(project_json, indent=4, sort_keys=True))
     else:
         with io.open(file, 'w', encoding='utf8') as to:
-            arr = [p]
+            arr = [format_project(p)]
             json.dump(arr, to)
 
 
@@ -86,17 +111,16 @@ def json_to_md(data_json, ref_ids):
         for x in p['si']['persons']:
             for ref in ref_ids:
                 if x['id'] == ref['id']:
-
                     datetime_str = p['si']['end_date']
-                    fname = './data/osebje/projekti/' + ref['fullname'] + '.json'
-                    fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '.json'
+                    fname = './data/osebje/projects/' + ref['fullname'] + '.json'
+                    fname_lab = './data/laboratorij/projects/' + ref['lab'] + '.json'
 
                     if datetime_str is not None:
                         datetime_obj = datetime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
                         current_date_time = datetime.today()
                         if current_date_time > datetime_obj:
-                            fname = './data/osebje/projekti/' + ref['fullname'] + '_end.json'
-                            fname_lab = './data/laboratorij/projekti/' + ref['lab'] + '_end.json'
+                            fname = './data/osebje/projects/' + ref['fullname'] + '_end.json'
+                            fname_lab = './data/laboratorij/projects/' + ref['lab'] + '_end.json'
 
                     if not check_if_project_exist(p['id'], fname_lab):
                         append_json(fname_lab, p)
@@ -168,9 +192,9 @@ with io.open('./sampleJSON/projekti.json', 'r', encoding='utf8') as projekti:
         "biolab", "lalg", "laps", "laspp", "lbrso", "lem", "lgm", "li", "liis", "lkm", "lkrv", "lmmri", "lpt", "lrk",
         "lrss", "lrv", "ltpo", "lui", "lusy", "luvss"
     }
-    # idList = match_id(data['projects'], referencePeople)
-    # reference = match_lab(referenceLabs, idList)
-    # json_to_md(data['projects'], reference)
+    idList = match_id(data['projects'], referencePeople)
+    reference = match_lab(referenceLabs, idList)
+    json_to_md(data['projects'], reference)
 
 
 

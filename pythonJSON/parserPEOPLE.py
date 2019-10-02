@@ -25,9 +25,9 @@ def compare_names(name1, name2):
         fname_en = './content/en/osebje/' + fname + '.md'
 
         if not path.isfile(fname_sl):
-            copyfile('./sampleJSON/template_personal.md', fname_sl)
+            copyfile('./structJSON/template_personal.md', fname_sl)
         if not path.isfile(fname_en):
-            copyfile('./sampleJSON/template_personal.md', fname_en)
+            copyfile('./structJSON/template_personal.md', fname_en)
 
         return True
     else:
@@ -57,56 +57,59 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if post_md_sl.get('title') is None:
                     post_md_sl['title'] = b.lstrip(' ')
                     post_md_sl['fixName'] = fix_name
-                if post_md_sl.get('profName') is None and person_json['fullname_and_title'] is not None:
+                if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
-                if post_md_sl.get('SICRIS') is None and person_json['sicris_researcher_number'] is not None:
+                if post_md_sl.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
                     post_md_sl['SICRIS'] = person_json['sicris_researcher_number']
-                if post_md_sl.get('profTitle') is None and person_json['web_category'] is not None:
+                if post_md_sl.get('profTitle') is '' and person_json['web_category'] is not None:
                     post_md_sl['profTitle'] = person_json['web_category']['sl']
-                if post_md_sl.get('telephoneInfo') is None and person_json['phone'] is not None:
+                if post_md_sl.get('telephoneInfo') is '' and person_json['phone'] is not None:
                     post_md_sl['telephoneInfo'] = person_json['phone']
-                if post_md_sl.get('mailInfo') is None and person_json['email'] is not None:
+                if post_md_sl.get('mailInfo') is '' and person_json['email'] is not None:
                     post_md_sl['mailInfo'] = person_json['email']
-                if post_md_sl.get('officeHours') is None and person_json['office_hours'] is not None:
+                if post_md_sl.get('officeHours') is '' and person_json['office_hours'] is not None:
                     post_md_sl['officeHours'] = person_json['office_hours']['sl']
-                if post_md_sl.get('location') is None and person_json['location'] is not None:
+                if post_md_sl.get('location') is '' and person_json['location'] is not None:
                     post_md_sl['location'] = person_json['location']
-                if post_md_sl.get('body') is None and desc_json['descSl'] is not None:
+                if post_md_sl.get('body') is '' and desc_json['descSl'] is not None:
                     post_md_sl.content = desc_json['descSl']
 
                 if post_md_en.get('title') is None:
                     post_md_en['title'] = b.lstrip(' ')
                     post_md_en['fixName'] = fix_name
-                if post_md_en.get('profName') is None and person_json['fullname_and_title'] is not None:
-                    post_md_en['profName'] = person_json['fullname_and_title']['sl']
-                if post_md_en.get('SICRIS') is None and person_json['sicris_researcher_number'] is not None:
+                if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
+                    post_md_en['profName'] = person_json['fullname_and_title']['en']
+                if post_md_en.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
                     post_md_en['SICRIS'] = person_json['sicris_researcher_number']
-                if post_md_en.get('profTitle') is None and person_json['web_category'] is not None:
-                    post_md_en['profTitle'] = person_json['web_category']['sl']
-                if post_md_en.get('telephoneInfo') is None and person_json['phone'] is not None:
+                if post_md_en.get('profTitle') is '' and person_json['web_category'] is not None:
+                    post_md_en['profTitle'] = person_json['web_category']['en']
+                if post_md_en.get('telephoneInfo') is '' and person_json['phone'] is not None:
                     post_md_en['telephoneInfo'] = person_json['phone']
-                if post_md_en.get('mailInfo') is None and person_json['email'] is not None:
+                if post_md_en.get('mailInfo') is '' and person_json['email'] is not None:
                     post_md_en['mailInfo'] = person_json['email']
-                if post_md_en.get('officeHours') is None and person_json['office_hours'] is not None:
-                    post_md_en['officeHours'] = person_json['office_hours']['sl']
-                if post_md_en.get('location') is None and person_json['location'] is not None:
+                if post_md_en.get('officeHours') is '' and person_json['office_hours'] is not None:
+                    post_md_en['officeHours'] = person_json['office_hours']['en']
+                if post_md_en.get('location') is '' and person_json['location'] is not None:
                     post_md_en['location'] = person_json['location']
-                if post_md_en.get('body') is None and desc_json['descSl'] is not None:
-                    post_md_en.content = desc_json['descSl']
+                if post_md_en.get('body') is '' and desc_json['descEn'] is not None:
+                    post_md_en.content = desc_json['descEn']
 
                 if len(person_json['labs']) != 0:
-                    for person in person_json['labs']:
-                        post_md_sl['lab'] = person['title']['sl']
-                        post_md_en['lab'] = person['title']['en']
-                        post_md_sl['labPos'] = person['function_in_lab']['sl']
-                        post_md_en['labPos'] = person['function_in_lab']['en']
+                    for lab in person_json['labs']:
+                        post_md_sl['lab'] = lab['title']['sl']
+                        post_md_en['lab'] = lab['title']['en']
+                        post_md_sl['labPos'] = lab['function_in_lab']['sl']
+                        post_md_en['labPos'] = lab['function_in_lab']['en']
 
                 if 'subjects' in person_json:
-                    sname = './data/osebje/' + fix_name + '_sub_img.json'
+                    course_codes = []
+                    for subject in person_json['subjects']:
+                        course_codes.append(subject['course_code'])
+                    sname = './data/osebje/subjects_and_img/' + fix_name + '_sub_img.json'
 
                     with io.open(sname, 'w+', encoding='utf8') as to:
                         from_insert = {
-                            "subjects": person_json['subjects'],
+                            "subjects": course_codes,
                             "img": person_json['picture']
                         }
                         json.dump(from_insert, to)

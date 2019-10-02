@@ -19,9 +19,16 @@ pythonJSON
     └───sl
     │   │
     │   └─── laboratorij  
+    |   |   |
+    |   |   └─── members
+    |   |   |
+    |   |   └─── projects
     │   │   
     │   └─── osebje
-    │       
+    |       |
+    |       └─── members
+    |       |
+    |       └─── projects
     └───en
         │
         └─── laboratorij
