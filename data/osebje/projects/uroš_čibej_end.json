@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 126,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Visualization and analysis of public finance networks",
+            "si": "PKP 2 - Vizualizacija in analiza omre\u017eij javnih financ"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-vizualizacija-analiza-omrezij-javnih-financ"
+    },
+    {
+        "end_date": "2017-04-28 00:00:00",
+        "id": 273,
+        "ref_project_type": null,
+        "start_date": "2016-06-30 00:00:00",
+        "title": {
+            "en": "Razvoj na projektu Visual Assistant",
+            "si": "Razvoj na projektu Visual Assistant"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-na-projektu-visual-assistant"
+    }
+]

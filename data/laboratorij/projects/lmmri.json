@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 394,
+        "ref_project_type": 6,
+        "start_date": "2016-11-04 00:00:00",
+        "title": {
+            "en": "NA-MA POTI - NA-MA POTI - Natural Science and Mathematical Literacy: Promoting Critical Thinking and Problem Solving",
+            "si": "NA-MA POTI - NAravoslovno MAtemati\u010dna Pismenost, Opolnomo\u010denje, Tehnologija in Interaktivnost"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/na-ma-poti-naravoslovno-matematicna-pismenost-opolnomocenje-tehnologija-interaktivnost"
+    },
+    {
+        "end_date": "2021-12-31 00:00:00",
+        "id": 544,
+        "ref_project_type": 1,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "EMBEDDIA - Cross-Lingual Embeddings for Less-Represented Languages in European News Media",
+            "si": "EMBEDDIA - Medjezikovne vektorske vlo\u017eitve za manj zastopane jezike v evropskih medijih"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/embeddia-medjezikovne-vektorske-vlozitve-za-manj-zastopane-jezike-v-evropskih-medijih"
+    }
+]

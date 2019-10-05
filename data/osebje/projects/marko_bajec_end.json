@@ -1,0 +1,211 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 59,
+        "ref_project_type": 2,
+        "start_date": "2012-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent ontology-based information retreival",
+            "si": "Inteligentno pridobivanje podatkov s pomo\u010djo ontologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-pridobivanje-podatkov-s-pomocjo-ontologij"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 66,
+        "ref_project_type": 1,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "RFID F2F - RFID from Farm to Fork",
+            "si": "RFID F2F - RFID from Farm to Fork"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+    },
+    {
+        "end_date": "2018-01-31 00:00:00",
+        "id": 80,
+        "ref_project_type": 1,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "SWITCH - Software Workbench for Interactive, Time Critical and\r\nHighly self-adaptive cloud applications",
+            "si": "SWITCH - Programsko okolje za interaktivne, \u010dasovno kriti\u010dne in visoko samoprilagodljive aplikacije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/switch-programsko-okolje-za-interaktivne-casovno-kriticne-visoko-samoprilagodljive"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 86,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC CLASS - Cloud Assisted Services",
+            "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 87,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC OPCOMM - Open Communication Platform for Service Integration",
+            "si": "KC OPCOMM - Odprta komunikacijska platforma za integracijo storitev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-opcomm-odprta-komunikacijska-platforma-za-integracijo-storitev"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 132,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Smart glasses",
+            "si": "PKP 2 - Pametna o\u010dala "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-pametna-ocala"
+    },
+    {
+        "end_date": "2015-08-10 00:00:00",
+        "id": 167,
+        "ref_project_type": null,
+        "start_date": "2015-07-30 00:00:00",
+        "title": {
+            "en": "Business process management within 4thOffice",
+            "si": "Krmiljenje procesov v okviru re\u0161itve 4th Office"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/krmiljenje-procesov-v-okviru-resitve-4th-office"
+    },
+    {
+        "end_date": "2015-02-18 00:00:00",
+        "id": 168,
+        "ref_project_type": null,
+        "start_date": "2014-04-23 00:00:00",
+        "title": {
+            "en": "Anomaly detection in operational data",
+            "si": "Sodelovanje na podro\u010dju iskanja anomalij v podatkih"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sodelovanje-na-podrocju-iskanja-anomalij-v-podatkih"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 198,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Open Information Extraction for Slovene and Serbian Languages",
+            "si": "Odprta ekstrakcija podatkov za slovenski in srbski jezik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/odprta-ekstrakcija-podatkov-za-slovenski-srbski-jezik"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 207,
+        "ref_project_type": 2,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent Agile Method Framework (iAMF)",
+            "si": "Inteligentno ogrodje za konstruiranje agilnih metod"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-ogrodje-za-konstruiranje-agilnih-metod"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
+        "end_date": "2013-07-23 00:00:00",
+        "id": 237,
+        "ref_project_type": null,
+        "start_date": "2013-04-08 00:00:00",
+        "title": {
+            "en": "Information technologies and approaches for the development of highly flexible and scalable applications",
+            "si": "Informacijske tehnologije in pristopi za razvoj visoko prilagodljivih in skalabilnih aplikacij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/informacijske-tehnologije-pristopi-za-razvoj-visoko-prilagodljivih-skalabilnih-aplikacij"
+    },
+    {
+        "end_date": "2013-03-10 00:00:00",
+        "id": 238,
+        "ref_project_type": null,
+        "start_date": "2011-09-13 00:00:00",
+        "title": {
+            "en": "Development of prototypes TellMeMore and WhoKnowsWho",
+            "si": "Razvoj tehnolo\u0161kih prototipnih izdelkov WhoKnowsWho in TellMeMore"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-tehnoloskih-prototipnih-izdelkov-whoknowswho-tellmemore"
+    },
+    {
+        "end_date": "2016-04-25 00:00:00",
+        "id": 245,
+        "ref_project_type": null,
+        "start_date": "2013-05-31 00:00:00",
+        "title": {
+            "en": "Unifrom highly available and robust application platform for telecommunications",
+            "si": "Zasnova uniformne visoko-razpolo\u017eljive aplikacijske platforme za telekomunikacijske storitve"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zasnova-uniformne-visoko-razpolozljive-aplikacijske-platforme-za-telekomunikacijske"
+    },
+    {
+        "end_date": "2018-01-08 00:00:00",
+        "id": 359,
+        "ref_project_type": null,
+        "start_date": "2016-10-21 00:00:00",
+        "title": {
+            "en": "Technical requirements for the development of the National Traffic Control Center",
+            "si": "Izdelava tehni\u010dne specifikacije za Nacionalni center za upravljanje prometa"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-tehnicne-specifikacije-za-nacionalni-center-za-upravljanje-prometa"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 364,
+        "ref_project_type": null,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "Design and development of an integration smartcity platform",
+            "si": "Zasnova in razvoj integracijske platforme pametnega mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zasnova-razvoj-integracijske-platforme-pametnega-mesta"
+    },
+    {
+        "end_date": "2018-02-21 00:00:00",
+        "id": 376,
+        "ref_project_type": null,
+        "start_date": "2017-02-21 00:00:00",
+        "title": {
+            "en": "Research and application development for the management of SRM modules",
+            "si": "Raziskave in razvoj aplikacij za upravljanje SRM modulov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskave-razvoj-aplikacij-za-upravljanje-srm-modulov"
+    },
+    {
+        "end_date": "2018-11-20 00:00:00",
+        "id": 1568,
+        "ref_project_type": null,
+        "start_date": "2018-10-16 00:00:00",
+        "title": {
+            "en": "PoC strojnega u\u010denja",
+            "si": "PoC strojnega u\u010denja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/poc-strojnega-ucenja"
+    }
+]

@@ -6,13 +6,13 @@
     <div class="title-small-gray"></div>
     <ul class="customList">
 
-        {{ range (index $.Site.Data.osebje.projekti $file_now)}}
+        {{ range (index $.Site.Data.osebje.projects $file_now)}}
         <li>
-            <a href="">
-                <span>{{ if eq .Site.Language.Lang "en"}}{{with .en.title}}{{.}}{{end}}{{else}}{{.si.title}}{{end}}</span>
+            <a href="{{ with .url }}{{.}}{{end}}">
+                <span>{{ if eq .Site.Language.Lang "en"}}{{with .title.en}}{{.}}{{end}}{{else}}{{.title.si}}{{end}}</span>
             </a><br />
-            {{with .si.ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
-            {{with .si.start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .si.end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
+            {{with .ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
+            {{with .start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
 
@@ -20,13 +20,13 @@
     <div class="title-small-gray">{{ i18n "past"}} {{ i18n "_project" 0 }}</div>
     <ul class="customList">
 
-        {{ range (index $.Site.Data.osebje.projekti $file_end)}}
+        {{ range (index $.Site.Data.osebje.projects $file_end)}}
         <li>
-            <a href="">
-                <span>{{ if eq .Site.Language.Lang "en"}}{{with .en.title}}{{.}}{{end}}{{else}}{{.si.title}}{{end}}</span>
+            <a href="{{ with .url }}{{.}}{{end}}">
+                <span>{{ if eq .Site.Language.Lang "en"}}{{with .title.en}}{{.}}{{end}}{{else}}{{.title.si}}{{end}}</span>
             </a><br />
-            {{with .si.ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
-            {{with .si.start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .si.end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
+            {{with .ref_project_type }}<span style='background-color:#f2f2f2; padding: 2px 4px; color: #7f7f7f; font-family: Verdana; font-size: 10px; margin-right: 4px;'>{{ index $.Site.Params.proj_types (int (sub . 1)) }}</span>{{end}}
+            {{with .start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
 

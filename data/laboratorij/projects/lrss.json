@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 558,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "ClolesteROR in metabilic liver disease",
+            "si": "HolesteROR pri presnovnih boleznih jeter"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/holesteror-pri-presnovnih-boleznih-jeter"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 62,
+        "ref_project_type": 2,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "Development of new e-learning models for game-based learning using mobile technologies",
+            "si": "Razvoj novih modelov v e-izobra\u017eevanju za u\u010denje skozi igro z uporabo mobilnih tehnologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-novih-modelov-v-e-izobrazevanju-za-ucenje-skozi-igro-z-uporabo-mobilnih-tehnologij"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 199,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Intelligent computer techniques for improving medical detection, analysis and explanation of human cognition and behavior disorders",
+            "si": "Inteligentne ra\u010dunalni\u0161ke metode za izbolj\u0161anje zaznavanja, analize in razlage kognitivnih motenj obna\u0161anja pri \u010dloveku"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentne-racunalniske-metode-za-izboljsanje-zaznavanja-analize-razlage-kognitivnih"
+    }
+]

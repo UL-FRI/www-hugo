@@ -1,0 +1,200 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2017-04-30 00:00:00",
+        "id": 81,
+        "ref_project_type": 1,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "CREA - Network of summer academies for the improvement of entrepreneurship in innovative sectors",
+            "si": "CREA - Mre\u017ea poletnih akademij za izbolj\u0161anje inovativnega podjetni\u0161kega sektorja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/crea-mreza-poletnih-akademij-za-izboljsanje-inovativnega-podjetniskega-sektorja"
+    },
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 97,
+        "ref_project_type": 6,
+        "start_date": "2013-07-26 00:00:00",
+        "title": {
+            "en": "Internacionalizacija UL",
+            "si": "Internacionalizacija UL"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 133,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Web-based application for identifying and providing information on sexual transmitted infections",
+            "si": "PKP 2 - ASPO - spletna aplikacija za prepoznavanje in informiranje o spolno prenosljivih oku\u017ebah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-aspo-spletna-aplikacija-za-prepoznavanje-informiranje-o-spolno-prenosljivih-okuzbah"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 134,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Human resources management in translation industry",
+            "si": "PKP 2 - IOLAR - Upravljanje s \u010dlove\u0161kimi viri v prevajalskem procesu"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-iolar-upravljanje-s-cloveskimi-viri-v-prevajalskem-procesu"
+    },
+    {
+        "end_date": "2014-08-31 00:00:00",
+        "id": 146,
+        "ref_project_type": 1,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "HESUDI - HEalthcare Support Using Domotics and IT",
+            "si": "HESUDI - HEalthcare Support Using Domotics and IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/hesudi-healthcare-support-using-domotics-and-it"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 156,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Automatic analysis of the technical quality of mammography images",
+            "si": "PKP 2 - Samodejna Analiza Tehni\u010dne Kakovosti mamografskih slik - SATKA"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-samodejna-analiza-tehnicne-kakovosti-mamografskih-slik-satka"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 228,
+        "ref_project_type": null,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "Projekt Sentinel2AgriSlovenia",
+            "si": "Projekt Sentinel2AgriSlovenia"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/projekt-sentinel2agrislovenia"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
+        "end_date": "2015-06-03 00:00:00",
+        "id": 252,
+        "ref_project_type": null,
+        "start_date": "2011-04-05 00:00:00",
+        "title": {
+            "en": "Sodno izvedensko mnenje",
+            "si": "Sodno izvedensko mnenje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sodno-izvedensko-mnenje"
+    },
+    {
+        "end_date": "2014-11-18 00:00:00",
+        "id": 253,
+        "ref_project_type": null,
+        "start_date": "2013-05-09 00:00:00",
+        "title": {
+            "en": "Razvojne storitve",
+            "si": "Razvojne storitve"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvojne-storitve"
+    },
+    {
+        "end_date": "2012-10-04 00:00:00",
+        "id": 254,
+        "ref_project_type": null,
+        "start_date": "2011-10-01 00:00:00",
+        "title": {
+            "en": "Raziskovalno-razvojne storitve",
+            "si": "Raziskovalno-razvojne storitve"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalno-razvojne-storitve"
+    },
+    {
+        "end_date": "2012-09-30 00:00:00",
+        "id": 255,
+        "ref_project_type": null,
+        "start_date": "2009-12-16 00:00:00",
+        "title": {
+            "en": "Raziskovalno in strokovno delo",
+            "si": "Raziskovalno in strokovno delo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalno-strokovno-delo"
+    },
+    {
+        "end_date": "2017-09-30 00:00:00",
+        "id": 410,
+        "ref_project_type": 6,
+        "start_date": "2017-06-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 1 - International project for science promotion: Central European Olympiad in Informatics (CEOI)",
+            "si": "\u0160IPK 1 - Mednarodni projekti za promocijo znanosti"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-1-mednarodni-projekti-za-promocijo-znanosti"
+    },
+    {
+        "end_date": "2010-07-30 00:00:00",
+        "id": 553,
+        "ref_project_type": null,
+        "start_date": "2010-07-08 00:00:00",
+        "title": {
+            "en": "Aplikacija Inoturbar",
+            "si": "Aplikacija Inoturbar"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/aplikacija-inoturbar"
+    },
+    {
+        "end_date": "2011-02-25 00:00:00",
+        "id": 554,
+        "ref_project_type": null,
+        "start_date": "2011-02-20 00:00:00",
+        "title": {
+            "en": "Pomo\u010d pri izvedbi delavnice",
+            "si": "Pomo\u010d pri izvedbi delavnice"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pomoc-pri-izvedbi-delavnice"
+    },
+    {
+        "end_date": "2016-06-30 00:00:00",
+        "id": 556,
+        "ref_project_type": null,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "Pedago\u0161ko delo",
+            "si": "Pedago\u0161ko delo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pedagosko-delo"
+    },
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 557,
+        "ref_project_type": null,
+        "start_date": "2014-12-05 00:00:00",
+        "title": {
+            "en": "Nadgradnja operativnega sistema",
+            "si": "Nadgradnja operativnega sistema"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nadgradnja-operativnega-sistema"
+    }
+]

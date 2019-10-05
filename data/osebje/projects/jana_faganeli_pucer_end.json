@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 200,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Automatic detection and localization of ischemia by the use of data mining algorithms",
+            "si": "Avtomatsko zaznavanje in lokalizacija ishemij z uporabo algoritmov podatkovnega rudarjenja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/avtomatsko-zaznavanje-lokalizacija-ishemij-z-uporabo-algoritmov-podatkovnega-rudarjenja"
+    },
+    {
+        "end_date": "2019-02-28 00:00:00",
+        "id": 514,
+        "ref_project_type": null,
+        "start_date": "2018-03-05 00:00:00",
+        "title": {
+            "en": "Poro\u010danje podatkov o kakovosti zraka na Evropsko okoljsko agencijo in preverjanje statisti\u010dnega modela za napovedovanje onesna\u017eeval",
+            "si": "Poro\u010danje podatkov o kakovosti zraka na Evropsko okoljsko agencijo in preverjanje statisti\u010dnega modela za napovedovanje onesna\u017eeval"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/porocanje-podatkov-o-kakovosti-zraka-na-evropsko-okoljsko-agencijo-preverjanje"
+    }
+]

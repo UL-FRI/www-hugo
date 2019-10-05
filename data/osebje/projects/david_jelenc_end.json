@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2011-09-30 00:00:00",
+        "id": 50,
+        "ref_project_type": 5,
+        "start_date": "2010-10-01 00:00:00",
+        "title": {
+            "en": "Managing technical, business and social implications of Internet of things\u2002in Slovene environment",
+            "si": "OTGDV-Ist - Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/otgdv-ist-obvladovanje-tehnicnih-gospodarsko-druzbenih-vidikov-interneta-stvari-v"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 64,
+        "ref_project_type": 2,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Trust Management and Reputation Systems",
+            "si": "Upravljanje zaupanja in sistemi za obvladovanje ugleda"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/upravljanje-zaupanja-sistemi-za-obvladovanje-ugleda"
+    },
+    {
+        "end_date": "2016-08-31 00:00:00",
+        "id": 76,
+        "ref_project_type": 1,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "SALUS - Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS",
+            "si": "SALUS - Security And InteroperabiLity in Next Generation PPDR CommUnication InfrastructureS"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/salus-security-and-interoperability-next-generation-ppdr-communication-infrastructures"
+    },
+    {
+        "end_date": "2012-10-16 00:00:00",
+        "id": 141,
+        "ref_project_type": 3,
+        "start_date": "2008-10-17 00:00:00",
+        "title": {
+            "en": "Agreement Technologies (COST Action IC0801)",
+            "si": "Agreement Technologies (COST Action IC0801)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/agreement-technologies-cost-action-ic0801"
+    },
+    {
+        "end_date": "2018-04-06 00:00:00",
+        "id": 497,
+        "ref_project_type": 3,
+        "start_date": "2014-04-07 00:00:00",
+        "title": {
+            "en": "Cryptography for Secure Digital Interaction (COST Action IC1306)",
+            "si": "Kriptografija za omogo\u010danje varnih digitalnih interakcij (COST Action IC1306)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kriptografija-za-omogocanje-varnih-digitalnih-interakcij-cost-action-ic1306"
+    },
+    {
+        "end_date": "2018-12-11 00:00:00",
+        "id": 498,
+        "ref_project_type": 3,
+        "start_date": "2014-12-12 00:00:00",
+        "title": {
+            "en": "CRYPTACUS - Cryptanalysis of ubiquitous computing systems (COST Action IC1403)",
+            "si": "CRYPTACUS - Kriptoanaliza za vseprisotne sisteme (COST Action IC1403)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/cryptacus-kriptoanaliza-za-vseprisotne-sisteme-cost-action-ic1403"
+    }
+]

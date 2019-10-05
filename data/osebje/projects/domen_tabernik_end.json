@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2013-04-30 00:00:00",
+        "id": 31,
+        "ref_project_type": 5,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "Learning a large number of visual object categories for content-based retrieval in image and video databases",
+            "si": "U\u010denje velikega \u0161tevila vizualnih kategorij objektov za poizvedovanje v slikovnih in video podatkovnih zbirkah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-velikega-stevila-vizualnih-kategorij-objektov-za-poizvedovanje-v-slikovnih-video"
+    },
+    {
+        "end_date": "2018-10-31 00:00:00",
+        "id": 540,
+        "ref_project_type": null,
+        "start_date": "2018-07-06 00:00:00",
+        "title": {
+            "en": "Razvoj programske opreme za klasifikacijo desk",
+            "si": "Razvoj programske opreme za klasifikacijo desk"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-programske-opreme-za-klasifikacijo-desk"
+    }
+]

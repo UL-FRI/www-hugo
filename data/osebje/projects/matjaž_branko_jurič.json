@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2021-10-31 00:00:00",
+        "id": 488,
+        "ref_project_type": 1,
+        "start_date": "2017-11-01 00:00:00",
+        "title": {
+            "en": "CROSSBOW - CROSS BOrder management of variable renewable energies and storage units enabling a transnational Wholesale market",
+            "si": "CROSSBOW - CROSS BOrder management of variable renewable energies and storage units enabling a transnational Wholesale market"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/crossbow-cross-border-management-variable-renewable-energies-and-storage-units-enabling"
+    },
+    {
+        "end_date": null,
+        "id": 491,
+        "ref_project_type": null,
+        "start_date": "2017-08-23 00:00:00",
+        "title": {
+            "en": "Krovna pogodba o poslovenem sodelovanju",
+            "si": "Krovna pogodba o poslovenem sodelovanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

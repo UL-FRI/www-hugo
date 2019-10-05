@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2011-01-31 00:00:00",
+        "id": 23,
+        "ref_project_type": 5,
+        "start_date": "2008-02-01 00:00:00",
+        "title": {
+            "en": "EtnoKatalog: retrieval of semantic data from folk song and music, based on melodic and metro-rhythmic analysis",
+            "si": "EtnoKatalog: pridobivanje semanti\u010dnih opisov ljudske pesmi in glasbe na podlagi melodi\u010dne in metro-ritmi\u010dne analize"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnokatalog-pridobivanje-semanticnih-opisov-ljudske-pesmi-glasbe-na-podlagi-melodicne-metro"
+    },
+    {
+        "end_date": "2010-08-31 00:00:00",
+        "id": 49,
+        "ref_project_type": 5,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "DIDIKTA - analysis and development of didactics in ICT supported teaching and learning",
+            "si": "DIDIKTA - analiza in razvoj didaktike uporabe IKT pri prou\u010devanju in u\u010denju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/didikta-analiza-razvoj-didaktike-uporabe-ikt-pri-proucevanju-ucenju"
+    },
+    {
+        "end_date": "2011-02-28 00:00:00",
+        "id": 69,
+        "ref_project_type": 1,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "ASPECT - Adopting standards and specifications for educational content",
+            "si": "ASPECT - Adopting standards and specifications for educational content"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/aspect-adopting-standards-and-specifications-educational-content"
+    }
+]

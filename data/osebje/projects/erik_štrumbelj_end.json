@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 53,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Integration of data mining and high-performance computer modeling for coronary artery disease",
+            "si": "Integracija odkrivanja zakonitosti v podatkih in visoko-zmogljivega ra\u010dunalni\u0161kega modeliranja sr\u010dno-\u017eilnih bolezni"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/integracija-odkrivanja-zakonitosti-v-podatkih-visoko-zmogljivega-racunalniskega-modeliranja"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 55,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Electricity load forecasting supported by prediction explanation and prediction reliability estimates",
+            "si": "Napovedovanje porabe elektri\u010dne energije, podprto z razlago in oceno zanesljivosti napovedi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/napovedovanje-porabe-elektricne-energije-podprto-z-razlago-oceno-zanesljivosti-napovedi"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 56,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Machine learning of imbalanced data",
+            "si": "Strojno u\u010denje neuravnote\u017eenih podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-neuravnotezenih-podatkov"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 200,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Automatic detection and localization of ischemia by the use of data mining algorithms",
+            "si": "Avtomatsko zaznavanje in lokalizacija ishemij z uporabo algoritmov podatkovnega rudarjenja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/avtomatsko-zaznavanje-lokalizacija-ishemij-z-uporabo-algoritmov-podatkovnega-rudarjenja"
+    },
+    {
+        "end_date": "2019-02-28 00:00:00",
+        "id": 206,
+        "ref_project_type": null,
+        "start_date": "2016-03-01 00:00:00",
+        "title": {
+            "en": "Sofinanciranje aplikativnega projekta L1-7542",
+            "si": "Sofinanciranje aplikativnega projekta L1-7542"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sofinanciranje-aplikativnega-projekta-l1-7542"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 385,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov",
+            "si": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-video-meritve-dolzin-smucarskih-skokov"
+    },
+    {
+        "end_date": "2019-07-25 00:00:00",
+        "id": 1597,
+        "ref_project_type": null,
+        "start_date": "2019-03-25 00:00:00",
+        "title": {
+            "en": "Hypercomputing for Critical Path Parkinsons Consortium",
+            "si": "Raziskovalno delo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalno-delo"
+    }
+]

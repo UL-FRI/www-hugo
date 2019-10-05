@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 1,
+        "ref_project_type": 7,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Nadgradnja korpusov Gigafida, Kres, ccGigafida in ccKres",
+            "si": "Nadgradnja korpusov Gigafida, Kres, ccGigafida in ccKres"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nadgradnja-korpusov-gigafida-kres-ccgigafida-cckres"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi-0"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 389,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Centre for language resources and technologies of University of Ljubljana (CJVT UL)",
+            "si": "Center za jezikovne vire in tehnologije Univerze v Ljubljani (CJVT UL)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/center-za-jezikovne-vire-tehnologije-univerze-v-ljubljani-cjvt-ul"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 391,
+        "ref_project_type": 6,
+        "start_date": "2016-11-04 00:00:00",
+        "title": {
+            "en": "KAU\u010c - Improving the Quality of Slovene Textbooks",
+            "si": "KAU\u010c - Za KAkovost slovenskih U\u010cbenikov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kauc-za-kakovost-slovenskih-ucbenikov"
+    },
+    {
+        "end_date": "2020-04-30 00:00:00",
+        "id": 505,
+        "ref_project_type": 5,
+        "start_date": "2017-05-01 00:00:00",
+        "title": {
+            "en": "New grammar of modern standard Slovene:resources and methods",
+            "si": "Nova slovnica sodobne standardne sloven\u0161\u010dine: viri in metode"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nova-slovnica-sodobne-standardne-slovenscine-viri-metode-0"
+    },
+    {
+        "end_date": "2021-12-31 00:00:00",
+        "id": 544,
+        "ref_project_type": 1,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "EMBEDDIA - Cross-Lingual Embeddings for Less-Represented Languages in European News Media",
+            "si": "EMBEDDIA - Medjezikovne vektorske vlo\u017eitve za manj zastopane jezike v evropskih medijih"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/embeddia-medjezikovne-vektorske-vlozitve-za-manj-zastopane-jezike-v-evropskih-medijih"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1586,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Language resources and technologies for Slovene language",
+            "si": "Jezikovni viri in tehnologije za slovenski jezik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/jezikovni-viri-tehnologije-za-slovenski-jezik-0"
+    }
+]

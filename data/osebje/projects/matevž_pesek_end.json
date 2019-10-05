@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2017-04-30 00:00:00",
+        "id": 81,
+        "ref_project_type": 1,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "CREA - Network of summer academies for the improvement of entrepreneurship in innovative sectors",
+            "si": "CREA - Mre\u017ea poletnih akademij za izbolj\u0161anje inovativnega podjetni\u0161kega sektorja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/crea-mreza-poletnih-akademij-za-izboljsanje-inovativnega-podjetniskega-sektorja"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 122,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "ZaznajSpoznaj - PerceiveConceive: an application for ICT-supported inclusion of blind and visually impaired youth in society",
+            "si": "ZaznajSpoznaj - Aplikacija za IKT-podprto vklju\u010ditev slepe in slabovidne mladine v dru\u017ebo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zaznajspoznaj-aplikacija-za-ikt-podprto-vkljucitev-slepe-slabovidne-mladine-v-druzbo"
+    },
+    {
+        "end_date": "2019-05-30 00:00:00",
+        "id": 1601,
+        "ref_project_type": null,
+        "start_date": "2019-02-05 00:00:00",
+        "title": {
+            "en": "Postavitev storitve Klinker znotraj Arnes oblaka",
+            "si": "Postavitev storitve Klinker znotraj Arnes oblaka"
+        },
+        "url": ""
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 40,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Machine learning for building intelligent tutoring systems",
+            "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-v-gradnji-inteligentnih-sistemov-za-poucevanje"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 41,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Molecular and other prognosticators of lung cancer and mesothelioma ",
+            "si": "Molekularni in drugi ozna\u010devalci raka plju\u010d in mezotelioma"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/molekularni-drugi-oznacevalci-raka-pljuc-mezotelioma"
+    },
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 60,
+        "ref_project_type": 2,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Machine learning for building intelligent tutoring systems: conceptualization of problem-solving domains",
+            "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje: konceptualizacija domen simboli\u010dnega re\u0161evanja problemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-v-gradnji-inteligentnih-sistemov-za-poucevanje-konceptualizacija-domen"
+    }
+]

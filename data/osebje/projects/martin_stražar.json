@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2020-06-30 00:00:00",
+        "id": 231,
+        "ref_project_type": 6,
+        "start_date": "2016-07-07 00:00:00",
+        "title": {
+            "en": "BioPharm.si - BioPharm.SI:Next Generation of Biologics",
+            "si": "BioPharm.si - Razvoj naprednih farmacevtskih in biotehnolo\u0161ko - farmacevtskih oblik in novih dostavnih sistemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/biopharmsi-razvoj-naprednih-farmacevtskih-biotehnolosko-farmacevtskih-oblik-novih-dostavnih"
+    },
+    {
+        "end_date": "2020-08-31 00:00:00",
+        "id": 538,
+        "ref_project_type": 2,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "Computational and data visualisation approaches to mining of large-scale data in single-cell genomics",
+            "si": "Metode za rudarjenje obse\u017enih genomskih podatkov posami\u010dnih celic z ra\u010dunskimi in vizualizacijskimi pristopi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/metode-za-rudarjenje-obseznih-genomskih-podatkov-posamicnih-celic-z-racunskimi"
+    }
+]

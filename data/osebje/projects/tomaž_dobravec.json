@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2019-12-31 00:00:00",
+        "id": 21,
+        "ref_project_type": 4,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Parallel and distributed systems",
+            "si": "Vzporedni in porazdeljeni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vzporedni-porazdeljeni-sistemi"
+    },
+    {
+        "end_date": null,
+        "id": 404,
+        "ref_project_type": null,
+        "start_date": "2017-02-07 00:00:00",
+        "title": {
+            "en": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov",
+            "si": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/oblikovanje-animacija-programiranje-elektronskih-interaktivnih-ucbenikov"
+    }
+]

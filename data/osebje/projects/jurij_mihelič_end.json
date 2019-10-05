@@ -1,0 +1,57 @@
+[
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 129,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Analysis and visualization of impact factors on organization visits",
+            "si": "PKP 2 - Analiza in vizualizacija dejavnikov vpliva na obiskanost organizacij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-analiza-vizualizacija-dejavnikov-vpliva-na-obiskanost-organizacij"
+    },
+    {
+        "end_date": "2017-04-28 00:00:00",
+        "id": 273,
+        "ref_project_type": null,
+        "start_date": "2016-06-30 00:00:00",
+        "title": {
+            "en": "Razvoj na projektu Visual Assistant",
+            "si": "Razvoj na projektu Visual Assistant"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-na-projektu-visual-assistant"
+    },
+    {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 515,
+        "ref_project_type": 6,
+        "start_date": "2018-03-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 2 - SloRaDe: Slovenian Computer Heritage",
+            "si": "\u0160IPK 2 - Slovenska ra\u010dunalni\u0161ka dedi\u0161\u010dina"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-2-slovenska-racunalniska-dediscina"
+    },
+    {
+        "end_date": "2018-09-15 00:00:00",
+        "id": 536,
+        "ref_project_type": 6,
+        "start_date": "2018-06-15 00:00:00",
+        "title": {
+            "en": "\u0160IPK 3 - SLEDIMedO: Tracker of Media Announcements",
+            "si": "\u0160IPK 3 - Sledilec medijskih objav"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-3-sledilec-medijskih-objav"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 1579,
+        "ref_project_type": 6,
+        "start_date": "2019-03-01 00:00:00",
+        "title": {
+            "en": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev",
+            "si": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-5-studija-izvedba-vizualizacijskih-obogatitev"
+    }
+]

@@ -1,9 +1,9 @@
-{{- $file := printf "%s_mem" (lower .Params.abbreviation) -}}
+{{- $file := printf "%s" (lower .Params.abbreviation) -}}
 <div class="list-katedra">
 	<ul>
-		{{ range (index $.Site.Data.laboratorij $file)}}
+		{{ range (index $.Site.Data.laboratorij.members $file)}}
 
-		<li><a href="/{{ $.Site.Language.Lang }}/osebje/aleks_huč">
+		<li><a href="/{{ $.Site.Language.Lang }}/osebje/{{ lower .name }}_{{ lower .surname}}">
 			{{ .name }} {{ .surname }}
 			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ i18n "labHead" }} {{ end }}
 		</a></li>

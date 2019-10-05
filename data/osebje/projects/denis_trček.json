@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2020-02-29 00:00:00",
+        "id": 494,
+        "ref_project_type": 3,
+        "start_date": "2016-03-01 00:00:00",
+        "title": {
+            "en": "RECODIS - Resilient communication services protecting end-user applications from disaster-based failures (COST Action CA15127)",
+            "si": "RECODIS - Rezistentne komunikacijske storitve za za\u0161\u010dito aplikacij konlnih uporabnikov v izrednih razmerah (COST Action CA15127)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/recodis-rezistentne-komunikacijske-storitve-za-zascito-aplikacij-konlnih-uporabnikov-v"
+    },
+    {
+        "end_date": "2021-10-17 00:00:00",
+        "id": 524,
+        "ref_project_type": 3,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "GAMENET - European Network for Game Theory (COST Action CA16228)",
+            "si": "GAMENET - Evropska mre\u017ea za teorijo iger (COST Action CA16228)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/gamenet-evropska-mreza-za-teorijo-iger-cost-action-ca16228"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

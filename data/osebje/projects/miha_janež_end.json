@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 201,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Medical Images Compression",
+            "si": "Kompresija medicinskih slik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kompresija-medicinskih-slik"
+    },
+    {
+        "end_date": "2018-02-28 00:00:00",
+        "id": 508,
+        "ref_project_type": null,
+        "start_date": "2017-10-26 00:00:00",
+        "title": {
+            "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
+            "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+    }
+]

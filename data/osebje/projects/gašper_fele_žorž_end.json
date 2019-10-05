@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 133,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Web-based application for identifying and providing information on sexual transmitted infections",
+            "si": "PKP 2 - ASPO - spletna aplikacija za prepoznavanje in informiranje o spolno prenosljivih oku\u017ebah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-aspo-spletna-aplikacija-za-prepoznavanje-informiranje-o-spolno-prenosljivih-okuzbah"
+    },
+    {
+        "end_date": "2014-08-31 00:00:00",
+        "id": 146,
+        "ref_project_type": 1,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "HESUDI - HEalthcare Support Using Domotics and IT",
+            "si": "HESUDI - HEalthcare Support Using Domotics and IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/hesudi-healthcare-support-using-domotics-and-it"
+    }
+]

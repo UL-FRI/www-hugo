@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 9,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 11,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+    },
+    {
+        "end_date": "2011-09-30 00:00:00",
+        "id": 50,
+        "ref_project_type": 5,
+        "start_date": "2010-10-01 00:00:00",
+        "title": {
+            "en": "Managing technical, business and social implications of Internet of things\u2002in Slovene environment",
+            "si": "OTGDV-Ist - Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/otgdv-ist-obvladovanje-tehnicnih-gospodarsko-druzbenih-vidikov-interneta-stvari-v"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 86,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC CLASS - Cloud Assisted Services",
+            "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 87,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC OPCOMM - Open Communication Platform for Service Integration",
+            "si": "KC OPCOMM - Odprta komunikacijska platforma za integracijo storitev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-opcomm-odprta-komunikacijska-platforma-za-integracijo-storitev"
+    },
+    {
+        "end_date": "2014-09-30 00:00:00",
+        "id": 112,
+        "ref_project_type": 6,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "PKP 1 - 3D documentation of cultural heritage",
+            "si": "PKP 1 - Fotogrametri\u010dno zajemanje 3D podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-fotogrametricno-zajemanje-3d-podatkov"
+    },
+    {
+        "end_date": "2019-05-30 00:00:00",
+        "id": 1602,
+        "ref_project_type": null,
+        "start_date": "2019-04-30 00:00:00",
+        "title": {
+            "en": "Programiranje",
+            "si": "Programiranje"
+        },
+        "url": ""
+    }
+]

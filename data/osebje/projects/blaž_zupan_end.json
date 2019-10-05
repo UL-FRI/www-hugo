@@ -1,0 +1,288 @@
+[
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 3,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi"
+    },
+    {
+        "end_date": "2011-01-31 00:00:00",
+        "id": 25,
+        "ref_project_type": 5,
+        "start_date": "2008-02-01 00:00:00",
+        "title": {
+            "en": "Knowledge technology approaches in drug discovery: analysis and experimental planning in high-throughput genetics",
+            "si": "Tehnologije znanj za odkrivanje novih zdravilnih u\u010dinkovin: analiza in na\u010drtovanje eksperimentov v visoko zmogljivostni genetiki"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/tehnologije-znanj-za-odkrivanje-novih-zdravilnih-ucinkovin-analiza-nacrtovanje"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 26,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Qualitative modeling from data",
+            "si": "Kvalitativno modeliranje na osnovi podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kvalitativno-modeliranje-na-osnovi-podatkov"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 27,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Data and knowledge integration methods for network systems biology",
+            "si": "Metode za povezovanje podatkov in znanja v sistemski biologiji mre\u017e"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/metode-za-povezovanje-podatkov-znanja-v-sistemski-biologiji-mrez"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 34,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Growth and defense trade-offs in multitrophic interaction between potato and its two major pests",
+            "si": "Kompromisi obrambe in razvoja v ve\u010dtrofi\u010dni interakciji med krompirjem in dvema glavnima \u0161kodljivcema"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kompromisi-obrambe-razvoja-v-vectroficni-interakciji-med-krompirjem-dvema-glavnima"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 35,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Functional genomics of potato-PVY interactions",
+            "si": "Funkcijska genomika interakcije med krompirjem in PVY"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/funkcijska-genomika-interakcije-med-krompirjem-pvy"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 36,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Functional genomics of cholesterol homeostasis: the role of lanosterol 14alpha-demethylase in development of metabolic disorders",
+            "si": "Funkcijska genomika ravnovesja holesterola: vloga lanosterol 14alfa-demetilaze (CYP51) pri razvoju metaboli\u010dnih obolenj"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/funkcijska-genomika-ravnovesja-holesterola-vloga-lanosterol-14alfa-demetilaze-cyp51-pri"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 37,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Combination of next generation sequencing and metagenomic analysis in the diagnostics of severe hop stunting",
+            "si": "Uporaba kombinacije tehnike naslednje generacije dolo\u010devanja nukleotidnih zaporedij in metagenomske analize v diagnostiki pojava hmeljeve zakrnelosti"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/uporaba-kombinacije-tehnike-naslednje-generacije-dolocevanja-nukleotidnih-zaporedij"
+    },
+    {
+        "end_date": "2016-07-31 00:00:00",
+        "id": 42,
+        "ref_project_type": 5,
+        "start_date": "2013-08-01 00:00:00",
+        "title": {
+            "en": "Conquering the Curse of Dimensionality by Using Background Knowledge",
+            "si": "Premagovanje prekletstva dimenzionalnosti z uporabo predznanja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/premagovanje-prekletstva-dimenzionalnosti-z-uporabo-predznanja"
+    },
+    {
+        "end_date": "2016-07-31 00:00:00",
+        "id": 43,
+        "ref_project_type": 5,
+        "start_date": "2013-08-01 00:00:00",
+        "title": {
+            "en": "Posttranscriptional\r\nregulatory networks in neurodegenerative diseases",
+            "si": "Post-transkripcijske regulacijske mre\u017ee v nevdrodegenerativnih boleznih"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/post-transkripcijske-regulacijske-mreze-v-nevdrodegenerativnih-boleznih"
+    },
+    {
+        "end_date": "2016-07-31 00:00:00",
+        "id": 45,
+        "ref_project_type": 5,
+        "start_date": "2013-08-01 00:00:00",
+        "title": {
+            "en": "Epidemiology and Biodiversity Studies of Plant Pathogens",
+            "si": "\u0160tudij epidemologije in raznolikosti mikrobnih povzro\u010diteljev bolezni rastlin"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/studij-epidemologije-raznolikosti-mikrobnih-povzrociteljev-bolezni-rastlin"
+    },
+    {
+        "end_date": "2012-12-31 00:00:00",
+        "id": 51,
+        "ref_project_type": 2,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "A next-generation analytics toolbox for integrated high-throughput genomic data analysis",
+            "si": "Analiti\u010dna orodja nove generacije za integrirano analizo podatkov v sodobni genomiki"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/analiticna-orodja-nove-generacije-za-integrirano-analizo-podatkov-v-sodobni-genomiki"
+    },
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 52,
+        "ref_project_type": 2,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Computational approaches for identification of bacterial resistance pathways in Dictyostelium ",
+            "si": "Ra\u010dunski pristopi za odkrivanje mehanizmov baterijske rezistence v Dictyosteliumu"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunski-pristopi-za-odkrivanje-mehanizmov-baterijske-rezistence-v-dictyosteliumu"
+    },
+    {
+        "end_date": "2016-12-31 00:00:00",
+        "id": 65,
+        "ref_project_type": 2,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Data Fusion in Systems Biology of a Social Amoeba Dictyostelium",
+            "si": "Zlivanje podatkov v sistemski biologiji socialne amebe Dictyostelium"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zlivanje-podatkov-v-sistemski-biologiji-socialne-amebe-dictyostelium"
+    },
+    {
+        "end_date": "2009-09-30 00:00:00",
+        "id": 68,
+        "ref_project_type": 1,
+        "start_date": "2006-03-01 00:00:00",
+        "title": {
+            "en": "X-MEDIA - Large Scale Knowledge Sharing and Reuse Across Media",
+            "si": "X-MEDIA - Large Scale Knowledge Sharing and Reuse Across Media"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/x-media-large-scale-knowledge-sharing-and-reuse-across-media"
+    },
+    {
+        "end_date": "2013-08-31 00:00:00",
+        "id": 72,
+        "ref_project_type": 1,
+        "start_date": "2010-04-01 00:00:00",
+        "title": {
+            "en": "CLIP  - Mapping functional protein-RNA interactions to identify new targets for oligonucleotide-based therapy ",
+            "si": "CLIP  - Mapping functional protein-RNA interactions to identify new targets for oligonucleotide-based therapy "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/clip-mapping-functional-protein-rna-interactions-identify-new-targets-oligonucleotide-based"
+    },
+    {
+        "end_date": "2013-09-30 00:00:00",
+        "id": 73,
+        "ref_project_type": 1,
+        "start_date": "2010-10-01 00:00:00",
+        "title": {
+            "en": "FightingDrugFailure - Priorities and standards in pharmacogenomic research: Opportunities for a safer and more efficient pharmacotherapy",
+            "si": "FightingDrugFailure - Priorities and standards in pharmacogenomic research: Opportunities for a safer and more efficient pharmacotherapy"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/fightingdrugfailure-priorities-and-standards-pharmacogenomic-research-opportunities-safer"
+    },
+    {
+        "end_date": "2015-03-31 00:00:00",
+        "id": 74,
+        "ref_project_type": 1,
+        "start_date": "2010-04-01 00:00:00",
+        "title": {
+            "en": "CARE-MI - Cardio repair european multidisciplinary initiative",
+            "si": "CARE-MI - Cardio repair european multidisciplinary initiative"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/care-mi-cardio-repair-european-multidisciplinary-initiative"
+    },
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 97,
+        "ref_project_type": 6,
+        "start_date": "2013-07-26 00:00:00",
+        "title": {
+            "en": "Internacionalizacija UL",
+            "si": "Internacionalizacija UL"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+    },
+    {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 233,
+        "ref_project_type": 1,
+        "start_date": "2016-07-01 00:00:00",
+        "title": {
+            "en": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange",
+            "si": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ricercando-monroe-rapid-interpretation-and-cross-experiment-root-cause-analysis-network"
+    },
+    {
+        "end_date": "2013-03-18 00:00:00",
+        "id": 281,
+        "ref_project_type": null,
+        "start_date": "2011-05-24 00:00:00",
+        "title": {
+            "en": "Development of estimation of classification reliability",
+            "si": "Razvoj tehnik za ocenjevanje zanesljivosti razvr\u0161\u010danja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-tehnik-za-ocenjevanje-zanesljivosti-razvrscanja"
+    },
+    {
+        "end_date": "2016-09-05 00:00:00",
+        "id": 286,
+        "ref_project_type": null,
+        "start_date": "2016-04-01 00:00:00",
+        "title": {
+            "en": "Conformal prediction methods in Orange",
+            "si": "Conformal prediction methods in Orange"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/conformal-prediction-methods-orange"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 372,
+        "ref_project_type": 2,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Development of an open-source platform for multivariate analysis of FTIR data ",
+            "si": "Razvoj odprtokodneprogramske opreme za multivariantno analizo podatkov FTIR"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-odprtokodneprogramske-opreme-za-multivariantno-analizo-podatkov-ftir"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 374,
+        "ref_project_type": 2,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Deep Models for Image Embedding in Systems Biology of a Social Amoeba Dictyostelium",
+            "si": "Uporaba globokih modelov pri analizi slik na podro\u010dju sistemske biologije socialne amebe Dictyostelium"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/uporaba-globokih-modelov-pri-analizi-slik-na-podrocju-sistemske-biologije-socialne-amebe"
+    },
+    {
+        "end_date": "2018-09-26 00:00:00",
+        "id": 489,
+        "ref_project_type": null,
+        "start_date": "2017-09-26 00:00:00",
+        "title": {
+            "en": "Izdelava gradiva in izvedba usposabljanj",
+            "si": "Izdelava gradiva in izvedba usposabljanj"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-gradiva-izvedba-usposabljanj"
+    },
+    {
+        "end_date": "2018-02-28 00:00:00",
+        "id": 508,
+        "ref_project_type": null,
+        "start_date": "2017-10-26 00:00:00",
+        "title": {
+            "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
+            "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+    }
+]

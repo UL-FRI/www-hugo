@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 13,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Synergy of the technological systems and processes",
+            "si": "Sinergetika kompleksnih sistemov in procesov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sinergetika-kompleksnih-sistemov-procesov"
+    },
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 54,
+        "ref_project_type": 2,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Automatic annotation of medical video sequences",
+            "si": "Samodejno ozna\u010devanje medicinskih video zapisov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/samodejno-oznacevanje-medicinskih-video-zapisov"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 57,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Modeling of complex dynamic systems with soft computing methods",
+            "si": "Modeliranje kompleksnih dinami\u010dnih problemov z metodami mehkega ra\u010dunanja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/modeliranje-kompleksnih-dinamicnih-problemov-z-metodami-mehkega-racunanja"
+    }
+]

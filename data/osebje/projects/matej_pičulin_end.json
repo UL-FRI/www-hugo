@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 63,
+        "ref_project_type": 2,
+        "start_date": "2014-05-01 00:00:00",
+        "title": {
+            "en": "Supervised and unsupervised learning from imbalanced datasets for assistance in movement of persons with low vision",
+            "si": "Nadzorovano in nenadzorovano u\u010denje iz neuravnove\u0161enih podatkov za pomo\u010d pri gibanju slabovidnim osebam"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nadzorovano-nenadzorovano-ucenje-iz-neuravnovesenih-podatkov-za-pomoc-pri-gibanju"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 199,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Intelligent computer techniques for improving medical detection, analysis and explanation of human cognition and behavior disorders",
+            "si": "Inteligentne ra\u010dunalni\u0161ke metode za izbolj\u0161anje zaznavanja, analize in razlage kognitivnih motenj obna\u0161anja pri \u010dloveku"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentne-racunalniske-metode-za-izboljsanje-zaznavanja-analize-razlage-kognitivnih"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2016-09-30 00:00:00",
+        "id": 77,
+        "ref_project_type": 1,
+        "start_date": "2014-03-01 00:00:00",
+        "title": {
+            "en": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform",
+            "si": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/agroit-increasing-efficiency-farming-through-open-standards-based-agroit-platform"
+    }
+]

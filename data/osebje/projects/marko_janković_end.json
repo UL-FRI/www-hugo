@@ -1,0 +1,46 @@
+[
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 132,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Smart glasses",
+            "si": "PKP 2 - Pametna o\u010dala "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-pametna-ocala"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 198,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Open Information Extraction for Slovene and Serbian Languages",
+            "si": "Odprta ekstrakcija podatkov za slovenski in srbski jezik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/odprta-ekstrakcija-podatkov-za-slovenski-srbski-jezik"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 207,
+        "ref_project_type": 2,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent Agile Method Framework (iAMF)",
+            "si": "Inteligentno ogrodje za konstruiranje agilnih metod"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-ogrodje-za-konstruiranje-agilnih-metod"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    }
+]

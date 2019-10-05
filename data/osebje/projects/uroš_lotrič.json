@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2019-12-31 00:00:00",
+        "id": 14,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Synergy of the technological systems and processes",
+            "si": "Sinergetika kompleksnih sistemov in procesov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sinergetika-kompleksnih-sistemov-procesov-0"
+    },
+    {
+        "end_date": null,
+        "id": 491,
+        "ref_project_type": null,
+        "start_date": "2017-08-23 00:00:00",
+        "title": {
+            "en": "Krovna pogodba o poslovenem sodelovanju",
+            "si": "Krovna pogodba o poslovenem sodelovanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+    }
+]

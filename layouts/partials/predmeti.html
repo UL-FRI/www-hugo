@@ -1,11 +1,12 @@
 {{- $file := printf "%s_sub_img" .Params.fixName -}}
 <div class="aboutMainSectionContainer">
-    <div class="aboutMainSectionTitle">{{ i18n ""}}</div>
+    <div class="aboutMainSectionTitle">{{ i18n "class" 0 }}</div>
     <div class="aboutMainSectionLi">
         <ul class="customList">
-            {{ range (index .Site.Data.osebje $file).subjects}}
+            {{ range (index $.Site.Data.osebje.subjects_and_img $file).subjects }}
+
             <li>
-                <a href='' >{{if eq .Site.Language.Lang "en"}}{{ .title.en }}{{ else }}{{ .title.sl }}{{ end }}</a>
+                <a href='' >{{if eq $.Site.Language.Lang "en"}}{{ . }}{{ else }}{{ . }}{{ end }}</a>
             </li>
             {{ end }}
         </ul>

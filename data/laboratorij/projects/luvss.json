@@ -1,0 +1,46 @@
+[
+    {
+        "end_date": "2020-03-31 00:00:00",
+        "id": 232,
+        "ref_project_type": 6,
+        "start_date": "2016-11-01 00:00:00",
+        "title": {
+            "en": "GOSTOP - Building Blocks, Tools and Systems for the Factories of the Future",
+            "si": "GOSTOP - Gradniki, orodja in sistemi za tovarne prihodnosti"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/gostop-gradniki-orodja-sistemi-za-tovarne-prihodnosti"
+    },
+    {
+        "end_date": null,
+        "id": 491,
+        "ref_project_type": null,
+        "start_date": "2017-08-23 00:00:00",
+        "title": {
+            "en": "Krovna pogodba o poslovenem sodelovanju",
+            "si": "Krovna pogodba o poslovenem sodelovanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+    },
+    {
+        "end_date": "2020-04-30 00:00:00",
+        "id": 504,
+        "ref_project_type": 5,
+        "start_date": "2017-05-01 00:00:00",
+        "title": {
+            "en": "Robust computer vision methods for autonomous boats",
+            "si": "Robustne metode ra\u010dunalni\u0161kega vida za avtonomna robotska plovila "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/robustne-metode-racunalniskega-vida-za-avtonomna-robotska-plovila"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 560,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "Detection of inconsistencies in complex visual data using deep learning",
+            "si": "Iskanje nekonsistentnosti v kompleksnih slikovnih podatkih z globokim u\u010denjem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/iskanje-nekonsistentnosti-v-kompleksnih-slikovnih-podatkih-z-globokim-ucenjem"
+    }
+]

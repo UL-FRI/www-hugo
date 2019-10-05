@@ -1,0 +1,35 @@
+[
+    {
+        "end_date": "2018-01-31 00:00:00",
+        "id": 80,
+        "ref_project_type": 1,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "SWITCH - Software Workbench for Interactive, Time Critical and\r\nHighly self-adaptive cloud applications",
+            "si": "SWITCH - Programsko okolje za interaktivne, \u010dasovno kriti\u010dne in visoko samoprilagodljive aplikacije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/switch-programsko-okolje-za-interaktivne-casovno-kriticne-visoko-samoprilagodljive"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 121,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "EtnoFletno - EtnoFletno: Slovenian folk song and music on mobile devices",
+            "si": "EtnoFletno - Slovenska ljudska pesem in glasba na mobilnih napravah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnofletno-slovenska-ljudska-pesem-glasba-na-mobilnih-napravah"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    }
+]

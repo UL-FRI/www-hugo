@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2013-08-31 00:00:00",
+        "id": 88,
+        "ref_project_type": 6,
+        "start_date": "2012-08-21 00:00:00",
+        "title": {
+            "en": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni",
+            "si": "PARKINSCHECK - Pravo\u010dasno odkrivanje in spremljanje Parkinsonove bolezni"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/parkinscheck-pravocasno-odkrivanje-spremljanje-parkinsonove-bolezni"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 502,
+        "ref_project_type": 5,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Molecular and other prognosticators of lung cancer and mesothelioma ",
+            "si": "Molekularni ozna\u010devalci raka plju\u010d in njim prilagojeno zdravljenje "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/molekularni-oznacevalci-raka-pljuc-njim-prilagojeno-zdravljenje"
+    }
+]
