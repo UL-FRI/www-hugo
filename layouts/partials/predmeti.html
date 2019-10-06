@@ -7,7 +7,7 @@
             {{ range $.Site.Data.subjects}}
                 {{ if eq $code .course_code }}
                 <li>
-                    <a href='{{.url}}' >{{ .title }}</a>
+                    <a href='{{.url}}' >{{if eq $.Site.Language.Lang "en"}}{{ .title.en }}{{ else }}{{ .title.sl }}{{ end }}</a>
                 </li>
                 {{ end }}
             {{ end }}
