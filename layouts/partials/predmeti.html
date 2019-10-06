@@ -3,11 +3,14 @@
     <div class="aboutMainSectionTitle">{{ i18n "class" 0 }}</div>
     <div class="aboutMainSectionLi">
         <ul class="customList">
-            {{ range (index $.Site.Data.osebje.subjects_and_img $file).subjects }}
-
-            <li>
-                <a href='' >{{if eq $.Site.Language.Lang "en"}}{{ . }}{{ else }}{{ . }}{{ end }}</a>
-            </li>
+            {{ range $code := (index $.Site.Data.osebje.subjects_and_img $file).subjects }}
+            {{ range $.Site.Data.subjects}}
+                {{ if eq $code .course_code }}
+                <li>
+                    <a href='{{.url}}' >{{ .title }}</a>
+                </li>
+                {{ end }}
+            {{ end }}
             {{ end }}
         </ul>
     </div>
