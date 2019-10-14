@@ -1,0 +1,3087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="32887" period="2008-2019" represent="false">
+  <Name>Mag. Bojan Klemenc</Name>
+  <Header>
+    <Left>Mag. Bojan Klemenc [32887]</Left>
+    <Right>Osebna bibliografija za obdobje 2008-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Mag. Bojan Klemenc [32887]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2008-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Matic</FirstName>
+ <SurName>Potočnik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>224314467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-106</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Herlec</SurName>
+ <Code>11229</Code>
+ <CodeOrg>3-116.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3452771</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Computer aided method for colour calibration and analysis of 
+digital rock photographs = Računalniško podprta metoda za barvno umerjanje 
+in analizo digitalnih fotografij kamnin</Title>
+      <TitleISBD>Computer aided method for colour calibration and analysis 
+of digital rock photographs = Računalniško podprta metoda za barvno 
+umerjanje in analizo digitalnih fotografij kamnin / Matic Potočnik ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Geologija</Title>
+        <TitleISBD>Geologija</TitleISBD>
+        <Keytitle>Geologija</Keytitle>
+      <ISSN>0016-7789</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>58</VolumeNum>
+        <IssueNum>št. 2</IssueNum>
+        <Year>2015</Year>
+        <ArtPageNums>str. 247-260</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 247-260</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.5474/geologija.2015.020</DOI>
+      </Identifier>
+      <ISSN>0016-7789</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 259-260</Summaries>
+        <Summaries>Abstract ; Izvleček</Summaries>
+      </Notes>
+      <Descriptors lang="">kamnine /fotografija /digitalne fotografije 
+/barvna analiza /barvno umerjanje /barvni sistem Munsell</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:552</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="2491733">
+      https://plus.si.cobiss.net/opac7/bib/2491733</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Narvika</FirstName>
+ <SurName>Bovcon</SurName>
+ <Code>31252</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>13696355</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Vaupotič</SurName>
+ <Code>34800</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>12300899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>"Atlas 2012" augmented reality : a case study in the domain of 
+fine arts</Title>
+      <TitleISBD>"Atlas 2012" augmented reality : a case study in the 
+domain of fine arts / Narvika Bovcon ... [et al.]</TitleISBD>
+        <Subtitle>a case study in the domain of fine arts</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>First International Conference, SouthCHI 2013, 
+Maribor, Slovenia, July 1-3, 2013</CorpAuthor>
+        <Editor>
+  <FirstName>Andreas</FirstName>
+  <SurName>Holzinger</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Martina</FirstName>
+  <SurName>Ziefle</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Martin</FirstName>
+  <SurName>Hitz</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Debevc</SurName>
+  <Code>08430</Code>
+  <CodeOrg>3-202</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Human factors in computing and informatics : 
+proceedings</Title>
+        <TitleISBD>Human factors in computing and informatics / First 
+International Conference, SouthCHI 2013, Maribor, Slovenia, July 1-3, 
+2013</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-642-39061-6</ISBN>
+      <ISBN>978-3-642-39062-3</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>7946</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg [etc.] : Springer, cop. 2013</PublisherISBD>
+        <PubDate>cop. 2013</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 477-496</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 477-496</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 494-496</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">povečana resničnost /novomedijska umetnost 
+/virtualni predmeti /emblem /umetniški projekti /ArtNetLab</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">7.01:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2098/</URL>
+      </Link>
+      <COBISS co="SI" id="2782459">
+      https://plus.si.cobiss.net/opac7/bib/2782459</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Peer</SurName>
+ <Code>19226</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775267</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Introducing game development into the university 
+curriculum</Title>
+      <TitleISBD>Introducing game development into the university 
+curriculum / authors Bojan Klemenc, Peter Peer</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Acta graphica</Title>
+        <TitleISBD>Acta graphica</TitleISBD>
+        <Subtitle>revija za grafičku tehnologiju, inžinjerstvo i 
+dizajn</Subtitle>
+        <Keytitle>Acta graph.</Keytitle>
+      <ISSN>0353-4707</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <VolumeNum>vol. 22</VolumeNum>
+        <IssueNum>no. 3/4</IssueNum>
+        <Year>2011</Year>
+        <ArtPageNums>str. 61-68</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 61-68</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0353-4707</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 66-68</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">računalniške igre /učni program /iOS /ogrodje 
+XNI</Descriptors>
+      <Descriptors lang="eng">computer games /curriculum /incremental 
+approach /iOS /XNI framework</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.5:794</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.actagraphica.hr/index.php/actagraphica/article/view/73/67</URL>
+
+      </Link>
+      <COBISS co="SI" id="9151316">
+      https://plus.si.cobiss.net/opac7/bib/9151316</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lovro</FirstName>
+ <SurName>Šubelj</SurName>
+ <Code>30918</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>118301539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Bajec</SurName>
+ <Code>16154</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4370019</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Visual and aural : visualization of harmony in music with 
+colour</Title>
+      <TitleISBD>Visual and aural : visualization of harmony in music with 
+colour / Bojan Klemenc ... [et al.]</TitleISBD>
+        <Subtitle>visualization of harmony in music with colour</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>The IPSI BgD transactions on internet research</Title>
+        <TitleISBD>The IPSI BgD transactions on internet 
+research</TitleISBD>
+        <Keytitle>IPSI BGD Trans. Internet Res.</Keytitle>
+      <ISSN>1820-4503</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 7</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>Jan. 2011</Year>
+        <ArtPageNums>str. 48-53</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 48-53</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1820-4503</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 53</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija glasbe /barve /sočasni toni 
+/MIDI</Descriptors>
+      <Descriptors lang="eng">music visualization /colour /con-current 
+tones /MIDI</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="8166740">
+      https://plus.si.cobiss.net/opac7/bib/8166740</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Educational possibilities of the project Colour visualization 
+of music</Title>
+      <TitleISBD>Educational possibilities of the project Colour 
+visualization of music / Bojan Klemenc, Peter Ciuha, Franc 
+Solina</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Organizacija</Title>
+        <TitleISBD>Organizacija</TitleISBD>
+        <Subtitle>revija za management, informatiko in kadre</Subtitle>
+        <Subtitle>= journal of management, informatics and human 
+resources</Subtitle>
+        <Keytitle>Organizacija (Kranj. Tisk. izd.)</Keytitle>
+      <ISSN>1318-5454</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 44</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>2011</Year>
+        <ArtPageNums>str. 67-75</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 67-75</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1318-5454</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 75</Summaries>
+        <Summaries>Abstract ; Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija /glasba /barve /učenje 
+/ustvarjanje</Descriptors>
+      <Descriptors lang="eng">visaulization /music /colours /learning 
+/creativity</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:78</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="8390228">
+      https://plus.si.cobiss.net/opac7/bib/8390228</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.02 Pregledni znanstveni članek</Title>
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lovro</FirstName>
+ <SurName>Šubelj</SurName>
+ <Code>30918</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>118301539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Slavko</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>34156</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>189901411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Janković</SurName>
+ <Code>35425</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>216826211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Kumer</SurName>
+ <Code>29110</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>102187363</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aljaž</FirstName>
+ <SurName>Zrnec</SurName>
+ <Code>20334</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4939875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Bajec</SurName>
+ <Code>16154</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4370019</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Velika omrežja iz realnega sveta</Title>
+      <TitleISBD>Velika omrežja iz realnega sveta / Lovro Šubelj ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Uporabna informatika</Title>
+        <TitleISBD>Uporabna informatika</TitleISBD>
+        <Keytitle>Uporab. inform. (Ljubljana, Tisk. izd.)</Keytitle>
+      <ISSN>1318-1882</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 21</VolumeNum>
+        <IssueNum>št. 2</IssueNum>
+        <Year>apr./maj/jun. 2013</Year>
+        <ArtPageNums>str. 107-115</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 107-115</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1318-1882</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 114-115</Summaries>
+        <Summaries>Izvleček ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza omrežij /lastnosti omrežij /realna 
+omrežja /primeri uporabe</Descriptors>
+      <Descriptors lang="eng">network analysis /network properties 
+/real-world networks /applications</Descriptors>
+      <UDK>004.7</UDK>
+      <ClassNumber code="udc">004.7</ClassNumber>
+      <Typology id="1.02">pregledni znanstveni članek</Typology>
+      <COBISS co="SI" id="9901652">
+      https://plus.si.cobiss.net/opac7/bib/9901652</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Špela</FirstName>
+ <SurName>Arhar Holdt</SurName>
+ <Code>27674</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>12593763</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>36914</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>170389603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Kaja</FirstName>
+ <SurName>Dobrovoljc</SurName>
+ <Code>36491</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>197548131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Polona</FirstName>
+ <SurName>Gantar</SurName>
+ <Code>16313</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4404835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vojko</FirstName>
+ <SurName>Gorjanc</SurName>
+ <Code>14681</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4074595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Iztok</FirstName>
+ <SurName>Kosem</SurName>
+ <Code>33796</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>115901027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Krek</SurName>
+ <Code>26166</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>14058851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Cyprian Adam</FirstName>
+ <SurName>Laskowski</SurName>
+ <Code>37653</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>267079523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Thesaurus of modern Slovene : by the community for the 
+community</Title>
+      <TitleISBD>Thesaurus of modern Slovene [Elektronski vir] : by the 
+community for the community / Špela Arhar Holdt ... [et al.]</TitleISBD>
+        <Subtitle>by the community for the community</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18th EURALEX International Congress, 17-21 July 
+2018, Ljubljana</CorpAuthor>
+        <Editor>
+  <FirstName>Jaka</FirstName>
+  <SurName>Čibej</SurName>
+  <Code>36914</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Vojko</FirstName>
+  <SurName>Gorjanc</SurName>
+  <Code>14681</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Iztok</FirstName>
+  <SurName>Kosem</SurName>
+  <Code>33796</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Simon</FirstName>
+  <SurName>Krek</SurName>
+  <Code>26166</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 18th EURALEX International Congress, 
+[17-21 July 2018, Ljubljana] : lexicography in global contexts</Title>
+        <TitleISBD>Proceedings of the 18th EURALEX International Congress, 
+[17-21 July 2018, Ljubljana] [Elektronski vir] / edited by Jaka Čibej ... 
+[et al.]</TitleISBD>
+        <Subtitle>lexicography in global contexts</Subtitle>
+      <ISBN>978-961-06-0096-1</ISBN>
+      <ISBN>978-961-06-0097-8</ISBN>
+        <Edition>1st ed.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Ljubljana University Press, Faculty of 
+Arts</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Ljubljana University Press, Faculty of 
+Arts, 2018</PublisherISBD>
+        <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 401-410</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 401-410</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija. str. 409-410</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">By presenting the Thesaurus of Modern Slovene, 
+the largest open-access collection of Slovene synonyms, this paper 
+describes the concept of a responsive dictionary, a dictionary that allows 
+its data to continuously respond to the changes in language and the 
+feedback from the language community. We begin by briefly summarizing the 
+method of its construction and its technical aspects. A great deal of 
+deliberation and work has been put into interface design, with the aim to 
+make the Thesaurus as user-friendly as possible for all digital media. This 
+is followed by a more detailed description of the types of user input (e.g. 
+synonym suggestions, synonym votes) and feedback (interface improvement 
+suggestions) collected as part of development, as well as the method-ology 
+for their implementation. We also touch upon a series of dissemination 
+activities aimed specifically at community building and user involvement. 
+In conclusion, we describe our plans for the future, such as updates to be 
+implemented in version 1.1 of the Thesaurus.</Abstract>
+      <Descriptors lang="slv">odzivni slovar /digitalno slovaropisje 
+/skupnost /množičenje /tezaver /slovenščina</Descriptors>
+      <Descriptors lang="eng">responsive dictionary /digital lexicography 
+/community /crowdsourcing /thesaurus /Slovene</Descriptors>
+      <UDK>81</UDK>
+      <ClassNumber code="udc">811.163.6:81'322</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/118/211/3000-1</URL>
+
+      </Link>
+      <COBISS co="SI" id="67678306">
+      https://plus.si.cobiss.net/opac7/bib/67678306</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Meden</SurName>
+ <Code>40378</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>240443747</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franco</FirstName>
+ <SurName>Policardi</SurName>
+ <Code>35098</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>220264291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Peer</SurName>
+ <Code>19226</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775267</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Sistem za sledenje znanim objektom v spremenljivih svetlobnih 
+pogojih na sceni s pomočjo posnetkov IR in vidnega spektra</Title>
+      <TitleISBD>Sistem za sledenje znanim objektom v spremenljivih 
+svetlobnih pogojih na sceni s pomočjo posnetkov IR in vidnega spektra / 
+Blaž Meden ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik petindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2016, 19. - 21. september 2016, Portorož, 
+Slovenija</Title>
+        <TitleISBD>Zbornik petindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2016, 19. - 21. september 2016, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <SeriesVolNums>25</SeriesVolNums>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2016</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 79-82</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 79-82</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Povzetek v angl.</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sledenje objektov /Kalmanov filter /filter z 
+delci /madžarska metoda /infrardeče oznake</Descriptors>
+      <Descriptors lang="eng">object tracking /Kalman filter /particle 
+filter /Hungarian method /infrared markers</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="1537140931">
+      https://plus.si.cobiss.net/opac7/bib/1537140931</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Borut</FirstName>
+ <SurName>Batagelj</SurName>
+ <Dates>1976-</Dates>
+ <Code>22472</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>12554851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Tracking the movement of participants in interactive art 
+installations</Title>
+      <TitleISBD>Tracking the movement of participants in interactive art 
+installations [Elektronski vir] / Borut Batagelj, Bojan Klemenc, Franc 
+Solina</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Emilija</FirstName>
+  <SurName>Stojmenova Duh</SurName>
+  <Code>32928</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jože</FirstName>
+  <SurName>Guna</SurName>
+  <Code>25402</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Artur</FirstName>
+  <SurName>Lugmayr</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matevž</FirstName>
+  <SurName>Pogačnik</SurName>
+  <Code>18460</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 4th International Conference World 
+Usability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013</Title>
+        <TitleISBD>Proceedings of the 4th International Conference World 
+Usability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013 
+[Elektronski vir] / Emilia Stojmenova ... [et al.] (eds.)</TitleISBD>
+      <ISBN>978-952-7023-06-8</ISBN>
+      <ISBN>978-952-7023-07-5</ISBN>
+      <SeriesInfo>
+        <Title>International series on information systems and management 
+in creative media</Title>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Tampere</Address>
+        <PublisherName>IugYmedia</PublisherName>
+        </Publisher>
+      <PublisherISBD>Tampere : IugYmedia, 2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="fin"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="fin"/>
+      <Numbering>
+        <ArtPageNums>str. 17-20</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 17-20</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 20</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">interakcija človek računalnik /sledenje 3D 
+/Kinek</Descriptors>
+      <Descriptors lang="eng">human computer interaction /3D tracking 
+/Kinect</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10358868">
+      https://plus.si.cobiss.net/opac7/bib/10358868</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jernej</FirstName>
+ <SurName>Vrščaj</SurName>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>240006755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Jankovec</SurName>
+ <Code>20184</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4914275</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Elektronski sistem za vizualizacijo glasbe z barvnim 
+osvetljevanjem klavirskih tipk</Title>
+      <TitleISBD>Elektronski sistem za vizualizacijo glasbe z barvnim 
+osvetljevanjem klavirskih tipk / Jernej Vrščaj ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik dvaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2013, 16.-18. september 2013, Portorož, 
+Slovenija</Title>
+        <TitleISBD>Zbornik dvaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2013, 16.-18. september 2013, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2013</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 213-214</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 213-214</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 214</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija glasbe /vgrajeni sistemi 
+/klaviatura /interaktivnost</Descriptors>
+      <Descriptors lang="eng">music visualization /embedded systems /piano 
+keyboard /interactivity</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:78</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10628180">
+      https://plus.si.cobiss.net/opac7/bib/10628180</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lovro</FirstName>
+ <SurName>Šubelj</SurName>
+ <Code>30918</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>118301539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Slavko</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>34156</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>189901411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aljaž</FirstName>
+ <SurName>Zrnec</SurName>
+ <Code>20334</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4939875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Kumer</SurName>
+ <Code>29110</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>102187363</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Lavbič</SurName>
+ <Code>25526</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57976419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Bajec</SurName>
+ <Code>16154</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4370019</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Lastnosti velikih realnih omrežij in primeri uporabe</Title>
+      <TitleISBD>Lastnosti velikih realnih omrežij in primeri uporabe 
+[Elektronski vir] / Lovro Šubelj ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>19. konferenca Dnevi slovenske informatike, 
+Portorož, 16.-18. april 2012</CorpAuthor>
+        </AuthorGroup>
+        <Title>Ustvarimo nove rešitve! : zbornik prispevkov</Title>
+        <TitleISBD>Ustvarimo nove rešitve! [Elektronski vir] / 19. 
+konferenca Dnevi slovenske informatike - DSI, 16.-18. april 2012, 
+Portorož</TitleISBD>
+        <Subtitle>zbornik prispevkov</Subtitle>
+      <ISBN>978-961-6165-37-2</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2012</PublisherISBD>
+        <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 1-10</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-10</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 9-10</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">realna omrežja /lastnosti omrežij 
+/aplikacije</Descriptors>
+      <Descriptors lang="eng">real-world networks /network properties 
+/applications</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9089364">
+      https://plus.si.cobiss.net/opac7/bib/9089364</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Visualization of concurrent tones in music with colours</Title>
+      <TitleISBD>Visualization of concurrent tones in music with colours 
+[Elektronski vir] / Peter Ciuha, Bojan Klemenc, Franc Solina</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>ACM MM'10 &amp; co-located workshops</Title>
+        <TitleISBD>ACM MM'10 &amp; co-located workshops [Elektronski vir] / 
+Eighteenth ACM International Conference on Multimedia, ACM Multimedia 2010, 
+October 25 to 29, 2010 in Firenze, Italy</TitleISBD>
+      <ISBN>978-1-60558-933-6</ISBN>
+        <Publisher>
+        <Address>New York (NY)</Address>
+        <PublisherName>ACM</PublisherName>
+        </Publisher>
+      <PublisherISBD>New York (NY) : ACM, cop. 2010</PublisherISBD>
+        <PubDate>cop. 2010</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 1677-1680</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1677-1680</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 1680</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija glasbe /barva /sočasni toni 
+/MIDI</Descriptors>
+      <Descriptors lang="eng">music visualization /colour /concurrent tones 
+/MIDI</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.032.6:78</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8061268">
+      https://plus.si.cobiss.net/opac7/bib/8061268</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lovro</FirstName>
+ <SurName>Šubelj</SurName>
+ <Code>30918</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>118301539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Neli</FirstName>
+ <SurName>Blagus</SurName>
+ <Code>33188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>181475939</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Štefan</FirstName>
+ <SurName>Furlan</SurName>
+ <Code>28473</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>98868323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Kumer</SurName>
+ <Code>29110</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>102187363</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Lavbič</SurName>
+ <Code>25526</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57976419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aljaž</FirstName>
+ <SurName>Zrnec</SurName>
+ <Code>20334</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4939875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Slavko</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>34156</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>189901411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Bajec</SurName>
+ <Code>16154</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4370019</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza kompleksnih omrežij : osnovni pojmi in primeri uporabe 
+v praksi</Title>
+      <TitleISBD>Analiza kompleksnih omrežij [Elektronski vir] : osnovni 
+pojmi in primeri uporabe v praksi / Lovro Šubelj ... [et al.]</TitleISBD>
+        <Subtitle>osnovni pojmi in primeri uporabe v praksi</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>Informatika kot gonilo razvoja javne uprave : zbornik 
+konference Informatika v javni upravi 2010, Kongresni center Brdo pri 
+Kranju, 22.-23. november 2010</Title>
+        <TitleISBD>Informatika kot gonilo razvoja javne uprave [Elektronski 
+vir]</TitleISBD>
+        <Subtitle>zbornik konference Informatika v javni upravi 2010, 
+Kongresni center Brdo pri Kranju, 22.-23. november 2010</Subtitle>
+      <ISBN>978-961-6165-33-4</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2010</PublisherISBD>
+      <Manufacturer>[Medvode] : Infokart</Manufacturer>
+        <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 1-10</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-10</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 8-10</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza omrežij /teorija grafov /osnovni 
+pojmi /primeri uporabe</Descriptors>
+      <Descriptors lang="eng">network analysis /graph theory /introduction 
+/applications</Descriptors>
+      <UDK>004.7</UDK>
+      <ClassNumber code="udc">004.7</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8121172">
+      https://plus.si.cobiss.net/opac7/bib/8121172</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Slavko</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>34156</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>189901411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Lavbič</SurName>
+ <Code>25526</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57976419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lovro</FirstName>
+ <SurName>Šubelj</SurName>
+ <Code>30918</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>118301539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Štefan</FirstName>
+ <SurName>Furlan</SurName>
+ <Code>28473</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>98868323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Kumer</SurName>
+ <Code>29110</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>102187363</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aljaž</FirstName>
+ <SurName>Zrnec</SurName>
+ <Code>20334</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4939875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Neli</FirstName>
+ <SurName>Blagus</SurName>
+ <Code>33188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>181475939</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Bajec</SurName>
+ <Code>16154</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4370019</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Trendi v inteligentnem pridobivanju podatkov iz heterogenih 
+virov</Title>
+      <TitleISBD>Trendi v inteligentnem pridobivanju podatkov iz 
+heterogenih virov [Elektronski vir] / Slavko Žitnik ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>Informatika kot gonilo razvoja javne uprave : zbornik 
+konference Informatika v javni upravi 2010, Kongresni center Brdo pri 
+Kranju, 22.-23. november 2010</Title>
+        <TitleISBD>Informatika kot gonilo razvoja javne uprave [Elektronski 
+vir]</TitleISBD>
+        <Subtitle>zbornik konference Informatika v javni upravi 2010, 
+Kongresni center Brdo pri Kranju, 22.-23. november 2010</Subtitle>
+      <ISBN>978-961-6165-33-4</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2010</PublisherISBD>
+      <Manufacturer>[Medvode] : Infokart</Manufacturer>
+        <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 1-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 11-12</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">priklic podatkov /iskalnik /kontekst 
+/personalizacija /iCORE</Descriptors>
+      <Descriptors lang="eng">information retrieval /search engine /context 
+/personalization /iCORE</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8121428">
+      https://plus.si.cobiss.net/opac7/bib/8121428</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Pedagoške razsežnosti projekta Vizualizacije glasbe z barvami 
+(VGzB) = Possibilities of application of the project Colour visualization 
+of music in teaching</Title>
+      <TitleISBD>Pedagoške razsežnosti projekta Vizualizacije glasbe z 
+barvami (VGzB) [Elektronski vir] = Possibilities of application of the 
+project Colour visualization of music in teaching / Peter Ciuha, Bojan 
+Klemenc, Franc Solina</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Vladislav</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>01074</Code>
+  <CodeOrg>1-001.03.09</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mojca</FirstName>
+  <SurName>Bernik</SurName>
+  <Code>18655</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tanja</FirstName>
+  <SurName>Urbančič</SurName>
+  <Code>04586</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Vzgoja in izobraževanje v informacijski družbi : zbornik 
+konference : conference proceedings</Title>
+        <TitleISBD>Vzgoja in izobraževanje v informacijski družbi 
+[Elektronski vir] / 13. mednarodna multikonferenca Informacijska družba 
+2010, 15. oktober 2010 = 13th International Multiconference Information 
+Society 2010, 15th October 2010, Ljubljana, Slovenija</TitleISBD>
+        <Subtitle>zbornik konference</Subtitle>
+        <Subtitle>conference proceedings</Subtitle>
+      <ISBN>978-961-232-242-7</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Ministrstvo Republike slovenije za šolstvo in 
+šport</PublisherName>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        <PublisherName>Zavod Republike Slovenije za šolstvo</PublisherName>
+        <Address>Kranj</Address>
+        <PublisherName>Fakulteta za organizacijske vede</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Ministrstvo Republike slovenije za šolstvo 
+in šport : Institut Jožef Stefan : Zavod Republike Slovenije za šolstvo ; 
+Kranj : Fakulteta za organizacijske vede, 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 75-86</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 75-86</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 86</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija /glasba /barve /učenje 
+/ustvarjanje</Descriptors>
+      <Descriptors lang="eng">visualization /music /colours /learning 
+/creativity</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:78</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8064596">
+      https://plus.si.cobiss.net/opac7/bib/8064596</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Matic</FirstName>
+ <SurName>Potočnik</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224314467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Herlec</SurName>
+ <Code>11229</Code>
+ <CodeOrg>3-116.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3452771</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Računalniško podprta metoda za barvno umerjanje in analizo 
+fotografij kamnin</Title>
+      <TitleISBD>Računalniško podprta metoda za barvno umerjanje in analizo 
+fotografij kamnin / Matic Potočnik ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>4. slovenski geološki kongres, Ankaran, 8.-10. 
+oktober 2014</CorpAuthor>
+        <Editor>
+  <FirstName>Boštjan</FirstName>
+  <SurName>Rožič</SurName>
+  <Code>23426</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Timotej</FirstName>
+  <SurName>Verbovšek</SurName>
+  <Code>24253</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mirijam</FirstName>
+  <SurName>Vrabec</SurName>
+  <Code>22449</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Povzetki in ekskurzije</Title>
+        <TitleISBD>Povzetki in ekskurzije / 4. slovenski geološki kongres, 
+Ankaran, 8.-10. oktober 2014</TitleISBD>
+      <ISBN>978-961-90532-9-4</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Naravoslovnotehniška fakulteta</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Naravoslovnotehniška fakulteta, 
+2014</PublisherISBD>
+      <Manufacturer>Kranj : Trajanus</Manufacturer>
+        <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 58</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 58</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">digitalna fotografija /barvno umerjanje 
+/analiza digitalnih fotografij kamnin /barvni sistem Munsell 
+/geologija</Descriptors>
+      <Descriptors lang="eng">digital photography /color calibration 
+/digital rock photography analysis /Munsell color system 
+/geology</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:55</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="1160542">
+      https://plus.si.cobiss.net/opac7/bib/1160542</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Interactive installation : colour visualization of MIDI 
+music</Title>
+      <TitleISBD>Interactive installation : colour visualization of MIDI 
+music / Bojan Klemenc and Peter Ciuha</TitleISBD>
+        <Subtitle>colour visualization of MIDI music</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>VSMM 2009 : book of abstracts</Title>
+        <TitleISBD>VSMM 2009 / 15 International Conference on Virtual 
+Systems and Multimedia, September 9-12 2009, Vienna, Austria</TitleISBD>
+        <Subtitle>book of abstracts</Subtitle>
+        <Publisher>
+        <Address>Vienna</Address>
+        <PublisherName>Vienna University of Technology</PublisherName>
+        </Publisher>
+      <PublisherISBD>Vienna : Vienna University of Technology, 
+2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="aut"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <ArtPageNums>str. 13-15</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 13-15</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 15</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija glasbe /barva /sočasni toni 
+/MIDI</Descriptors>
+      <Descriptors lang="eng">music visualization /colour /concurrent tones 
+/MIDI</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:78</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="8065108">
+      https://plus.si.cobiss.net/opac7/bib/8065108</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ciril</FirstName>
+ <SurName>Bohak</SurName>
+ <Code>30062</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>129794147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Krek</SurName>
+ <Code>26166</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>14058851</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Technological design of a state-of-the-art digital 
+dictionary</Title>
+      <TitleISBD>Technological design of a state-of-the-art digital 
+dictionary [Elektronski vir] / Bojan Klemenc ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Vojko</FirstName>
+  <SurName>Gorjanc</SurName>
+  <Code>14681</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Polona</FirstName>
+  <SurName>Gantar</SurName>
+  <Code>16313</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Iztok</FirstName>
+  <SurName>Kosem</SurName>
+  <Code>33796</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Simon</FirstName>
+  <SurName>Krek</SurName>
+  <Code>26166</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Dictionary of modern Slovene : problems and solutions</Title>
+        <TitleISBD>Dictionary of modern Slovene [Elektronski vir] / edited 
+by Vojko Gorjanc ... [et al.]</TitleISBD>
+        <Subtitle>problems and solutions</Subtitle>
+      <ISBN>978-961-237-913-1</ISBN>
+      <ISBN>978-961-237-914-8</ISBN>
+      <SeriesInfo>
+        <Title>Book series Prevodoslovje in uporabno jezikoslovje</Title>
+      </SeriesInfo>
+        <Edition>1st ed., e-ed.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Ljubljana University Press, Faculty of 
+Arts</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Ljubljana University Press, Faculty of 
+Arts, 2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 10-22</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 10-22</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Opombe z bibliografijo tekoče na dnu str., skupna 
+bibliografija na koncu zbornika</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">An important building block of a 
+state-of-the-art digital Slovene language dictionary is its technological 
+framework, which is briefly presented in this paper. We view the dictionary 
+as a multi-tier architecture with a presentation tier, a middle application 
+tier (a back-end application system with a component for semi-automatic 
+data extraction), and a data tier. In their natural form, the language data 
+are multidimensional. In a printed dictionary, there is just the 
+presentation tier, and thus many relations contained in the underlying data 
+are difficult to access or are even lost. By contrast, in electronic 
+dictionaries there are no such restrictions. We can preserve the data in 
+all its complexity and present it in various ways, since there is a 
+distinction between the data and their presentation. This separation is the 
+key factor in integrating various data sources (different corpora and 
+external databases) into a unified database. Various users or programs can 
+query different parts of the database based on their interests, and the 
+presentation tier displays or returns the data at different levels of 
+granularity. For each tier, we present the structure and review some of the 
+technological considerations, which guarantee good extensibility, 
+reliability, and adaptability of the final solution.</Abstract>
+      <Descriptors lang="slv">digitalni slovar /večdelna programska 
+arhitektura /predstavitveni nivo /relacijska baza podatkov /luščenje 
+podatkov</Descriptors>
+      <Descriptors lang="eng">digital dictionary /multi-tier software 
+architecture /presentation layer /relational database /data 
+extraction</Descriptors>
+      <UDK>004.9</UDK>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.9:811.163.6'374</ClassNumber>
+      <ClassNumber code="udc">004.6:811.163.6'374</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        
+<URL>http://www.ff.uni-lj.si/sites/default/files/Dokumenti/Knjige/e-books/dictionary_of_modern_slo.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="63994466">
+      https://plus.si.cobiss.net/opac7/bib/63994466</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ciril</FirstName>
+ <SurName>Bohak</SurName>
+ <Code>30062</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>129794147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Krek</SurName>
+ <Code>26166</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>14058851</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Tehnološka izvedba sodobnega digitalnega slovarja</Title>
+      <TitleISBD>Tehnološka izvedba sodobnega digitalnega slovarja / Bojan 
+Klemenc ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup authno="34" >
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Vojko</FirstName>
+  <SurName>Gorjanc</SurName>
+  <Code>14681</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Polona</FirstName>
+  <SurName>Gantar</SurName>
+  <Code>16313</Code>
+  <CodeOrg>3-114.19</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Iztok</FirstName>
+  <SurName>Kosem</SurName>
+  <Code>33796</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Simon</FirstName>
+  <SurName>Krek</SurName>
+  <Code>26166</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Slovar sodobne slovenščine : problemi in rešitve</Title>
+        <TitleISBD>Slovar sodobne slovenščine / uredili Vojko Gorjanc ... 
+[et al.]</TitleISBD>
+        <Subtitle>problemi in rešitve</Subtitle>
+      <ISBN>978-961-237-777-9</ISBN>
+      <SeriesInfo>
+        <Title>Zbirka Prevodoslovje in uporabno jezikoslovje</Title>
+        <ISSN>2335-335X</ISSN>
+      </SeriesInfo>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Znanstvena založba Filozofske 
+fakultete</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Znanstvena založba Filozofske fakultete, 
+2015</PublisherISBD>
+      <Manufacturer>[Ljubljana] : Birografika Bori</Manufacturer>
+        <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Prevodoslovje in uporabno jezikoslovje</Title>
+        <TitleISBD>Prevodoslovje in uporabno jezikoslovje</TitleISBD>
+      <ISSN>2335-335X</ISSN>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 52-63</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 52-63</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>2335-335X</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">digitalni slovar /večdelna programska 
+arhitektura /predstavitveni nivo /relacijska baza podatkov /luščenje 
+podatkov</Descriptors>
+      <Descriptors lang="eng">digital dictionary /multi-tier software 
+architecture /presentation layer /relational database /data 
+extraction</Descriptors>
+      <UDK>004.9</UDK>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.9:811.163.6'374</ClassNumber>
+      <ClassNumber code="udc">004.6:811.163.6'374</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <COBISS co="SI" id="1536803011">
+      https://plus.si.cobiss.net/opac7/bib/1536803011</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.25 Drugi sestavni deli</Title>
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Batagelj</SurName>
+ <Code>22472</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>12554851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Robert</FirstName>
+ <SurName>Ravnik</SurName>
+ <Code>32043</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150140003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Veliki brat te gleda! = The big brother is watching 
+you!</Title>
+      <TitleISBD>Veliki brat te gleda! = The big brother is watching you! / 
+Borut Batagelj ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+      <Author responsibility="secondary">
+ <FirstName>Zoran</FirstName>
+ <SurName>Poznič</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Srečo</FirstName>
+ <SurName>Dragan</SurName>
+ <Code>90618</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Christa</FirstName>
+ <SurName>Sommerer</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Maša</FirstName>
+  <SurName>Jazbec</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Doubts arise questions that require answers : Speculum 
+artium 2013, Delavski dom Trbovlje</Title>
+        <TitleISBD>Doubts arise questions that require answers / [besedila 
+Zoran Poznič, Srečo Dragan, Christa Sommerer</TitleISBD>
+        <Subtitle>Speculum artium 2013, Delavski dom Trbovlje</Subtitle>
+        <Publisher>
+        <Address>[Trbovlje</Address>
+        <PublisherName>Delavski dom</PublisherName>
+        </Publisher>
+      <PublisherISBD>[Trbovlje : Delavski dom, 2013]</PublisherISBD>
+        <PubDate>2013]</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 7</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 7</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">interaktivna umetniška 
+instalacija</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93:7</ClassNumber>
+      <Typology id="1.25">drugi sestavni deli</Typology>
+      <COBISS co="SI" id="10316116">
+      https://plus.si.cobiss.net/opac7/bib/10316116</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.03 Univerzitetni, visokošolski ali višješolski učbenik z recenzijo</Title>
+  
+    <BiblioEntry bno="21" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>William</FirstName>
+ <SurName>Stallings</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>29598819</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Peter</FirstName>
+ <SurName>Peer</SurName>
+ <Code>19226</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Koncepti operacijskih sistemov z Linuxovo lupino in 
+programiranjem v Bashu</Title>
+      <TitleISBD>Koncepti operacijskih sistemov z Linuxovo lupino in 
+programiranjem v Bashu / compiled from Operating sistems: Internals and 
+design principles by William Stallings ; with additional material by Jurij 
+Mihelič, Bojan Klemenc and Peter Peer</TitleISBD>
+      <Edition>Custom book ed.</Edition>
+      <EditionISBD>Custom book ed.</EditionISBD>
+      <Publisher>
+        <Address>Harlow (England) [etc.]</Address>
+        <PublisherName>Pearson</PublisherName>
+      </Publisher>
+      <PublisherISBD>Harlow (England) [etc.] : Pearson, cop. 
+2013</PublisherISBD>
+      <PubDate>2013</PubDate>
+      <Country code="gbr"/>
+      <PhysicalAttributes>
+        <Extent>VIII, 795 str.</Extent>
+        <Details>graf. prikazi</Details>
+        <Dim>25 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-1-78273-530-4</ISBN>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 577-596</Summaries>
+      </Notes>
+      <Descriptors lang="slv">operacijski sistem /lupina /datoteka 
+/uporabnik</Descriptors>
+      <Descriptors lang="eng">operating system /shell /file 
+/user</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.451</ClassNumber>
+      <Typology id="2.03">univerzitetni, visokošolski ali višješolski 
+učbenik z recenzijo</Typology>
+      <COBISS co="SI" id="9669460">
+      https://plus.si.cobiss.net/opac7/bib/9669460</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.05 Drugo učno gradivo</Title>
+  
+    <BiblioEntry bno="22" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Peter</FirstName>
+ <SurName>Peer</SurName>
+ <Dates>1975-</Dates>
+ <Code>19226</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775267</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Jan</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>201329763</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Tehnologija iger</Title>
+      <TitleISBD>Tehnologija iger / Peter Peer, Bojan Klemenc, Matej 
+Jan</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2011</PublisherISBD>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 zv. (loč. pag.)</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">razvoj iger /navidezni svetovi /grafika 
+/igralnost /umetna inteligenca /fizika</Descriptors>
+      <Descriptors lang="eng">game development /virtual words /graphics 
+/gameplay /artificial intelligence /physics</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5:794</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <COBISS co="SI" id="8355412">
+      https://plus.si.cobiss.net/opac7/bib/8355412</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.09 Magistrsko delo</Title>
+  
+    <BiblioEntry bno="23" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vizualni model harmoničnih odnosov med simultanimi toni v 
+glasbi na podlagi psihoakustičnega modela percepcije zvoka : magistrsko 
+delo : magistrski program Informacijski sistemi in odločanje</Title>
+      <TitleISBD>Vizualni model harmoničnih odnosov med simultanimi toni v 
+glasbi na podlagi psihoakustičnega modela percepcije zvoka : magistrsko 
+delo : magistrski program Informacijski sistemi in odločanje / Bojan 
+Klemenc</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>magistrski program Informacijski sistemi in 
+odločanje</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[B. Klemenc]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [B. Klemenc], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>83 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Franc Solina</Responsibility>
+        <Summaries>Bibliografija: str. 75-83</Summaries>
+        <Summaries>Povzetek ; Abstract: Visual model of harmonic 
+relationships of simultaneous tones in music based on psychoacoustic model 
+of sound perception</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija /glasba /percepcija tonov 
+/psihoakustika /modeliranje zaznavanja /barvni prostori /računalništvo 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">visualization /music /tone perception 
+/psychoacoustics /perception modelling /colour spaces /computer science 
+/master's degree</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:78(043.2)</ClassNumber>
+      <Typology id="2.09">magistrsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3524/</URL>
+      </Link>
+      <COBISS co="SI" id="1537125827">
+      https://plus.si.cobiss.net/opac7/bib/1537125827</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="24" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vizualizacija glasbe na osnovi preslikave sočasnih tonov v 
+barvni prostor = [Visualization of music on the basis of translation of 
+concurrent tones into color space] : diplomsko delo</Title>
+      <TitleISBD>Vizualizacija glasbe na osnovi preslikave sočasnih tonov v 
+barvni prostor = [Visualization of music on the basis of translation of 
+concurrent tones into color space] : diplomsko delo / Bojan 
+Klemenc</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[B. Klemenc]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [B. Klemenc], 2008</PublisherISBD>
+      <PubDate>2008</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VIII, 41 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+        <AccompMaterial>1 optični disk (CD-ROM)</AccompMaterial>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 40</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija glasbe /kvintni krog /barvni 
+krog /OpenGL /MIDI /glasbena disonanca /harmonija /navidezna višina tona 
+/računalništvo /univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">music visualization /circle of fifths /color 
+wheel /OpenGL /MIDI /musical dissonance /harmony /virtual 
+pitch</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:78(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="6564692">
+      https://plus.si.cobiss.net/opac7/bib/6564692</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.17 Katalog razstave</Title>
+  
+    <BiblioEntry bno="25" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Narvika</FirstName>
+ <SurName>Bovcon</SurName>
+ <Code>31252</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>13696355</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Fingušt Prebil</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>219302499</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Eva Lucija</FirstName>
+ <SurName>Kozak</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>190118755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gorazd</FirstName>
+ <SurName>Krnc</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>29298275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dominik</FirstName>
+ <SurName>Mahnič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>160902755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vanja</FirstName>
+ <SurName>Mervič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>97212003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Peternel</SurName>
+ <Code>25051</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>40288611</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Vaupotič</SurName>
+ <Code>34800</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>12300899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tilen</FirstName>
+ <SurName>Žbona</SurName>
+ <Code>34277</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>37675107</CONOR>
+        </Author>
+        <Editor>
+  <FirstName>Narvika</FirstName>
+  <SurName>Bovcon</SurName>
+  <Code>31252</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor dodatnega besedila</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Atlas 2012 : [katalog razstave Atlas - Mesec oblikovanja, 
+Dizajn v mestu</Title>
+      <TitleISBD>Atlas 2012 : [katalog razstave Atlas - Mesec oblikovanja, 
+Dizajn v mestu / avtorji Narvika Bovcon ... et al. ; uredila in spremno 
+besedilo Narvika Bovcon]</TitleISBD>
+        <Subtitle>[katalog razstave Atlas - Mesec oblikovanja, Dizajn v 
+mestu</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>ArtNetLab</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : ArtNetLab, 2012</PublisherISBD>
+      <Manufacturer>Logatec : VZA</Manufacturer>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 zv. (loč. pag.)</Extent>
+        <Details>ilustr.</Details>
+        <Dim>28 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">povečana realnost /video /pametni telefon 
+/nov medij</Descriptors>
+      <Descriptors lang="eng">augmented reality /video /smart phone /new 
+media</Descriptors>
+      <UDK>7.03</UDK>
+      <ClassNumber code="udc">7.038.53:621.395(083.824)</ClassNumber>
+      <Typology id="2.17">katalog razstave</Typology>
+      <COBISS co="SI" id="9546580">
+      https://plus.si.cobiss.net/opac7/bib/9546580</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.20 Zaključena znanstvena zbirka podatkov ali korpus</Title>
+  
+    <BiblioEntry bno="26" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Krek</SurName>
+ <Code>26166</Code>
+ <CodeOrg>4-074</CodeOrg>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>14058851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Cyprian Adam</FirstName>
+ <SurName>Laskowski</SurName>
+ <Code>37653</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>267079523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Iztok</FirstName>
+ <SurName>Kosem</SurName>
+ <Code>33796</Code>
+ <CodeOrg>4-074</CodeOrg>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>115901027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Špela</FirstName>
+ <SurName>Arhar Holdt</SurName>
+ <Code>27674</Code>
+ <CodeOrg>4-074</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>12593763</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Polona</FirstName>
+ <SurName>Gantar</SurName>
+ <Code>16313</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4404835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>36914</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>170389603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vojko</FirstName>
+ <SurName>Gorjanc</SurName>
+ <Code>14681</Code>
+ <CodeOrg>3-114.19</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4074595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Kaja</FirstName>
+ <SurName>Dobrovoljc</SurName>
+ <Code>36491</Code>
+ <CodeOrg>4-074</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>197548131</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Thesaurus of modern Slovene 1.0</Title>
+      <TitleISBD>Thesaurus of modern Slovene 1.0 [Elektronski vir] / Simon 
+Krek ...[et al.]</TitleISBD>
+      <Material>
+        <Electronic>El. zbirka podatkov</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovenian Language Resource Repository 
+CLARIN.SI</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Slovenian Language Resource Repository 
+CLARIN.SI, 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">jezikovni viri /slovenščina /slovar 
+sopomenk</Descriptors>
+      <Descriptors lang="eng">language resources /thesaurus 
+/Slovene</Descriptors>
+      <UDK>811.163.6</UDK>
+      <ClassNumber code="udc">811.163.6'374.221:004.738.5</ClassNumber>
+      <ClassNumber code="udc">004.738.5:811.163.6'374.221</ClassNumber>
+      <Typology id="2.20">zaključena znanstvena zbirka podatkov ali 
+korpus</Typology>
+      <Link rel="0">
+        <URL>http://hdl.handle.net/11356/1166</URL>
+      </Link>
+      <COBISS co="SI" id="66515298">
+      https://plus.si.cobiss.net/opac7/bib/66515298</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.12 Razstava</Title>
+  
+    <BiblioEntry bno="27" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Batagelj</SurName>
+ <Code>22472</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>12554851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Robert</FirstName>
+ <SurName>Ravnik</SurName>
+ <Code>32043</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150140003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Solina</SurName>
+ <Code>09581</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3162979</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Veliki brat te gleda! : instalacija na Speculum Artium 2013, 
+Apologeti nove civilizacije, Trbovlje, 10.-12. oktober 2013 = The big 
+brother is watching you! : installation at Speculum Artium 2013, Apologists 
+of the new civilization, Trbovlje, October 10-12, 2013</Title>
+      <TitleISBD>Veliki brat te gleda! : instalacija na Speculum Artium 
+2013, Apologeti nove civilizacije, Trbovlje, 10.-12. oktober 2013 = The big 
+brother is watching you! : installation at Speculum Artium 2013, Apologists 
+of the new civilization, Trbovlje, October 10-12, 2013 / Borut Batagelj ... 
+[et al.]</TitleISBD>
+        <Subtitle>instalacija na Speculum Artium 2013, Apologeti nove 
+civilizacije, Trbovlje, 10.-12. oktober 2013</Subtitle>
+        <Subtitle>installation at Speculum Artium 2013, Apologists of the 
+new civilization, Trbovlje, October 10-12, 2013</Subtitle>
+      <Publisher>
+        <Address>Trbovlje</Address>
+      </Publisher>
+      <PublisherISBD>Trbovlje, 2013</PublisherISBD>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">interaktivna umetniška 
+instalacija</Descriptors>
+      <Descriptors lang="">interactive art installation</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93:7</ClassNumber>
+      <Typology id="3.12">razstava</Typology>
+      <COBISS co="SI" id="10192212">
+      https://plus.si.cobiss.net/opac7/bib/10192212</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="28" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Narvika</FirstName>
+ <SurName>Bovcon</SurName>
+ <Code>31252</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>avtor razstave</Contrib>
+ <CONOR>13696355</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Fingušt</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>226468963</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Eva Lucija</FirstName>
+ <SurName>Kozak</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>190118755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gorazd</FirstName>
+ <SurName>Krnc</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>29298275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dominik</FirstName>
+ <SurName>Mahnič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>160902755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vanja</FirstName>
+ <SurName>Mervič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>97212003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Vaupotič</SurName>
+ <Code>34800</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>avtor razstave</Contrib>
+ <CONOR>12300899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tilen</FirstName>
+ <SurName>Žbona</SurName>
+ <Code>34277</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>37675107</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Atlas : razstava v povečani resničnosti v okviru Dizajn v 
+mestu, Mesec oblikovanja</Title>
+      <TitleISBD>Atlas : razstava v povečani resničnosti v okviru Dizajn v 
+mestu, Mesec oblikovanja / Narvika Bovcon ... [et al.]</TitleISBD>
+        <Subtitle>razstava v povečani resničnosti v okviru Dizajn v mestu, 
+Mesec oblikovanja</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Mesec oblikovanja</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Mesec oblikovanja, 18. 10.-18. 11. 
+2012</PublisherISBD>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">novomedijska umetnost /povečana resničnost 
+/informacijska grafika /Layar</Descriptors>
+      <UDK>7.036/.038</UDK>
+      <ClassNumber code="udc">7.038.53</ClassNumber>
+      <Typology id="3.12">razstava</Typology>
+      <COBISS co="SI" id="2600699">
+      https://plus.si.cobiss.net/opac7/bib/2600699</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.15 Prispevek na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="29" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Peter</FirstName>
+ <SurName>Ciuha</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>21645923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Jankovec</SurName>
+ <Code>20184</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4914275</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Music composition color visual modelization, software 
+implementation and embedded electronic keyboard : 6th International Seminar 
+Multimedia Technologies, December 11th, 2013, Technology Park Vrtojba, Nova 
+Gorica, Slovenija</Title>
+      <TitleISBD>Music composition color visual modelization, software 
+implementation and embedded electronic keyboard : 6th International Seminar 
+Multimedia Technologies, December 11th, 2013, Technology Park Vrtojba, Nova 
+Gorica, Slovenija / Peter Ciuha, Bojan Klemenc, Marko Jankovec</TitleISBD>
+        <Subtitle>6th International Seminar Multimedia Technologies, 
+December 11th, 2013, Technology Park Vrtojba, Nova Gorica, 
+Slovenija</Subtitle>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:78</ClassNumber>
+      <Typology id="3.15">prispevek na konferenci brez natisa</Typology>
+      <COBISS co="SI" id="10628436">
+      https://plus.si.cobiss.net/opac7/bib/10628436</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.16 Vabljeno predavanje na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="30" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Auditory perception model and mapping in visual space : 
+invited lecture at Croatian Student and Young Professionals Congress 2019, 
+27. - 29. September 2019, University of Rijeka, Faculty of Engineering, 
+Rijeka</Title>
+      <TitleISBD>Auditory perception model and mapping in visual space : 
+invited lecture at Croatian Student and Young Professionals Congress 2019, 
+27. - 29. September 2019, University of Rijeka, Faculty of Engineering, 
+Rijeka / Bojan Klemenc</TitleISBD>
+        <Subtitle>invited lecture at Croatian Student and Young 
+Professionals Congress 2019, 27. - 29. September 2019, University of 
+Rijeka, Faculty of Engineering, Rijeka</Subtitle>
+      <PubDate>2019</PubDate>
+      <Country code="hrv"/>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="3.16">vabljeno predavanje na konferenci brez 
+natisa</Typology>
+      <COBISS co="SI" id="1538382275">
+      https://plus.si.cobiss.net/opac7/bib/1538382275</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="31" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Peer</SurName>
+ <Code>19226</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775267</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Bojan</FirstName>
+ <SurName>Klemenc</SurName>
+ <Code>32887</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>143915875</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Jan</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201329763</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ciril</FirstName>
+ <SurName>Bohak</SurName>
+ <Code>30062</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>129794147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matevž</FirstName>
+ <SurName>Pesek</SurName>
+ <Code>35071</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>214576995</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matija</FirstName>
+ <SurName>Marolt</SurName>
+ <Code>15677</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4269155</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Games at the Faculty of Computer and Information Science, 
+University of Ljubljana : invited talk at SGC 2016, Slovenian Games 
+Conference, 24 September 2016, Ljubljana</Title>
+      <TitleISBD>Games at the Faculty of Computer and Information Science, 
+University of Ljubljana : invited talk at SGC 2016, Slovenian Games 
+Conference, 24 September 2016, Ljubljana / Peter Peer ... [et 
+al.]</TitleISBD>
+        <Subtitle>invited talk at SGC 2016, Slovenian Games Conference, 24 
+September 2016, Ljubljana</Subtitle>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">igra /predmet /študijski program /tehnologija 
+iger /videi izdelkov</Descriptors>
+      <Descriptors lang="eng">game /course /study programme /game 
+technology /showreel</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5:794</ClassNumber>
+      <Typology id="3.16">vabljeno predavanje na konferenci brez 
+natisa</Typology>
+      <COBISS co="SI" id="1537153731">
+      https://plus.si.cobiss.net/opac7/bib/1537153731</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Urednik</Title>
+  
+    <BiblioEntry bno="32" type="integratingresource">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Bojan</FirstName>
+  <SurName>Klemenc</SurName>
+  <Code>32887</Code>
+  <Contrib>glavni urednik</Contrib>
+        </Editor>
+        <Retrospective>Klemenc, Bojan (glavni urednik 2018-)
+        </Retrospective>
+      </AuthorGroup>
+      <Title>Kolokacijski slovar sodobne slovenščine</Title>
+      <TitleISBD>Kolokacijski slovar sodobne slovenščine [Elektronski 
+vir]</TitleISBD>
+      <Keytitle>Kolokacijski slovar sodobne slovenščine</Keytitle>
+      <Material>
+        <Electronic>El. slovar</Electronic>
+        <ContResource>2018-</ContResource>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Znanstvena založba Filozofske 
+fakultete</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana (Aškerčeva 2) : Znanstvena založba 
+Filozofske fakultete, 2018-</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <ISSN>2630-4015</ISSN>
+      <Notes>
+        <Frequency>Se sproti spreminja in dopolnjuje</Frequency>
+      </Notes>
+      <TopicalName>Slovenščina - Slovarji</TopicalName>
+      <UDK>811.163.6</UDK>
+      <UDK>81'374</UDK>
+      <ClassNumber code="udc">811.163.6:81´374</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <Link rel="0">
+        <URL>https://viri.cjvt.si/kolokacije/slv/#</URL>
+      </Link>
+      <COBISS co="SI" id="298046976">
+      https://plus.si.cobiss.net/opac7/bib/298046976</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="33" type="integratingresource">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Bojan</FirstName>
+  <SurName>Klemenc</SurName>
+  <Code>32887</Code>
+  <Contrib>glavni urednik</Contrib>
+        </Editor>
+        <Retrospective>Klemenc, Bojan (glavni urednik 2017-)
+        </Retrospective>
+      </AuthorGroup>
+      <Title>Slovar sopomenk sodobne slovenščine</Title>
+      <TitleISBD>Slovar sopomenk sodobne slovenščine [Elektronski 
+vir]</TitleISBD>
+      <Keytitle>Slovar sopomenk sodobne slovenščine</Keytitle>
+      <Material>
+        <Electronic>El. slovar</Electronic>
+        <ContResource>2017-</ContResource>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Znanstvena založba Filozofske 
+fakultete</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana (Aškerčeva 2) : Znanstvena založba 
+Filozofske fakultete, 2017-</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <ISSN>2591-247X</ISSN>
+      <Notes>
+        <Frequency>Se sproti spreminja in dopolnjuje</Frequency>
+      </Notes>
+      <TopicalName>Slovenščina - Sopomenke - Slovarji</TopicalName>
+      <UDK>811.163.6</UDK>
+      <UDK>81'374</UDK>
+      <ClassNumber code="udc">811.163.6:81´374.221</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <Link rel="0">
+        <URL>http://viri.cjvt.si/sopomenke/slv/</URL>
+      </Link>
+      <Link rel="0">
+        <URL>https://www.termania.net/slovarji/246/Slovar_sopomenk</URL>
+      </Link>
+      <COBISS co="SI" id="294177280">
+      https://plus.si.cobiss.net/opac7/bib/294177280</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

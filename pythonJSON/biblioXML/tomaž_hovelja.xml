@@ -1,0 +1,5293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="31407" period="2000-2019" represent="false">
+  <Name>Dr. Tomaž Hovelja</Name>
+  <Header>
+    <Left>Dr. Tomaž Hovelja [31407]</Left>
+    <Right>Osebna bibliografija za obdobje 2000-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Tomaž Hovelja [31407]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2000-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Mirjam</FirstName>
+ <SurName>Ravljen</SurName>
+ <Code>39884</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>30008675</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Relationship between particulate matter pollution and acute 
+coronary syndrome incidence</Title>
+      <TitleISBD>Relationship between particulate matter pollution and 
+acute coronary syndrome incidence [Elektronski vir] / Mirjam Ravljen, Tomaž 
+Hovelja and Damjan Vavpotič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Atmosphere</Title>
+        <TitleISBD>Atmosphere</TitleISBD>
+        <Keytitle>Atmosphere (Basel)</Keytitle>
+      <ISSN>2073-4433</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <VolumeNum>vol. 10</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>Feb. 2019</Year>
+        <ArtPageNums>str. 1-10</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-10</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3390/atmos10030103</DOI>
+      </Identifier>
+      <ISSN>2073-4433</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 7-10</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">miokardni infarkt /PM10 /onesnaženost zraka 
+/obolevnost /učinek časovnega zamika</Descriptors>
+      <Descriptors lang="eng">myocardial infarction /air pollution 
+/morbidity /lag effect</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:632.15</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>https://www.mdpi.com/2073-4433/10/3/103/htm</URL>
+      </Link>
+      <COBISS co="SI" id="1538164931">
+      https://plus.si.cobiss.net/opac7/bib/1538164931</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Exploring the relations between net benefits of IT projects 
+and CIOs perception of quality of software development disciplines</Title>
+      <TitleISBD>Exploring the relations between net benefits of IT 
+projects and CIOs perception of quality of software development disciplines 
+/ Damjan Vavpotič, Marko Robnik-Šikonja, Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Business &amp; information systems engineering</Title>
+        <TitleISBD>Business &amp; information systems 
+engineering</TitleISBD>
+        <Keytitle>Bus. inf. syst. eng. (Print)</Keytitle>
+      <ISSN>2363-7005</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <VolumeNum>vol. </VolumeNum>
+        <IssueNum>no. </IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 1-14</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-14</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/s12599-019-00612-4</DOI>
+      </Identifier>
+      <ISSN>2363-7005</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 13-14</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vodenje projektov IT /proces razvoja 
+programske opreme /model Kano /ocenjevanje atributov /algoritem 
+OrdEval</Descriptors>
+      <Descriptors lang="eng">IT project management /software development 
+process /Kano model /attribute evaluation /OrdEval algorithm</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>https://link.springer.com/article/10.1007/s12599-019-00612-4</URL>
+      </Link>
+      <COBISS co="SI" id="1538289859">
+      https://plus.si.cobiss.net/opac7/bib/1538289859</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A comparison of the Planning Poker and Team Estimation Game : 
+a case study in software development capstone project course</Title>
+      <TitleISBD>A comparison of the Planning Poker and Team Estimation 
+Game : a case study in software development capstone project course / Marko 
+Poženel and Tomaž Hovelja</TitleISBD>
+        <Subtitle>a case study in software development capstone project 
+course</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>International journal of engineering education</Title>
+        <TitleISBD>International journal of engineering 
+education</TitleISBD>
+        <Keytitle>Int. j. eng. educ.</Keytitle>
+      <ISSN>0949-149X</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="irl"/>
+      <Numbering>
+        <VolumeNum>no. 1</VolumeNum>
+        <IssueNum>part A</IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 195-208</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 195-208</Extent>
+      </PhysicalAttributes>
+      <ISSN>0949-149X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 206-207</Summaries>
+      </Notes>
+      <Descriptors lang="slv">empirična študija /zaključni študentski 
+projekt /agilni razvoj programske opreme /Scrum /Planning Poker /Team 
+Estimation Game</Descriptors>
+      <Descriptors lang="eng">empirical study /capstone course /agile 
+software development /Scrum /Planning Poker /Team Estimation 
+Game</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="1538110915">
+      https://plus.si.cobiss.net/opac7/bib/1538110915</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Mirjam</FirstName>
+ <SurName>Ravljen</SurName>
+ <Code>39884</Code>
+ <CodeOrg>3-123</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>30008675</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Immediate, lag and time window effects of meteorological 
+factors on ST-elevation myocardial infarction incidence</Title>
+      <TitleISBD>Immediate, lag and time window effects of meteorological 
+factors on ST-elevation myocardial infarction incidence / Mirjam Ravljen, 
+Tomaž Hovelja &amp; Damjan Vavpotič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Chronobiology international</Title>
+        <TitleISBD>Chronobiology international</TitleISBD>
+        <Keytitle>Chronobiol. int.</Keytitle>
+      <ISSN>0742-0528</ISSN>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 35</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 63-71</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 63-71</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1080/07420528.2017.1381847</DOI>
+      </Identifier>
+      <ISSN>0742-0528</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 69-71</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vreme /srčno-žilne bolezni /časovni zamik 
+/sezone /STEMI /AMI /temperatura /pritisk /vlaga</Descriptors>
+      <Descriptors lang="eng">weather /cardiovascular diseases /time lag 
+/season /STEMI /AMI /ambient temperature /pressure /humidity</Descriptors>
+      <UDK>616.1</UDK>
+      <ClassNumber code="udc">616.12:551.515</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.tandfonline.com/doi/full/10.1080/07420528.2017.1381847</URL>
+      </Link>
+      <COBISS co="SI" id="1537633475">
+      https://plus.si.cobiss.net/opac7/bib/1537633475</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleš</FirstName>
+ <SurName>Levstek</SurName>
+ <Dates>1972-</Dates>
+ <Contrib>avtor</Contrib>
+ <CONOR>15802979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andreja</FirstName>
+ <SurName>Pucihar</SurName>
+ <Code>16437</Code>
+ <CodeOrg>3-205</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4435043</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>IT governance mechanisms and contingency factors : towards an 
+adaptive IT governance model</Title>
+      <TitleISBD>IT governance mechanisms and contingency factors : towards 
+an adaptive IT governance model / Aleš Levstek, Tomaž Hovelja, Andreja 
+Pucihar</TitleISBD>
+        <Subtitle>towards an adaptive IT governance model</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Organizacija</Title>
+        <TitleISBD>Organizacija</TitleISBD>
+        <Subtitle>revija za management, informatiko in kadre</Subtitle>
+        <Subtitle>= journal of management, informatics and human 
+resources</Subtitle>
+        <Keytitle>Organizacija (Kranj. Tisk. izd.)</Keytitle>
+      <ISSN>1318-5454</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 51</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>nov. 2018</Year>
+        <ArtPageNums>str. 286-310</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 286-310</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.2478/orga-2018-0024</DOI>
+      </Identifier>
+      <ISSN>1318-5454</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 305-310</Summaries>
+        <Summaries>Izvleček v angl. in slov.: Mehanizmi upravljanja 
+informatike in situacijski dejavniki: na poti k razvoju prilagodljivega 
+modela upravljanja informatike</Summaries>
+      </Notes>
+      <Descriptors lang="slv">UI /upravljanje informatike /mehanizmi UI 
+/situacijski dejavniki UI</Descriptors>
+      <Descriptors lang="eng">IT governance /ITG mechanisms /ITG 
+contingency factors /ITG framework</Descriptors>
+      <UDK>659.2:004</UDK>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://organizacija.fov.uni-mb.si/index.php/organizacija/article/view/899/1241</URL>
+
+      </Link>
+      <COBISS co="SI" id="8075027">
+      https://plus.si.cobiss.net/opac7/bib/8075027</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Kojić</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>225639779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ogrodje za izboljšanje procesov razvoja informacijskih 
+sistemov z uporabo hevristik za izboljšave splošnih poslovnih 
+procesov</Title>
+      <TitleISBD>Ogrodje za izboljšanje procesov razvoja informacijskih 
+sistemov z uporabo hevristik za izboljšave splošnih poslovnih procesov / 
+Aleksandar Kojić, Tomaž Hovelja, Damjan Vavpotič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 83</VolumeNum>
+        <IssueNum>št. 1/2</IssueNum>
+        <Year>2016</Year>
+        <ArtPageNums>str. 47-53</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 47-53</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 53</Summaries>
+        <Summaries>Povzetek ; Abstract: An approach to improve the 
+information system development process by using a heuristics for business 
+process improvement</Summaries>
+      </Notes>
+      <Descriptors lang="slv">razvoj informacijskih sistemov /evalvacijski 
+modeli /hevristike /študija primera</Descriptors>
+      <Descriptors lang="eng">information systems development /evaluation 
+models /heuristics /case study</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://ev.fe.uni-lj.si/1-2-2016/Kojic.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537156035">
+      https://plus.si.cobiss.net/opac7/bib/1537156035</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The influence of diffusion of innovation theory factors on 
+undergraduate students' adoption of Scrum</Title>
+      <TitleISBD>The influence of diffusion of innovation theory factors on 
+undergraduate students' adoption of Scrum / Viljan Mahnič and Tomaž 
+Hovelja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of engineering education</Title>
+        <TitleISBD>International journal of engineering 
+education</TitleISBD>
+        <Keytitle>Int. j. eng. educ.</Keytitle>
+      <ISSN>0949-149X</ISSN>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="irl"/>
+      <Numbering>
+        <VolumeNum>no. 5</VolumeNum>
+        <IssueNum>part A</IssueNum>
+        <Year>2016</Year>
+        <ArtPageNums>str. 2121-2133</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 2121-2133</Extent>
+      </PhysicalAttributes>
+      <ISSN>0949-149X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 2131-2133</Summaries>
+        <Summaries>Povzetek v angl.</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Scrum /zaključni študentski projekt /difuzija 
+inovacij /izobraževanje za razvoj programske opreme</Descriptors>
+      <Descriptors lang="eng">Scrum /capstone course /diffusion of 
+innovation /software engineering education /agile software 
+development</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4:37</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="1537265347">
+      https://plus.si.cobiss.net/opac7/bib/1537265347</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Nina</FirstName>
+ <SurName>Habjan</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>254641763</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Evaluating ERP as a composition of different functionalities 
+from key stakeholder perspectives</Title>
+      <TitleISBD>Evaluating ERP as a composition of different 
+functionalities from key stakeholder perspectives [Elektronski vir] / Nina 
+Habjan, Tomaž Hovelja, Damjan Vavpotič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Stewart</FirstName>
+  <SurName>Kowalski</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Peter</FirstName>
+  <SurName>Bednar</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Ilia</FirstName>
+  <SurName>Bider</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>STPIS 2016 : socio-technical perspective in IS development : 
+proceedings of the 2nd International Workshop on Socio-Technical 
+Perspective in IS Development co-located with 28th International Conference 
+on Advanced Information Systems Engineering (CAiSE 2016), Ljubljana, 
+Slovenia, June 14, 2016</Title>
+        <TitleISBD>STPIS 2016 [Elektronski vir] / edited by Stewart 
+Kowalski, Peter Bednar, Ilia Bider</TitleISBD>
+        <Subtitle>socio-technical perspective in IS development</Subtitle>
+        <Subtitle>proceedings of the 2nd International Workshop on 
+Socio-Technical Perspective in IS Development co-located with 28th 
+International Conference on Advanced Information Systems Engineering (CAiSE 
+2016), Ljubljana, Slovenia, June 14, 2016</Subtitle>
+      <SeriesInfo>
+        <Title>CEUR workshop proceedings</Title>
+        <SeriesVolNums>vol. 1604</SeriesVolNums>
+        <ISSN>1613-0073</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Aachen</Address>
+        <PublisherName>CEUR-WS</PublisherName>
+        </Publisher>
+      <PublisherISBD>Aachen : CEUR-WS, cop. 2016</PublisherISBD>
+        <PubDate>cop. 2016</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>CEUR workshop proceedings</Title>
+        <TitleISBD>CEUR workshop proceedings</TitleISBD>
+        <Keytitle>CEUR workshop proc.</Keytitle>
+      <ISSN>1613-0073</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2016</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 1-13</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-13</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1613-0073</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 11-13</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">evalvacijski modeli /sistemi ERP 
+/informacijski sistemi /študija primera</Descriptors>
+      <Descriptors lang="eng">evaluation models /ERP systems /information 
+systems /case study</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://ceur-ws.org/Vol-1604/Paper1.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537173955">
+      https://plus.si.cobiss.net/opac7/bib/1537173955</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Žvanut</SurName>
+ <Code>24930</Code>
+ <CodeOrg>3-302</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15101027</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A balanced scorecard-based model for evaluating e-learning and 
+conventional pedagogical activities in nursing</Title>
+      <TitleISBD>A balanced scorecard-based model for evaluating e-learning 
+and conventional pedagogical activities in nursing [Elektronski vir] / 
+Tomaž Hovelja, Damjan Vavpotič and Boštjan Žvanut</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Assessment &amp; evaluation in higher education</Title>
+        <TitleISBD>Assessment &amp; evaluation in higher 
+education</TitleISBD>
+        <Keytitle>Assess. eval. high. educ. (Online)</Keytitle>
+      <ISSN>1469-297X</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 41</VolumeNum>
+        <IssueNum>iss. 8</IssueNum>
+        <Year>2016</Year>
+        <ArtPageNums>str. 1254-1268</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Details>Ilustr.</Details>
+        <Extent>str. 1254-1268</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1080/02602938.2015.1075957</DOI>
+      </Identifier>
+      <ISSN>1469-297X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1265-1268</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">The evaluation of e-learning and conventional 
+pedagogical activities in nursing programmes has focused either on a single 
+pedagogical activity or the entire curriculum, and only on students or 
+teachers' perspective. The goal of this study was to design and test a 
+novel approach for evaluation of e-learning and conventional pedagogical 
+activities that considers students', teachers' and managers' perspectives. 
+A case study of the proposed approach was performed at a publicly funded 
+nursing faculty with Slovenian and Italian students from 2009 to 2012. The 
+case study was combined with focus group discussions, interviews, direct 
+observation and survey. The proposed approach allows management to compare 
+the value of different pedagogical activities through the students', 
+teachers' and managers' perspectives. The approach proved useful in the 
+evaluation of pedagogical activities and provided valid arguments for 
+long-term pedagogical process improvement</Abstract>
+      <Descriptors lang="eng">evaluation /curriculum /cost-effectivness 
+/e-learning</Descriptors>
+      <Descriptors lang="slv">vrednotenje /kurikulum /stroškovna 
+učinkovitost /e-izobraževanje /e-učenje</Descriptors>
+      <UDK>37.018</UDK>
+      <ClassNumber code="udc">37.018.43:004:616-083</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://dx.doi.org/10.1080/02602938.2015.1075957</URL>
+      </Link>
+      <COBISS co="SI" id="1537677252">
+      https://plus.si.cobiss.net/opac7/bib/1537677252</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Diagnosing organizational risks in software projects : 
+Stakeholder resistance</Title>
+      <TitleISBD>Diagnosing organizational risks in software projects : 
+Stakeholder resistance / Simon L. R. Vrhovec ... [et al.]</TitleISBD>
+        <Subtitle>Stakeholder resistance</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>International journal of project management</Title>
+        <TitleISBD>International journal of project management</TitleISBD>
+        <Keytitle>Int.j.proj. manage.</Keytitle>
+      <ISSN>0263-7863</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 33</VolumeNum>
+        <IssueNum>iss. 6</IssueNum>
+        <Year>Aug. 2015</Year>
+        <ArtPageNums>str. 1262-1273</ArtPageNums>
+        <ArtDetails>Graf. prikazi, tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1262-1273</Extent>
+        <Details>Graf. prikazi, tabele</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.ijproman.2015.03.007</DOI>
+      </Identifier>
+      <ISSN>0263-7863</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1271-1272</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">programska oprema /banke /krizno upravljanje 
+/dejavniki tveganja</Descriptors>
+      <UDK>005.9</UDK>
+      <ClassNumber code="udc">005.931.1:004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="2946794">
+      https://plus.si.cobiss.net/opac7/bib/2946794</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Olegas</FirstName>
+ <SurName>Vasilecas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>55555939</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Exploring the influences of the use of elements comprising 
+information system development methodologies on strategic business 
+goals</Title>
+      <TitleISBD>Exploring the influences of the use of elements comprising 
+information system development methodologies on strategic business goals / 
+Tomaž Hovelja, Olegas Vasilecas, Damjan Vavpotič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Technological and economic development of economy</Title>
+        <TitleISBD>Technological and economic development of 
+economy</TitleISBD>
+        <Keytitle>Technol. econ. dev. econ. (Spausd.)</Keytitle>
+      <ISSN>2029-4913</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="ltu"/>
+      <Numbering>
+        <VolumeNum>vol. 21</VolumeNum>
+        <IssueNum>no. 6</IssueNum>
+        <Year>2015</Year>
+        <ArtPageNums>str. 885-898</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 885-898</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3846/20294913.2015.1074130</DOI>
+      </Identifier>
+      <ISSN>2029-4913</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 895-897</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">metodologije razvoja informacijskih sistemov 
+/evaluacija metodologij razvoja informacijskih sistemov /strateški 
+menedžment</Descriptors>
+      <Descriptors lang="eng">information systems development methodologies 
+/evaluation of information systems development methodologies /strategic 
+management</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://www.tandfonline.com/doi/pdf/10.3846/20294913.2015.1074130</URL>
+      </Link>
+      <COBISS co="SI" id="1536512963">
+      https://plus.si.cobiss.net/opac7/bib/1536512963</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Teaching user stories within the scope of a software 
+engineering capstone course : analysis of students' opinions</Title>
+      <TitleISBD>Teaching user stories within the scope of a software 
+engineering capstone course : analysis of students' opinions / Viljan 
+Mahnič and Tomaž Hovelja</TitleISBD>
+        <Subtitle>analysis of students' opinions</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>International journal of engineering education</Title>
+        <TitleISBD>International journal of engineering 
+education</TitleISBD>
+        <Keytitle>Int. j. eng. educ.</Keytitle>
+      <ISSN>0949-149X</ISSN>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <VolumeNum>vol. 30</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>2014</Year>
+        <ArtPageNums>str. 901-915</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 901-915</Extent>
+      </PhysicalAttributes>
+      <ISSN>0949-149X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 914-915</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">uporabniške zgodbe /agilne metode /Scrum 
+/tehnologija programske opreme</Descriptors>
+      <Descriptors lang="eng">user stories /agile methods /Scrum /software 
+engineering</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10756948">
+      https://plus.si.cobiss.net/opac7/bib/10756948</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Mirjam</FirstName>
+ <SurName>Ravljen</SurName>
+ <Code>39884</Code>
+ <CodeOrg>3-123</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>30008675</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Bilban</SurName>
+ <Code>12062</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3616355</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lučka</FirstName>
+ <SurName>Kajfež-Bogataj</SurName>
+ <Code>09593</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3164515</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Influence of daily individual meteorological parameters on the 
+incidence of acute coronary syndrome</Title>
+      <TitleISBD>Influence of daily individual meteorological parameters on 
+the incidence of acute coronary syndrome / Mirjam Ravljen ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of environmental research and public 
+health</Title>
+        <TitleISBD>International journal of environmental research and 
+public health</TitleISBD>
+        <Keytitle>Int. j. environ. res. public health (Print)</Keytitle>
+      <ISSN>1661-7827</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="int"/>
+      <Numbering>
+        <VolumeNum>vol. 11</VolumeNum>
+        <IssueNum>no. 11</IssueNum>
+        <Year>Nov. 2014</Year>
+        <ArtPageNums>str. 11616-11626</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 11616-11626</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3390/ijerph111111616</DOI>
+      </Identifier>
+      <ISSN>1661-7827</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 11623-11626</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kardiovaskularne bolezni /meteorološke 
+spremenljivke /atmosferski pritisk /vlaga /temperatura /miokardni infarkt 
+/vreme /Evropa</Descriptors>
+      <Descriptors lang="eng">cardiovascular disease /meteorological 
+factors /atmospheric pressure /humidity /temperature /myocardial infarction 
+/weather /Europe</Descriptors>
+      <UDK>616.1</UDK>
+      <ClassNumber code="udc">616.1:551.515</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://www.mdpi.com/1660-4601/11/11/11616</URL>
+      </Link>
+      <COBISS co="SI" id="1536032195">
+      https://plus.si.cobiss.net/opac7/bib/1536032195</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Olegas</FirstName>
+ <SurName>Vasilecas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>55555939</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190051</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A model of influences of environmental stakeholders on 
+strategic information systems planning success in an enterprise</Title>
+      <TitleISBD>A model of influences of environmental stakeholders on 
+strategic information systems planning success in an enterprise / Tomaž 
+Hovelja, Olegas Vasilecas, Rok Rupnik</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Technological and economic development of economy</Title>
+        <TitleISBD>Technological and economic development of 
+economy</TitleISBD>
+        <Keytitle>Technol. econ. dev. econ. (Spausd.)</Keytitle>
+      <ISSN>2029-4913</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 19</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>2013</Year>
+        <ArtPageNums>str. 465-488</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 465-488</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3846/20294913.2013.818591</DOI>
+      </Identifier>
+      <ISSN>2029-4913</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 484-488</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strateško planiranje informatike /IT 
+investicije /zunanji deležniki /uspeh IT projektov /podjetja</Descriptors>
+      <Descriptors lang="eng">strategic information systems planning /IT 
+investments /environmental stakeholders /IT deployment success 
+/enterprises</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">004:659.2</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.tandfonline.com/doi/pdf/10.3846/20294913.2013.818591</URL>
+      </Link>
+      <COBISS co="SI" id="10183252">
+      https://plus.si.cobiss.net/opac7/bib/10183252</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Improving the evaluation of software development methodology 
+adoption and its impact on enterprise performance</Title>
+      <TitleISBD>Improving the evaluation of software development 
+methodology adoption and its impact on enterprise performance / Damjan 
+Vavpotič and Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Computer science and information systems</Title>
+        <TitleISBD>Computer science and information systems</TitleISBD>
+        <Keytitle>Comput. Sci. Inf. Syst.</Keytitle>
+      <ISSN>1820-0214</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="srb"/>
+      <Numbering>
+        <VolumeNum>vol. 9</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>Jan. 2012</Year>
+        <ArtPageNums>str. 165-187</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 165-187</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1820-0214</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 184-187</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">metodologije razvoja programske opreme 
+/uspešnost podjetij /sprejemanje metodologij /pristop k 
+evaluaciji</Descriptors>
+      <Descriptors lang="eng">software development /methodologies 
+/enterprise performance /SDM adoption /evaluation approach</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://www.comsis.org/archive.php?show=ppr326-1105</URL>
+      </Link>
+      <COBISS co="SI" id="8880212">
+      https://plus.si.cobiss.net/opac7/bib/8880212</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>On using planning poker for estimating user stories</Title>
+      <TitleISBD>On using planning poker for estimating user stories / 
+Viljan Mahnič, Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The Journal of Systems and Software</Title>
+        <TitleISBD>The Journal of Systems and Software</TitleISBD>
+        <Keytitle>J. syst. softw.</Keytitle>
+      <ISSN>0164-1212</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 85</VolumeNum>
+        <IssueNum>no. 9</IssueNum>
+        <Year>Sep. 2012</Year>
+        <ArtPageNums>str. 2086-2095</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 2086-2095</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <ISSN>0164-1212</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 2095</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">agilni razvoj programske opreme /ocenjevanje 
+zahtevnosti /uporabniška zgodba /ekspertna ocena /Scrum</Descriptors>
+      <Descriptors lang="eng">agile software development /effort estimation 
+/user story /planning poker /expert judgment /Scrum</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science/article/pii/S0164121212001021</URL>
+
+      </Link>
+      <COBISS co="SI" id="9127764">
+      https://plus.si.cobiss.net/opac7/bib/9127764</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Alenka</FirstName>
+ <SurName>Rožanec</SurName>
+ <Code>21522</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11843427</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190051</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Measuring the success of the strategic information systems 
+planning in enterprises in Slovenia</Title>
+      <TitleISBD>Measuring the success of the strategic information systems 
+planning in enterprises in Slovenia / Tomaž Hovelja, Alenka Rožanec, Rok 
+Rupnik</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Management</Title>
+        <TitleISBD>Management</TitleISBD>
+        <Subtitle>journal of contemporary management issues</Subtitle>
+        <Keytitle>Management (Split)</Keytitle>
+      <ISSN>1331-0194</ISSN>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <VolumeNum>vol. 15</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>2010</Year>
+        <ArtPageNums>str. 25-46</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 25-46</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1331-0194</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 42-46</Summaries>
+        <Summaries>Abstract ; Sažetak</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strateško planiranje informatike /ključni 
+dejavniki uspešnosti SPI /ekonomska uspešnost</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.efst.hr/management/Vol15No2-2010/2-Hovelja%20Rozanec%20Rupnik%20finalno.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="8352340">
+      https://plus.si.cobiss.net/opac7/bib/8352340</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Information technology deployment in a transition economy : 
+results from Slovenia</Title>
+      <TitleISBD>Information technology deployment in a transition economy 
+: results from Slovenia / Tomaž Hovelja</TitleISBD>
+        <Subtitle>results from Slovenia</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Ekonomski anali</Title>
+        <TitleISBD>Ekonomski anali</TitleISBD>
+        <Subtitle>naučno-stručni časopis Ekonomskog fakulteta u 
+Beogradu</Subtitle>
+        <Keytitle>Ekon. an.</Keytitle>
+      <ISSN>0013-3264</ISSN>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="srb"/>
+      <Numbering>
+        <VolumeNum>vol. 54</VolumeNum>
+        <IssueNum>no. 183</IssueNum>
+        <Year>2009</Year>
+        <ArtPageNums>str. 56-88</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 56-88</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-3264</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 80-88</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">informacijska tehnologija /uvedba 
+informacijske tehnologije /preoblikovanje organizacije /podjetja 
+/institucije /Slovenija</Descriptors>
+      <Descriptors lang="eng">information technology /information 
+technology deployment /organisational transformation /enterprises 
+/institutions /Slovenija</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:33</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="7731540">
+      https://plus.si.cobiss.net/opac7/bib/7731540</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ravnanje z informacijsko tehnologijo: ključni strateški 
+razvojni problem podjetij v Sloveniji? = Managing information technology: 
+the key strategic issue facing enterprises in Slovenia?</Title>
+      <TitleISBD>Ravnanje z informacijsko tehnologijo: ključni strateški 
+razvojni problem podjetij v Sloveniji? = Managing information technology: 
+the key strategic issue facing enterprises in Slovenia? / Tomaž 
+Hovelja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Naše gospodarstvo</Title>
+        <TitleISBD>Naše gospodarstvo</TitleISBD>
+        <Subtitle>revija za aktualna gospodarska vprašanja</Subtitle>
+        <Subtitle>review of current problems in economics</Subtitle>
+        <Keytitle>Naše gospod. (Tisk. izd.)</Keytitle>
+      <ISSN>0547-3101</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 55</VolumeNum>
+        <IssueNum>št. 1/2</IssueNum>
+        <Year>2009</Year>
+        <ArtPageNums>str. 59-75</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 59-75</Extent>
+      </PhysicalAttributes>
+      <ISSN>0547-3101</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 72-75</Summaries>
+      </Notes>
+      <Abstract lang="slv">S prehodom razvitih družb v informacijsko dobo 
+narašča pomen informacijske tehnologije (IT) v podjetjih pri njihovem 
+strateškem razvoju. Zaradi tega se veča tudi potreba po ravnanju uprav z 
+IT, ki bo sposobno uresničiti vse njene potenciale pri ustvarjanju dodane 
+vrednosti. Raziskava na vzorcu 94-ih med 1000 največjimi nefinančnih 
+podjetji v Sloveniji je žal pokazala, da pri nas uprave velikokrat ne 
+sprejmejo določenih ključnih ukrepov za uresničenje večine potencialov IT. 
+V prispevku predstavljamo trenutno manjkajoče ključne ukrepe, ki jih moramo 
+sistematično vključiti v strategijo in proces ravnanja z IT v podjetjih, da 
+bi odpravili trenutne probleme pri pridobivanju strateških koristi 
+IT.</Abstract>
+      <Abstract lang="eng">With the evolution of the information society, 
+the strategic importance of information technology (IT) in enterprises is 
+increasing day by day. Thus, it has become vital to manage IT in a way that 
+enables enterprises to realize all the potential benefits IT can offer for 
+the creation of added value. This research conducted on a sample drawn from 
+the 1000 biggest non-financial enterprises in Slovenia unfortunately shows 
+that this need remains mostly unfulfilled. In this paper we present key 
+theoretical and empirical factors that need to be systematically 
+incorporated in the strategy and process of managing IT before enterprises 
+in Slovenia can successfully solve this strategic issue.</Abstract>
+      <Descriptors lang="slv">informacijska tehnologija /uporaba /Slovenija 
+/podjetje</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004(497.4)</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="9771036">
+      https://plus.si.cobiss.net/opac7/bib/9771036</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Organisational effects on information technology productivity 
+in enterprises : the case of Slovenia</Title>
+      <TitleISBD>Organisational effects on information technology 
+productivity in enterprises : the case of Slovenia / Tomaž 
+Hovelja</TitleISBD>
+        <Subtitle>the case of Slovenia</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Economic and business review</Title>
+        <TitleISBD>Economic and business review</TitleISBD>
+        <Keytitle>Econ. bus. rev</Keytitle>
+      <ISSN>1580-0466</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 10</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>Oct. 2008</Year>
+        <ArtPageNums>str. 243-261</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 243-261</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <ISSN>1580-0466</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 257-261</Summaries>
+        <Summaries>Abstract ; Izvleček</Summaries>
+      </Notes>
+      <Abstract lang="eng">The study presents the results of a survey among 
+94 of Slovenia's 1,000 biggest enterprises based on the added value they 
+generate. The aim of the research is threefold: a) to find out if and how 
+different organisational characteristics of Slovenian enterprises affect 
+their information technology (IT) usage; b) to explore how the intensity of 
+IT usage affects the productivity of Slovenian enterprises; and c) to 
+analyse and compare the findings on key organisational characteristics and 
+the intensity of IT usage in the developed OECD countries with the findings 
+from this study. My study reveals a number of positive organisational 
+affects on the intensity of IT use in Slovenian enterprises that were seen 
+as key organisational characteristics in other studies conducted in the 
+developed OECD countries. However, most of these positive organisational 
+characteristics of Slovenian enterprises are limited to the cultural and 
+structural dimensions of their organisation and do not extend much into the 
+strategical and process dimensionas they did in the developed OECD 
+countries. Such findings can be explained by the lack of available 
+managerial knowledge on how to strategically use IT in Slovenia to increase 
+the productivity of the enterprise. The deficit in managerial knowledge 
+coupled with strong influencest he employees have on the behaviour of 
+enterprises in Slovenia can thus be seen as the main reason for a lower 
+intensity of IT usage in enterprises as compared to developed OECD and EU 
+countries. Even more importantly, it can be seen as the reason why the 
+benefits from intense use of IT in the enterprise generally do not 
+transform in productivity gains for the enterprise but instead transform in 
+diminished workloads for the employees. Managerial implication with respect 
+to building organisational characteristics that would confront the lack of 
+productivity gains from the intense use of IT are presented based on the 
+findings of this study.</Abstract>
+      <Abstract lang="slv">Članek predstavlja rezultate raziskave, v katero 
+je bilo vključenih 94 izmed 1000 največjih podjetij v Sloveniji po 
+ustvarjeni dodani vrednosti. Cilji raziskave so: a) ugotoviti ali in kako 
+različne organizacijske lastnosti podjetij v Sloveniji vplivajo na njihovo 
+uporabo informacijske tehnologije (IT), b) raziskati povezanost med 
+intenzivnostjo uporabe IT in produktivnostjo v podjetjih v Sloveniji, c) 
+primerjati ugotovitve o ključnih organizacijskih lastnostih podjetij za 
+učinkovito uporabo IT in intenzivnosti uporabe IT v razvitih članicah OECD 
+z ugotovitvami te raziskave. Moja raziskava odkriva pozitivne vplive 
+številnih organizacijskih lastnosti na intenzivnost uporabe IT v podjetjih 
+v Sloveniji, ki so se kot ključne lastnosti organizacije podjetja pokazale 
+v že opravljanih raziskavah v razvitih članicah OECD. Vendar se velika 
+večina organizacijskih lastnosti, ki pozitivno vplivajo na uporabo IT, 
+nahaja le znotraj organizacijskih dimenzij kulture in struktur ter ne 
+vključuje skoraj nobene lastnosti iz strateške in procesne dimenzije, kar 
+je v precejšnjem nasprotju z že opravljenimi raziskavami v razvitih 
+članicah OECD. Posledično ne presenešajo slabsi rezultati in nižja 
+intenzivnost uporabe IT pri nas v primerjavi z razvitimi članicami OECD. 
+Razloge za tako stanje je zelo verjetno potrebno iskati v pomanjkanju 
+managerskih znanj za učinkovito ravnanje z IT v podjetjih v povezavi z 
+nepričakovano močnimi vplivi zaposlenih na odločitve, zakaj in kako 
+uporabljati IT v podjetjih. Zaposleni v podjetjih v Sloveniji namreč večino 
+koristi od IT na delovnem mestu uspejo pridobiti zase in si tako zmanjšati 
+delovne obremenitve, tako da v Sloveniji bolj intenzivna uporaba IT v 
+podjetjih ne vodi v rast njihove produktivnosti, kot je to značilno za 
+razvite države članice OECD. Organizacijske lastnosti in spremembe, ki bi 
+jih bilo potrebno vpeljati v podjetja v Sloveniji za odpravo takega stanja, 
+so prav tako predstavljene v članku z upanjem, da bodo managerjem v 
+korist.</Abstract>
+      <Descriptors lang="">Slovenija /podjetje /informacijska tehnologija 
+/produktivnost</Descriptors>
+      <Descriptors lang="eng">Slovenia /enterprises /information technology 
+/productivity</Descriptors>
+      <UDK>334</UDK>
+      <ClassNumber code="udc">334.012:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="18211558">
+      https://plus.si.cobiss.net/opac7/bib/18211558</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="21" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Metodologija kot dejavnik uspeha vpeljave programskih 
+rešitev</Title>
+      <TitleISBD>Metodologija kot dejavnik uspeha vpeljave programskih 
+rešitev [Elektronski vir] / Simon Vrhovec, Damjan Vavpotič, Tomaž 
+Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Niko</FirstName>
+  <SurName>Schlamberger</SurName>
+  <Code>06882</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jurij</FirstName>
+  <SurName>Bertok</SurName>
+  <Code>10336</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nina</FirstName>
+  <SurName>Fileš</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nika</FirstName>
+  <SurName>Rebernik</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Alenka</FirstName>
+  <SurName>Žužek Nemec</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Informatika v javni upravi 2016 : zbornik, 5.-6. december 
+2016, Kongresni center Brdo pri Kranju</Title>
+        <TitleISBD>Informatika v javni upravi 2016 [Elektronski vir] / 
+[uredniki zbornika Niko Schlamberger ... et al.]</TitleISBD>
+        <Subtitle>zbornik, 5.-6. december 2016, Kongresni center Brdo pri 
+Kranju</Subtitle>
+      <ISBN>978-961-6165-48-8</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2016</PublisherISBD>
+        <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>7 str.</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>7 str.</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 6-7</Summaries>
+        <Summaries>Izvleček ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">programska oprema /programske rešitve /agilne 
+metodologije</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="3265258">
+      https://plus.si.cobiss.net/opac7/bib/3265258</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="22" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marina</FirstName>
+ <SurName>Trkman</SurName>
+ <Code>30919</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127758435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ravnanje z organizacijskimi težavami pri razvoju programske 
+opreme v globalnih podjetjih</Title>
+      <TitleISBD>Ravnanje z organizacijskimi težavami pri razvoju 
+programske opreme v globalnih podjetjih / Simon L. R. Vrhovec ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Aleša Saša</FirstName>
+  <SurName>Sitar</SurName>
+  <Code>23029</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jure</FirstName>
+  <SurName>Kovač</SurName>
+  <Code>06643</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matevž</FirstName>
+  <SurName>Rašković</SurName>
+  <Code>28924</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Organizacija in ravnateljevanje globalnih podjetij : 
+usklajevanje v različnih kulturah : zbornik referatov</Title>
+        <TitleISBD>Organizacija in ravnateljevanje globalnih podjetij / 13. 
+znanstveno posvetovanje o organizaciji, Ljubljana, 7. junij 2013</TitleISBD>
+        <Subtitle>usklajevanje v različnih kulturah</Subtitle>
+        <Subtitle>zbornik referatov</Subtitle>
+      <ISBN>978-961-240-261-7</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Društvo Slovenska akademija za 
+management</PublisherName>
+        <PublisherName>Ekonomska fakulteta</PublisherName>
+        <Address>Kranj</Address>
+        <PublisherName>Fakulteta za organizacijske vede</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Društvo Slovenska akademija za management 
+: Ekonomska fakulteta ; Kranj : Fakulteta za organizacijske vede, 
+2013</PublisherISBD>
+      <Manufacturer>Ljubljana : Copis</Manufacturer>
+        <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 127-139</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 127-139</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 137-138</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">globalna podjetja /razvoj programske opreme 
+/organizacijske težave /kulturne razlike /ravnateljevanje globalnih 
+projektov</Descriptors>
+      <Descriptors lang="eng">global enterprises /software development 
+/organizational issues /cultural differences /global project 
+management</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9904724">
+      https://plus.si.cobiss.net/opac7/bib/9904724</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="23" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The impact of IT performance measurement system on IT 
+management</Title>
+      <TitleISBD>The impact of IT performance measurement system on IT 
+management / Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Aljaž</FirstName>
+  <SurName>Stare</SurName>
+  <Code>15941</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Organizational changes for dynamic stability : conference 
+papers</Title>
+        <TitleISBD>Organizational changes for dynamic stability / 2nd 
+International Conference on Management and Organisation, Brdo pri Kranju, 
+8-9 June 2012</TitleISBD>
+        <Subtitle>conference papers</Subtitle>
+      <ISBN>978-961-92878-2-8</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>The Slovenian Academy of Management</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : The Slovenian Academy of Management, 
+2012</PublisherISBD>
+      <Manufacturer>Ljubljana : Copis</Manufacturer>
+        <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 273-284</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 273-284</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 282-284</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sistemi ravnanja z uspešnostjo IT /IT 
+uspešnost /ravnanje z IT /strateški management IT /management IT 
+projektov</Descriptors>
+      <Descriptors lang="eng">IT performance management systems /IT success 
+/IT management /strategic IT management /IT project management</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9315668">
+      https://plus.si.cobiss.net/opac7/bib/9315668</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="24" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza problemov pri spremembah informacijskega 
+sistema</Title>
+      <TitleISBD>Analiza problemov pri spremembah informacijskega sistema / 
+Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Tomaž</FirstName>
+  <SurName>Čater</SurName>
+  <Code>19761</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>17. strokovno posvetovanje o sodobnih vidikih analize 
+poslovanja in organizacije, Portorož, 20. in 21. oktober 2011 : zbornik 
+referatov</Title>
+        <TitleISBD>17. strokovno posvetovanje o sodobnih vidikih analize 
+poslovanja in organizacije, Portorož, 20. in 21. oktober 2011 / uredil 
+Tomaž Čater</TitleISBD>
+        <Subtitle>zbornik referatov</Subtitle>
+      <ISBN>978-961-6231-69-5</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Zveza ekonomistov Slovenije</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Zveza ekonomistov Slovenije, 
+2011</PublisherISBD>
+      <Manufacturer>Ljubljana : Birografika Bori</Manufacturer>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 106-119</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 106-119</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 117-119</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza problemov sprememb /informacijski 
+sistem /pristop k ravnanju s spremembami</Descriptors>
+      <Descriptors lang="eng">analysis of change problems /information 
+system /approach for change management</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8896084">
+      https://plus.si.cobiss.net/opac7/bib/8896084</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="25" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Alenka</FirstName>
+ <SurName>Rožanec</SurName>
+ <Code>21522</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11843427</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Dejavniki uspešnosti strateškega planiranja informatike v 
+slovenskih podjetjih</Title>
+      <TitleISBD>Dejavniki uspešnosti strateškega planiranja informatike v 
+slovenskih podjetjih [Elektronski vir] / Alenka Rožanec, Marjan Krisper, 
+Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18. konferenca Dnevi slovenske informatike, 
+Portorož, Slovenija, 18.-20. april 2011</CorpAuthor>
+        </AuthorGroup>
+        <Title>Nove razmere in priložnosti v informatiki kot posledica 
+družbenih sprememb : zbornik konference</Title>
+        <TitleISBD>Nove razmere in priložnosti v informatiki kot posledica 
+družbenih sprememb [Elektronski vir] / 18. konferenca Dnevi slovenske 
+informatike, Portorož, Slovenija, 18.-20. april 2011</TitleISBD>
+        <Subtitle>zbornik konference</Subtitle>
+      <ISBN>978-961-6165-34-1</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2011</PublisherISBD>
+      <Manufacturer>[Maribor] : Comma</Manufacturer>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 1-9</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-9</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 9</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strateško planiranje informatike /SPI 
+/ključni dejavniki uspešnosti SPI /učinkovita uporba IT /ekonomska 
+uspešnost</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8350036">
+      https://plus.si.cobiss.net/opac7/bib/8350036</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="26" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Pogojenost uspešnosti spreminjanja informacijskih sistemov 
+podjetij v Sloveniji s kakovostno organizacijo</Title>
+      <TitleISBD>Pogojenost uspešnosti spreminjanja informacijskih sistemov 
+podjetij v Sloveniji s kakovostno organizacijo / Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Miran</FirstName>
+  <SurName>Mihelčič</SurName>
+  <Code>04527</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Borut</FirstName>
+  <SurName>Rusjan</SurName>
+  <Code>11977</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jure</FirstName>
+  <SurName>Kovač</SurName>
+  <Code>06643</Code>
+  <CodeOrg>3-205</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Aljaž</FirstName>
+  <SurName>Stare</SurName>
+  <Code>15941</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Katarina Katja</FirstName>
+  <SurName>Mihelič</SurName>
+  <Code>28012</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Ravnanje s spremembami v podjetjih, zavodih in javni upravi 
+: zbornik referatov</Title>
+        <TitleISBD>Ravnanje s spremembami v podjetjih, zavodih in javni 
+upravi / 12. znanstveno posvetovanje o organizaciji, Brdo pri Kranju, 9. 
+junij 2011</TitleISBD>
+        <Subtitle>zbornik referatov</Subtitle>
+      <ISBN>978-961-240-215-0</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Društvo Slovenska akademija za 
+management</PublisherName>
+        <PublisherName>Ekonomska fakulteta</PublisherName>
+        <Address>Kranj</Address>
+        <PublisherName>Fakulteta za organizacijske vede</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Društvo Slovenska akademija za management 
+: Ekonomska fakulteta ; Kranj : Fakulteta za organizacijske vede, 
+2011</PublisherISBD>
+      <Manufacturer>Ljubljana : Kopilab</Manufacturer>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 91-100</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 91-100</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 99-100</Summaries>
+        <Summaries>Povzetek ; Summary</Summaries>
+      </Notes>
+      <Descriptors lang="slv">informacijski sistemi /ravnanje s spremembami 
+/kakovost organizacije /podjetja /Slovenija</Descriptors>
+      <Descriptors lang="eng">information systems /change management 
+/organistaional quality /enterprises Slovenia</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8409428">
+      https://plus.si.cobiss.net/opac7/bib/8409428</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="27" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Vloga analize informacijskega sistema pri zagotavljanju 
+njegove učinkovite uporabe</Title>
+      <TitleISBD>Vloga analize informacijskega sistema pri zagotavljanju 
+njegove učinkovite uporabe / Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Tomaž</FirstName>
+  <SurName>Čater</SurName>
+  <Code>19761</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>13. strokovno posvetovanje o sodobnih vidikih analize 
+poslovanja in organizacije, Portorož, 24., 25. in 26. oktobra 2007</Title>
+        <TitleISBD>13. strokovno posvetovanje o sodobnih vidikih analize 
+poslovanja in organizacije, Portorož, 24., 25. in 26. oktobra 2007 / 
+[organizator] Zveza ekonomistov Slovenije, [Sekcija za poslovne 
+analize]</TitleISBD>
+      <ISBN>978-961-6231-54-1</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Zveza ekonomistov Slovenije</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Zveza ekonomistov Slovenije, 
+2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 159-175</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 159-175</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 172-175</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza informacijskega sistema /izraba 
+zmogljivosti informacijskega sistema /organizacija podjetja /organizacijske 
+spremembe /učinkovitost</Descriptors>
+      <Descriptors lang="eng">analysis of information system /capacity 
+utilization of the information system /organization of the enterprise 
+/organizational change</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6996820">
+      https://plus.si.cobiss.net/opac7/bib/6996820</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="28" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tanja</FirstName>
+ <SurName>Dmitrović</SurName>
+ <Code>11975</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3596387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tjaša</FirstName>
+ <SurName>Logar</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jana</FirstName>
+ <SurName>Miklič</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomo</FirstName>
+ <SurName>Reščič</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anne-Marie</FirstName>
+ <SurName>Yazbeck</SurName>
+ <Code>33790</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>54787939</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Beata</FirstName>
+ <SurName>Zalewska</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Trženjske strategije za obrambo vodilnega tržnega položaja : 
+primer Gorenja na trgu Republike Hrvaške</Title>
+      <TitleISBD>Trženjske strategije za obrambo vodilnega tržnega položaja 
+/ T. Dmitrović...[et al.] : primer Gorenja na trgu Republike 
+Hrvaške</TitleISBD>
+        <Subtitle>primer Gorenja na trgu Republike Hrvaške</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Ahčan</SurName>
+ <Code>23616</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Prašnikar</SurName>
+  <Code>02413</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Slovenska podjetja na trgih nekdanje Jugoslavije</Title>
+        <TitleISBD>Slovenska podjetja na trgih nekdanje Jugoslavije / 
+uredil Janez Prašnikar</TitleISBD>
+      <ISBN>961-90946-3-8</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Časnik Finance</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Časnik Finance, 2001</PublisherISBD>
+        <PubDate>2001</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2001</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 303-320</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 303-320</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">podjetje /trženje /konkurenčna prednost 
+/gospodarstvo</Descriptors>
+      <UDK>33</UDK>
+      <ClassNumber code="udc">33</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="1612242">
+      https://plus.si.cobiss.net/opac7/bib/1612242</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.09 Objavljeni strokovni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="29" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lidija</FirstName>
+ <SurName>Breznik</SurName>
+ <Code>33380</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>158727779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Domen</FirstName>
+ <SurName>Ocepek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>243884899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Predstavitev sodobnega, dinamičnega, ekspertnega 
+informacijskega sistema za razvoj človeških virov</Title>
+      <TitleISBD>Predstavitev sodobnega, dinamičnega, ekspertnega 
+informacijskega sistema za razvoj človeških virov [Elektronski vir] / Tomaž 
+Hovelja ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Niko</FirstName>
+  <SurName>Schlamberger</SurName>
+  <Code>06882</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Dušan</FirstName>
+  <SurName>Kričej</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nina</FirstName>
+  <SurName>Fileš</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Bucik</FirstName>
+  <SurName>Aleksander</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Katjuša</FirstName>
+  <SurName>Skukan</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Dolores</FirstName>
+  <SurName>Turković</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jani</FirstName>
+  <SurName>Golob</SurName>
+  <Lineage>informatik</Lineage>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Informatika v javni upravi 2013 : publikacija s prispevki 
+konference IJU 2013, 9.-10. december 2013, Kongresni center Brdo pri 
+Kranju</Title>
+        <TitleISBD>Informatika v javni upravi 2013 [Elektronski vir] / 
+[organizator] Slovensko društvo Informatika</TitleISBD>
+        <Subtitle>publikacija s prispevki konference IJU 2013, 9.-10. 
+december 2013, Kongresni center Brdo pri Kranju</Subtitle>
+      <ISBN>978-961-6165-41-9</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Slovensko društvo Informatika</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Slovensko društvo Informatika, 
+2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>[4] str.</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>[4] str.</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. [4]</Summaries>
+      </Notes>
+      <Descriptors lang="slv">upravljanje človeških virov</Descriptors>
+      <Descriptors lang="eng">human resource management</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:005.96</ClassNumber>
+      <Typology id="1.09">objavljeni strokovni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10313300">
+      https://plus.si.cobiss.net/opac7/bib/10313300</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="30" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>52374</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>123268195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Žan</FirstName>
+ <SurName>Babič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Fujs</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Hribernik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543651</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sara</FirstName>
+ <SurName>Kandolf</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>200442467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ema</FirstName>
+ <SurName>Kobal</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Markelj</SurName>
+ <Code>34047</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>174778979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Petra</FirstName>
+ <SurName>Žiberna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>267973987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Gruden</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269921123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Informacijskovarnostne kompetence : poskus celovite in 
+enoznačne opredelitve</Title>
+      <TitleISBD>Informacijskovarnostne kompetence [Elektronski vir] : 
+poskus celovite in enoznačne opredelitve / Anže Mihelič ... [et 
+al.]</TitleISBD>
+        <Subtitle>poskus celovite in enoznačne opredelitve</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18. slovenski dnevi varstvoslovja, Maribor, 7. in 
+8. junij 2017</CorpAuthor>
+        <Editor>
+  <FirstName>Tinkara</FirstName>
+  <SurName>Pavšič Mrevlje</SurName>
+  <Code>31718</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Modic</SurName>
+  <Code>33280</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Benjamin</FirstName>
+  <SurName>Flander</SurName>
+  <Code>20512</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Igor</FirstName>
+  <SurName>Areh</SurName>
+  <Code>22499</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik povzetkov</Title>
+        <TitleISBD>Zbornik povzetkov [Elektronski vir] / 18. slovenski 
+dnevi varstvoslovja, Maribor, 7. in 8. junij 2017</TitleISBD>
+        <Publisher>
+        <Address>V Mariboru</Address>
+        <PublisherName>Univerzitetna založba Univerze</PublisherName>
+        </Publisher>
+      <PublisherISBD>V Mariboru : Univerzitetna založba Univerze, 
+2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 53</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 53</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">informacijska varnost 
+/kompetence</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.056</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://www.fvv.um.si/dv2017/assets/DV2017-Povzetki.pdf</URL>
+      </Link>
+      <Link rel="0">
+        <URL>http://press.um.si/index.php/ump/catalog/book/230</URL>
+      </Link>
+      <COBISS co="SI" id="3398122">
+      https://plus.si.cobiss.net/opac7/bib/3398122</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="31" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Sara</FirstName>
+ <SurName>Kandolf</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>200442467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Petra</FirstName>
+ <SurName>Žiberna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>267973987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ema</FirstName>
+ <SurName>Kobal</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Hribernik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543651</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Fujs</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Žan</FirstName>
+ <SurName>Babič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Gruden</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269921123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>52374</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>123268195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Markelj</SurName>
+ <Code>34047</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>174778979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Splošne informacijskovarnostne kompetence zaposlenih</Title>
+      <TitleISBD>Splošne informacijskovarnostne kompetence zaposlenih 
+[Elektronski vir] / Sara Kandolf ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18. slovenski dnevi varstvoslovja, Maribor, 7. in 
+8. junij 2017</CorpAuthor>
+        <Editor>
+  <FirstName>Tinkara</FirstName>
+  <SurName>Pavšič Mrevlje</SurName>
+  <Code>31718</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Modic</SurName>
+  <Code>33280</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Benjamin</FirstName>
+  <SurName>Flander</SurName>
+  <Code>20512</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Igor</FirstName>
+  <SurName>Areh</SurName>
+  <Code>22499</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik povzetkov</Title>
+        <TitleISBD>Zbornik povzetkov [Elektronski vir] / 18. slovenski 
+dnevi varstvoslovja, Maribor, 7. in 8. junij 2017</TitleISBD>
+        <Publisher>
+        <Address>V Mariboru</Address>
+        <PublisherName>Univerzitetna založba Univerze</PublisherName>
+        </Publisher>
+      <PublisherISBD>V Mariboru : Univerzitetna založba Univerze, 
+2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 54</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 54</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">informacijska varnost /kompetence 
+/zaposleni</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.056</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://www.fvv.um.si/dv2017/assets/DV2017-Povzetki.pdf</URL>
+      </Link>
+      <Link rel="0">
+        <URL>http://press.um.si/index.php/ump/catalog/book/230</URL>
+      </Link>
+      <COBISS co="SI" id="3398378">
+      https://plus.si.cobiss.net/opac7/bib/3398378</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="32" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Gruden</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269921123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Žan</FirstName>
+ <SurName>Babič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Fujs</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Hribernik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543651</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sara</FirstName>
+ <SurName>Kandolf</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>200442467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ema</FirstName>
+ <SurName>Kobal</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Markelj</SurName>
+ <Code>34047</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>174778979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>52374</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>123268195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Petra</FirstName>
+ <SurName>Žiberna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>267973987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ekspertne informacijskovarnostne kompetence</Title>
+      <TitleISBD>Ekspertne informacijskovarnostne kompetence [Elektronski 
+vir] / Gašper Gruden ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18. slovenski dnevi varstvoslovja, Maribor, 7. in 
+8. junij 2017</CorpAuthor>
+        <Editor>
+  <FirstName>Tinkara</FirstName>
+  <SurName>Pavšič Mrevlje</SurName>
+  <Code>31718</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Modic</SurName>
+  <Code>33280</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Benjamin</FirstName>
+  <SurName>Flander</SurName>
+  <Code>20512</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Igor</FirstName>
+  <SurName>Areh</SurName>
+  <Code>22499</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik povzetkov</Title>
+        <TitleISBD>Zbornik povzetkov [Elektronski vir] / 18. slovenski 
+dnevi varstvoslovja, Maribor, 7. in 8. junij 2017</TitleISBD>
+        <Publisher>
+        <Address>V Mariboru</Address>
+        <PublisherName>Univerzitetna založba Univerze</PublisherName>
+        </Publisher>
+      <PublisherISBD>V Mariboru : Univerzitetna založba Univerze, 
+2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 55</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 55</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">informacijska varnost /kompetence 
+/organizacije</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.056</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://www.fvv.um.si/dv2017/assets/DV2017-Povzetki.pdf</URL>
+      </Link>
+      <Link rel="0">
+        <URL>http://press.um.si/index.php/ump/catalog/book/230</URL>
+      </Link>
+      <COBISS co="SI" id="3398634">
+      https://plus.si.cobiss.net/opac7/bib/3398634</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="33" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Petra</FirstName>
+ <SurName>Žiberna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>267973987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Žan</FirstName>
+ <SurName>Babič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Fujs</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299539811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Gruden</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269921123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Hribernik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543651</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sara</FirstName>
+ <SurName>Kandolf</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>200442467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ema</FirstName>
+ <SurName>Kobal</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>299543907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Markelj</SurName>
+ <Code>34047</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>174778979</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>52374</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>123268195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-220</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Vizualizacija informacijskovarnostnih kompetenc 
+zaposlenih</Title>
+      <TitleISBD>Vizualizacija informacijskovarnostnih kompetenc zaposlenih 
+[Elektronski vir] / Petra Žiberna ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18. slovenski dnevi varstvoslovja, Maribor, 7. in 
+8. junij 2017</CorpAuthor>
+        <Editor>
+  <FirstName>Tinkara</FirstName>
+  <SurName>Pavšič Mrevlje</SurName>
+  <Code>31718</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Modic</SurName>
+  <Code>33280</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Benjamin</FirstName>
+  <SurName>Flander</SurName>
+  <Code>20512</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Igor</FirstName>
+  <SurName>Areh</SurName>
+  <Code>22499</Code>
+  <CodeOrg>3-220</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik povzetkov</Title>
+        <TitleISBD>Zbornik povzetkov [Elektronski vir] / 18. slovenski 
+dnevi varstvoslovja, Maribor, 7. in 8. junij 2017</TitleISBD>
+        <Publisher>
+        <Address>V Mariboru</Address>
+        <PublisherName>Univerzitetna založba Univerze</PublisherName>
+        </Publisher>
+      <PublisherISBD>V Mariboru : Univerzitetna založba Univerze, 
+2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 56</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 56</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">informacijska varnost /kompetence 
+/zaposleni</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.056</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://www.fvv.um.si/dv2017/assets/DV2017-Povzetki.pdf</URL>
+      </Link>
+      <Link rel="0">
+        <URL>http://press.um.si/index.php/ump/catalog/book/230</URL>
+      </Link>
+      <COBISS co="SI" id="3398890">
+      https://plus.si.cobiss.net/opac7/bib/3398890</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="34" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Simon</FirstName>
+ <SurName>Vrhovec</SurName>
+ <Code>33190</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>180860515</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Obvladovanje psiholoških in socioloških tveganj pri vpeljavi 
+novih tehnologij</Title>
+      <TitleISBD>Obvladovanje psiholoških in socioloških tveganj pri 
+vpeljavi novih tehnologij [Elektronski vir] / Simon Vrhovec, Tomaž Hovelja, 
+Marjan Krisper</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>PIES 2011 : posvetovanje informatikov energetikov Slovenije 
+: [4. posvetovanje o informatiki v energetiki, 17. - 18. 11. 2011, 
+Portorož]</Title>
+        <TitleISBD>PIES 2011 [Elektronski vir]</TitleISBD>
+        <Subtitle>posvetovanje informatikov energetikov Slovenije</Subtitle>
+        <Subtitle>[4. posvetovanje o informatiki v energetiki, 17. - 18. 
+11. 2011, Portorož]</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 104</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 104</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">vpeljava novih tehnologij /vodenje projektov 
+/psihološka tveganja /sociološka tveganja /odpor do sprememb</Descriptors>
+      <Descriptors lang="eng">new technologies implementation /project 
+management /psychological risks /sociological risks /resistance to 
+change</Descriptors>
+      <UDK>005.8</UDK>
+      <ClassNumber code="udc">005.8:159.922.2</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>http://www.pies.si/data/upload/Zbornik_PIES_2011.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="9029204">
+      https://plus.si.cobiss.net/opac7/bib/9029204</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="35" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Primerjava modelov pogledov na organizacijo podjetja pri 
+empirični analizi organizacisjkih sprememb podjetij ob uvajanju IT</Title>
+      <TitleISBD>Primerjava modelov pogledov na organizacijo podjetja pri 
+empirični analizi organizacisjkih sprememb podjetij ob uvajanju IT / Tomaž 
+Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Pregeljc</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Izbrane teme iz ekonomike in organizacije : monografija ob 
+70-letnici prof. dr. Mirana Mihelčiča</Title>
+        <TitleISBD>Izbrane teme iz ekonomike in organizacije / urednika 
+Rudi Rozman, Marko Pregeljc</TitleISBD>
+        <Subtitle>monografija ob 70-letnici prof. dr. Mirana 
+Mihelčiča</Subtitle>
+      <ISBN>978-961-92878-4-2</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Društvo Slovenska akademija za 
+management</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Društvo Slovenska akademija za management, 
+2012</PublisherISBD>
+      <Manufacturer>Ljubljana : COPIS</Manufacturer>
+        <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 82-97</ArtPageNums>
+        <ArtDetails>Tabele</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 82-97</Extent>
+        <Details>Tabele</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 94-96</Summaries>
+        <Summaries>Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">organizacija /organizacijska struktura /model 
+organizacije /strukturni model organizacije /procesni model organizacije 
+/model MUKOZ</Descriptors>
+      <Descriptors lang="eng">organisation /organisational structure 
+/organisational model /structural model /process model /MUKOZ 
+model</Descriptors>
+      <UDK>005.7</UDK>
+      <ClassNumber code="udc">005.7</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <COBISS co="SI" id="9492820">
+      https://plus.si.cobiss.net/opac7/bib/9492820</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="36" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Izkoriščenost naložb v informacijsko komunikacijske 
+tehnologije v podjetjih v Sloveniji</Title>
+      <TitleISBD>Izkoriščenost naložb v informacijsko komunikacijske 
+tehnologije v podjetjih v Sloveniji / Tomaž Hovelja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Metka</FirstName>
+  <SurName>Stare</SurName>
+  <Code>02880</Code>
+  <CodeOrg>3-106</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Bučar</SurName>
+  <Code>03791</Code>
+  <CodeOrg>3-106</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Učinki informacijsko-komunikacijskih tehnologij</Title>
+        <TitleISBD>Učinki informacijsko-komunikacijskih tehnologij / Metka 
+Stare, Maja Bučar [(ur.)]</TitleISBD>
+      <ISBN>961-235-208-9</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za družbene vede</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za družbene vede, 
+2005</PublisherISBD>
+      <Manufacturer>[Šempeter] : Marginalija</Manufacturer>
+        <PubDate>2005</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 115-134</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 115-134</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 132-133</Summaries>
+      </Notes>
+      <Descriptors lang="slv">uporaba informacijske tehnologije 
+/produktivnost informacijske tehnologije /organizacija</Descriptors>
+      <Descriptors lang="eng">use of information technology /productivity 
+of information technology /organisation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <COBISS co="SI" id="6991188">
+      https://plus.si.cobiss.net/opac7/bib/6991188</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.05 Drugo učno gradivo</Title>
+  
+    <BiblioEntry bno="37" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Organizacija in management</Title>
+      <TitleISBD>Organizacija in management / Tomaž Hovelja</TitleISBD>
+      <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.</PublisherName>
+      </Publisher>
+      <PublisherISBD>[S. l. : s. n., 2017]</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>152 prosojnic</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">organizacija /management /planiranje 
+/organiziranje /vodenje /kontrola /učno gradivo</Descriptors>
+      <Descriptors lang="eng">organisation /management /planning 
+/organising /leading /controling /study material</Descriptors>
+      <UDK>005</UDK>
+      <ClassNumber code="udc">005.31</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <Link rel="1">
+        
+<URL>https://ucilnica1617.fri.uni-lj.si/mod/forum/discuss.php?d=5702</URL>
+      </Link>
+      <COBISS co="SI" id="1537719747">
+      https://plus.si.cobiss.net/opac7/bib/1537719747</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="38" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Organizacija in management - vaje</Title>
+      <TitleISBD>Organizacija in management - vaje / Tomaž 
+Hovelja</TitleISBD>
+      <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.</PublisherName>
+      </Publisher>
+      <PublisherISBD>[S. l. : s. n., 2017]</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>31 prosojnic</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">organizacija /management /planiranje 
+/organiziranje /vodenje /kontrola /učno gradivo</Descriptors>
+      <Descriptors lang="eng">organisation /management /planning 
+/organising /leading /controling /study material</Descriptors>
+      <UDK>005</UDK>
+      <ClassNumber code="udc">005.31</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <Link rel="1">
+        
+<URL>https://ucilnica1617.fri.uni-lj.si/mod/forum/discuss.php?d=5721</URL>
+      </Link>
+      <COBISS co="SI" id="1537720003">
+      https://plus.si.cobiss.net/opac7/bib/1537720003</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="39" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nada</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>13681</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Miran</FirstName>
+ <SurName>Mihelčič</SurName>
+ <Code>04527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vpliv organizacije na učinkovito uporabo informacijske 
+tehnologije v podjetju : doktorska disertacija</Title>
+      <TitleISBD>Vpliv organizacije na učinkovito uporabo informacijske 
+tehnologije v podjetju : doktorska disertacija / Tomaž Hovelja</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Hovelja]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Hovelja], 2006</PublisherISBD>
+      <PubDate>2006</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VI, 375 str., 65 str. pril.</Extent>
+        <Details>tabele, graf. prikazi</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 348-375</Summaries>
+        <Dissertation>Univerza v Ljubljani, Ekonomska 
+fakulteta</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">informatika /informacijska tehnologija 
+/informacijski sistemi /efektivnost /modeli /družbeni vidik /ekonomski 
+vidik /kultura /podjetje /produktivnost</Descriptors>
+      <Descriptors lang="eng">informatics /information technology 
+/information systems /efficiency /models /social aspect /economic aspect 
+/culture /enterprises /productivity</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <COBISS co="SI" id="16599014">
+      https://plus.si.cobiss.net/opac7/bib/16599014</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.09 Magistrsko delo</Title>
+  
+    <BiblioEntry bno="40" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Rudi</FirstName>
+ <SurName>Rozman</SurName>
+ <Code>03863</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vpliv informacijske tehnologije na organizacijo in vpliv obeh 
+na uspešnost podjetja : magistrsko delo</Title>
+      <TitleISBD>Vpliv informacijske tehnologije na organizacijo in vpliv 
+obeh na uspešnost podjetja : magistrsko delo / Tomaž Hovelja</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Hovelja]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Hovelja], 2002</PublisherISBD>
+      <PubDate>2002</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>II, 98 str., 34 str. pril.</Extent>
+        <Details>tabele, graf. prikazi</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 94-98</Summaries>
+        <Dissertation>Univ. v Ljubljani, Ekonomska fakulteta</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">nova ekonomija /podjetje /elektronsko 
+poslovanje /informacijska tehnologija /informacijski sistemi /organizacija 
+/vrednost /uspešnost poslovanja /case study /Slovenija</Descriptors>
+      <Descriptors lang="eng">new economy /enterprises /electronic commerce 
+/information technology /information systems /organization /value /business 
+efficiency /case study /Slovenia</Descriptors>
+      <UDK>658</UDK>
+      <ClassNumber code="udc">658</ClassNumber>
+      <Typology id="2.09">magistrsko delo</Typology>
+      <COBISS co="SI" id="13112806">
+      https://plus.si.cobiss.net/opac7/bib/13112806</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="41" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Marko</FirstName>
+ <SurName>Jaklič</SurName>
+ <Code>10414</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Hipoteza racionalnih pričakovanj in vrednotenje internetnih 
+podjetij : diplomsko delo</Title>
+      <TitleISBD>Hipoteza racionalnih pričakovanj in vrednotenje 
+internetnih podjetij : diplomsko delo / Tomaž Hovelja</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Hovelja]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Hovelja], 2000</PublisherISBD>
+      <PubDate>2000</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>I, 47 str., 28 str. pril.</Extent>
+        <Details>tabele</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 46-47</Summaries>
+        <Dissertation>Univ. v Ljubljani, Ekonomska fakulteta</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">računalništvo /informacijski sistemi 
+/informacijska tehnologija /Internet /podjetje /elektronsko poslovanje 
+/vrednotenje /vrednost /delnice /borze /investicije /kapital 
+/analiza</Descriptors>
+      <Descriptors lang="eng">computer science /information systems 
+/information technology /Internet /enterprises /electronic commerce 
+/valuation /value /shares /exchange /investments /capital 
+/analysis</Descriptors>
+      <UDK>658</UDK>
+      <ClassNumber code="udc">658</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="11829478">
+      https://plus.si.cobiss.net/opac7/bib/11829478</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.13 Elaborat, predštudija, študija</Title>
+  
+    <BiblioEntry bno="42" type="monograph">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190051</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Hvala</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>12604003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Koprivnikar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>181433699</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza R&amp;D oddelka Iskratel d.o.o. in načrt 
+transformacije</Title>
+      <TitleISBD>Analiza R&amp;D oddelka Iskratel d.o.o. in načrt 
+transformacije [Elektronski vir] / Damjan Vavpotič ... [et al.]</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>VITRON</PublisherName>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+        <PublisherName>IBM Slovenija</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : VITRON : Fakulteta za računalništvo in 
+informatiko : IBM Slovenija, 2015</PublisherISBD>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 USB ključ</Extent>
+        <Details>ilustr.</Details>
+        <Dim>6 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">raziskave in razvoj /informacijske 
+tehnologije /analiza /poslovni procesi /razvoj programske 
+opreme</Descriptors>
+      <Descriptors lang="eng">research and development /information 
+technologies /analysis /business processes /software 
+development</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <COBISS co="SI" id="1537709251">
+      https://plus.si.cobiss.net/opac7/bib/1537709251</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="43" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190051</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Šaša Bastinos</SurName>
+ <Code>28363</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84311139</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Grom</SurName>
+ <Code>21041</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5026147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Alenka</FirstName>
+ <SurName>Rožanec</SurName>
+ <Code>21522</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11843427</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Strateški plan informatike za Dravske elektrarne Maribor : 
+študija : verzija 2.1</Title>
+      <TitleISBD>Strateški plan informatike za Dravske elektrarne Maribor : 
+študija : verzija 2.1 / [Rok Rupnik ... [et al.]</TitleISBD>
+        <Subtitle>študija</Subtitle>
+        <Subtitle>verzija 2.1</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2013</PublisherISBD>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>125 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">strateški plan informatike 
+/poslovno-informacijska arhitektura /Cobit</Descriptors>
+      <Descriptors lang="eng">strategic IS/IT plan /enterprise architecture 
+/Cobit</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <COBISS co="SI" id="10298196">
+      https://plus.si.cobiss.net/opac7/bib/10298196</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="44" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190051</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Šaša Bastinos</SurName>
+ <Code>28363</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84311139</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5063523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Grom</SurName>
+ <Code>21041</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5026147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Krisper</SurName>
+ <Code>01697</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1797731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Alenka</FirstName>
+ <SurName>Rožanec</SurName>
+ <Code>21522</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11843427</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Strateški plan informatike za Elektro Celje d. d. : SPI.EC.001 
+: verzija 2.0</Title>
+      <TitleISBD>Strateški plan informatike za Elektro Celje d. d. : 
+SPI.EC.001 : verzija 2.0 / [Rok Rupnik ... [et al.]</TitleISBD>
+        <Subtitle>SPI.EC.001</Subtitle>
+        <Subtitle>verzija 2.0</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2012</PublisherISBD>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>158 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">strateški plan informatike 
+/poslovno-informacijska arhitektura /Cobit /ArchiMate</Descriptors>
+      <Descriptors lang="eng">strategic IS/IT plan /enterprise architecture 
+/Cobit /Archi-mate</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <COBISS co="SI" id="10297684">
+      https://plus.si.cobiss.net/opac7/bib/10297684</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.15 Prispevek na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="45" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Nataša</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>14073</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3974755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Urevc</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>221117539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Introducing agile software development : lessons learned from 
+the first Scrum project in a Slovenian company : presentation at 
+International Conference on Advances in Management Engineering and 
+Information Technology (AMEIT), Bangkok, Thailand, June 28-29, 2015</Title>
+      <TitleISBD>Introducing agile software development : lessons learned 
+from the first Scrum project in a Slovenian company : presentation at 
+International Conference on Advances in Management Engineering and 
+Information Technology (AMEIT), Bangkok, Thailand, June 28-29, 2015 / 
+Nataša Žabkar ... [et al.]</TitleISBD>
+        <Subtitle>lessons learned from the first Scrum project in a 
+Slovenian company</Subtitle>
+        <Subtitle>presentation at International Conference on Advances in 
+Management Engineering and Information Technology (AMEIT), Bangkok, 
+Thailand, June 28-29, 2015</Subtitle>
+      <PubDate>2015</PubDate>
+      <Country code="tha"/>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4</ClassNumber>
+      <Typology id="3.15">prispevek na konferenci brez natisa</Typology>
+      <COBISS co="SI" id="1537266371">
+      https://plus.si.cobiss.net/opac7/bib/1537266371</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.16 Vabljeno predavanje na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="46" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Andreja</FirstName>
+ <SurName>Jaklič</SurName>
+ <Code>19075</Code>
+ <CodeOrg>3-106</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4743779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Kako lahko z investicijami v IT povečamo produktivnost?</Title>
+      <TitleISBD>Kako lahko z investicijami v IT povečamo produktivnost? / 
+Andreja Jaklič, Tomaž Hovelja</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Konferenca "Uspešni IT projekti", Inštitut 
+IZIV</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Konferenca "Uspešni IT projekti", Inštitut 
+IZIV, 8. in 9. sept. 2005</PublisherISBD>
+      <PubDate>2005</PubDate>
+      <TopicalName>Naložbe</TopicalName>
+      <TopicalName>Informacijska tehnologija</TopicalName>
+      <UDK>33</UDK>
+      <Typology id="3.16">vabljeno predavanje na konferenci brez 
+natisa</Typology>
+      <COBISS co="SI" id="24266589">
+      https://plus.si.cobiss.net/opac7/bib/24266589</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Urednik</Title>
+  
+    <BiblioEntry bno="47" type="monograph">
+      <AuthorGroup>
+        <Corporate>International Conference on Management and Organisation 
+(1 ; 2010 ; Predoslje)</Corporate>
+        <Editor>
+  <FirstName>Tomaž</FirstName>
+  <SurName>Hovelja</SurName>
+  <Code>31407</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>The organisation as a system of dynamic relationships and its 
+applications : conference papers</Title>
+      <TitleISBD>The organisation as a system of dynamic relationships and 
+its applications [Elektronski vir] : conference papers / 1st International 
+Conference on Management and Organisation, Brdo pri Kranju, 11-12 June 2010 
+; editors Tomaž Hovelja, Rudi Rozman</TitleISBD>
+        <Subtitle>conference papers</Subtitle>
+      <Material>
+        <Electronic>El. zbornik</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>The Slovenian Academy of Management</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : The Slovenian Academy of Management, 
+2010</PublisherISBD>
+      <Manufacturer>[Ljubljana] : Racman</Manufacturer>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 optični disk (CD-ROM)</Extent>
+        <Dim>12 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-92878-1-1</ISBN>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija in abstract pri večini 
+prispevkov</Summaries>
+      </Notes>
+      <Descriptors lang="slv">organizacija /organizacija poslovanja 
+/zborniki /konference</Descriptors>
+      <UDK>005.7</UDK>
+      <ClassNumber code="udc">005.7</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <COBISS co="SI" id="251294976">
+      https://plus.si.cobiss.net/opac7/bib/251294976</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="48" type="monograph">
+      <AuthorGroup>
+        <Corporate>International Conference on Management and Organization 
+(1 ; 2010 ; Predoslje)</Corporate>
+        <Editor>
+  <FirstName>Tomaž</FirstName>
+  <SurName>Hovelja</SurName>
+  <Code>31407</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Rudi</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>03863</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Organization as a system of dynamic relationships and its 
+applications : conference proceedings</Title>
+      <TitleISBD>Organization as a system of dynamic relationships and its 
+applications : conference proceedings / 1st International Conference on 
+Management and Organization, Brdo pri Kranju, 11-12 June 2010 ; editors 
+Tomaž Hovelja, Rudi Rozman</TitleISBD>
+        <Subtitle>conference proceedings</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>The Slovenian Academy of Management</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : The Slovenian Academy of Management, 
+2010</PublisherISBD>
+      <Manufacturer>Ljubljana : Copis</Manufacturer>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>IV, 52 str.</Extent>
+        <Dim>24 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-92878-0-4</ISBN>
+      </Identifier>
+      <TopicalName>Organizacija poslovanja - Mednarodna 
+posvetovanja</TopicalName>
+      <Descriptors lang="">management /zborniki</Descriptors>
+      <UDK>005.7</UDK>
+      <ClassNumber code="udc">005.7(082)</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <COBISS co="SI" id="251294720">
+      https://plus.si.cobiss.net/opac7/bib/251294720</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Mentor pri magistrskih delih</Title>
+  
+    <BiblioEntry bno="49" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marija</FirstName>
+ <SurName>Vavpotič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>283159907</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ocena vpliva tehničnih in drugih značilnosti mobilnih 
+aplikacij na njihovo uspešnost : magistrsko delo</Title>
+      <TitleISBD>Ocena vpliva tehničnih in drugih značilnosti mobilnih 
+aplikacij na njihovo uspešnost : magistrsko delo / Marija 
+Vavpotič</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Vavpotič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Vavpotič], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>154 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 150-154</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">mobilne aplikacije /mobilni operacijski 
+sistem Android /dovoljenja /trgovina Google Play /lestvice najbolj 
+priljubljenih aplikacij /računalništvo /magisteriji</Descriptors>
+      <Descriptors lang="eng">mobile applications /mobile operating system 
+Android /Android apps /application permissions /Google Play Store /top 
+charts /computer science /master's degree</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5(043.2)</ClassNumber>
+      <Typology>Mentor pri magistrskih delih
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3478/</URL>
+      </Link>
+      <COBISS co="SI" id="1537121219">
+      https://plus.si.cobiss.net/opac7/bib/1537121219</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Mentor pri magistrskih delih (bolonjski študij)</Title>
+  
+    <BiblioEntry bno="50" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Eva</FirstName>
+ <SurName>Lužnik Žnidaršič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163361379</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ocenjevanje uspešnosti razvoja programske opreme z 
+upoštevanjem vpliva organizacijskih karakteristik : magistrsko delo : 
+magistrski program druge stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Ocenjevanje uspešnosti razvoja programske opreme z 
+upoštevanjem vpliva organizacijskih karakteristik : magistrsko delo : 
+magistrski program druge stopnje Računalništvo in informatika / Eva Lužnik 
+Žnidaršič</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>magistrski program druge stopnje Računalništvo in 
+informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[E. Lužnik Žnidaršič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [E. Lužnik Žnidaršič], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>81 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Responsibility>Somentor Damjan Vavpotič</Responsibility>
+        <Summaries>Bibliografija: str. 73-81</Summaries>
+        <Summaries>Povzetek ; Abstract: Evaluation of software development 
+success considering the impact of organizational characteristics</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">metodologije razvoja programske opreme 
+/organizacijske karakteristike /merjenje uspešnosti /razvoj programske 
+opreme /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">software development methodologies 
+/organizational characteristics /measuring success /software development 
+/computer science /computer and information science /master's 
+degree</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4(043.2)</ClassNumber>
+      <Typology>Mentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4293/</URL>
+      </Link>
+      <COBISS co="SI" id="1538028227">
+      https://plus.si.cobiss.net/opac7/bib/1538028227</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="51" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viki</FirstName>
+ <SurName>Petrovič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>258032227</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Model ocenjevanja skladnosti informacijskega sistema z 
+interesi ključnih deležnikov v podjetju : magistrsko delo : magistrski 
+program druge stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Model ocenjevanja skladnosti informacijskega sistema z 
+interesi ključnih deležnikov v podjetju : magistrsko delo : magistrski 
+program druge stopnje Računalništvo in informatika / Viki 
+Petrovič</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>magistrski program druge stopnje Računalništvo in 
+informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[V. Petrovič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [V. Petrovič], 2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>118 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Responsibility>Somentor Damjan Vavpotič</Responsibility>
+        <Summaries>Bibliografija: str. 113-118</Summaries>
+        <Summaries>Povzetek ; Abstract: A model for evaluation of alignment 
+between information system and interests of key stakeholders in the 
+enterprise</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">informacijski sistem /model /skladnost 
+/deležniki /uspeh /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">information system /model /alignment 
+/stakeholders /success /computer science /computer and information science 
+/master's degree</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004(043.2)</ClassNumber>
+      <Typology>Mentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3987/</URL>
+      </Link>
+      <COBISS co="SI" id="1537591235">
+      https://plus.si.cobiss.net/opac7/bib/1537591235</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="52" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Alja</FirstName>
+ <SurName>Kunovar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>230039651</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ogrodje za ovrednotenje ustreznosti aktivnosti in orodij pri 
+testiranju mobilnih aplikacij : magistrsko delo : študijski program druge 
+stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Ogrodje za ovrednotenje ustreznosti aktivnosti in orodij 
+pri testiranju mobilnih aplikacij : magistrsko delo : študijski program 
+druge stopnje Računalništvo in informatika / Alja Kunovar</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>študijski program druge stopnje Računalništvo in 
+informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[A. Kunovar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [A. Kunovar], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>95 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Responsibility>Somentor Damjan Vavpotič</Responsibility>
+        <Summaries>Bibliografija: str. 87-95</Summaries>
+        <Summaries>Povzetek ; Abstract: A framework for evaluation of 
+adequate activities and tools for mobile application testing</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">testiranje /mobilne aplikacije /ogrodje za 
+vrednotenje /mobilne tehnologije /izboljšava procesa testiranja /orodja za 
+testiranje /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">testing /mobile applications /framework for 
+evaluation /mobile technologies /testing process improvement /testing tools 
+/computer science /computer and information science /master's 
+degree</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5(043.2)</ClassNumber>
+      <Typology>Mentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3660/</URL>
+      </Link>
+      <COBISS co="SI" id="1537310403">
+      https://plus.si.cobiss.net/opac7/bib/1537310403</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Mentor pri diplomskih delih</Title>
+  
+    <BiblioEntry bno="53" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matic</FirstName>
+ <SurName>Trebušak</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>257090403</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Razvoj mobilne aplikacije za vzpodbujanje dobrih del : 
+diplomsko delo</Title>
+      <TitleISBD>Razvoj mobilne aplikacije za vzpodbujanje dobrih del : 
+diplomsko delo / Matic Trebušak</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Trebušak]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Trebušak], 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>51 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 49-51</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">Android /mobilne aplikacije /dobra dela 
+/vzpostavljanje socialnih omrežij /računalništvo /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">Android /mobile application /good deeds 
+/social networking /computer science /diploma</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:316.472.4(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2822/</URL>
+      </Link>
+      <COBISS co="SI" id="1536043203">
+      https://plus.si.cobiss.net/opac7/bib/1536043203</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="54" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Nejc</FirstName>
+ <SurName>Čibej</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>309176931</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza uspešnosti uporabe ERP v podjetju : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Analiza uspešnosti uporabe ERP v podjetju : diplomsko delo 
+: univerzitetni študijski program prve stopnje Računalništvo in informatika 
+/ Nejc Čibej</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[N. Čibej]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [N. Čibej], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>61 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 55-61</Summaries>
+        <Summaries>Povzetek ; Abstract: Analysis of success of ERP use in 
+an enterprise</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">ERP /informacijski sistem /analiza 
+/ovrednotenje /uspešnost /učinkovitost /podjetje /računalništvo in 
+informatika /univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">ERP /information system /analysis /evaluation 
+/success /business /enterprise /computer and information science 
+/diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4078/</URL>
+      </Link>
+      <COBISS co="SI" id="1537728963">
+      https://plus.si.cobiss.net/opac7/bib/1537728963</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="55" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Luka</FirstName>
+ <SurName>Krhlikar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>318002275</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Model za ocenjevanje sistemov za trženje : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Model za ocenjevanje sistemov za trženje : diplomsko delo 
+: univerzitetni študijski program prve stopnje Računalništvo in informatika 
+/ Luka Krhlikar</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[L. Krhlikar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [L. Krhlikar], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>73 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 69-73</Summaries>
+        <Summaries>Povzetek ; Abstract: A model for evaluation of customer 
+relationship management systems</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">CRM /ocenjevanje /analiza /računalništvo in 
+informatika /univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">CRM /evaluation /analysis /computer and 
+information science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:339.138(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4263/</URL>
+      </Link>
+      <COBISS co="SI" id="1537977027">
+      https://plus.si.cobiss.net/opac7/bib/1537977027</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="56" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Maja</FirstName>
+ <SurName>Kovačič</SurName>
+ <Dates>1979-</Dates>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>296802915</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ocenitev informacijsko tehnološkega proizvoda podjetja Chipolo 
+: diplomsko delo : visokošolski strokovni študijski program prve stopnje 
+Računalništvo in informatika</Title>
+      <TitleISBD>Ocenitev informacijsko tehnološkega proizvoda podjetja 
+Chipolo : diplomsko delo : visokošolski strokovni študijski program prve 
+stopnje Računalništvo in informatika / Maja Kovačič</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>visokošolski strokovni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Kovačič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Kovačič], 2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>50 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 49-50</Summaries>
+        <Summaries>Povzetek ; Abstract: Evaluation of information 
+technology product in the company Chipolo</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">informacijska tehnologija /model ocenjevanja 
+funkcionalnosti /informacijsko tehnološki proizvod /študija primera 
+/računalništvo /računalništvo in informatika /visokošolski strokovni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">information technology /model for evaluation 
+of features /information technology product /case study /computer science 
+/computer and information science /diploma</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3846/</URL>
+      </Link>
+      <COBISS co="SI" id="1537410243">
+      https://plus.si.cobiss.net/opac7/bib/1537410243</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="57" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Klemen</FirstName>
+ <SurName>Rizman</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>305269603</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Primerjava uspešnosti metod poslovne inteligence ter metod 
+tehnične analize za napovedovanje gibanja cen vrednostnih papirjev : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika</Title>
+      <TitleISBD>Primerjava uspešnosti metod poslovne inteligence ter metod 
+tehnične analize za napovedovanje gibanja cen vrednostnih papirjev : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika / Klemen Rizman</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[K. Rizman]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [K. Rizman], 2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>54 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 47-48</Summaries>
+        <Summaries>Povzetek ; Abstract: Successfulness comparison between 
+business inteligence methods and technical analysis methods for stock price 
+forecasting</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">poslovna inteligenca /polinomska regresija 
+/tehnična analiza /računalništvo in informatika /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">business intelligence /polynomial regression 
+/technical analysis /computer and information science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:33(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4007/</URL>
+      </Link>
+      <COBISS co="SI" id="1537644227">
+      https://plus.si.cobiss.net/opac7/bib/1537644227</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="58" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Bajželj</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>277685859</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza procesa razvoja programske opreme za trženje : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika</Title>
+      <TitleISBD>Analiza procesa razvoja programske opreme za trženje : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika / Jurij Bajželj</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Bajželj]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Bajželj], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>48 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 47-48</Summaries>
+        <Summaries>Povzetek ; Abstract: Evaluation of CRM software 
+development methodology</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">analiza procesa razvoja programske opreme 
+/teorija o difuziji informacij /sistem uravnoteženih kazalnikov /študija 
+primera /računalništvo in informatika /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">software development methodology analysis 
+/diffusion of innovations theory /balanced scorecard /case study /computer 
+and information science /diploma</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.41(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3330/</URL>
+      </Link>
+      <COBISS co="SI" id="1536911043">
+      https://plus.si.cobiss.net/opac7/bib/1536911043</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="59" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matej</FirstName>
+ <SurName>Šircelj</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>275944291</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Rok</FirstName>
+ <SurName>Rupnik</SurName>
+ <Code>15294</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Razvoj mobilne aplikacije za pomoč študentom pri organizaciji 
+študija : diplomsko delo : visokošolski strokovni študijski program prve 
+stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Razvoj mobilne aplikacije za pomoč študentom pri 
+organizaciji študija : diplomsko delo : visokošolski strokovni študijski 
+program prve stopnje Računalništvo in informatika / Matej 
+Šircelj</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>visokošolski strokovni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Šircelj]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Šircelj], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>50 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja, somentor Rok 
+Rupnik</Responsibility>
+        <Summaries>Bibliografija: str. [51-55]</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">mobilna aplikacija /pomoč pri študiju 
+/računalništvo /visokošolski strokovni študij /računalništvo in informatika 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">mobile application /help with studying 
+/computer science /computer and information science /diploma</Descriptors>
+      <UDK>004.7</UDK>
+      <ClassNumber code="udc">004.77:378(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3273/</URL>
+      </Link>
+      <COBISS co="SI" id="1536833475">
+      https://plus.si.cobiss.net/opac7/bib/1536833475</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="60" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matevž</FirstName>
+ <SurName>Dolinar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>257883491</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Model vrednotenja procesa razvoja programske opreme in njegova 
+uporaba v podjetju : diplomsko delo</Title>
+      <TitleISBD>Model vrednotenja procesa razvoja programske opreme in 
+njegova uporaba v podjetju : diplomsko delo / Matevž Dolinar</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Dolinar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Dolinar], 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>70 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 47-50</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">model vrednotenja SDM /socialna sprejetost 
+SDM /tehnična primernost SDM /vpliv SDM na uspešnost podjetja 
+/računalništvo /računalništvo in informatika /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">SDM evaluation model /SDM adoption /technical 
+efficiency of SDM /economical impact of SDM /computer science /computer and 
+information science /diploma</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.415.2:(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2765/</URL>
+      </Link>
+      <COBISS co="SI" id="1536082115">
+      https://plus.si.cobiss.net/opac7/bib/1536082115</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="61" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Grabnar</SurName>
+ <Lineage>skrbnik programa Preactor</Lineage>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>216490083</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Razvoj modela in orodja za izbiro ustreznega programa za 
+napredno planiranje in razvrščanje proizvodnje : diplomsko delo</Title>
+      <TitleISBD>Razvoj modela in orodja za izbiro ustreznega programa za 
+napredno planiranje in razvrščanje proizvodnje : diplomsko delo / Grabnar 
+Tomaž</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Grabnar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Grabnar], 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>42 str.</Extent>
+        <Details>graf. prikazi</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. [43-44]</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">razvrščanje /planiranje /APS /proizvodnja 
+/kriteriji /računalništvo /visokošolski strokovni študij /računalništvo in 
+informatika /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">scheduling /planning /APS /production 
+/criteria /computer science /computer and information science 
+/diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:658.5(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2805/</URL>
+      </Link>
+      <COBISS co="SI" id="1536153027">
+      https://plus.si.cobiss.net/opac7/bib/1536153027</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Avtor dodatnega besedila</Title>
+  
+    <BiblioEntry bno="62" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Miran</FirstName>
+ <SurName>Mihelčič</SurName>
+ <Code>04527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2265699</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ekonomika poslovanja za inženirje</Title>
+      <TitleISBD>Ekonomika poslovanja za inženirje / Miran Mihelčič ; v 
+sodelovanju s Tomažem Hoveljo ; [recenzenta: Franc Koletnik in Stane 
+Koželj]</TitleISBD>
+      <Edition>10. popravljena in dopolnjena izd.</Edition>
+      <EditionISBD>10. popravljena in dopolnjena izd.</EditionISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+cop. 2007</PublisherISBD>
+      <Manufacturer>Ljubljana : Kopija Mavrič</Manufacturer>
+      <PubDate>2007</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>IX, 340 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>24 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-6209-61-8</ISBN>
+      </Identifier>
+      <Identifier>
+        <ISBN>961-6209-61-2</ISBN>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 334-340</Summaries>
+      </Notes>
+      <TopicalName>Podjetja - Ekonomika - Učbeniki za visoke 
+šole</TopicalName>
+      <Descriptors lang="slv">ekonomika /poslovanje /poslovni proces 
+/stroški /prihodek /sredstva /viri sredstev /finančno poslovanje /analiza 
+poslovanja /učbeniki za visoke šole</Descriptors>
+      <Descriptors lang="eng">economics /business /costs /revenues /assets 
+and debts</Descriptors>
+      <UDK>658</UDK>
+      <ClassNumber code="udc">658(075.8)</ClassNumber>
+      <Typology>Avtor dodatnega besedila
+      </Typology>
+      <COBISS co="SI" id="235671296">
+      https://plus.si.cobiss.net/opac7/bib/235671296</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Somentor pri magistrskih delih (bolonjski študij)</Title>
+  
+    <BiblioEntry bno="63" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Miloš</FirstName>
+ <SurName>Lukić</SurName>
+ <Dates>1993-</Dates>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>258030179</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Evalvacija procesov razvoja programske opreme s pomočjo 
+dnevniških zapisov razvojnega okolja : magistrsko delo : magistrski program 
+druge stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Evalvacija procesov razvoja programske opreme s pomočjo 
+dnevniških zapisov razvojnega okolja : magistrsko delo : magistrski program 
+druge stopnje Računalništvo in informatika / Miloš Lukić</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>magistrski program druge stopnje Računalništvo in 
+informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Lukić]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Lukić], 2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>105 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Damjan Vavpotič</Responsibility>
+        <Responsibility>Somentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 97-105</Summaries>
+        <Summaries>Povzetek ; Abstract: Evaluation of software development 
+processes using development environment logs</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">evalvacija poslovnih procesov /dnevniški 
+zapisi /razvojno okolje /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">business process evaluation /event logs 
+/development environment /computer science /computer and information 
+science /master's degree</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42:005.585(043.2)</ClassNumber>
+      <Typology>Somentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4040/</URL>
+      </Link>
+      <COBISS co="SI" id="1537698243">
+      https://plus.si.cobiss.net/opac7/bib/1537698243</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="64" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Darko</FirstName>
+ <SurName>Gavrić</SurName>
+ <Dates>1985-</Dates>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>208315235</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Zasnova modela za evalvacijo elementov oblačnih platform : 
+magistrsko delo : študijski program druge stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Zasnova modela za evalvacijo elementov oblačnih platform : 
+magistrsko delo : študijski program druge stopnje Računalništvo in 
+informatika / Darko Gavrič</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>študijski program druge stopnje Računalništvo in 
+informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[D. Gavrič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [D. Gavrič], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>81 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Damjan Vavpotič</Responsibility>
+        <Responsibility>Somentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 75-81</Summaries>
+        <Summaries>Povzetek ; Abstract: Design of the model for evaluation 
+of cloud platform elements</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">evalvacija /metodologija /oblaki /študija 
+primera /model /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">evaluation /methodology /cloud /case-study 
+/model /computer science /computer and information science /master's 
+degree</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Somentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3637/</URL>
+      </Link>
+      <COBISS co="SI" id="1537241795">
+      https://plus.si.cobiss.net/opac7/bib/1537241795</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="65" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Kojić</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>225639779</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ogrodje za izboljšanje procesov razvoja informacijskih 
+sistemov z uporabo hevristik za izboljšave splošnih poslovnih procesov : 
+magistrsko delo</Title>
+      <TitleISBD>Ogrodje za izboljšanje procesov razvoja informacijskih 
+sistemov z uporabo hevristik za izboljšave splošnih poslovnih procesov : 
+magistrsko delo / Aleksandar Kojić</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[A. Kojić]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [A. Kojić], 2015</PublisherISBD>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>147 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Damjan Vavpotič, somentor Tomaž 
+Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 83-86</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">optimizacija /razvoj informacijskih sistemov 
+/splošni poslovni procesi /evalvacijski modeli /študija primera /hevristike 
+/računalništvo /računalništvo in informatika /magisteriji</Descriptors>
+      <Descriptors lang="eng">optimization /development of information 
+systems /business process /evalvation models /case study /heuristics 
+/computer science /computer and information science /master's 
+degree</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.023:005(043.2)</ClassNumber>
+      <Typology>Somentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3162/</URL>
+      </Link>
+      <COBISS co="SI" id="1536576707">
+      https://plus.si.cobiss.net/opac7/bib/1536576707</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="66" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Bojan</FirstName>
+ <SurName>Vončina</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>274448227</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza sprejemljivosti metodologije Scrum : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Analiza sprejemljivosti metodologije Scrum : diplomsko 
+delo : univerzitetni študijski program prve stopnje Računalništvo in 
+informatika / Bojan Vončina</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[B. Vončina]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [B. Vončina], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>79 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Viljan Mahnič, somentor Tomaž 
+Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 65-66</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">metodologija Scrum /sprejetost ključnih 
+aktivnosti /ključni faktorji /računalništvo in informatika /univerzitetni 
+študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">Scrum methodology /acceptance of key 
+activities /key factors /computer and information science 
+/diploma</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.41(043.2)</ClassNumber>
+      <Typology>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/3236/</URL>
+      </Link>
+      <COBISS co="SI" id="1536770499">
+      https://plus.si.cobiss.net/opac7/bib/1536770499</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="67" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Nina</FirstName>
+ <SurName>Habjan</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>254641763</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Damjan</FirstName>
+ <SurName>Vavpotič</SurName>
+ <Code>21393</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Evalvacija tehnoloških, socioloških in ekonomskih vidikov ERP 
+: diplomsko delo</Title>
+      <TitleISBD>Evalvacija tehnoloških, socioloških in ekonomskih vidikov 
+ERP : diplomsko delo / Nina Habjan</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[N. Habjan]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [N. Habjan], 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>39 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Damjan Vavpotič</Responsibility>
+        <Responsibility>Somentor Tomaž Hovelja</Responsibility>
+        <Summaries>Bibliografija: str. 35-39</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">ERP /sprejetost tehnologije /TAM 
+/zadovoljstvo uporabnikov /vpliv na organizacijo /tehnološka ustreznost 
+/računalništvo /računalništvo in informatika /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">ERP /technology acceptance /TAM /user 
+satisfaction /organizational impact /technological adequacy /computer 
+science /computer and information science /diploma</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.89(043.2)</ClassNumber>
+      <Typology>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2660/</URL>
+      </Link>
+      <COBISS co="SI" id="10769492">
+      https://plus.si.cobiss.net/opac7/bib/10769492</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="33187" period="2006-2019" represent="false">
+  <Name>Dr. Vida Groznik</Name>
+  <Header>
+    <Left>Dr. Vida Groznik [33187]</Left>
+    <Right>Osebna bibliografija za obdobje 2006-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Vida Groznik [33187]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2006-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Feasibility of spirography features for objective assessment 
+of motor function in Parkinson's disease</Title>
+      <TitleISBD>Feasibility of spirography features for objective 
+assessment of motor function in Parkinson's disease / Aleksander Sadikov 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence in medicine</Title>
+        <TitleISBD>Artificial intelligence in medicine</TitleISBD>
+        <Keytitle>Artif. intell. med.</Keytitle>
+      <ISSN>0933-3657</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <IssueNum>vol. 88</IssueNum>
+        <Year>2017</Year>
+        <ArtPageNums>str. 54-62</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 54-62</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.artmed.2017.03.011</DOI>
+      </Identifier>
+      <ISSN>0933-3657</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 62</Summaries>
+      </Notes>
+      <Descriptors lang="eng">Parkinson's disease /movement disorder 
+/spirography /spirography features /objective monitoring 
+/visualisation</Descriptors>
+      <UDK>616.8</UDK>
+      <ClassNumber code="udc">616.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="3832748">
+      https://plus.si.cobiss.net/opac7/bib/3832748</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Feasibility of spirography features for objective assessment 
+of motor symptoms in Parkinson's disease</Title>
+      <TitleISBD>Feasibility of spirography features for objective 
+assessment of motor symptoms in Parkinson's disease [Elektronski vir] / 
+Aleksander Sadikov ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>John Hubert</FirstName>
+  <SurName>Holmes</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Riccardo</FirstName>
+  <SurName>Bellazzi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Lucia</FirstName>
+  <SurName>Sacchi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Niels</FirstName>
+  <SurName>Peek</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine [Elektronski vir] / 
+15th Conference on Artificial Intelligence in Medicine, AIME 2015, Pavia, 
+Italy, June 17-20, 2015</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-19551-3</ISBN>
+      <ISBN>978-3-319-19550-6</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science (Internet)</Title>
+        <SeriesVolNums>9105</SeriesVolNums>
+        <ISSN>1611-3349</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Lect. notes comput. sci. (Internet)</Keytitle>
+      <ISSN>1611-3349</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 267-276</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 267-276</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-319-19551-3_35</DOI>
+      </Identifier>
+      <ISSN>1611-3349</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 275-276</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">parkinsonova bolezen /motnje gibanja 
+/spirografija /spirografski atributi /objektivno spremljanje</Descriptors>
+      <Descriptors lang="eng">Parkinson's disease /movement disorder 
+/spirography /spirography features /objective monitoring</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://link.springer.com/chapter/10.1007%2F978-3-319-19551-3_35</URL>
+      </Link>
+      <COBISS co="SI" id="1536391875">
+      https://plus.si.cobiss.net/opac7/bib/1536391875</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Filip</FirstName>
+ <SurName>Bergquist</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268346467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anders</FirstName>
+ <SurName>Johansson</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>60278115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dietrich</FirstName>
+ <SurName>Haubenberger</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268349539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Automatic spiral analysis for objective assessment of motor 
+symptoms in Parkinson's disease</Title>
+      <TitleISBD>Automatic spiral analysis for objective assessment of 
+motor symptoms in Parkinson's disease [Elektronski vir] / Mevludin Memedi 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Sensors</Title>
+        <TitleISBD>Sensors [Elektronski vir]</TitleISBD>
+        <Keytitle>Sensors (Basel)</Keytitle>
+      <ISSN>1424-8220</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <VolumeNum>vol. 15</VolumeNum>
+        <IssueNum>no. 9</IssueNum>
+        <Year>Sep. 2015</Year>
+        <ArtPageNums>str. 23728-23744</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 23728-23744</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3390/s150923727</DOI>
+      </Identifier>
+      <ISSN>1424-8220</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 23742-23744</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">digitalna analiza spiral /parkinsonova 
+bolezen /bradikinezija /diskinezija /oddaljen nadzor</Descriptors>
+      <Descriptors lang="eng">digital spiral analysis /Parkinson's disease 
+/bradykinesia /dyskinesia /remote monitoring</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://www.mdpi.com/1424-8220/15/9/23727</URL>
+      </Link>
+      <COBISS co="SI" id="1536488643">
+      https://plus.si.cobiss.net/opac7/bib/1536488643</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ParkinsonCheck smart phone app</Title>
+      <TitleISBD>ParkinsonCheck smart phone app [Elektronski vir] / 
+Aleksander Sadikov ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Torsten</FirstName>
+  <SurName>Schaub</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Gerhard</FirstName>
+  <SurName>Friedrich</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Barry</FirstName>
+  <SurName>O'Sullivan</SurName>
+  <Lineage>Dr.</Lineage>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>ECAI 2014 : proceedings</Title>
+        <TitleISBD>ECAI 2014 [Elektronski vir] / 21st European Conference 
+on Artificial Intelligence, 18-22 August 2014, Prague, Czech 
+Republic</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-1-61499-418-3</ISBN>
+      <ISBN>978-1-61499-419-0</ISBN>
+      <SeriesInfo>
+        <Title>Frontiers in artificial intelligence and applications 
+(Print)</Title>
+        <SeriesVolNums>vol. 263</SeriesVolNums>
+        <ISSN>0922-6389</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam [etc.]</Address>
+        <PublisherName>IOS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam [etc.] : IOS Press, cop. 2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <TitleISBD>Frontiers in artificial intelligence and 
+applications</TitleISBD>
+        <Keytitle>Front. artif. intell. appl.</Keytitle>
+      <ISSN>0922-6389</ISSN>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 1213-1214</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1213-1214</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0922-6389</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1214</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">parkinsonova bolezen /esencialni tremor 
+/sistem za podporo odločanju /spirografija /pametni telefoni</Descriptors>
+      <Descriptors lang="eng">Parkinson's disease /essential tremor 
+/decision support system /spirography /smartphones</Descriptors>
+      <UDK>621.39</UDK>
+      <ClassNumber code="udc">621.39:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10767444">
+      https://plus.si.cobiss.net/opac7/bib/10767444</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Veronika</FirstName>
+ <SurName>Kragelj</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>203763555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Samo</FirstName>
+ <SurName>Ribarič</SurName>
+ <Code>08010</Code>
+ <CodeOrg>3-115</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2894947</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Elicitation of neurological knowledge with argument-based 
+machine learning</Title>
+      <TitleISBD>Elicitation of neurological knowledge with argument-based 
+machine learning / Vida Groznik ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence in medicine</Title>
+        <TitleISBD>Artificial intelligence in medicine</TitleISBD>
+        <Keytitle>Artif. intell. med.</Keytitle>
+      <ISSN>0933-3657</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 57</VolumeNum>
+        <IssueNum>no. 2, spec. iss.</IssueNum>
+        <Year>2013</Year>
+        <ArtPageNums>str. 133-144</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 133-144</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.artmed.2012.08.003</DOI>
+      </Identifier>
+      <ISSN>0933-3657</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 143-144</Summaries>
+        <IdNumber>BSDOCID165976</IdNumber>
+      </Notes>
+      <Abstract lang="eng">Objective: The paper describes the use of 
+expert's knowledge in practice and the efficiency of a recently developed 
+technique called argument-based machinelearning (ABML) in the knowledge 
+elicitation process. We are developinga neurological decision support 
+system to help the neurologists differentiate between three types of 
+tremors: Parkinsonian, essential, and mixed tremor (comorbidity). The 
+system is intended to act as a second opinion for the neurologists, and 
+most importantly to help them reduce the number of patients in the "gray 
+area" that require a very costly further examination (DaTSCAN). We strive 
+to elicit comprehensible and medically meaningful knowledge in such a way 
+that it does not come at the cost of diagnostic accuracy. Materials and 
+methods: To alleviate the difficult problem of knowledge elicitation from 
+data and domain experts, we used ABML. ABML guidesthe expert to explain 
+critical special cases which cannot be handled automatically by machine 
+learning. This very efficiently reduces the expert'sworkload, and combines 
+expert's knowledge with learning data. 122 patients were enrolled into the 
+study. Results: The classification accuracy ofthe final model was 91%. 
+Equally important, the initial and the final modelswere also evaluated for 
+their comprehensibility by the neurologists. All13 rules of the final model 
+were deemed as appropriate to be able to support its decisions with good 
+explanations. Conclusion: The paper demonstrates ABML's advantage in 
+combining machine learning and expert knowledge. The accuracy of the system 
+is very high with respect to the currentstate-of-the-art in clinical 
+practice, and the system's knowledge base is assessed to be very consistent 
+from a medical point of view. This opens upthe possibility to use the 
+system also as a teaching tool.</Abstract>
+      <TopicalName>Artificial Intelligence</TopicalName>
+      <TopicalName>Decision Making, Computer-Assisted</TopicalName>
+      <TopicalName>Parkinson Disease</TopicalName>
+      <TopicalName>Tremor - Diagnosis - Classification</TopicalName>
+      <TopicalName>Expert Systems</TopicalName>
+      <TopicalName>Corpus Striatum</TopicalName>
+      <TopicalName>Dopamine</TopicalName>
+      <TopicalName>Tomography, Emission-Computed, 
+Single-Photon</TopicalName>
+      <TopicalName>Odločanje računalniško podprto</TopicalName>
+      <TopicalName>Parkinsonova bolezen</TopicalName>
+      <TopicalName>Ekspertni sistemi</TopicalName>
+      <TopicalName>Tremor</TopicalName>
+      <TopicalName>Umetna inteligenca</TopicalName>
+      <TopicalName>Korpus striatum</TopicalName>
+      <TopicalName>Dopamin</TopicalName>
+      <TopicalName>Tomografija emisijska-računalniška, 
+enofotonska</TopicalName>
+      <UDK>615.4</UDK>
+      <UDK>616.8</UDK>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science/article/pii/S093336571200111X</URL>
+
+      </Link>
+      <COBISS co="SI" id="30199257">
+      https://plus.si.cobiss.net/opac7/bib/30199257</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ABML knowledge refinement loop : a case study</Title>
+      <TitleISBD>ABML knowledge refinement loop : a case study / Matej Guid 
+... [et al.]</TitleISBD>
+        <Subtitle>a case study</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Li</FirstName>
+  <SurName>Chen</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Alexander</FirstName>
+  <SurName>Felfernig</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jiming</FirstName>
+  <SurName>Liu</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Zbigniew W.</FirstName>
+  <SurName>Raś</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Foundations of intelligent systems : proceedings</Title>
+        <TitleISBD>Foundations of intelligent systems / 20th International 
+Symposium, ISMIS 2012, Macau, China, December 4-7, 2012</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-642-34623-1</ISBN>
+      <ISBN>978-3-642-34624-8</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>7661</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg [etc.] : Springer, cop. 2012</PublisherISBD>
+        <PubDate>cop. 2012</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 41-50</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 41-50</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 50</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">argumentirano strojno učenje /elicitacija 
+znanja /ekspertni sistemi /sistemi za podporo odločanju</Descriptors>
+      <Descriptors lang="eng">argument-based machine learning /knowledge 
+elicitation /expert systems /decision support systems</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="9596500">
+      https://plus.si.cobiss.net/opac7/bib/9596500</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Goal-oriented conceptualization of procedural knowledge</Title>
+      <TitleISBD>Goal-oriented conceptualization of procedural knowledge / 
+Martin Možina ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Stefano A.</FirstName>
+  <SurName>Cerri</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Intelligent tutoring systems : 11th international 
+conference, ITS 2012, Chania, Crete, Greece, June 14-18, 2012 : 
+proceedings</Title>
+        <TitleISBD>Intelligent tutoring systems / Stefano A. Cerri, eds. 
+... [et al.]</TitleISBD>
+        <Subtitle>11th international conference, ITS 2012, Chania, Crete, 
+Greece, June 14-18, 2012</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>3-642-30949-6</ISBN>
+      <ISBN>978-3-642-30949-6</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>7315</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg [etc.] : Springer, cop. 2012</PublisherISBD>
+        <PubDate>cop. 2012</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 286-291</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 286-291</Extent>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 291</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">konceptualizacija domen /proceduralno znanje 
+/ciljno orientirano učenje pravil /argumentirano strojno učenje 
+/šah</Descriptors>
+      <Descriptors lang="eng">domain conceptualization /procedural 
+knowledge /goal-oriented rule learning /argument-based machine learning 
+/chess</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="9326164">
+      https://plus.si.cobiss.net/opac7/bib/9326164</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Veronika</FirstName>
+ <SurName>Kragelj</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>203763555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Samo</FirstName>
+ <SurName>Ribarič</SurName>
+ <Code>08010</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2894947</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Elicitation of neurological knowledge with ABML</Title>
+      <TitleISBD>Elicitation of neurological knowledge with ABML / Vida 
+Groznik ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>13th Conference on Artificial Intelligence in 
+Medicine, AIME 2011, Bled, Slovenia, July 2-6, 2011</CorpAuthor>
+        <Editor>
+  <FirstName>Mor</FirstName>
+  <SurName>Peleg</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nada</FirstName>
+  <SurName>Lavrač</SurName>
+  <Code>08949</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Carlo</FirstName>
+  <SurName>Combi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine / 13th Conference on 
+Artificial Intelligence in Medicine, AIME 2011, Bled, Slovenia, July 2-6, 
+2011</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-642-22217-7</ISBN>
+      <ISBN>978-3-642-22218-4</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>6747</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg  [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg  [etc.] : Springer, cop. 
+2011</PublisherISBD>
+        <PubDate>cop. 2011</PubDate>
+      <Country code="deu, usa, gbr"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 14-23</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 14-23</Extent>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 23</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">argumentirano strojno učenje /pridobivanje 
+znanja /sistemi za podporo pri odločanju /Parkinsonski tremor /esencialni 
+tremor</Descriptors>
+      <Descriptors lang="eng">argument based machine learning /knowledge 
+acquisition /decision support systems /Parkinsonian tremor /essential 
+tremor</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.89:616.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="8469332">
+      https://plus.si.cobiss.net/opac7/bib/8469332</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.04 Strokovni članek</Title>
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ParkinsonCheck - mobilna aplikacija za odkrivanje 
+parkinsonskega tremorja</Title>
+      <TitleISBD>ParkinsonCheck - mobilna aplikacija za odkrivanje 
+parkinsonskega tremorja [Elektronski vir] / Vida Groznik</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Esinapsa</Title>
+        <TitleISBD>Esinapsa [Elektronski vir]</TitleISBD>
+        <Subtitle>spletna revija za znanstvenike, strokovnjake in 
+nevroznanstvene navdušence</Subtitle>
+      <ISSN>2232-4178</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>št. 7</IssueNum>
+        <Year>mar. 2014</Year>
+        <ArtPageNums>str. 1</ArtPageNums>
+        <ArtDetails>Portret</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1</Extent>
+        <Details>Portret</Details>
+      </PhysicalAttributes>
+      <ISSN>2232-4178</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1</Summaries>
+      </Notes>
+      <Descriptors lang="slv">ParkinsonCheck /parkinsonski tremor 
+/esencialni tremor /spirografija</Descriptors>
+      <Descriptors lang="eng">ParkinsonCheck /Parkinsonian tremor 
+/essential tremor /spirography</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:61</ClassNumber>
+      <Typology id="1.04">strokovni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://www.sinapsa.org/eSinapsa/stevilke/2014-7/96/ParkinsonCheckŽ%20-%20mobilna%20aplikacija%20za%20odkrivanje%20parkinsonskega%20tremorja</URL>
+
+      </Link>
+      <COBISS co="SI" id="10472788">
+      https://plus.si.cobiss.net/opac7/bib/10472788</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Projekt Človeški možgani</Title>
+      <TitleISBD>Projekt Človeški možgani / besedilo Vida Groznik, 
+Aleksander Sadikov</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Gea</Title>
+        <TitleISBD>Gea</TitleISBD>
+        <Subtitle>poljudnoznanstvena revija</Subtitle>
+      <ISSN>0353-782X</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>letn. 23</IssueNum>
+        <Year>okt. 2013</Year>
+        <ArtPageNums>str. 52-57</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 52-57</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0353-782X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 57</Summaries>
+      </Notes>
+      <Descriptors lang="slv">projekt Človeški možgani /simulacija 
+/superračunalniki /nevromorfno računalništvo</Descriptors>
+      <Descriptors lang="eng">human brain project /simulation /super 
+computers /neuromorphic computing</Descriptors>
+      <UDK>004.94</UDK>
+      <ClassNumber code="udc">004.94</ClassNumber>
+      <Typology id="1.04">strokovni članek</Typology>
+      <COBISS co="SI" id="10166356">
+      https://plus.si.cobiss.net/opac7/bib/10166356</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Teodora</FirstName>
+ <SurName>Matić</SurName>
+ <Code>52097</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>330705507</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Somayeh</FirstName>
+ <SurName>Aghanavesi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>330706019</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Filip</FirstName>
+ <SurName>Bergquist</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268346467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Unsupervised learning from motion sensor data to assess the 
+condition of patients with Parkinson's disease</Title>
+      <TitleISBD>Unsupervised learning from motion sensor data to assess 
+the condition of patients with Parkinson's disease [Elektronski vir] / 
+Teodora Matić ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>David</FirstName>
+  <SurName>Riaño</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Szymon</FirstName>
+  <SurName>Wilk</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Annette ten</FirstName>
+  <SurName>Teije</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine [Elektronski vir] / 
+17th Conference on Artificial Intelligence in Medicine, AIME 2019, Poznan, 
+Poland, June 26-29, 2019</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-030-21642-9</ISBN>
+      <ISBN>3-030-21642-X</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science (Internet)</Title>
+        <SeriesVolNums>11526</SeriesVolNums>
+        <ISSN>1611-3349</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, cop. 2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Lect. notes comput. sci. (Internet)</Keytitle>
+      <ISSN>1611-3349</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <ArtPageNums>str. 420-424</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 420-424</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-030-21642-9_52</DOI>
+      </Identifier>
+      <ISSN>1611-3349</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 424</Summaries>
+      </Notes>
+      <Descriptors lang="slv">nenadzorovano učenje /senzorski podatki 
+/Parkinsonova bolezen</Descriptors>
+      <Descriptors lang="eng">unsupervised learning /sensor data 
+/Parkinson's disease</Descriptors>
+      <UDK>616.8</UDK>
+      <ClassNumber code="udc">616.858:004.89</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://link.springer.com/chapter/10.1007%2F978-3-030-21642-9_52</URL>
+      </Link>
+      <COBISS co="SI" id="1541444036">
+      https://plus.si.cobiss.net/opac7/bib/1541444036</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Attribute visualisation for computer-aided diagnosis : a case 
+study</Title>
+      <TitleISBD>Attribute visualisation for computer-aided diagnosis 
+[Elektronski vir] : a case study / Vida Groznik ... [et al.]</TitleISBD>
+        <Subtitle>a case study</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>2014 IEEE International Conference on Healthcare 
+Informatics, 15-17 September 2014, Verona, VR, Italy</CorpAuthor>
+        </AuthorGroup>
+        <Title>ICHI 2014 : proceedings</Title>
+        <TitleISBD>ICHI 2014 [Elektronski vir] / 2014 IEEE International 
+Conference on Healthcare Informatics, 15-17 September 2014, Verona, VR, 
+Italy</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+        <Publisher>
+        <Address>Los Alamitos (California)</Address>
+        <Address>Washington</Address>
+        <Address>Tokyo</Address>
+        <PublisherName>IEEE Computer Society, Conference Publishing 
+Services</PublisherName>
+        </Publisher>
+      <PublisherISBD>Los Alamitos (California) ; Washington ; Tokyo : IEEE 
+Computer Society, Conference Publishing Services, 2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="usa, jpn"/>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="usa, jpn"/>
+      <Numbering>
+        <ArtPageNums>str. 294-299</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 294-299</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 299</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija atributov /časovne vrste 
+/tremor</Descriptors>
+      <Descriptors lang="eng">attribute visualisation /time series 
+/tremor</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10768468">
+      https://plus.si.cobiss.net/opac7/bib/10768468</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Dance steps recognition from sensory data for building 
+intelligent tutoring system</Title>
+      <TitleISBD>Dance steps recognition from sensory data for building 
+intelligent tutoring system [Elektronski vir] / Vida Groznik and Ivan 
+Bratko</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>PICACSA'11 Conference program</Title>
+        <TitleISBD>PICACSA'11 Conference program [Elektronski vir] / [2nd 
+Postgraduate International Conference on Advancements in Computer Science 
+and Applications], Ljubljana, June 3-4 2013</TitleISBD>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Faculty of Computer and Information 
+Science</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Faculty of Computer and Information 
+Science, 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Notes>
+        <Summaries>Bibliografija: str. 7-8</Summaries>
+      </Notes>
+      <Descriptors lang="slv">avtomatsko razpoznavanje korakov /senzorski 
+podatki /časovne vrste</Descriptors>
+      <Descriptors lang="eng">automatic step recognition /sensory data 
+/time series</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:793.3</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://ucilnica1011.fri.uni-lj.si/file.php/82/papers2011/picacsa2011_submission_6.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="9746516">
+      https://plus.si.cobiss.net/opac7/bib/9746516</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jana</FirstName>
+ <SurName>Krivec</SurName>
+ <Code>32317</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>58476131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Conceptualizing procedural knowledge targeted at students of 
+different skill levels</Title>
+      <TitleISBD>Conceptualizing procedural knowledge targeted at students 
+of different skill levels [Elektronski vir] / Martin Možina ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Ryan S. J. D.</FirstName>
+  <SurName>Baker</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Agathe</FirstName>
+  <SurName>Merceron</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Philip I.</FirstName>
+  <SurName>Pavlik</SurName>
+  <Lineage>jr.</Lineage>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Educational data mining 2010</Title>
+        <TitleISBD>Educational data mining 2010 [Elektronski vir] / 3rd 
+International Conference on Educational Data Mining, Pittsburgh, PA, USA, 
+June 11-13, 2010</TitleISBD>
+      <ISBN>978-0-615-37529-8</ISBN>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n., 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 309-310</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 309-310</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 310</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentirano strojno učenje 
+/konceptualizacija znanja /inteligentni sistem za poučevanje 
+/šah</Descriptors>
+      <Descriptors lang="eng">machine learning /argument based machine 
+learning /conceptualizing knowledge /intelligent tutoring systems 
+/chess</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://educationaldatamining.org/EDM2010/uploads/proc/2010%20EDM%20Proc%20single%20final.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="7759956">
+      https://plus.si.cobiss.net/opac7/bib/7759956</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Habazin</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>184043107</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Simulacija železniškega prometa</Title>
+      <TitleISBD>Simulacija železniškega prometa / Vida Groznik, Andrej 
+Habazin</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik petnajste mednarodne Elektrotehniške in računalniške 
+konference ERK 2006, 25. - 27. september 2006, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik petnajste mednarodne Elektrotehniške in 
+računalniške konference ERK 2006, 25. - 27. september 2006, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2006</PublisherISBD>
+        <PubDate>2006</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. A</IssueNum>
+        <Year>2006</Year>
+        <ArtPageNums>str. 309-312</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 309-312</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 312</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">simulacija /objektno-orientiran pristop 
+/železniški promet</Descriptors>
+      <Descriptors lang="eng">simulation /object-oriented approach /railway 
+transport</Descriptors>
+      <UDK>004.94</UDK>
+      <ClassNumber code="udc">004.94</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="7779412">
+      https://plus.si.cobiss.net/opac7/bib/7779412</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Veronika</FirstName>
+ <SurName>Kragelj</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>203763555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Samo</FirstName>
+ <SurName>Ribarič</SurName>
+ <Code>08010</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2894947</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Digitalised spirography and clinical examination based 
+decision support system of differentiating between tremors</Title>
+      <TitleISBD>Digitalised spirography and clinical examination based 
+decision support system of differentiating between tremors / D. Georgiev 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>European journal of neurology</Title>
+        <TitleISBD>European journal of neurology</TitleISBD>
+        <Keytitle>Eur. j. neurol.</Keytitle>
+      <ISSN>1351-5101</ISSN>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 19</VolumeNum>
+        <IssueNum>suppl. 1</IssueNum>
+        <Year>2012</Year>
+        <ArtPageNums>str. 298</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 298</Extent>
+      </PhysicalAttributes>
+      <ISSN>1351-5101</ISSN>
+      <Descriptors lang="slv">nevrologija /bolezni živčevja</Descriptors>
+      <UDK>616.8</UDK>
+      <ClassNumber code="udc">616.8</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="384684">
+      https://plus.si.cobiss.net/opac7/bib/384684</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Veronika</FirstName>
+ <SurName>Kragelj</SurName>
+ <CodeOrg>3-115</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>203763555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Samo</FirstName>
+ <SurName>Ribarič</SurName>
+ <Code>08010</Code>
+ <CodeOrg>3-115</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2894947</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Parkinsonian and essential tremor differentiation usnig 
+digitalized spirography and a computer decision support system</Title>
+      <TitleISBD>Parkinsonian and essential tremor differentiation usnig 
+digitalized spirography and a computer decision support system / Dejan 
+Georgiev ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>1st European Basal Ganglia Club, 2nd Croatian Congress on 
+Movement Disorders, Bol, Brač, Croatia, May 18th - 21st 2011 : [Final 
+Programme &amp; Abstracts] : Program &amp; Sažeci]</Title>
+        <TitleISBD>1st European Basal Ganglia Club, 2nd Croatian Congress 
+on Movement Disorders, Bol, Brač, Croatia, May 18th - 21st 2011</TitleISBD>
+        <Subtitle>[Final Programme &amp; Abstracts]</Subtitle>
+        <Subtitle>Program &amp; Sažeci]</Subtitle>
+        <Publisher>
+        <Address>[Zagreb</Address>
+        <PublisherName>Croatian Association of Patients with Movement 
+Disorders - HUBPP</PublisherName>
+        </Publisher>
+      <PublisherISBD>[Zagreb : Croatian Association of Patients with 
+Movement Disorders - HUBPP, 2011]</PublisherISBD>
+      <Manufacturer>Zagreb : Medicinska naklada</Manufacturer>
+        <PubDate>2011]</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 28</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 28</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <IdNumber>BSDOCID158817</IdNumber>
+      </Notes>
+      <UDK>616.8</UDK>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="28687321">
+      https://plus.si.cobiss.net/opac7/bib/28687321</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Veronika</FirstName>
+ <SurName>Kragelj</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>203763555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Samo</FirstName>
+ <SurName>Ribarič</SurName>
+ <Code>08010</Code>
+ <CodeOrg>3-115</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2894947</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Guid</SurName>
+ <Code>28365</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>79170915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Differentiation of parkinsonian and essential tremor using 
+digitalized spirography and a computer decision support system</Title>
+      <TitleISBD>Differentiation of parkinsonian and essential tremor using 
+digitalized spirography and a computer decision support system / Dejan 
+Georgiev ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>Sinapsa Neuroscience Conference 11, Ljubljana, 
+Slovenia, September 22-25, 2011</CorpAuthor>
+        <Editor>
+  <FirstName>Damjan</FirstName>
+  <SurName>Osredkar</SurName>
+  <Code>21413</Code>
+  <CodeOrg>1-016.05</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Blaž</FirstName>
+  <SurName>Koritnik</SurName>
+  <Code>21239</Code>
+  <CodeOrg>1-016.03</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Miha</FirstName>
+  <SurName>Pelko</SurName>
+  <Code>29068</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Book of abstracts : SNC`11 : Central European FENS featured 
+regional meeting</Title>
+        <TitleISBD>Book of abstracts / SiNAPSA Neuroscience Conference`11, 
+Ljubljana, Slovenia, September 22-25, 2011</TitleISBD>
+        <Subtitle>SNC`11</Subtitle>
+        <Subtitle>Central European FENS featured regional meeting</Subtitle>
+      <ISBN>978-961-91704-4-1</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Sinapsa, Slovenian Neuroscience 
+Association</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Sinapsa, Slovenian Neuroscience 
+Association, 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 131</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 131</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <IdNumber>BSDOCID159461</IdNumber>
+      </Notes>
+      <UDK>616.8</UDK>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="28830681">
+      https://plus.si.cobiss.net/opac7/bib/28830681</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Gamification in cognitive assessment and cognitive training 
+for mild cognitive impairment</Title>
+      <TitleISBD>Gamification in cognitive assessment and cognitive 
+training for mild cognitive impairment [Elektronski vir] / Vida Groznik and 
+Aleksander Sadikov</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Vladimir Aleksandrovich</FirstName>
+  <SurName>Geroimenko</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Augmented reality art. II : the gamification of education, 
+medicine and art</Title>
+        <TitleISBD>Augmented reality art [Elektronski vir]. II / Vladimir 
+Geroimenko editor</TitleISBD>
+        <Subtitle>the gamification of education, medicine and art</Subtitle>
+      <ISBN>978-3-030-15620-6</ISBN>
+      <ISBN>978-3-030-15619-0</ISBN>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer Nature</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer Nature, cop. 2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <ArtPageNums>str. 179-204</ArtPageNums>
+        <ArtDetails>ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 179-204</Extent>
+        <Details>ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-030-15620-6_8</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 198-204</Summaries>
+      </Notes>
+      <Descriptors lang="slv">igrifikacija /blag kognitivni upad /resne 
+igre /kognitivni trening</Descriptors>
+      <Descriptors lang="eng">gamification /mild cognitive impairment 
+/serious games /cognitive training</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        
+<URL>https://link.springer.com/chapter/10.1007%2F978-3-030-15620-6_8</URL>
+      </Link>
+      <COBISS co="SI" id="1541288132">
+      https://plus.si.cobiss.net/opac7/bib/1541288132</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Development, debugging, and assessment of ParkinsonCheck 
+attributes through visualisation</Title>
+      <TitleISBD>Development, debugging, and assessment of ParkinsonCheck 
+attributes through visualisation [Elektronski vir] / Vida Groznik ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Alexia</FirstName>
+  <SurName>Briassouli</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jenny</FirstName>
+  <SurName>Benois-Pineau</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Alexander</FirstName>
+  <SurName>Hauptmann</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Health monitoring and personalized feedback using multimedia 
+data</Title>
+        <TitleISBD>Health monitoring and personalized feedback using 
+multimedia data [Elektronski vir] / Alexia Briassouli, Jenny Benois-Pineau, 
+Alexander Hauptmann, editors</TitleISBD>
+      <ISBN>978-3-319-17963-6</ISBN>
+      <ISBN>978-3-319-17962-9</ISBN>
+        <Publisher>
+        <Address>Cham [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham [etc.] : Springer, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 47-71</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 47-71</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-319-17963-6_4</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 69-71</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">ParkinsonCheck /tremor /parkinsonova bolezen 
+/sistem za podporo odločanju /vizualizacija atributov</Descriptors>
+      <Descriptors lang="eng">ParkinsonCheck /tremor /Parkinson's disease 
+/decision support system /attribute visualisation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        
+<URL>http://link.springer.com/chapter/10.1007/978-3-319-17963-6_4</URL>
+      </Link>
+      <COBISS co="SI" id="1536378819">
+      https://plus.si.cobiss.net/opac7/bib/1536378819</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="21" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Metode umetne inteligence za modeliranje mehanizmov tremorjev 
+: doktorska disertacija</Title>
+      <TitleISBD>Metode umetne inteligence za modeliranje mehanizmov 
+tremorjev : doktorska disertacija / Vida Groznik</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[V. Groznik]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [V. Groznik], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>IX, 139 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>24 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Ivan Bratko</Responsibility>
+        <Summaries>Bibliografija: str. 137-139</Summaries>
+        <Summaries>Povzetek ; Abstract: Artificial intelligence methods for 
+modelling tremor mechanisms</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Tremor - Mehanizem - Modeliranje - 
+Disertacije</TopicalName>
+      <Descriptors lang="slv">umetna inteligenca /vizualizacija atributov 
+/tremor /digitalna spirografija /parkinsonova bolezen /esencialni tremor 
+/računalništvo /doktorske disertacije</Descriptors>
+      <Descriptors lang="eng">artificial intelligence /attribute 
+visualisation /tremor /digital spirography /Parkinson's disease /essential 
+tremor /computer and information science /doctoral 
+dissertations</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8:616.8-009.3(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4134/</URL>
+      </Link>
+      <COBISS co="SI" id="1537809091">
+      https://plus.si.cobiss.net/opac7/bib/1537809091</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="22" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Zajem in obdelava senzorskih podatkov za učenje razpoznavanja 
+plesnih korakov = [Acquisition and processing of sensory data for learning 
+to recognise dance steps] : diplomsko delo</Title>
+      <TitleISBD>Zajem in obdelava senzorskih podatkov za učenje 
+razpoznavanja plesnih korakov = [Acquisition and processing of sensory data 
+for learning to recognise dance steps] : diplomsko delo / Vida 
+Groznik</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[V. Groznik]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [V. Groznik], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>45 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+        <AccompMaterial>1 optični disk (CD-ROM)</AccompMaterial>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Ivan Bratko</Responsibility>
+        <Summaries>Bibliografija: str. 45</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">senzorski podatki /zajem in obdelava podatkov 
+gibanja /MOCAP /avtomatsko razumevanje korakov /računalništvo 
+/univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">sensory data /acquisition and processing of 
+motion data /MOCAP /automatic step separation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1154/</URL>
+      </Link>
+      <COBISS co="SI" id="7967572">
+      https://plus.si.cobiss.net/opac7/bib/7967572</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.19 Radijska ali televizijska oddaja</Title>
+  
+    <BiblioEntry bno="23" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Aplikacija Parkinson Check : e-pomoč pri odkrivanju 
+bolezni</Title>
+      <TitleISBD>Aplikacija Parkinson Check : e-pomoč pri odkrivanju 
+bolezni / Vida Groznik, Aleksander Sadikov ; [vodi novinarka] Maja 
+Ratej</TitleISBD>
+        <Subtitle>e-pomoč pri odkrivanju bolezni</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Radio Slovenija, 2. program - Val 202, oddaja Odbita 
+do bita</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Radio Slovenija, 2. program - Val 202, 
+oddaja Odbita do bita, 12. 3. 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">ParkinsonCheck /parkinsonski tremor 
+/esencialni tremor /spirografija /radijske oddaje</Descriptors>
+      <Descriptors lang="eng">ParkinsonCheck /Parkinsonian tremor 
+/essential tremor /spirography /radio broadcasts</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:61</ClassNumber>
+      <Typology id="2.19">radijska ali televizijska oddaja</Typology>
+      <Link rel="1">
+        <URL>http://www.val202.si/2014/03/aplikacija-parkinson-check/</URL>
+      </Link>
+      <COBISS co="SI" id="10476372">
+      https://plus.si.cobiss.net/opac7/bib/10476372</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.11 Radijski ali TV dogodek</Title>
+  
+    <BiblioEntry bno="24" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Kristina</FirstName>
+ <SurName>Marton</SurName>
+ <Code>36372</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>201103459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anja</FirstName>
+ <SurName>Pirnar</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>196554851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Špetič</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>1397603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ciril</FirstName>
+ <SurName>Bohak</SurName>
+ <Code>30062</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>129794147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Alja</FirstName>
+ <SurName>Isaković</SurName>
+ <Code>40375</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>76379747</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Brezplačno učenje računalniških veščin : oddaja Dnevnik, TV 
+Slovenija 1, 17. 10. 2014</Title>
+      <TitleISBD>Brezplačno učenje računalniških veščin : oddaja Dnevnik, 
+TV Slovenija 1, 17. 10. 2014 / [gostje] Janez Demšar ... [et al.] ; [oddajo 
+vodil] Dejan Ladika ; [novinarka na terenu] Eva Uranjek</TitleISBD>
+        <Subtitle>oddaja Dnevnik, TV Slovenija 1, 17. 10. 2014</Subtitle>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37</ClassNumber>
+      <Typology id="3.11">radijski ali TV dogodek</Typology>
+      <COBISS co="SI" id="1537357763">
+      https://plus.si.cobiss.net/opac7/bib/1537357763</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.25 Druga izvedena dela</Title>
+  
+    <BiblioEntry bno="25" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ParkinsonCheck - mobilna aplikacija za odkrivanje 
+parkinsonskega tremorja : Teden možganov v omrežju, Atrij ZRC, Ljubljana, 
+12. 3. 2014</Title>
+      <TitleISBD>ParkinsonCheck - mobilna aplikacija za odkrivanje 
+parkinsonskega tremorja : Teden možganov v omrežju, Atrij ZRC, Ljubljana, 
+12. 3. 2014 / Vida Groznik</TitleISBD>
+        <Subtitle>Teden možganov v omrežju, Atrij ZRC, Ljubljana, 12. 3. 
+2014</Subtitle>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:61</ClassNumber>
+      <Typology id="3.25">druga izvedena dela</Typology>
+      <COBISS co="SI" id="10473044">
+      https://plus.si.cobiss.net/opac7/bib/10473044</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Urednik</Title>
+  
+    <BiblioEntry bno="26" type="monograph">
+      <AuthorGroup>
+        <Corporate>Fakulteta za računalništvo in informatiko 
+(Ljubljana)</Corporate>
+      <Author responsibility="secondary">
+ <FirstName>Miha</FirstName>
+ <SurName>Bejek</SurName>
+ <Code>28322</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>član uredniškega odbora</Contrib>
+ <Contrib>fotograf</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Marjan</FirstName>
+ <SurName>Bradeško</SurName>
+ <Code>05955</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>fotograf</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jernej</FirstName>
+ <SurName>Virant</SurName>
+ <Code>00141</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nikolaj</FirstName>
+ <SurName>Zimic</SurName>
+ <Code>05957</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>FRI 20 : 1996-2016 : 20 let Fakultete za računalništvo in 
+informatiko Univerze v Ljubljani</Title>
+      <TitleISBD>FRI 20 : 1996-2016 : 20 let Fakultete za računalništvo in 
+informatiko Univerze v Ljubljani / [avtorji besedil Miha Bejek ... [et al.] 
+; fotografije Marjan Bradeško ... [et al.] ; uredniški odbor Miha Bejek ... 
+et al.]</TitleISBD>
+        <Subtitle>1996-2016</Subtitle>
+        <Subtitle>20 let Fakultete za računalništvo in informatiko Univerze 
+v Ljubljani</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2016</PublisherISBD>
+      <Manufacturer>[Izlake] : Grafex</Manufacturer>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>151 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>29 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-6209-92-2</ISBN>
+      </Identifier>
+      <Descriptors lang="">računalništvo /informatika /visoke šole 
+/zgodovinski pregledi</Descriptors>
+      <UDK>378.6</UDK>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">378.6:004(497.4Ljubljana)(091)</ClassNumber>
+      <ClassNumber 
+code="udc">378.6:659.2:004(497.4Ljubljana)(091)</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <COBISS co="SI" id="284639232">
+      https://plus.si.cobiss.net/opac7/bib/284639232</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

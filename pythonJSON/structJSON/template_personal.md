@@ -9,4 +9,5 @@ telephoneInfo: ""
 mailInfo: ""
 officeHours: ""
 location: ""
+fixName: ""
 ---

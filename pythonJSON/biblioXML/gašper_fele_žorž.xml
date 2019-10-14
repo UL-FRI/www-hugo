@@ -1,0 +1,1863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="26513" period="1998-2019" represent="false">
+  <Name>Dr. Gašper Fele Žorž</Name>
+  <Header>
+    <Left>Dr. Gašper Fele Žorž [26513]</Left>
+    <Right>Osebna bibliografija za obdobje 1998-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Gašper Fele Žorž [26513]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 1998-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Ulčar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>69712995</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Application for viral hepatitis infection risk assessment - 
+HEPY</Title>
+      <TitleISBD>Application for viral hepatitis infection risk assessment 
+- HEPY / Alen Ajanović ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Informatica</Title>
+        <TitleISBD>Informatica</TitleISBD>
+        <Subtitle>an international journal of computing and 
+informatics</Subtitle>
+        <Keytitle>Informatica (Ljublj., Tisk. izd.)</Keytitle>
+      <ISSN>0350-5596</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 42</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 279-281</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 279-281</Extent>
+      </PhysicalAttributes>
+      <ISSN>0350-5596</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 281</Summaries>
+      </Notes>
+      <Descriptors lang="eng">AH-model /classification algorithms /JRip 
+/SVM /decision trees</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="31556647">
+      https://plus.si.cobiss.net/opac7/bib/31556647</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Konda</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269164387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Application for sexually transmitted infection risk 
+assessment</Title>
+      <TitleISBD>Application for sexually transmitted infection risk 
+assessment / Alen Ajanović ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Informatica</Title>
+        <TitleISBD>Informatica</TitleISBD>
+        <Subtitle>an international journal of computing and 
+informatics</Subtitle>
+        <Keytitle>Informatica (Ljublj., Tisk. izd.)</Keytitle>
+      <ISSN>0350-5596</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 41</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>2017</Year>
+        <ArtPageNums>str. 253-254</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 253-254</Extent>
+      </PhysicalAttributes>
+      <ISSN>0350-5596</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 254</Summaries>
+      </Notes>
+      <UDK>004.9</UDK>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="30605351">
+      https://plus.si.cobiss.net/opac7/bib/30605351</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Nataša</FirstName>
+ <SurName>Mori</SurName>
+ <Code>38298</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>208108131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dean</FirstName>
+ <SurName>Gostiša</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>251297635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Brodnik</SurName>
+ <Code>04967</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2344803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A high-availability Bebras competition system</Title>
+      <TitleISBD>A high-availability Bebras competition system / Nataša 
+Kristan ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Yasemin</FirstName>
+  <SurName>Gülbahar</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Erinç</FirstName>
+  <SurName>Karataş</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Informatics in schools : teaching and learning perspectives 
+: proceedings</Title>
+        <TitleISBD>Informatics in schools / 7th International Conference on 
+Informatics in Schools - Situation, Evolution, and Perspectives, ISSEP 
+2014, Istanbul, Turkey, September 22-25, 2014</TitleISBD>
+        <Subtitle>teaching and learning perspectives</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-09957-6</ISBN>
+      <ISBN>978-3-319-09958-3</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>8730</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg [etc.] : Springer, cop. 2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 78-87</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 78-87</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 86-87</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Bober /MySQL /visoka razpoložljivost /php 
+/tekmovanje</Descriptors>
+      <Descriptors lang="eng">Bebras /MySQL /high availability /competition 
+/php</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37.091.27</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10795860">
+      https://plus.si.cobiss.net/opac7/bib/10795860</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gorazd</FirstName>
+ <SurName>Kavšek</SurName>
+ <Code>19426</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4808547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Živa</FirstName>
+ <SurName>Novak-Antolič</SurName>
+ <Code>04216</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2211427</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Franc</FirstName>
+ <SurName>Jager</SurName>
+ <Code>03438</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2078307</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A comparison of various linear and non-linear signal 
+processing techniques to separate uterine EMG records of term and pre-term 
+delivery groups</Title>
+      <TitleISBD>A comparison of various linear and non-linear signal 
+processing techniques to separate uterine EMG records of term and pre-term 
+delivery groups / G. Fele-Žorž ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Medical &amp; biological engineering &amp; computing</Title>
+        <TitleISBD>Medical &amp; biological engineering &amp; 
+computing</TitleISBD>
+        <Subtitle>journal of the International Federation for Medical &amp; 
+Biological Engineering</Subtitle>
+        <Keytitle>Med. biol. eng. comput.</Keytitle>
+      <ISSN>0140-0118</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 46</VolumeNum>
+        <IssueNum>no. 9</IssueNum>
+        <Year>Sep. 2008</Year>
+        <ArtPageNums>str. 911-922</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 911-922</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0140-0118</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 921-922</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">EMG /elktromiogram /elektrohistereogram 
+/maternica /napovedovanje prezgodnjega poroda /porod /linearna tehnika 
+/nelinearna tehnika /procesiranje signalov</Descriptors>
+      <Descriptors lang="eng">EMG /electrohysterogram /pre-term delivery 
+prediction /linear signal processing techniques /nonlinear signal 
+processing techniques</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="6778964">
+      https://plus.si.cobiss.net/opac7/bib/6778964</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.05 Poljudni članek</Title>
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Odprtokodni telefon</Title>
+      <TitleISBD>Odprtokodni telefon / Gašper Fele-Polž</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Monitor</Title>
+        <TitleISBD>Monitor</TitleISBD>
+      <ISSN>1318-1017</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 18</VolumeNum>
+        <IssueNum>št. 1</IssueNum>
+        <Year>jan. 2008</Year>
+        <ArtPageNums>str. 20-21</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 20-21</Extent>
+      </PhysicalAttributes>
+      <ISSN>1318-1017</ISSN>
+      <Descriptors lang="slv">Linux /telefon /Openmoko</Descriptors>
+      <Descriptors lang="eng">Linux /telephone /Openmoko</Descriptors>
+      <UDK>621.39</UDK>
+      <ClassNumber code="udc">621.395.6</ClassNumber>
+      <Typology id="1.05">poljudni članek</Typology>
+      <COBISS co="SI" id="6403668">
+      https://plus.si.cobiss.net/opac7/bib/6403668</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gregor</FirstName>
+ <SurName>Jerše</SurName>
+ <Dates>1981-</Dates>
+ <Code>25594</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>63858531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Izdelava urnika na Fakulteti za računalništvo in informatiko = 
+Creating a timetable at the Faculty of Computer and Information 
+Sciences</Title>
+      <TitleISBD>Izdelava urnika na Fakulteti za računalništvo in 
+informatiko [Elektronski vir] = Creating a timetable at the Faculty of 
+Computer and Information Sciences / Gregor Jerše, Gašper 
+Fele-Žorž</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Uroš</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>23262</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Brodnik</SurName>
+  <Code>04967</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Vzgoja in izobraževanje v informacijski družbi - VIVID 2017 
+: zbornik referatov : conference proceedings</Title>
+        <TitleISBD>Vzgoja in izobraževanje v informacijski družbi - VIVID 
+2017 [Elektronski vir] / 20. mednarodna multikonferenca Informacijska 
+družba IS 2017, 13. oktober 2017 = 20th International Multiconference 
+Information Society IS 2017, October 13th, 2017, Kranj, Slovenia</TitleISBD>
+        <Subtitle>zbornik referatov</Subtitle>
+        <Subtitle>conference proceedings</Subtitle>
+      <ISBN>978-961-6209-98-4</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Založba UL FRI</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Založba UL FRI, 2018</PublisherISBD>
+        <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 93-99</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 93-99</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 99</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">urnik /avtomatska izdelava /dobre 
+prakse</Descriptors>
+      <Descriptors lang="eng">timetable /creation process /best 
+practices</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37.091.214</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>http://zalozba.fri.uni-lj.si/VIVID2017.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537860035">
+      https://plus.si.cobiss.net/opac7/bib/1537860035</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matic</FirstName>
+ <SurName>Podpadec</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>304308579</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Ulčar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>69712995</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Prodan</SurName>
+ <Lineage>informatika</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>269166179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Saša</FirstName>
+ <SurName>Rink</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>92692579</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Application for viral hepatitis infection risk 
+assessment</Title>
+      <TitleISBD>Application for viral hepatitis infection risk assessment 
+[Elektronski vir] / Alen Ajanović ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Gams</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>08501</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Aleš</FirstName>
+  <SurName>Tavčar</SurName>
+  <Code>32318</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Delavnica za elektronsko in mobilno zdravje ter pametna 
+mesta : zbornik 20. mednarodne multikonference Informacijska družba - IS 
+2017, 9.-13. oktober 2017, [Ljubljana, Slovenia] : zvezek I : proceedings 
+of the 20th International Multiconference Information Society - IS 2017, 
+9th-13th October, 2017, Ljubljana, Slovenia : volume I</Title>
+        <TitleISBD>Delavnica za elektronsko in mobilno zdravje ter pametna 
+mesta [Elektronski vir] / uredila Matjaž Gams, Aleš Tavčar / edited by 
+Matjaž Gams, Aleš Tavčar</TitleISBD>
+        <Subtitle>zbornik 20. mednarodne multikonference Informacijska 
+družba - IS 2017, 9.-13. oktober 2017, [Ljubljana, Slovenia]</Subtitle>
+        <Subtitle>zvezek I</Subtitle>
+        <Subtitle>proceedings of the 20th International Multiconference 
+Information Society - IS 2017, 9th-13th October, 2017, Ljubljana, 
+Slovenia</Subtitle>
+        <Subtitle>volume I</Subtitle>
+      <ISBN>978-961-264-120-7</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 46-48</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 46-48</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 48</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="eng">AH-model /classification algorithms /JRip 
+/SVM /decision trees</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://is.ijs.si/archive/proceedings/2017/files/Zbornik%20-%20I.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="30885415">
+      https://plus.si.cobiss.net/opac7/bib/30885415</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Konda</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269164387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana</FirstName>
+ <SurName>Prodan</SurName>
+ <Lineage>informatika</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>269166179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Saša</FirstName>
+ <SurName>Rink</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>274427491</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Application for sexually transmitted infection risk 
+assessment</Title>
+      <TitleISBD>Application for sexually transmitted infection risk 
+assessment [Elektronski vir] / Gašper Fele-Žorž ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Rok</FirstName>
+  <SurName>Piltaver</SurName>
+  <Code>29884</Code>
+  <CodeOrg>3-125</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Gams</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>08501</Code>
+  <CodeOrg>1-001.03.09</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Inteligentni sistemi : zbornik 18. mednarodne 
+multikonference Informacijska družba - IS 2015, 7. oktober 2015, 
+[Ljubljana, Slovenia] : zvezek A : proceedings of the 18th International 
+Multiconference Information Society - IS 2015, October 7th, 2015, 
+Ljubljana, Slovenia : volume A</Title>
+        <TitleISBD>Inteligentni sistemi [Elektronski vir] / uredila, edited 
+by Rok Piltaver, Matjaž Gams</TitleISBD>
+        <Subtitle>zbornik 18. mednarodne multikonference Informacijska 
+družba - IS 2015, 7. oktober 2015, [Ljubljana, Slovenia]</Subtitle>
+        <Subtitle>zvezek A</Subtitle>
+        <Subtitle>proceedings of the 18th International Multiconference 
+Information Society - IS 2015, October 7th, 2015, Ljubljana, 
+Slovenia</Subtitle>
+        <Subtitle>volume A</Subtitle>
+      <ISBN>978-961-264-083-5</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2015</PublisherISBD>
+        <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 24-28</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 24-28</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 27</Summaries>
+      </Notes>
+      <UDK>004.8</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://library.ijs.si/Stacks/Proceedings/InformationSociety/2015/IS2015_Volume_A%20-%20Inteligentni%20sistemi.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="28925735">
+      https://plus.si.cobiss.net/opac7/bib/28925735</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A faster algorithm for calculating the sample entropy</Title>
+      <TitleISBD>A faster algorithm for calculating the sample entropy 
+[Elektronski vir] / Gašper Fele-Žorž</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Gams</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>08501</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Rok</FirstName>
+  <SurName>Piltaver</SurName>
+  <Code>29884</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Dunja</FirstName>
+  <SurName>Mladenić</SurName>
+  <Code>12570</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Grobelnik</SurName>
+  <Code>17137</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Bojan</FirstName>
+  <SurName>Blažica</SurName>
+  <Code>33582</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Ciril</FirstName>
+  <SurName>Bohak</SurName>
+  <Code>30062</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Luka</FirstName>
+  <SurName>Čehovin Zajc</SurName>
+  <Code>29381</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marjan</FirstName>
+  <SurName>Heričko</SurName>
+  <Code>11064</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Urban</FirstName>
+  <SurName>Kordeš</SurName>
+  <Code>18389</Code>
+  <CodeOrg>3-117</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Zala</FirstName>
+  <SurName>Kurinčič</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Katarina</FirstName>
+  <SurName>Marjanovič</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Toma</FirstName>
+  <SurName>Strle</SurName>
+  <Code>32198</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Vladislav</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>01074</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tanja</FirstName>
+  <SurName>Urbančič</SurName>
+  <Code>04586</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mojca</FirstName>
+  <SurName>Bernik</SurName>
+  <Code>18655</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Brodnik</SurName>
+  <Code>04967</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik 16. mednarodne multikonference Informacijska družba 
+- IS 2013, 7.-11. oktober 2013, Ljubljana, Slovenia : zvezek A : volume 
+A</Title>
+        <TitleISBD>Zbornik 16. mednarodne multikonference Informacijska 
+družba - IS 2013, 7.-11. oktober 2013, Ljubljana, Slovenia [Elektronski 
+vir] / uredili, edited by Matjaž Gams ... [et al.]</TitleISBD>
+        <Subtitle>zvezek A</Subtitle>
+        <Subtitle>volume A</Subtitle>
+      <ISBN>978-961-264-066-8</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 619-622</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 619-622</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 622</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vzorčna entropija /preskočni 
+seznam</Descriptors>
+      <Descriptors lang="eng">sample entropy /skip-list</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.021</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://library.ijs.si/Stacks/Proceedings/InformationSociety/IS2013_Volume_A.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="10460500">
+      https://plus.si.cobiss.net/opac7/bib/10460500</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Brodnik</SurName>
+ <Code>04967</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2344803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Hiding large amounts of data in virtual disk images</Title>
+      <TitleISBD>Hiding large amounts of data in virtual disk images / 
+Gašper Fele-Žorž, Andrej Brodnik</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>Big data : new challenges for law and ethics : international 
+scientific conference, 22 - 23 May 2017, Faculty of Law, University of 
+Ljubljana, Ljubljana, Slovenia</Title>
+        <TitleISBD>Big data</TitleISBD>
+        <Subtitle>new challenges for law and ethics</Subtitle>
+        <Subtitle>international scientific conference, 22 - 23 May 2017, 
+Faculty of Law, University of Ljubljana, Ljubljana, Slovenia</Subtitle>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institute of Criminology, Faculty of 
+Law</PublisherName>
+        <PublisherName>Slovenian Research Agency</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institute of Criminology, Faculty of Law : 
+Slovenian Research Agency, 2017</PublisherISBD>
+        <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 24-25</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 24-25</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">virtualizacija /steganografija /digitalna 
+forenzika /navidezni diski /skrivanje podatkov</Descriptors>
+      <Descriptors lang="eng">virtualization /steganography /virtual disk 
+/data hiding /digital forensics</Descriptors>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.6:343.98</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="1537431491">
+      https://plus.si.cobiss.net/opac7/bib/1537431491</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="11" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Franc</FirstName>
+ <SurName>Jager</SurName>
+ <Code>03438</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Nelinearna analiza signalov elektromiograma maternice za 
+napovedovanje prezgodnjega poroda : doktorska disertacija</Title>
+      <TitleISBD>Nelinearna analiza signalov elektromiograma maternice za 
+napovedovanje prezgodnjega poroda : doktorska disertacija / Gašper 
+Fele-Žorž</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[G. Fele-Žorž]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [G. Fele-Žorž], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XXXII, 228 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Franc Jager</Responsibility>
+        <Summaries>Bibliografija: str. 223-228</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. Ljubljana, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">elektromiogram /elektromiogram maternice 
+/analiza signalov elektromiograma /obdelava signalov /obdelava posnetkov 
+/porod /prezgodnji porod /napovedovanje prezgodnjega poroda /računalništvo 
+/disertacije</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <COBISS co="SI" id="7711828">
+      https://plus.si.cobiss.net/opac7/bib/7711828</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Franc</FirstName>
+ <SurName>Jager</SurName>
+ <Code>03438</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Nelinearna analiza signalov elektromiograma maternice za 
+napovedovanje prezgodnjega poroda : doktorska disertacija</Title>
+      <TitleISBD>Nelinearna analiza signalov elektromiograma maternice za 
+napovedovanje prezgodnjega poroda [Elektronski vir] : doktorska disertacija 
+/ Gašper Fele-Žorž</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[G. Fele-Žorž]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [G. Fele-Žorž], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 optični disk (CD-ROM)</Extent>
+        <Dim>12 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Franc Jager</Responsibility>
+        <Summaries>Bibliografija</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. Ljubljana, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">elektromiogram /elektromiogram maternice 
+/analiza signalov elektromiograma /obdelava signalov /obdelava posnetkov 
+/porod /prezgodnji porod /napovedovanje prezgodnjega poroda /računalništvo 
+/disertacije</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <COBISS co="SI" id="251346944">
+      https://plus.si.cobiss.net/opac7/bib/251346944</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="13" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Franc</FirstName>
+ <SurName>Jager</SurName>
+ <Code>03438</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Uporaba indeksa vezane množine informacije za ločevanje skupin 
+posnetkov elektromiograma maternice : diplomska naloga</Title>
+      <TitleISBD>Uporaba indeksa vezane množine informacije za ločevanje 
+skupin posnetkov elektromiograma maternice : diplomska naloga / Gašper 
+Fele-Žorž</TitleISBD>
+        <Subtitle>diplomska naloga</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[G. Fele-Žorž]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [G. Fele-Žorž], 2005</PublisherISBD>
+      <PubDate>2005</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XII, 74 str.</Extent>
+        <Details>graf. prikazi</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 73-74</Summaries>
+        <Summaries>Povzetek</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="">elektromiogrami /posnetki elektromiogramov 
+/maternica /ločevanje posnetkov /avtomatska obdelava posnetkov /informacije 
+/računalništvo /univerzitetni študij /diplomske naloge</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="4952404">
+      https://plus.si.cobiss.net/opac7/bib/4952404</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.19 Radijska ali televizijska oddaja</Title>
+  
+    <BiblioEntry bno="14" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Lajovic</SurName>
+ <Code>29398</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>122604387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mark</FirstName>
+ <SurName>Pleško</SurName>
+ <Code>04747</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>2305379</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Manca</FirstName>
+ <SurName>Müller</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>210117987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tone</FirstName>
+ <SurName>Stanovnik</SurName>
+ <Code>05897</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>2514531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Ciglarič</SurName>
+ <Code>13982</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>3958115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ajda</FirstName>
+ <SurName>Pretnar</SurName>
+ <Code>38461</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>208271971</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maja</FirstName>
+ <SurName>Makovec Brenčič</SurName>
+ <Code>15496</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4231779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Edita</FirstName>
+ <SurName>Krajnović</SurName>
+ <Code>13684</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>3906403</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nik</FirstName>
+ <SurName>Škrlec</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>282115683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mihael</FirstName>
+ <SurName>Sekavčnik</SurName>
+ <Code>14342</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4014691</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marta</FirstName>
+ <SurName>Kos Marko</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>531043</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Pompe</SurName>
+ <Lineage>trženje</Lineage>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>17765475</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Točka preloma : [o pomanjkanju programerjev, pa tudi o izumu, 
+ki predstavlja dosežke ljudi s slovenskimi koreninami]</Title>
+      <TitleISBD>Točka preloma [Elektronski vir] : [o pomanjkanju 
+programerjev, pa tudi o izumu, ki predstavlja dosežke ljudi s slovenskimi 
+koreninami] / gostje Andrej Sajovic ... [et al.] ; oddajo pripravila Janja 
+Koren ; novinarka na terenu Andreja Lešnik</TitleISBD>
+        <Subtitle>[o pomanjkanju programerjev, pa tudi o izumu, ki 
+predstavlja dosežke ljudi s slovenskimi koreninami]</Subtitle>
+      <SeriesInfo>
+        <Title>Studio 3</Title>
+      </SeriesInfo>
+      <SeriesInfoISBD>Studio 3
+      </SeriesInfoISBD>
+      <Material>
+        <Electronic>Spletni videoposnetek</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Radiotelevizija Slovenija</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Radiotelevizija Slovenija, 
+2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="">programiranje /programerji /pomanjkanje 
+programerjev /izobraževanje /računalništvo /televizijske 
+oddaje</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37</ClassNumber>
+      <Typology id="2.19">radijska ali televizijska oddaja</Typology>
+      <Link rel="0">
+        <URL>http://4d.rtvslo.si/arhiv/tocka-preloma/174521928</URL>
+      </Link>
+      <COBISS co="SI" id="1537748675">
+      https://plus.si.cobiss.net/opac7/bib/1537748675</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.21 Programska oprema</Title>
+  
+    <BiblioEntry bno="15" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Ulčar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>69712995</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Hepy - sistem za svetovanje diagnostike hepatitisa</Title>
+      <TitleISBD>Hepy - sistem za svetovanje diagnostike hepatitisa 
+[Elektronski vir] / Alen Ajanović ... [et al.]</TitleISBD>
+      <Material>
+        <Electronic>Programska oprema</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="">hepatitis /spletna aplikacija /zavedanje 
+/preventiva in zdravje</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:004.8</ClassNumber>
+      <Typology id="2.21">programska oprema</Typology>
+      <Link rel="0">
+        <Note>El. vir na nasl. hepy.mf-uni-lj.si ni več dostopen (9. 5. 
+2019)</Note>
+      </Link>
+      <COBISS co="SI" id="31543079">
+      https://plus.si.cobiss.net/opac7/bib/31543079</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="16" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Alen</FirstName>
+ <SurName>Ajanović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269165411</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Konda</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269164387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ana Marija</FirstName>
+ <SurName>Peterlin</SurName>
+ <Lineage>dr. med.</Lineage>
+ <Code>53254</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>256440163</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Karolina</FirstName>
+ <SurName>Počivavšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>52257123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Matičič</SurName>
+ <Code>11348</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3477603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anton</FirstName>
+ <SurName>Gradišek</SurName>
+ <Code>29523</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>122535523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Sistem za svetovanje za spolno prenosljive bolezni</Title>
+      <TitleISBD>Sistem za svetovanje za spolno prenosljive bolezni 
+[Elektronski vir] / Alen Ajanović ... [et al.]</TitleISBD>
+      <Material>
+        <Electronic>Programska oprema</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="">spolno prenosljive bolezni /spletna aplikacija 
+/zavedanje /preventiva in zdravje</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:004.8</ClassNumber>
+      <Typology id="2.21">programska oprema</Typology>
+      <Link rel="0">
+        <Note>El. vir na nasl. aspo.mf.uni-lj.si ni več dostopen (9. 5. 
+2019)</Note>
+      </Link>
+      <COBISS co="SI" id="31543335">
+      https://plus.si.cobiss.net/opac7/bib/31543335</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.25 Druge monografije in druga zaključena dela</Title>
+  
+    <BiblioEntry bno="17" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gašper</FirstName>
+ <SurName>Fele-Žorž</SurName>
+ <Code>26513</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>84354147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Jerše</SurName>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Mira</FirstName>
+ <SurName>Longer</SurName>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Pridobivanje TNT-ja</Title>
+      <TitleISBD>Pridobivanje TNT-ja / Gašper Fele Žorž, Gregor Jerše ; 
+Mentorica: Mira Longer</TitleISBD>
+      <Publisher>
+        <Address>Kranj</Address>
+        <PublisherName>[s. n.]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Kranj : [s. n.], 1998</PublisherISBD>
+      <PubDate>1998</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>7 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Dissertation>Gimnazija Kranj</Dissertation>
+        <Dissertation>Mentorica: Mira Longer</Dissertation>
+      </Notes>
+      <Descriptors lang="">razstreliva /kemija /raziskovalna 
+naloga</Descriptors>
+      <UDK>54</UDK>
+      <ClassNumber code="udc">54</ClassNumber>
+      <Typology id="2.25">druge monografije in druga zaključena 
+dela</Typology>
+      <COBISS co="SI" id="1055836">
+      https://plus.si.cobiss.net/opac7/bib/1055836</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Drugo</Title>
+  
+    <BiblioEntry bno="18" type="monograph">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Alenka</FirstName>
+  <SurName>Kavčič</SurName>
+  <Code>16131</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Demšar</SurName>
+  <Code>16324</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Manca</FirstName>
+  <SurName>Zaviršek</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Špela</FirstName>
+  <SurName>Cerar</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>36776</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bober 2017/18 : naloge in rešitve</Title>
+      <TitleISBD>Bober 2017/18 [Elektronski vir] : naloge in rešitve / 
+naloge za tekmovanje je izbral, prevedel, priredil in oblikoval Programski 
+svet tekmovanja Alenka Kavčič ... [et al.]</TitleISBD>
+        <Subtitle>naloge in rešitve</Subtitle>
+      <Material>
+        <Electronic>El. knjiga</Electronic>
+      </Material>
+      <Publisher>
+        <Address>[Ljubljana</Address>
+        <PublisherName>s. n.</PublisherName>
+      </Publisher>
+      <PublisherISBD>[Ljubljana : s. n., 2017?]</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">računalništvo /računalniška tekmovanja 
+/računalniško razmišljanje /razvedrilna matematika /naloge</Descriptors>
+      <Descriptors lang="eng">computer science /computer science 
+competitions /computational thinking /recreational mathematics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37.091.27(079)</ClassNumber>
+      <Typology>Drugo
+      </Typology>
+      <Link rel="0">
+        <URL>http://dajmi.fri.uni-lj.si/bober/Bober-2017-18.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537694147">
+      https://plus.si.cobiss.net/opac7/bib/1537694147</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="monograph">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Špela</FirstName>
+  <SurName>Cerar</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>36776</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Alenka</FirstName>
+  <SurName>Kavčič</SurName>
+  <Code>16131</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andreja</FirstName>
+  <SurName>Filipič</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Demšar</SurName>
+  <Code>16324</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matej</FirstName>
+  <SurName>Črepinšek</SurName>
+  <Code>22707</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nataša</FirstName>
+  <SurName>Kermc</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bober 2016/17 : naloge in rešitve</Title>
+      <TitleISBD>Bober 2016/17 [Elektronski vir] : naloge in rešitve / 
+naloge za tekmovanje je izbral, prevedel, priredil in oblikoval Špela Cerar 
+... [et al.]</TitleISBD>
+        <Subtitle>naloge in rešitve</Subtitle>
+      <Material>
+        <Electronic>El. knjiga</Electronic>
+      </Material>
+      <Publisher>
+        <Address>[Ljubljana</Address>
+        <PublisherName>s. n.</PublisherName>
+      </Publisher>
+      <PublisherISBD>[Ljubljana : s. n., 2016?]</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">računalništvo /računalniška tekmovanja 
+/računalniško razmišljanje /razvedrilna matematika /naloge</Descriptors>
+      <Descriptors lang="eng">computer science /computer science 
+competitions /computational thinking /recreational mathematics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37.091.27(079)</ClassNumber>
+      <Typology>Drugo
+      </Typology>
+      <Link rel="0">
+        <URL>http://dajmi.fri.uni-lj.si/bober/Bober-2016-17.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537334979">
+      https://plus.si.cobiss.net/opac7/bib/1537334979</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="20" type="monograph">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Alenka</FirstName>
+  <SurName>Kavčič</SurName>
+  <Code>16131</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andreja</FirstName>
+  <SurName>Filipič</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Demšar</SurName>
+  <Code>16324</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matej</FirstName>
+  <SurName>Črepinšek</SurName>
+  <Code>22707</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nataša</FirstName>
+  <SurName>Kermc</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Špela</FirstName>
+  <SurName>Cerar</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>36776</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>prevajalec</Contrib>
+  <Contrib>prireditelj</Contrib>
+  <Contrib>grafični oblikovalec</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bober 2015/16 : naloge in rešitve</Title>
+      <TitleISBD>Bober 2015/16 [Elektronski vir] : naloge in rešitve / 
+naloge za tekmovanje je izbral, prevedel, priredil in oblikoval Alenka 
+Kavčič ... [et al.]</TitleISBD>
+        <Subtitle>naloge in rešitve</Subtitle>
+      <Material>
+        <Electronic>El. knjiga</Electronic>
+      </Material>
+      <Publisher>
+        <Address>[Ljubljana</Address>
+        <PublisherName>s. n.</PublisherName>
+      </Publisher>
+      <PublisherISBD>[Ljubljana : s. n., 2015?]</PublisherISBD>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">računalništvo /računalniška tekmovanja 
+/računalniško razmišljanje /razvedrilna matematika /naloge</Descriptors>
+      <Descriptors lang="eng">computer science /computer science 
+competitions /computational thinking /recreational mathematics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37.091.27(079)</ClassNumber>
+      <Typology>Drugo
+      </Typology>
+      <Link rel="0">
+        
+<URL>http://dajmi.fri.uni-lj.si/bober/Bober%202015%20-%20naloge.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1536710083">
+      https://plus.si.cobiss.net/opac7/bib/1536710083</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

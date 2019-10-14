@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="30921" period="2008-2019" represent="false">
+  <Name>Dr. Lan Žagar</Name>
+  <Header>
+    <Left>Dr. Lan Žagar [30921]</Left>
+    <Right>Osebna bibliografija za obdobje 2008-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Lan Žagar [30921]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2008-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Stražar</SurName>
+ <Code>37827</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>230740835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jaka</FirstName>
+ <SurName>Kokošar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>316017763</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vesna</FirstName>
+ <SurName>Tanko</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>169477475</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Erjavec</SurName>
+ <Lineage>računalničar</Lineage>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>43955299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Pavlin Gregor</FirstName>
+ <SurName>Poličar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>282206819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Starič</SurName>
+ <Code>33189</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>106642275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gad</FirstName>
+ <SurName>Shaulsky</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>20750179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vilas</FirstName>
+ <SurName>Menon</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>331532131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrew</FirstName>
+ <SurName>Lemire</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>331532899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anup</FirstName>
+ <SurName>Parikh</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167218531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ScOrange-a tool for hands-on training of concepts from 
+single-cell data analytics</Title>
+      <TitleISBD>ScOrange-a tool for hands-on training of concepts from 
+single-cell data analytics / Martin Stražar ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Bioinformatics</Title>
+        <TitleISBD>Bioinformatics</TitleISBD>
+        <Keytitle>Bioinformatics (Oxf., Print)</Keytitle>
+      <ISSN>1367-4803</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 35</VolumeNum>
+        <IssueNum>no. 14</IssueNum>
+        <Year>Jul. 2019</Year>
+        <ArtPageNums>str. 4-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 4-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1093/bioinformatics/btz348</DOI>
+      </Identifier>
+      <ISSN>1367-4803</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">znanost o podatkih /genomika posameznih celic 
+/poučevanje</Descriptors>
+      <Descriptors lang="eng">data science /single-cell genomics 
+/education</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85:575.112</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>https://academic.oup.com/bioinformatics/article/35/14/i4/5529249?searchresult=1</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538307523">
+      https://plus.si.cobiss.net/opac7/bib/1538307523</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Primož</FirstName>
+ <SurName>Godec</SurName>
+ <Code>50664</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>252665699</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Pančur</SurName>
+ <Code>19365</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4801123</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Ilenič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>269558627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Čopar</SurName>
+ <Code>37515</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>226151523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Stražar</SurName>
+ <Code>37827</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>230740835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Erjavec</SurName>
+ <Lineage>računalničar</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>43955299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ajda</FirstName>
+ <SurName>Pretnar</SurName>
+ <Code>38461</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>208271971</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Starič</SurName>
+ <Code>33189</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>106642275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Toplak</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>30142</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>127798115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jan</FirstName>
+ <SurName>Hartman</SurName>
+ <Lineage>računalničar</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>315957347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Wang</FirstName>
+ <SurName>Hamilton</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>333143395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Riccardo</FirstName>
+ <SurName>Bellazzi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Petrovič</SurName>
+ <Code>20653</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4979555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Silvia</FirstName>
+ <SurName>Garagna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maurizio</FirstName>
+ <SurName>Zuccotti</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567011</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dongsu</FirstName>
+ <SurName>Park</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>333143907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gad</FirstName>
+ <SurName>Shaulsky</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>20750179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Democratized image analytics by visual programming through 
+integration of deep models and small-scale machine learning</Title>
+      <TitleISBD>Democratized image analytics by visual programming through 
+integration of deep models and small-scale machine learning [Elektronski 
+vir] / Primož Godec ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Nature communications</Title>
+        <TitleISBD>Nature communications [Elektronski vir]</TitleISBD>
+      <ISSN>2041-1723</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 10</VolumeNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 4551-1-4551-7</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 4551-1-4551-7</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1038/s41467-019-12397-x</DOI>
+      </Identifier>
+      <ISSN>2041-1723</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 6-7</Summaries>
+      </Notes>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:577</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="32755751">
+      https://plus.si.cobiss.net/opac7/bib/32755751</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Erjavec</SurName>
+ <Lineage>računalničar</Lineage>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>43955299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Črtomir</FirstName>
+ <SurName>Gorup</SurName>
+ <Code>33879</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>148119395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitar</FirstName>
+ <SurName>Milutinović</SurName>
+ <Code>34401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>147832419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matija</FirstName>
+ <SurName>Polajnar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36686179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Toplak</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>30142</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127798115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Starič</SurName>
+ <Code>33189</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>106642275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Umek</SurName>
+ <Code>28519</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84148067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žbontar</SurName>
+ <Code>32929</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150749027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marinka</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>35422</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>193564259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Orange : data mining toolbox in Python</Title>
+      <TitleISBD>Orange : data mining toolbox in Python / Janez Demšar ... 
+[et al.]</TitleISBD>
+        <Subtitle>data mining toolbox in Python</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Journal of machine learning research</Title>
+        <TitleISBD>Journal of machine learning research</TitleISBD>
+        <Keytitle>J. mach. learn. res.</Keytitle>
+      <ISSN>1532-4435</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <IssueNum>vol. 14</IssueNum>
+        <Year>Aug. 2013</Year>
+        <ArtPageNums>str. 2349-2353</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 2349-2353</Extent>
+      </PhysicalAttributes>
+      <ISSN>1532-4435</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 2353</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">odkrivanje znanj iz podatkov /Python /Orange 
+/odprta koda</Descriptors>
+      <Descriptors lang="eng">data mining /Python /Orange /open 
+source</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://jmlr.org/papers/volume14/demsar13a/demsar13a.pdf</URL>
+      </Link>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2267/</URL>
+      </Link>
+      <COBISS co="SI" id="10118740">
+      https://plus.si.cobiss.net/opac7/bib/10118740</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Francesca</FirstName>
+ <SurName>Mulas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167194467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lucia</FirstName>
+ <SurName>Sacchi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404387</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Silvia</FirstName>
+ <SurName>Garagna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maurizio</FirstName>
+ <SurName>Zuccotti</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567011</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Riccardo</FirstName>
+ <SurName>Bellazzi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Knowledge-based bioinformatics for the study of mammalian 
+oocytes</Title>
+      <TitleISBD>Knowledge-based bioinformatics for the study of mammalian 
+oocytes / Francesca Mulas ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The international journal of developmental biology</Title>
+        <TitleISBD>The international journal of developmental 
+biology</TitleISBD>
+        <Keytitle>Int. j. dev. biol.</Keytitle>
+      <ISSN>0214-6282</ISSN>
+        <Edition>[Printed ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="esp"/>
+      <Numbering>
+        <VolumeNum>vol. 56</VolumeNum>
+        <IssueNum>nos. 10/11/12</IssueNum>
+        <Year>2012</Year>
+        <ArtPageNums>str. 859-866</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 859-866</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1387/ijdb.120138fm</DOI>
+      </Identifier>
+      <ISSN>0214-6282</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 865-866</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">oocit /razvoj /pluripotentnost /podatkovna 
+analitika</Descriptors>
+      <Descriptors lang="eng">oocyte /development /pluripotency /data 
+mining</Descriptors>
+      <UDK>577.2</UDK>
+      <ClassNumber code="udc">577.2</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2262/</URL>
+      </Link>
+      <COBISS co="SI" id="9723988">
+      https://plus.si.cobiss.net/opac7/bib/9723988</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Francesca</FirstName>
+ <SurName>Mulas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167194467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Riccardo</FirstName>
+ <SurName>Bellazzi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Supporting regenerative medicine by integrative dimensionality 
+reduction</Title>
+      <TitleISBD>Supporting regenerative medicine by integrative 
+dimensionality reduction / F. Mulas ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Methods of information in medicine</Title>
+        <TitleISBD>Methods of information in medicine</TitleISBD>
+        <Keytitle>Methods inf. med.</Keytitle>
+      <ISSN>0026-1270</ISSN>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <VolumeNum>vol. 51</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>2012</Year>
+        <ArtPageNums>str. 341-347</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 341-347</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0026-1270</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 347</Summaries>
+        <Summaries>Summary</Summaries>
+      </Notes>
+      <Descriptors lang="slv">napoved stopnje razvoja /diferenciacija 
+/zlivanje podatkov /odkrivanje znanj iz podatkov</Descriptors>
+      <Descriptors lang="eng">stage prediction /differentiation /data 
+fusion /data mining</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/methods/contents/current-issue/issue/special/manuscript/17845/show.html</URL>
+
+      </Link>
+      <COBISS co="SI" id="9350484">
+      https://plus.si.cobiss.net/opac7/bib/9350484</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Francesca</FirstName>
+ <SurName>Mulas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167194467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Riccardo</FirstName>
+ <SurName>Bellazzi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ranking and 1-dimensional projection of cell development 
+transcription profiles</Title>
+      <TitleISBD>Ranking and 1-dimensional projection of cell development 
+transcription profiles / Lan Žagar... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>13th Conference on Artificial Intelligence in 
+Medicine, AIME 2011, Bled, Slovenia, July 2-6, 2011</CorpAuthor>
+        <Editor>
+  <FirstName>Mor</FirstName>
+  <SurName>Peleg</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nada</FirstName>
+  <SurName>Lavrač</SurName>
+  <Code>08949</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Carlo</FirstName>
+  <SurName>Combi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine / 13th Conference on 
+Artificial Intelligence in Medicine, AIME 2011, Bled, Slovenia, July 2-6, 
+2011</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-642-22217-7</ISBN>
+      <ISBN>978-3-642-22218-4</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>6747</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Heidelberg  [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Heidelberg  [etc.] : Springer, cop. 
+2011</PublisherISBD>
+        <PubDate>cop. 2011</PubDate>
+      <Country code="deu, usa, gbr"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 85-89</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 85-89</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 89</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">celični razvoj /genski izrazi /projekcije 
+/bioinformatika</Descriptors>
+      <Descriptors lang="eng">cell development /gene expression /projection 
+/bioinformatics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:57</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="8548948">
+      https://plus.si.cobiss.net/opac7/bib/8548948</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Francesca</FirstName>
+ <SurName>Mulas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167194467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Silvia</FirstName>
+ <SurName>Garagna</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Maurizio</FirstName>
+ <SurName>Zuccotti</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>162567011</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Riccardo</FirstName>
+ <SurName>Bellazzi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>27404643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Stage prediction of embryonic stem cell differentiation from 
+genome-wide expression data</Title>
+      <TitleISBD>Stage prediction of embryonic stem cell differentiation 
+from genome-wide expression data / Lan Žagar ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Bioinformatics</Title>
+        <TitleISBD>Bioinformatics</TitleISBD>
+        <Keytitle>Bioinformatics (Oxf., Print)</Keytitle>
+      <ISSN>1367-4803</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 27</VolumeNum>
+        <IssueNum>no. 18</IssueNum>
+        <Year>2011</Year>
+        <ArtPageNums>str. 2546-2553</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 2546-2553</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1367-4803</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 2552-2553</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">napoved stopnje razvoja /difernciacija 
+/genski izrazi /odkrivanje znanj iz podatkov</Descriptors>
+      <Descriptors lang="eng">stage prediction /differentiation /gene 
+expression /data mining</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:57</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://bioinformatics.oxfordjournals.org/content/27/18/2546.full.pdf+html</URL>
+
+      </Link>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1495/</URL>
+      </Link>
+      <COBISS co="SI" id="8578900">
+      https://plus.si.cobiss.net/opac7/bib/8578900</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Anup</FirstName>
+ <SurName>Parikh</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>167218531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Edward Roshan</FirstName>
+ <SurName>Miranda</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>179981155</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mariko</FirstName>
+ <SurName>Katoh-Kurasawa</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>179981667</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danny</FirstName>
+ <SurName>Fuller</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>179981923</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Rot</SurName>
+ <Code>31175</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>142152547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Richard</FirstName>
+ <SurName>Sucgang</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>160613987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rui</FirstName>
+ <SurName>Chen</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>179982179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>William F.</FirstName>
+ <SurName>Loomis</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>179982435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Adam</FirstName>
+ <SurName>Kuspa</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>20748899</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gad</FirstName>
+ <SurName>Shaulsky</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>20750179</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Conserved developmental transcriptomes in evolutionarily 
+divergent species</Title>
+      <TitleISBD>Conserved developmental transcriptomes in evolutionarily 
+divergent species [Elektronski vir] / Anup Parikh ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Genome biology</Title>
+        <TitleISBD>Genome biology [Elektronski vir]</TitleISBD>
+        <Keytitle>Genome biol. (Online)</Keytitle>
+      <ISSN>1474-760X</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2010</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 11</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>2010</Year>
+        <ArtPageNums>str. 3-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 3-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1474-760X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 11-12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">evolucijska ohranjenost razvoja /RNA 
+sekvenciranje /Dictyostelium discoideum /Dictyostelium 
+purpureum</Descriptors>
+      <Descriptors lang="eng">evolutionarily conserved development /RNA 
+sequencing /Dictyostelium discoideum /Dictyostelium purpureum</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9:57</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://genomebiology.com/2010/11/3/R35</URL>
+      </Link>
+      <Link rel="0">
+        <URL>http://eprints.fri.uni-lj.si/1057/</URL>
+      </Link>
+      <COBISS co="SI" id="7648084">
+      https://plus.si.cobiss.net/opac7/bib/7648084</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Ajda</FirstName>
+ <SurName>Pretnar</SurName>
+ <Code>38461</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>208271971</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dan</FirstName>
+ <SurName>Podjed</SurName>
+ <Code>27631</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>35461475</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Power of algorithms for cultural heritage classification : the 
+case of Slovenian hayracks</Title>
+      <TitleISBD>Power of algorithms for cultural heritage classification 
+[Elektronski vir] : the case of Slovenian hayracks / Ajda Pretnar ... [et 
+al.]</TitleISBD>
+        <Subtitle>the case of Slovenian hayracks</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>AIUCD 2018 : patrimoni culturali nell'era digitale : 
+memorie, culture umanistiche e technologie : settimo convegno annuale, 
+Università di Bari Aldo Moro, 31 gennaio-2 febbraio, 2018</Title>
+        <TitleISBD>AIUCD 2018 [Elektronski vir]</TitleISBD>
+        <Subtitle>patrimoni culturali nell'era digitale</Subtitle>
+        <Subtitle>memorie, culture umanistiche e technologie</Subtitle>
+        <Subtitle>settimo convegno annuale, Università di Bari Aldo Moro, 
+31 gennaio-2 febbraio, 2018</Subtitle>
+      <Country code="ita"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="ita"/>
+      <Numbering>
+        <ArtPageNums>str. 212-215</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 212-215</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 215</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kulturna dediščina /kozolci /klasifikacija 
+folklore /folklorne teme in motivi /strojno učenje</Descriptors>
+      <Descriptors lang="eng">cultural property /hayracks /folklore 
+classification /folklore themes and motives /machine learning</Descriptors>
+      <UDK>728</UDK>
+      <ClassNumber code="udc">728.94:004.85</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>http://www.aiucd2018.uniba.it/content/AIUCD2018-BoA.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="42572333">
+      https://plus.si.cobiss.net/opac7/bib/42572333</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Multi-layer networks for visualization of diverse systems 
+biology data and knowledge sets</Title>
+      <TitleISBD>Multi-layer networks for visualization of diverse systems 
+biology data and knowledge sets / Lan Zagar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>3rd FEBS Advanced Lecture Course on Systems Biology, 
+Alpbach, Austria, EU, March 7-13, 2009 : from molecules to function : 
+[course book : program and abstracts]</Title>
+        <TitleISBD>3rd FEBS Advanced Lecture Course on Systems Biology, 
+Alpbach, Austria, EU, March 7-13, 2009</TitleISBD>
+        <Subtitle>from molecules to function</Subtitle>
+        <Subtitle>[course book</Subtitle>
+        <Subtitle>program and abstracts]</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="aut"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <ArtPageNums>str. 133</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 133</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">omrežja /mreže /vizualizacija /optimizacija 
+/analiza podatkov /integracija podatkov</Descriptors>
+      <Descriptors lang="eng">network /visualization /layout optimization 
+/data analysis /data integration</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="7257940">
+      https://plus.si.cobiss.net/opac7/bib/7257940</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Toplak</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>30142</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127798115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Erjavec</SurName>
+ <Lineage>računalničar</Lineage>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>43955299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Rot</SurName>
+ <Code>31175</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>142152547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Minca</FirstName>
+ <SurName>Mramor</SurName>
+ <Code>25792</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>14151779</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Umek</SurName>
+ <Code>28519</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84148067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitar</FirstName>
+ <SurName>Milutinović</SurName>
+ <Code>34401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>147832419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Črtomir</FirstName>
+ <SurName>Gorup</SurName>
+ <Code>33879</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>148119395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Leban</SurName>
+ <Code>23398</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>31604067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Orange bioinformatics : towards integrative knowledge-based 
+biomedical data analysis</Title>
+      <TitleISBD>Orange bioinformatics : towards integrative 
+knowledge-based biomedical data analysis / Marko Toplak ... [et 
+al.]</TitleISBD>
+        <Subtitle>towards integrative knowledge-based biomedical data 
+analysis</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>4th CFGBC Symposium, June 17, 2009, Ljubljana, 
+Slovenia</CorpAuthor>
+        <Editor>
+  <FirstName>Aljoša</FirstName>
+  <SurName>Bavec</SurName>
+  <Code>16130</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>From arrays to understanding diseases</Title>
+        <TitleISBD>From arrays to understanding diseases / 4th CFGBC 
+Symposium, June 17th, 2009, Ljubljana, Slovenia</TitleISBD>
+      <ISBN>978-961-267-012-2</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Faculty of Medicine</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Faculty of Medicine, 2009</PublisherISBD>
+      <Manufacturer>[Ljubljana] : Ulčakar &amp; JK</Manufacturer>
+        <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 46</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 46</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">bioinformatika /združevanje 
+podatkov</Descriptors>
+      <Descriptors lang="eng">bioinformatics /data integration</Descriptors>
+      <UDK>575</UDK>
+      <ClassNumber code="udc">575.112:004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="7224660">
+      https://plus.si.cobiss.net/opac7/bib/7224660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gad</FirstName>
+ <SurName>Shaulsky</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>20750179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Multi-layer networks for visualization of diverse systems 
+biology data and knowledge sets</Title>
+      <TitleISBD>Multi-layer networks for visualization of diverse systems 
+biology data and knowledge sets / Lan Žagar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>4th CFGBC Symposium, June 17, 2009, Ljubljana, 
+Slovenia</CorpAuthor>
+        <Editor>
+  <FirstName>Aljoša</FirstName>
+  <SurName>Bavec</SurName>
+  <Code>16130</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>From arrays to understanding diseases</Title>
+        <TitleISBD>From arrays to understanding diseases / 4th CFGBC 
+Symposium, June 17th, 2009, Ljubljana, Slovenia</TitleISBD>
+      <ISBN>978-961-267-012-2</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Faculty of Medicine</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Faculty of Medicine, 2009</PublisherISBD>
+      <Manufacturer>[Ljubljana] : Ulčakar &amp; JK</Manufacturer>
+        <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 67</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 67</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">omrežja /mreže /vizualizacija /optimizacija 
+/analiza podatkov /integracija podatkov</Descriptors>
+      <Descriptors lang="eng">network /visualization /layout optimization 
+/data analysis /data integration</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="7271252">
+      https://plus.si.cobiss.net/opac7/bib/7271252</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Data representation and mining using multi-layer 
+networks</Title>
+      <TitleISBD>Data representation and mining using multi-layer networks 
+/ Lan Žagar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Lucia</FirstName>
+  <SurName>Sacchi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tomaž</FirstName>
+  <SurName>Curk</SurName>
+  <Code>23399</Code>
+  <CodeOrg>3-128</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Intelligent data analysis in biomedicine and pharmacology : 
+workshop notes : AIME 2009, Verona, Italy, July 19, 2009</Title>
+        <TitleISBD>Intelligent data analysis in biomedicine and 
+pharmacology / Lucia Sacchi, Tomaz Curk</TitleISBD>
+        <Subtitle>workshop notes</Subtitle>
+        <Subtitle>AIME 2009, Verona, Italy, July 19, 2009</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="ita"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="ita"/>
+      <Numbering>
+        <ArtPageNums>str. 29-30</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 29-30</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 30</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">omrežja /mreže /vizualizacija /optimizacija 
+/analiza podatkov /integracija podatkov</Descriptors>
+      <Descriptors lang="eng">network /visualization /layout optimization 
+/data analysis /data integration</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="7258708">
+      https://plus.si.cobiss.net/opac7/bib/7258708</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="14" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>John</FirstName>
+ <SurName>Shawe-Taylor</SurName>
+ <Code>39660</Code>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Ranking by multitask learning : doctoral dissertation</Title>
+      <TitleISBD>Ranking by multitask learning : doctoral dissertation / 
+Lan Žagar</TitleISBD>
+        <Subtitle>doctoral dissertation</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[L. Žagar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [L. Žagar], 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VIII, 137 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>25 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Blaž Zupan</Responsibility>
+        <Responsibility>Somentor John Shawe-Taylor</Responsibility>
+        <Summaries>Bibliografija: str. 127-137</Summaries>
+        <Summaries>Abstract ; Povzetek</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">rangiranje /rangiranje primerov /večdelno 
+rangiranje /binarni razcep /hkratno učenje več nalog /učenje značilk 
+/strojno učenje /odkrivanje znanj iz podatkov /umetna inteligenca 
+/računalništvo /disertacije</Descriptors>
+      <Descriptors lang="eng">ranking /instance ranking /multipartite 
+ranking /binary decomposition /multitask learning /feature learning 
+/machine learning /data mining /artificial intelligence /computer science 
+/doctoral dissertations /theses</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2486/</URL>
+      </Link>
+      <COBISS co="SI" id="10538836">
+      https://plus.si.cobiss.net/opac7/bib/10538836</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="15" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Predstavitev podatkov in odkrivanje znanj s tehniko 
+večnivojskih mrež = [Data representation and mining using multi-layered 
+networks] : diplomsko delo</Title>
+      <TitleISBD>Predstavitev podatkov in odkrivanje znanj s tehniko 
+večnivojskih mrež = [Data representation and mining using multi-layered 
+networks] : diplomsko delo / Lan Žagar</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[L. Žagar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [L. Žagar], 2008</PublisherISBD>
+      <PubDate>2008</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VII, 49 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+        <AccompMaterial>1 optični disk (CD-ROM)</AccompMaterial>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 47-48</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za matematiko in 
+fiziko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">večnivojske mreže /relacijske podatkovne baze 
+/odkrivanje znanj /optimizacija na osnovi sil /genske mreže /računalništvo 
+/univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">multi-layer networks /relational databases 
+/data mining /force-based optimization /gene networks /computer science 
+/diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/247/</URL>
+      </Link>
+      <COBISS co="SI" id="6751060">
+      https://plus.si.cobiss.net/opac7/bib/6751060</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

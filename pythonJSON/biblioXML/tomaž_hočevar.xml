@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="35424" period="2009-2019" represent="false">
+  <Name>Dr. Tomaž Hočevar</Name>
+  <Header>
+    <Left>Dr. Tomaž Hočevar [35424]</Left>
+    <Right>Osebna bibliografija za obdobje 2009-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Tomaž Hočevar [35424]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2009-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Brodnik</SurName>
+ <Code>04967</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2344803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>J. Ian</FirstName>
+ <SurName>Munro</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>64544355</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Sosednost vozlišč v hipergrafih</Title>
+      <TitleISBD>Sosednost vozlišč v hipergrafih / Tomaž Hočevar, Andrej 
+Brodnik, J. Ian Munro</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 85</VolumeNum>
+        <IssueNum>št. 5</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 224-228</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 224-228</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 228</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sosednost /hipergraf /množenje matrik /priča 
+/ekvivalentnost</Descriptors>
+      <Descriptors lang="eng">neighbourhood /hypergraph /matrix 
+multiplication /witness /equivalency</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.179.1</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://ev.fe.uni-lj.si/5-2018/Hocevar.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538106563">
+      https://plus.si.cobiss.net/opac7/bib/1538106563</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Combinatorial algorithm for counting small induced graphs and 
+orbits</Title>
+      <TitleISBD>Combinatorial algorithm for counting small induced graphs 
+and orbits [Elektronski vir] / Tomaž Hočevar, Janez Demšar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>PloS one</Title>
+        <TitleISBD>PloS one [Elektronski vir]</TitleISBD>
+      <ISSN>1932-6203</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 12</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>Feb. 2017</Year>
+        <ArtPageNums>str. 1-17</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-17</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1371/journal.pone.0171428</DOI>
+      </Identifier>
+      <ISSN>1932-6203</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 16-17</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">grafki /algoritmi /analiza 
+omrežij</Descriptors>
+      <Descriptors lang="eng">graphlets /algorithms /network 
+analysis</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171428</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537349315">
+      https://plus.si.cobiss.net/opac7/bib/1537349315</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Computation of graphlet orbits for nodes and edges in sparse 
+graphs</Title>
+      <TitleISBD>Computation of graphlet orbits for nodes and edges in 
+sparse graphs [Elektronski vir] / Tomaž Hočevar, Janez Demšar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Journal of statistical software</Title>
+        <TitleISBD>Journal of statistical software [Elektronski 
+vir]</TitleISBD>
+      <ISSN>1548-7660</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2016</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 71</VolumeNum>
+        <IssueNum>no. 10</IssueNum>
+        <Year>Jul. 2016</Year>
+        <ArtPageNums>str. 1-24</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-24</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.18637/jss.v071.i10</DOI>
+      </Identifier>
+      <ISSN>1548-7660</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 16</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza omrežij /grafki /podatkovno 
+rudarjenje /bioinformatika</Descriptors>
+      <Descriptors lang="eng">network analysis /graphlets /data mining 
+/bioinformatics</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8:575.112</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>https://www.jstatsoft.org/article/view/v071i10</URL>
+      </Link>
+      <COBISS co="SI" id="1537061827">
+      https://plus.si.cobiss.net/opac7/bib/1537061827</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A combinatorial approach to graphlet counting</Title>
+      <TitleISBD>A combinatorial approach to graphlet counting / Tomaž 
+Hočevar and Janez Demšar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Bioinformatics</Title>
+        <TitleISBD>Bioinformatics</TitleISBD>
+        <Keytitle>Bioinformatics (Oxf., Print)</Keytitle>
+      <ISSN>1367-4803</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 30</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>2014</Year>
+        <ArtPageNums>str. 559-565</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 559-565</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1093/bioinformatics/btt717</DOI>
+      </Identifier>
+      <ISSN>1367-4803</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 564-565</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">grafki /bioinformatika /algoritmi na 
+grafih</Descriptors>
+      <Descriptors lang="eng">graphlets /bioinformatics /graph 
+algorithms</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://bioinformatics.oxfordjournals.org/content/30/4/559</URL>
+      </Link>
+      <COBISS co="SI" id="10322516">
+      https://plus.si.cobiss.net/opac7/bib/10322516</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Curk</SurName>
+ <Code>23399</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>20744291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Erjavec</SurName>
+ <Lineage>računalničar</Lineage>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>43955299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Črtomir</FirstName>
+ <SurName>Gorup</SurName>
+ <Code>33879</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>148119395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitar</FirstName>
+ <SurName>Milutinović</SurName>
+ <Code>34401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>147832419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matija</FirstName>
+ <SurName>Polajnar</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>36686179</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Toplak</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>30142</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127798115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Starič</SurName>
+ <Code>33189</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>106642275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Štajdohar</SurName>
+ <Code>29630</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>127791459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Umek</SurName>
+ <Code>28519</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84148067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Lan</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>30921</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150773859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žbontar</SurName>
+ <Code>32929</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150749027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marinka</FirstName>
+ <SurName>Žitnik</SurName>
+ <Code>35422</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>193564259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Zupan</SurName>
+ <Code>12536</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3700835</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Orange : data mining toolbox in Python</Title>
+      <TitleISBD>Orange : data mining toolbox in Python / Janez Demšar ... 
+[et al.]</TitleISBD>
+        <Subtitle>data mining toolbox in Python</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Journal of machine learning research</Title>
+        <TitleISBD>Journal of machine learning research</TitleISBD>
+        <Keytitle>J. mach. learn. res.</Keytitle>
+      <ISSN>1532-4435</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <IssueNum>vol. 14</IssueNum>
+        <Year>Aug. 2013</Year>
+        <ArtPageNums>str. 2349-2353</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 2349-2353</Extent>
+      </PhysicalAttributes>
+      <ISSN>1532-4435</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 2353</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">odkrivanje znanj iz podatkov /Python /Orange 
+/odprta koda</Descriptors>
+      <Descriptors lang="eng">data mining /Python /Orange /open 
+source</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://jmlr.org/papers/volume14/demsar13a/demsar13a.pdf</URL>
+      </Link>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2267/</URL>
+      </Link>
+      <COBISS co="SI" id="10118740">
+      https://plus.si.cobiss.net/opac7/bib/10118740</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.04 Strokovni članek</Title>
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Counting stars : pattern counting in networks</Title>
+      <TitleISBD>Counting stars : pattern counting in networks / by Tomaž 
+Hočevar</TitleISBD>
+        <Subtitle>pattern counting in networks</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Crossroads</Title>
+        <TitleISBD>Crossroads</TitleISBD>
+        <Subtitle>the ACM magazine for students</Subtitle>
+        <Keytitle>Crossroads (Assoc. Comput. Mach., Print)</Keytitle>
+      <ISSN>1528-4972</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 21</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>2015</Year>
+        <ArtPageNums>str. 58-59</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 58-59</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1528-4972</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 59</Summaries>
+      </Notes>
+      <Descriptors lang="slv">graf /omrežje /vzorec /grafek 
+/štetje</Descriptors>
+      <Descriptors lang="eng">graph /network /pattern /graphlet 
+/counting</Descriptors>
+      <UDK>51</UDK>
+      <ClassNumber code="udc">51</ClassNumber>
+      <Typology id="1.04">strokovni članek</Typology>
+      <Link rel="1">
+        <URL>http://xrds.acm.org/article.cfm?aid=2730922</URL>
+      </Link>
+      <COBISS co="SI" id="1536286147">
+      https://plus.si.cobiss.net/opac7/bib/1536286147</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.06 Objavljeni znanstveni prispevek na konferenci (vabljeno predavanje)</Title>
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Graphlet counting</Title>
+      <TitleISBD>Graphlet counting / Tomaž Hočevar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>17th Conference on Applied Mathematics, APLIMAT 
+2018, February 6-8, 2018, Bratislava, Slovak Republic</CorpAuthor>
+        <Editor>
+  <FirstName>Dagmar</FirstName>
+  <SurName>Szarková</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings</Title>
+        <TitleISBD>Proceedings / 17th Conference on Applied Mathematics, 
+APLIMAT 2018, February 6-8, 2018, Bratislava, Slovak Republic</TitleISBD>
+      <ISBN>978-80-227-4765-3</ISBN>
+        <Edition>1st ed.</Edition>
+        <Publisher>
+        <Address>Bratislava</Address>
+        <PublisherName>Institute of Mathematics and Physics, Faculty of 
+Mechanical Engineering, Slovak University of Technology</PublisherName>
+        </Publisher>
+      <PublisherISBD>Bratislava : Institute of Mathematics and Physics, 
+Faculty of Mechanical Engineering, Slovak University of Technology, 
+2018</PublisherISBD>
+        <PubDate>2018</PubDate>
+      <Country code="svk"/>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svk"/>
+      <Numbering>
+        <ArtPageNums>str. 442-449</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 442-449</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 448-449</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">grafki /štetje /omrežje 
+/bioinformatika</Descriptors>
+      <Descriptors lang="eng">graphlets /counting /network 
+/bioinformatics</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17:004</ClassNumber>
+      <Typology id="1.06">objavljeni znanstveni prispevek na konferenci 
+(vabljeno predavanje)</Typology>
+      <Link rel="1">
+        
+<URL>http://evlm.stuba.sk/APLIMAT2018/proceedings/Papers/0442_Hocevar.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537769923">
+      https://plus.si.cobiss.net/opac7/bib/1537769923</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="8" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Counting small patterns in networks</Title>
+      <TitleISBD>Counting small patterns in networks / a dissertation 
+presented by Tomaž Hočevar</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Hočevar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Hočevar], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>IX, 126 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>24 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Janez Demšar</Responsibility>
+        <Summaries>Bibliografija: str. 123-126</Summaries>
+        <Summaries>Povzetek: Štetje majhnih vzorcev v omrežjih ; Abstract ; 
+Razširjeni povzetek</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Omrežja - Vzorci - Štetje - Disertacije</TopicalName>
+      <Descriptors lang="slv">omrežja /algoritem Orca /grafki /štetje 
+/orbite /grafi /podgrafi /vzorci /računalništvo in informatika /doktorske 
+disertacije</Descriptors>
+      <Descriptors lang="eng">graphlets /orbits /network /graph /subgraph 
+/pattern /counting /computer and information science /doctoral 
+dissertations</Descriptors>
+      <UDK>004.7</UDK>
+      <ClassNumber code="udc">004.7:575.112(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4034/</URL>
+      </Link>
+      <COBISS co="SI" id="1537692099">
+      https://plus.si.cobiss.net/opac7/bib/1537692099</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="9" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Dates>1988-</Dates>
+ <Code>35424</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vzporedni algoritmi za iskanje nizov : diplomsko delo</Title>
+      <TitleISBD>Vzporedni algoritmi za iskanje nizov : diplomsko delo / 
+Tomaž Hočevar</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Hočevar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Hočevar], 2012</PublisherISBD>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>48 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Borut Robič</Responsibility>
+        <Summaries>Bibliografija: str. 47-48</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">niz /podniz /iskanje /algoritem /vzporedno 
+/prstni odtis /računalništvo /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">string /substring /search /algorithm 
+/parallel /hash /computer science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.021(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1792/</URL>
+      </Link>
+      <COBISS co="SI" id="9390420">
+      https://plus.si.cobiss.net/opac7/bib/9390420</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.25 Druge monografije in druga zaključena dela</Title>
+  
+    <BiblioEntry bno="10" type="monograph">
+      <AuthorGroup>
+        <CorpAuthor>12. tekmovanje ACM v znanju računalništva, Ljubljana, 
+25. marca 2017</CorpAuthor>
+        <Corporate>Tekmovanje ACM v znanju računalništva (12 ; 2017 ; 
+Ljubljana)</Corporate>
+        <Author responsibility="alternative">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>129204323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Brank</SurName>
+ <Code>22278</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>urednik</Contrib>
+ <CONOR>5139299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <Contrib>avtor</Contrib>
+ <Contrib>urednik</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Bilten</Title>
+      <TitleISBD>Bilten / 12. tekmovanje ACM v znanju računalništva, 
+Ljubljana, 25. marca 2017 ; [avtorji nalog Nino Bašić ... [et al.] ; 
+uredila Janez Brank in Tomaž Hočevar]</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2018</PublisherISBD>
+      <Manufacturer>[Ljubljana] : Collegium Graphicum</Manufacturer>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>239 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>21 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-264-122-1</ISBN>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 208-209</Summaries>
+      </Notes>
+      <TopicalName>Računalništvo - Šolska tekmovanja - Slovenija - 
+Zborniki</TopicalName>
+      <Descriptors lang="">računalniško programiranje /srednješolska 
+tekmovanja /državna tekmovanja /naloge /rešene naloge /ankete</Descriptors>
+      <UDK>004</UDK>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">37.091.27:004(497.4)</ClassNumber>
+      <ClassNumber code="udc">004.42(497.4)(079.1)(082)</ClassNumber>
+      <Typology id="2.25">druge monografije in druga zaključena 
+dela</Typology>
+      <Link rel="1">
+        <URL>http://rtk.ijs.si/2017/rtk2017-bilten-tisk.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="293361408">
+      https://plus.si.cobiss.net/opac7/bib/293361408</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="monograph">
+      <AuthorGroup>
+        <Corporate>Tekmovanje ACM v znanju računalništva (8 ; 2013 ; 
+Ljubljana)</Corporate>
+        <Author responsibility="alternative">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>129204323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Primož</FirstName>
+ <SurName>Gabrijelčič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>13114211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Gašperin</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>104710243</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matija</FirstName>
+ <SurName>Grabnar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>59829603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Horvat</SurName>
+ <Code>24421</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>28627299</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nace</FirstName>
+ <SurName>Hudobivnik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>247795811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Kodre</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>154881891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Lasič</SurName>
+ <Code>02571</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1934435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mark</FirstName>
+ <SurName>Martinec</SurName>
+ <Code>08502</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Polona</FirstName>
+ <SurName>Novak</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>164934755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Slak</SurName>
+ <Code>50509</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>234488675</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Trampuš</SurName>
+ <Code>31051</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>133761635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Brank</SurName>
+ <Code>22278</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5139299</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Bilten</Title>
+      <TitleISBD>Bilten [Elektronski vir] / 8. tekmovanje ACM v znanju 
+računalništva, Institut Jožef Stefan, Ljubljana, 23. marca 2013 ; avtorji 
+nalog Nino Bašić ... [et al.] ; uredil Janez Brank</TitleISBD>
+      <Material>
+        <Electronic>El. knjiga</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Identifier>
+        <ISBN>978-961-264-053-8</ISBN>
+        <Note>pdf</Note>
+      </Identifier>
+      <TopicalName>Računalništvo - Šolska tekmovanja - 
+Slovenija</TopicalName>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">37.091.27:004(497.4)(0.034.2)</ClassNumber>
+      <Typology id="2.25">druge monografije in druga zaključena 
+dela</Typology>
+      <Link rel="0">
+        <URL>http://rtk.ijs.si/2013/rtk2013-bilten.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="272322560">
+      https://plus.si.cobiss.net/opac7/bib/272322560</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="monograph">
+      <AuthorGroup>
+        <Corporate>Tekmovanje ACM v znanju računalništva (7 ; 2012 ; 
+Ljubljana)</Corporate>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Bauer</SurName>
+ <Code>15854</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4310371</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Brodnik</SurName>
+ <Code>04967</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2344803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Primož</FirstName>
+ <SurName>Gabrijelčič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>13114211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matija</FirstName>
+ <SurName>Grabnar</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>59829603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nace</FirstName>
+ <SurName>Hudobivnik</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>247795811</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Košir</SurName>
+ <Code>13931</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>26848611</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Kodre</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>154881891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Lasič</SurName>
+ <Code>02571</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1934435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mark</FirstName>
+ <SurName>Martinec</SurName>
+ <Code>08502</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Miklavec</SurName>
+ <Code>32157</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>150191203</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Trampuš</SurName>
+ <Code>31051</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>133761635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Klemen</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>27640</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>16527203</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Brank</SurName>
+ <Code>22278</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5139299</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Brank</SurName>
+  <Code>22278</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bilten</Title>
+      <TitleISBD>Bilten / 7. tekmovanje ACM v znanju računalništva, 
+Ljubljana, 24. marca 2012 ; [avtorji nalog Nino Bašić ... [et al.] ; uredil 
+Janez Brank]</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2013</PublisherISBD>
+      <Manufacturer>Radovljica : TIskarna knjigoveznica</Manufacturer>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>175 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>21 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-264-051-4</ISBN>
+      </Identifier>
+      <Identifier>
+        <ISBN>978-961-264-052-1</ISBN>
+        <Note>pdf</Note>
+      </Identifier>
+      <TopicalName>Računalništvo - Šolska tekmovanja - 
+Slovenija</TopicalName>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">37.091.27:004(497.4)</ClassNumber>
+      <Typology id="2.25">druge monografije in druga zaključena 
+dela</Typology>
+      <Link rel="1">
+        <URL>http://rtk.ijs.si/2012/rtk2012-bilten.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="268121344">
+      https://plus.si.cobiss.net/opac7/bib/268121344</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="monograph">
+      <AuthorGroup>
+        <Corporate>Tekmovanje IJS v znanju računalništva (4 ; 2009 ; 
+Ljubljana)</Corporate>
+        <Author responsibility="alternative">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>129204323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Bauer</SurName>
+ <Code>15854</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4310371</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Ferlež</SurName>
+ <Code>24770</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>58327907</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Primož</FirstName>
+ <SurName>Gabrijelčič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>13114211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Gašperin</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>104710243</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Grčar</SurName>
+ <Code>28806</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>59907427</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Jovanovič</SurName>
+ <Code>25424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>8500323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Lasič</SurName>
+ <Code>02571</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1934435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Leskovec</SurName>
+ <Lineage>računalničar</Lineage>
+ <Code>33425</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>45566307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mark</FirstName>
+ <SurName>Martinec</SurName>
+ <Code>08502</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Polona</FirstName>
+ <SurName>Novak</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>164934755</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Šterk</SurName>
+ <Code>21555</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5086819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Trampuš</SurName>
+ <Code>31051</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>133761635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Vuk</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>28401251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Darko</FirstName>
+ <SurName>Zupanič</SurName>
+ <Code>14803</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4091491</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anže</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>32535</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>138084195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Klemen</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>27640</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>16527203</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Brank</SurName>
+ <Code>22278</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5139299</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Brank</SurName>
+  <Code>22278</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bilten</Title>
+      <TitleISBD>Bilten [Elektronski vir] / 4. tekmovanje IJS v znanju 
+računalništva, Ljubljana, 28. marca 2009 ; avtorji nalog Nino Bašić ... [et 
+al.] ; uredil Janez Brank</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2009</PublisherISBD>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Identifier>
+        <ISBN>978-961-264-015-6</ISBN>
+      </Identifier>
+      <TopicalName>Računalništvo - Šolska tekmovanja - 
+Slovenija</TopicalName>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">37.091.27:004(497.4)</ClassNumber>
+      <Typology id="2.25">druge monografije in druga zaključena 
+dela</Typology>
+      <Link rel="0">
+        <URL>http://rtk.ijs.si/2009/rtk2009-bilten.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="248589568">
+      https://plus.si.cobiss.net/opac7/bib/248589568</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>NERAZPOREJENO</Title>
+  
+    <BiblioEntry bno="14" type="monograph">
+      <AuthorGroup>
+        <Corporate>Tekmovanje ACM v znanju računalništva (6 ; 2011 ; 
+Ljubljana)</Corporate>
+        <Author responsibility="alternative">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>129204323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Bauer</SurName>
+ <Code>15854</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4310371</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Bradeško</SurName>
+ <Code>32873</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>171241827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Brodnik</SurName>
+ <Code>04967</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2344803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Primož</FirstName>
+ <SurName>Gabrijelčič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>13114211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boris</FirstName>
+ <SurName>Gašperin</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>104710243</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hočevar</SurName>
+ <Code>35424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>224372067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Kodre</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>154881891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Lasič</SurName>
+ <Code>02571</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1934435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mark</FirstName>
+ <SurName>Martinec</SurName>
+ <Code>08502</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2986595</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Miklavec</SurName>
+ <Code>32157</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>150191203</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Klemen</FirstName>
+ <SurName>Simonič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>235732835</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andraž</FirstName>
+ <SurName>Tori</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>106939747</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Trampuš</SurName>
+ <Code>31051</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>133761635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mitja</FirstName>
+ <SurName>Trampuš</SurName>
+ <Code>31051</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>133761635</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miha</FirstName>
+ <SurName>Vuk</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>28401251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Klemen</FirstName>
+ <SurName>Žagar</SurName>
+ <Code>27640</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>16527203</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Brank</SurName>
+ <Code>22278</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5139299</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nino</FirstName>
+ <SurName>Bašić</SurName>
+ <Code>34561</Code>
+ <Contrib>avtor</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Brank</SurName>
+  <Code>22278</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>Bilten</Title>
+      <TitleISBD>Bilten / 6. tekmovanje ACM v znanju računalništva, 
+Ljubljana, 26. marca 2011 ; [avtorji nalog Nino Bašić ... [et al.] ; uredil 
+Janez Brank]</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2012</PublisherISBD>
+      <Manufacturer>Ljubljana : Present</Manufacturer>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>143 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>21 cm</Dim>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-264-039-2</ISBN>
+      </Identifier>
+      <Identifier>
+        <ISBN>978-961-264-040-8</ISBN>
+        <Note>pdf</Note>
+      </Identifier>
+      <TopicalName>Računalništvo - Šolska tekmovanja - 
+Slovenija</TopicalName>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">37.091.27:004(497.4)</ClassNumber>
+      <Link rel="1">
+        <URL>http://rtk.ijs.si/2011/rtk2011-bilten.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="260809728">
+      https://plus.si.cobiss.net/opac7/bib/260809728</COBISS>
+    </BiblioEntry>
+  
+  
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

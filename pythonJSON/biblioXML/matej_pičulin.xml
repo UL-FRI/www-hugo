@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="34600" period="2011-2019" represent="false">
+  <Name>Dr. Matej Pičulin</Name>
+  <Header>
+    <Left>Dr. Matej Pičulin [34600]</Left>
+    <Right>Osebna bibliografija za obdobje 2011-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Matej Pičulin [34600]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2011-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matej</FirstName>
+ <SurName>Pičulin</SurName>
+ <Code>34600</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>199463267</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Handling numeric attributes with ant colony based classifier 
+for medical decision making</Title>
+      <TitleISBD>Handling numeric attributes with ant colony based 
+classifier for medical decision making / Matej Pičulin, Marko 
+Robnik-Šikonja</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Expert systems with applications</Title>
+        <TitleISBD>Expert systems with applications</TitleISBD>
+        <Keytitle>Expert syst. appl.</Keytitle>
+      <ISSN>0957-4174</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 41</VolumeNum>
+        <IssueNum>no. 16</IssueNum>
+        <Year>Nov. 2014</Year>
+        <ArtPageNums>str. 7524-7535</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 7524-7535</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>0957-4174</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 7535</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">optimizacija s kolonijo mravelj /številski 
+atributi /učenje pravil /klasifikacija /rudarjenje medicinskih 
+podatkov</Descriptors>
+      <Descriptors lang="eng">ant colony optimization /numeric attributes 
+/rule learning /classification /medical data mining</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://ac.els-cdn.com/S0957417414003583/1-s2.0-S0957417414003583-main.pdf?_tid=f24c480c-22b9-11e4-aa51-00000aab0f26&amp;acdnat=1407914455_1a57e23b1c88cb6199bec63e6ed6f288</URL>
+
+      </Link>
+      <COBISS co="SI" id="10715732">
+      https://plus.si.cobiss.net/opac7/bib/10715732</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matej</FirstName>
+ <SurName>Pičulin</SurName>
+ <Code>34600</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>199463267</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4190307</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Diskretizacija številskih atributov z razvrščanjem</Title>
+      <TitleISBD>Diskretizacija številskih atributov z razvrščanjem / Matej 
+Pičulin, Marko Robnik-Šikonja</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik dvajsete mednarodne Elektrotehniške in računalniške 
+konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik dvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2011, 19.-21. september 2011, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2011</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 201-204</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 201-204</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 204</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">umetna inteligenca /strojno učenje 
+/podatkovno rudarjenje /diskretizacija atributov /razvrščanje</Descriptors>
+      <Descriptors lang="eng">artificial intelligence /machine learning 
+/data mining /attribute discretization /clustering</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8645972">
+      https://plus.si.cobiss.net/opac7/bib/8645972</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="3" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matej</FirstName>
+ <SurName>Pičulin</SurName>
+ <Code>34600</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>199463267</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Učenje odločitvenih pravil z evolucijsko optimizacijo : 
+doktorska disertacija</Title>
+      <TitleISBD>Učenje odločitvenih pravil z evolucijsko optimizacijo : 
+doktorska disertacija / Matej Pičulin</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Pičulin]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Pičulin], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XVII, 81 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>24 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Marko Robnik Šikonja</Responsibility>
+        <Summaries>Bibliografija: str. 79-81</Summaries>
+        <Summaries>Povzetek ; Abstract: Learning decision rules with 
+evolutionary optimization</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Strojno učenje - Disertacije</TopicalName>
+      <Descriptors lang="slv">kolonija mravelj /evolucijsko računanje 
+/strojno učenje /učenje pravil /verjetnostna pravila /mehka pravila 
+/računalništvo /doktorske disertacije</Descriptors>
+      <Descriptors lang="eng">ant colony optimization /evolutionary 
+computation /machine learning /rule learning /probabilistic rules /soft 
+rules /computer and information science /doctoral 
+dissertations</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4297/</URL>
+      </Link>
+      <COBISS co="SI" id="1537991363">
+      https://plus.si.cobiss.net/opac7/bib/1537991363</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="4" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matej</FirstName>
+ <SurName>Pičulin</SurName>
+ <Code>34600</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>199463267</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Marko</FirstName>
+ <SurName>Robnik Šikonja</SurName>
+ <Code>15295</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Diskretizacija številskih atributov z razvrščanjem = 
+[Clustering-based discretization of numeric attributes] : diplomsko 
+delo</Title>
+      <TitleISBD>Diskretizacija številskih atributov z razvrščanjem = 
+[Clustering-based discretization of numeric attributes] : diplomsko delo / 
+Matej Pičulin</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Pičulin]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Pičulin], 2011</PublisherISBD>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>38 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Marko Robnik-Šikonja</Responsibility>
+        <Summaries>Bibliografija: str. 38</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">diskretizacija /razvrščanje /strojno učenje 
+/številski atributi /računalništvo /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">discretization /clustering /machine learning 
+/numeric attributes /computer science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1308/</URL>
+      </Link>
+      <COBISS co="SI" id="8291924">
+      https://plus.si.cobiss.net/opac7/bib/8291924</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

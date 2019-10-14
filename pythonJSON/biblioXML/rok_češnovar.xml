@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="33795" period="2010-2019" represent="false">
+  <Name>Rok Češnovar</Name>
+  <Header>
+    <Left>Rok Češnovar [33795]</Left>
+    <Right>Osebna bibliografija za obdobje 2010-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Rok Češnovar [33795]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2010-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Ciglič</SurName>
+ <Code>30791</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>34124643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mauro</FirstName>
+ <SurName>Hrvatin</SurName>
+ <Code>13179</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3813219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Drago</FirstName>
+ <SurName>Perko</SurName>
+ <Code>08294</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2944611</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Evaluating existing manually constructed natural landscape 
+classification with a machine learning-based approach</Title>
+      <TitleISBD>Evaluating existing manually constructed natural landscape 
+classification with a machine learning-based approach [Elektronski vir] / 
+Rok Ciglič ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Journal of spatial information science</Title>
+        <TitleISBD>Journal of spatial information science</TitleISBD>
+        <Keytitle>J. spat. inf. sci.</Keytitle>
+      <ISSN>1948-660X</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <IssueNum>no 18</IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 31-56</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 31-56</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.5311/JOSIS.2019.18.464</DOI>
+      </Identifier>
+      <ISSN>1948-660X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 52-56</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">geografija /geografski informacijski sistemi 
+/kvantitativne metode /modeli /pokrajinski tipi /Slovenija</Descriptors>
+      <Descriptors lang="eng">geography /geographic information systems 
+/quantitative methods /models /landscape types /Slovenia</Descriptors>
+      <UDK>911</UDK>
+      <ClassNumber code="udc">911.5:528:004(497.4)</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://josis.org/index.php/josis/article/view/464/224</URL>
+      </Link>
+      <COBISS co="SI" id="44825901">
+      https://plus.si.cobiss.net/opac7/bib/44825901</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tadej</FirstName>
+ <SurName>Ciglarič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>284967523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>An OpenCL library for parallel random number generators</Title>
+      <TitleISBD>An OpenCL library for parallel random number generators / 
+Tadej Ciglarič, Rok Češnovar, Erik Štrumbelj</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The journal of supercomputing</Title>
+        <TitleISBD>The journal of supercomputing</TitleISBD>
+        <Keytitle>J. supercomput.</Keytitle>
+      <ISSN>0920-8542</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 75</VolumeNum>
+        <IssueNum>no. 7</IssueNum>
+        <Year>Jul. 2019</Year>
+        <ArtPageNums>str. 3866-3881</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 3866-3881</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/s11227-019-02756-2</DOI>
+      </Identifier>
+      <ISSN>0920-8542</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 3880-3881</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">generiranje psevdonaključnih števil 
+/paralelizacija GPE /OpenCL /TestU01 /PractRand</Descriptors>
+      <Descriptors lang="eng">pseudo-random number generation 
+/parallelization /GPU /OpenCL /TestU01 /PractRand</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>https://link.springer.com/article/10.1007/s11227-019-02756-2</URL>
+      </Link>
+      <COBISS co="SI" id="1538103747">
+      https://plus.si.cobiss.net/opac7/bib/1538103747</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vladimir</FirstName>
+ <SurName>Risojević</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>198845027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Robert</FirstName>
+ <SurName>Rozman</SurName>
+ <Code>14989</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4129891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ratko</FirstName>
+ <SurName>Pilipović</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>314436451</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4825187</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Accurate indoor sound level measurement on a low-power and 
+low-cost wireless sensor node</Title>
+      <TitleISBD>Accurate indoor sound level measurement on a low-power and 
+low-cost wireless sensor node [Elektronski vir] / Vladimir Risojević ... 
+[et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Sensors</Title>
+        <TitleISBD>Sensors [Elektronski vir]</TitleISBD>
+        <Keytitle>Sensors (Basel)</Keytitle>
+      <ISSN>1424-8220</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <VolumeNum>vol. 18</VolumeNum>
+        <IssueNum>no. 7</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 1-22</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-22</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3390/s18072351</DOI>
+      </Identifier>
+      <ISSN>1424-8220</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 21-22</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">monitoring okoljskega hrupa /zaznavanje hrupa 
+/a-uteženje /hardwerska platforma</Descriptors>
+      <Descriptors lang="eng">environmental noise monitoring /noise sensing 
+/a-weighting /hardware platform /wireless sensor network</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://www.mdpi.com/1424-8220/18/7/2351</URL>
+      </Link>
+      <COBISS co="SI" id="1537843395">
+      https://plus.si.cobiss.net/opac7/bib/1537843395</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Bayesian Lasso and multinomial logistic regression on 
+GPU</Title>
+      <TitleISBD>Bayesian Lasso and multinomial logistic regression on GPU 
+[Elektronski vir] / Rok Češnovar, Erik Štrumbelj</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>PloS one</Title>
+        <TitleISBD>PloS one [Elektronski vir]</TitleISBD>
+      <ISSN>1932-6203</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 12</VolumeNum>
+        <IssueNum>no. 6</IssueNum>
+        <Year>Jun. 2017</Year>
+        <ArtPageNums>str. 1-17</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-17</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1371/journal.pone.0180343</DOI>
+      </Identifier>
+      <ISSN>1932-6203</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 16-17</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Bayesova statistika /Lasso /logistična 
+regresija /GPU</Descriptors>
+      <Descriptors lang="eng">Bayesian statistics /Lasso /logistic 
+regression /GPU</Descriptors>
+      <UDK>519.2</UDK>
+      <ClassNumber code="udc">519.226:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180343</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537467843">
+      https://plus.si.cobiss.net/opac7/bib/1537467843</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Špetič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>1397603</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Brezžični sistem za spremljanje življenjskega in delovnega 
+okolja v realnem času</Title>
+      <TitleISBD>Brezžični sistem za spremljanje življenjskega in delovnega 
+okolja v realnem času / Rok Češnovar, Aleš Špetič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 82</VolumeNum>
+        <IssueNum>št. 5</IssueNum>
+        <Year>2015</Year>
+        <ArtPageNums>str. 272-276</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 272-276</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 276</Summaries>
+        <Summaries>Abstract ; Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">informatika /pametni sistemi /senzorji /oblak 
+/kakovost bivanja</Descriptors>
+      <UDK>621.38</UDK>
+      <ClassNumber code="udc">621.38:681.513</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="286165504">
+      https://plus.si.cobiss.net/opac7/bib/286165504</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vladimir</FirstName>
+ <SurName>Risojević</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>198845027</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zdenka</FirstName>
+ <SurName>Babić</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>154445667</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Dobravec</SurName>
+ <Code>18188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4596067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4825187</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A GPU implementation of a structural-similarity-based 
+aerial-image classification</Title>
+      <TitleISBD>A GPU implementation of a structural-similarity-based 
+aerial-image classification / Rok Češnovar ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The journal of supercomputing</Title>
+        <TitleISBD>The journal of supercomputing</TitleISBD>
+        <Keytitle>J. supercomput.</Keytitle>
+      <ISSN>0920-8542</ISSN>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 65</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>Aug. 2013</Year>
+        <ArtPageNums>str. 978-996</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 978-996</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/s11227-013-0875-1</DOI>
+      </Identifier>
+      <ISSN>0920-8542</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 995-996</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">klasifikacija zračnih posnetkov /strukturalna 
+podobnost tekstur /lokalni deskriptorji slik /GPU /CUDA /procesiranje 
+slik</Descriptors>
+      <Descriptors lang="eng">aerial-image classification /structural 
+texture similarity /local images descriptors /GPU /CUDA /image 
+processing</Descriptors>
+      <UDK>004.2</UDK>
+      <ClassNumber code="udc">004.272</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://link.springer.com/article/10.1007%2Fs11227-013-0875-1</URL>
+      </Link>
+      <COBISS co="SI" id="9619028">
+      https://plus.si.cobiss.net/opac7/bib/9619028</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Parallel draws from the Polya-Gamma distribution for faster 
+Bayesian multinomial and count model inference</Title>
+      <TitleISBD>Parallel draws from the Polya-Gamma distribution for 
+faster Bayesian multinomial and count model inference [Elektronski vir] / 
+Rok Češnovar, Erik Štrumbelj</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Gams</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>08501</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mitja</FirstName>
+  <SurName>Luštrek</SurName>
+  <Code>23581</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Rok</FirstName>
+  <SurName>Piltaver</SurName>
+  <Code>29884</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Slovenska konferenca o umetni inteligenci : zbornik 19. 
+mednarodne multikonference Informacijska družba - IS 2016, 12. oktober 
+2016, [Ljubljana, Slovenija] : zvezek A : proceedings of the 19th 
+International Multiconference Information Society - IS 2016, 12 October 
+2016, Ljubljana, Slovenia : volume A</Title>
+        <TitleISBD>Slovenska konferenca o umetni inteligenci [Elektronski 
+vir] / uredili, edited by Matjaž Gams, Mitja Luštrek, Rok 
+Piltaver</TitleISBD>
+        <Subtitle>zbornik 19. mednarodne multikonference Informacijska 
+družba - IS 2016, 12. oktober 2016, [Ljubljana, Slovenija]</Subtitle>
+        <Subtitle>zvezek A</Subtitle>
+        <Subtitle>proceedings of the 19th International Multiconference 
+Information Society - IS 2016, 12 October 2016, Ljubljana, 
+Slovenia</Subtitle>
+        <Subtitle>volume A</Subtitle>
+      <ISBN>978-961-264-097-2</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2016</PublisherISBD>
+        <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 9-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 9-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">OpenCL /slučajne spremenljivke /vzorčenje 
+/Bayesova statistika</Descriptors>
+      <Descriptors lang="eng">OpenCL /random variables /sampling /Bayesian 
+inference</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://library.ijs.si/Stacks/Proceedings/InformationSociety/2016/IS2016_Volume_A%20-%20SKUI.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537224387">
+      https://plus.si.cobiss.net/opac7/bib/1537224387</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4825187</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Dobravec</SurName>
+ <Code>18188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4596067</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Optimization of a single seam removal using a GPU</Title>
+      <TitleISBD>Optimization of a single seam removal using a GPU 
+[Elektronski vir] / Rok Češnovar, Patricio Bulić, Tomaž Dobravec</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Hamid R.</FirstName>
+ <SurName>Arabnia</SurName>
+ <Contrib>urednik</Contrib>
+        </Author>
+        </AuthorGroup>
+        <Title>PDPTA 2011 : proceedings of the 2011 International 
+Conference on Parallel and Distributed Processing Techniques and 
+Applications, July 18-21, 2011, Las Vegas, Nevada, USA. Vol. 1</Title>
+        <TitleISBD>PDPTA 2011 [Elektronski vir]. Vol. 1 / editor Hamid R. 
+Arabnia ... [et al.]</TitleISBD>
+        <Subtitle>proceedings of the 2011 International Conference on 
+Parallel and Distributed Processing Techniques and Applications, July 
+18-21, 2011, Las Vegas, Nevada, USA</Subtitle>
+      <ISBN>1-60132-193-7</ISBN>
+      <ISBN>1-60132-194-5</ISBN>
+        <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>CSREA Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l.] : CSREA Press, cop. 2011</PublisherISBD>
+        <PubDate>cop. 2011</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 330-335</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 330-335</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 335</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">GPGPU /paralelno procesiranje /obdelava 
+slik</Descriptors>
+      <Descriptors lang="eng">GPGPU /parallel processing /image 
+processing</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.272</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://www.cs.uga.edu/~hra/2011-proceedings/pdpta/papers.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="8794452">
+      https://plus.si.cobiss.net/opac7/bib/8794452</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4825187</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Dobravec</SurName>
+ <Code>18188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4596067</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Optimized single seam removal on GPU</Title>
+      <TitleISBD>Optimized single seam removal on GPU / Rok Češnovar, 
+Patricio Bulić, Tomaž Dobravec</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik dvajsete mednarodne Elektrotehniške in računalniške 
+konference ERK 2011, 19.-21. september 2011, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik dvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2011, 19.-21. september 2011, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2011</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 11-14</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 11-14</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 14</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">GPGPU /paralelno procesiranje /obdelava 
+slik</Descriptors>
+      <Descriptors lang="eng">GPGPU /parallel processing /image 
+processing</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.272</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8791892">
+      https://plus.si.cobiss.net/opac7/bib/8791892</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Ciglič</SurName>
+ <Code>30791</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>34124643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Drago</FirstName>
+ <SurName>Perko</SurName>
+ <Code>08294</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2944611</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mauro</FirstName>
+ <SurName>Hrvatin</SurName>
+ <Code>13179</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3813219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Explaining hidden structures of Slovenian landscape 
+classifications</Title>
+      <TitleISBD>Explaining hidden structures of Slovenian landscape 
+classifications [Elektronski vir] / Rok Ciglič ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>[Conference] Hidden Geographies, 29-31 August 2019, 
+Ljubljana</CorpAuthor>
+        </AuthorGroup>
+        <Title>Collection of abstracts</Title>
+        <TitleISBD>Collection of abstracts [Elektronski vir] / [Conference] 
+Hidden Geographies, 29-31 August 2019, Ljubljana / [Konferenca] Skrite 
+geografije, [29-31 august, Ljubljana]</TitleISBD>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Department of Geography, Faculty of Arts, University 
+of Ljubljana</PublisherName>
+        <PublisherName>= Oddelek za geografijo, Filozofska fakulteta, 
+Univerza v Ljubljani</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Department of Geography, Faculty of Arts, 
+University of Ljubljana = Oddelek za geografijo, Filozofska fakulteta, 
+Univerza v Ljubljani, cop. 2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 20</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 20</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">geografija /pokrajinski tipi /vrednotenje 
+/kvantitativne metode /Slovenija</Descriptors>
+      <Descriptors lang="eng">geography /landscape types /evaluation 
+/quantitative methods /Slovenia</Descriptors>
+      <UDK>911</UDK>
+      <ClassNumber code="udc">911.5(497.4)</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://docs.google.com/document/d/1OV_ahCcfQGo-Vu4vA_SvI21LW-rbsHQ_la2I3CekEY0/edit#heading=h.xlz8tcqt282p</URL>
+
+      </Link>
+      <COBISS co="SI" id="45007917">
+      https://plus.si.cobiss.net/opac7/bib/45007917</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Ciglič</SurName>
+ <Code>30791</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>34124643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mauro</FirstName>
+ <SurName>Hrvatin</SurName>
+ <Code>13179</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3813219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Drago</FirstName>
+ <SurName>Perko</SurName>
+ <Code>08294</Code>
+ <CodeOrg>1-008</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2944611</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The use of general black-box explanation method for explaining 
+Slovenian landscape typology map</Title>
+      <TitleISBD>The use of general black-box explanation method for 
+explaining Slovenian landscape typology map / R. Ciglič ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Kyriacos</FirstName>
+  <SurName>Themistocleous</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>RSCy2019 : Seventh International Conference on Remote 
+Sensing and Geoinformation of Environment, 18-21 March, 2019, Aliathon 
+Holiday Village, Paphos, Cyprus : conference abstracts</Title>
+        <TitleISBD>RSCy2019 / [edited by Kyriacos Themistocleous ... [et 
+al.]</TitleISBD>
+        <Subtitle>Seventh International Conference on Remote Sensing and 
+Geoinformation of Environment, 18-21 March, 2019, Aliathon Holiday Village, 
+Paphos, Cyprus</Subtitle>
+        <Subtitle>conference abstracts</Subtitle>
+      <ISBN>978-9963-697-33-5</ISBN>
+        <Publisher>
+        <Address>Limassol</Address>
+        <PublisherName>Cyprus Remote Sensing Society</PublisherName>
+        </Publisher>
+      <PublisherISBD>Limassol : Cyprus Remote Sensing Society, cop. 
+2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="cyp"/>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="cyp"/>
+      <Numbering>
+        <ArtPageNums>str. 37</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 37</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">geografija /geografski informacijski sistemi 
+/modeli /pokrajinski tipi /Slovenija</Descriptors>
+      <Descriptors lang="eng">geography /geographic information systems 
+/models /landscape types /Slovenia</Descriptors>
+      <UDK>911</UDK>
+      <ClassNumber code="udc">911.5:528:004(497.4)</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="44477741">
+      https://plus.si.cobiss.net/opac7/bib/44477741</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Steve</FirstName>
+ <SurName>Bronder</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>321375075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Davor</FirstName>
+ <SurName>Sluga</SurName>
+ <Code>33385</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>167679587</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>37645</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194761059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tadej</FirstName>
+ <SurName>Ciglarič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>284967523</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sean</FirstName>
+ <SurName>Talts</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>331504739</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The state of GPU computation support for Stan</Title>
+      <TitleISBD>The state of GPU computation support for Stan [Elektronski 
+vir] / Rok Češnovar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>StanCon 2019 : Cambridge, August 20-23, 2019</Title>
+        <TitleISBD>StanCon 2019 [Elektronski vir]</TitleISBD>
+        <Subtitle>Cambridge, August 20-23, 2019</Subtitle>
+        <Publisher>
+        <Address>[Cambridge</Address>
+        <PublisherName>University of Cambridge]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[Cambridge : University of Cambridge], 
+2019</PublisherISBD>
+        <PubDate>2019</PubDate>
+      <Country code="gbr"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <ArtPageNums>str. 1</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">Bayesova statistika /strojno učenje 
+/optimizacije /procesiranje na grafičnih karticah /Gaussovi 
+procesi</Descriptors>
+      <Descriptors lang="eng">Bayesian statistics /machine learning 
+/optimization /GPU processing /Gaussian processes</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://mc-stan.org/events/stancon2019Cambridge/abstracts#10</URL>
+      </Link>
+      <COBISS co="SI" id="1538304963">
+      https://plus.si.cobiss.net/opac7/bib/1538304963</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Davor</FirstName>
+ <SurName>Sluga</SurName>
+ <Code>33385</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>167679587</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Burton</FirstName>
+ <SurName>Jackson</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>319135075</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>GPU-based parallel computation of pharmacometric models in 
+Stan software for Bayesian inference</Title>
+      <TitleISBD>GPU-based parallel computation of pharmacometric models in 
+Stan software for Bayesian inference / Erik Štrumbelj ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>The Ninth American Conference on Pharmacometrics : 
+ACoP9</Title>
+        <TitleISBD>The Ninth American Conference on 
+Pharmacometrics</TitleISBD>
+        <Subtitle>ACoP9</Subtitle>
+      <SeriesInfo>
+        <Title>Journal of pharmacokinetics and pharmacodynamics 
+(Print)</Title>
+        <SeriesVolNums>vol. 45, iss. 1 (suppl.)</SeriesVolNums>
+        <ISSN>1567-567X</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l.] : Springer, cop. 2018</PublisherISBD>
+        <PubDate>cop. 2018</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Journal of pharmacokinetics and pharmacodynamics</Title>
+        <TitleISBD>Journal of pharmacokinetics and 
+pharmacodynamics</TitleISBD>
+      <ISSN>1567-567X</ISSN>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 39</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 39</Extent>
+      </PhysicalAttributes>
+      <ISSN>1567-567X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 39</Summaries>
+      </Notes>
+      <Descriptors lang="slv">GPE /Stan /Bayesova statistika /farmakologija 
+/Alzheimerjeva bolezen</Descriptors>
+      <Descriptors lang="eng">GPU /Stan /Bayesian statistics /pharmacology 
+/Alzheimer's Disease</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:615.015</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="1">
+        
+<URL>https://link.springer.com/article/10.1007/s10928-018-9606-9#Sec328</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538016707">
+      https://plus.si.cobiss.net/opac7/bib/1538016707</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Mira</FirstName>
+ <SurName>Trebar</SurName>
+ <Code>06795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2684259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Andrej</FirstName>
+ <SurName>Grah</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>179487587</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Miroslav</FirstName>
+ <SurName>Savić</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>199509859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>RFID-enabled traceability of farmed fish</Title>
+      <TitleISBD>RFID-enabled traceability of farmed fish [Elektronski vir] 
+/ Mira Trebar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>RFID 2012</Title>
+        <TitleISBD>RFID 2012 [Elektronski vir] / 6th Annual IEEE 
+International Conference on RFID, Oralndo, Florida (USA), April 3-5, 
+2012</TitleISBD>
+      <ISBN>978-1-4673-0327-9</ISBN>
+        <Publisher>
+        <Address>Piscataway (NJ)</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Piscataway (NJ) : IEEE, cop. 2012</PublisherISBD>
+        <PubDate>cop. 2012</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2012</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 132-133</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 132-133</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 133</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sledljivost /RFID /EPCIS /gojenje ribe 
+/brancin</Descriptors>
+      <Descriptors lang="eng">traceability /RFID /EPCIS /farmed fish /sea 
+bass</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="9316948">
+      https://plus.si.cobiss.net/opac7/bib/9316948</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.22 Intervju</Title>
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4825187</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Robert</FirstName>
+ <SurName>Rozman</SurName>
+ <Code>14989</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>4129891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>CubeSensors</Title>
+      <TitleISBD>CubeSensors [Elektronski vir] / Patricio Bulić, Robert 
+Rozman in Rok Češnovar ; [pogovor je vodila Ina Petric] ; foto Igor 
+Domijan</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Tromba</Title>
+        <TitleISBD>Tromba [Elektronski vir]</TitleISBD>
+        <Subtitle>agencija za promocijo znanosti, kreativnosti in 
+inovativnosti</Subtitle>
+      <ISSN>2350-5869</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <Year>31. 7. 2014</Year>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>2350-5869</ISSN>
+      <Descriptors lang="slv">pametna kocka /start-up /kreativnost 
+/inovativnost /intervjuji</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.22">intervju</Typology>
+      <Link rel="0">
+        
+<URL>http://www.tromba.si/cubesensors-patricio-bulic-robert-rozman-in-andrej-strancar/</URL>
+
+      </Link>
+      <COBISS co="SI" id="1536270019">
+      https://plus.si.cobiss.net/opac7/bib/1536270019</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="16" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Patricio</FirstName>
+ <SurName>Bulić</SurName>
+ <Code>19515</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Dobravec</SurName>
+ <Code>18188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Rezanje šivov na grafičnih procesnih enotah z arhitekturo CUDA 
+= [Seam carving on graphics processing units with CUDA architecture] : 
+diplomsko delo</Title>
+      <TitleISBD>Rezanje šivov na grafičnih procesnih enotah z arhitekturo 
+CUDA = [Seam carving on graphics processing units with CUDA architecture] : 
+diplomsko delo / Rok Češnovar</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[R. Češnovar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [R. Češnovar], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>42 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Patricio Bulić</Responsibility>
+        <Responsibility>Somentor Tomaž Dobravec</Responsibility>
+        <Summaries>Bibliografija: str. 37-38</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">splošno namensko računanje na GPE /CUDA 
+/algoritem rezanja šivov /računalništvo /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">general purpose computation on GPU /CUDA 
+/Seam Carving algorithm /computer science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1254/</URL>
+      </Link>
+      <COBISS co="SI" id="8134484">
+      https://plus.si.cobiss.net/opac7/bib/8134484</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.21 Programska oprema</Title>
+  
+    <BiblioEntry bno="17" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>bayesCL : Bayesian Inference on a GPU using OpenCL</Title>
+      <TitleISBD>bayesCL [Elektronski vir] : Bayesian Inference on a GPU 
+using OpenCL / Rok Cesnovar, Erik Strumbelj</TitleISBD>
+        <Subtitle>Bayesian Inference on a GPU using OpenCL</Subtitle>
+      <Material>
+        <Electronic>El. program</Electronic>
+      </Material>
+      <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>The Comprehensive R Archive Network</PublisherName>
+      </Publisher>
+      <PublisherISBD>[S. l.] : The Comprehensive R Archive Network, 
+2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">Bayesova statistika /GPU /OpenCL /logistična 
+regresija /Lasso</Descriptors>
+      <Descriptors lang="eng">Bayesian statistics /GPU /OpenCL /logistic 
+regression /Lasso</Descriptors>
+      <UDK>519.2</UDK>
+      <ClassNumber code="udc">519.226</ClassNumber>
+      <Typology id="2.21">programska oprema</Typology>
+      <Link rel="0">
+        
+<URL>https://cran.r-project.org/web/packages/bayesCL/index.html</URL>
+      </Link>
+      <COBISS co="SI" id="1537481155">
+      https://plus.si.cobiss.net/opac7/bib/1537481155</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.15 Prispevek na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="18" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Davor</FirstName>
+ <SurName>Sluga</SurName>
+ <Code>33385</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>167679587</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>37645</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>194761059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Steve</FirstName>
+ <SurName>Bronder</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>321375075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>124540259</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>GPU optimized math routines in the Stan Math library : lecture 
+at StanCon 2018 Helsinki, 29-31 August 2018</Title>
+      <TitleISBD>GPU optimized math routines in the Stan Math library : 
+lecture at StanCon 2018 Helsinki, 29-31 August 2018 / Rok Češnovar ... [et 
+al.]</TitleISBD>
+        <Subtitle>lecture at StanCon 2018 Helsinki, 29-31 August 
+2018</Subtitle>
+      <PubDate>2018</PubDate>
+      <Country code="fin"/>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="3.15">prispevek na konferenci brez natisa</Typology>
+      <COBISS co="SI" id="1538085315">
+      https://plus.si.cobiss.net/opac7/bib/1538085315</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.25 Druga izvedena dela</Title>
+  
+    <BiblioEntry bno="19" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Tina</FirstName>
+ <SurName>Ilc</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>205743715</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tina</FirstName>
+ <SurName>Lebar</SurName>
+ <Code>34252</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>205743971</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tjaša</FirstName>
+ <SurName>Stošicki</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>191959139</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Nejc</FirstName>
+ <SurName>Tomšič</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>57624931</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jernej</FirstName>
+ <SurName>Turnšek</SurName>
+ <Lineage>biotehnolog</Lineage>
+ <Code>34253</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>201091427</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matej</FirstName>
+ <SurName>Žnidarič</SurName>
+ <Lineage>biotehnolog</Lineage>
+ <Contrib>avtor</Contrib>
+ <CONOR>205744739</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Bordon</SurName>
+ <Code>34589</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>205744995</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>194796131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mattia</FirstName>
+ <SurName>Petroni</SurName>
+ <Code>37646</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>205745251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rok</FirstName>
+ <SurName>Pustoslemšek</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>13787747</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jerneja</FirstName>
+ <SurName>Mori</SurName>
+ <Code>32114</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Roman</FirstName>
+ <SurName>Jerala</SurName>
+ <Code>06628</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Monika</FirstName>
+ <SurName>Avbelj</SurName>
+ <Code>29495</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Rok</FirstName>
+ <SurName>Gaber</SurName>
+ <Code>32254</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Koprivnjak</SurName>
+ <Code>31854</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Mojca</FirstName>
+ <SurName>Benčina</SurName>
+ <Code>14360</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Gregor</FirstName>
+ <SurName>Anderluh</SurName>
+ <Code>15686</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Irena</FirstName>
+ <SurName>Vovk</SurName>
+ <Code>11395</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Vesna</FirstName>
+ <SurName>Glavnik</SurName>
+ <Code>28562</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Vesna</FirstName>
+ <SurName>Hodnik</SurName>
+ <Code>29235</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Miha</FirstName>
+ <SurName>Mraz</SurName>
+ <Code>13442</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Miha</FirstName>
+ <SurName>Moškon</SurName>
+ <Code>29198</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Nikolaj</FirstName>
+ <SurName>Zimic</SurName>
+ <Code>05957</Code>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Competition team members : DNA coding beyond triplets : [grand 
+prize winners at the International Genetically Engineered Machine 
+competition-iGEM project 2010, Cambridge, Massachussets Institute of 
+Technolog, November 2010]</Title>
+      <TitleISBD>Competition team members [Elektronski vir] : DNA coding 
+beyond triplets : [grand prize winners at the International Genetically 
+Engineered Machine competition-iGEM project 2010, Cambridge, Massachussets 
+Institute of Technolog, November 2010] / Tina Ilc ... [et al.] ; 
+instructors Jerneja Mori ... [et al.]</TitleISBD>
+        <Subtitle>DNA coding beyond triplets</Subtitle>
+        <Subtitle>[grand prize winners at the International Genetically 
+Engineered Machine competition-iGEM project 2010, Cambridge, Massachussets 
+Institute of Technolog, November 2010]</Subtitle>
+      <PublisherISBD>2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      <Descriptors lang="slv">biokemija /DNA /genetski 
+inženiring</Descriptors>
+      <UDK>577</UDK>
+      <ClassNumber code="udc">577</ClassNumber>
+      <Typology id="3.25">druga izvedena dela</Typology>
+      <Link rel="0">
+        <URL>http://2010.igem.org/Team:Slovenia</URL>
+      </Link>
+      <COBISS co="SI" id="4757018">
+      https://plus.si.cobiss.net/opac7/bib/4757018</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Somentor pri magistrskih delih (bolonjski študij)</Title>
+  
+    <BiblioEntry bno="20" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Tadej</FirstName>
+ <SurName>Ciglarič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>284967523</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Erik</FirstName>
+ <SurName>Štrumbelj</SurName>
+ <Code>29486</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Rok</FirstName>
+ <SurName>Češnovar</SurName>
+ <Code>33795</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Parallel random number generation : master's thesis : 
+second-cycle study programme Computer and Information Science</Title>
+      <TitleISBD>Parallel random number generation : master's thesis : 
+second-cycle study programme Computer and Information Science / Tadej 
+Ciglarič</TitleISBD>
+        <Subtitle>master's thesis</Subtitle>
+        <Subtitle>second-cycle study programme Computer and Information 
+Science</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[T. Ciglarič]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [T. Ciglarič], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>53 str.</Extent>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Erik Štrumbelj</Responsibility>
+        <Responsibility>Somentor Rok Češnovar</Responsibility>
+        <Summaries>Bibliografija: str. 29-32</Summaries>
+        <Summaries>Povzetek ; Abstract ; Razširjeni povzetek</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">generiranje psevdonaključnih števil 
+/paralelizacija /GPE /OpenCL /računalništvo /računalništvo in informatika 
+/magisteriji</Descriptors>
+      <Descriptors lang="eng">pseudo-random number generation 
+/parallelization /GPU /OpenCL /computer science /computer and information 
+science /master's degree</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Somentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4315/</URL>
+      </Link>
+      <COBISS co="SI" id="1538083011">
+      https://plus.si.cobiss.net/opac7/bib/1538083011</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

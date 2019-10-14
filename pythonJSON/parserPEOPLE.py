@@ -54,8 +54,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                 post_md_sl = frontmatter.load(f, encoding='utf8')
                 post_md_en = frontmatter.load(f_en, encoding='utf8')
 
-                if post_md_sl.get('title') is None:
-                    post_md_sl['title'] = b.lstrip(' ')
+                if post_md_sl.get('fixName') is '':
                     post_md_sl['fixName'] = fix_name
                 if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
@@ -74,8 +73,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if post_md_sl.get('body') is '' and desc_json['descSl'] is not None:
                     post_md_sl.content = desc_json['descSl']
 
-                if post_md_en.get('title') is None:
-                    post_md_en['title'] = b.lstrip(' ')
+                if post_md_en.get('fixName') is '':
                     post_md_en['fixName'] = fix_name
                 if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_en['profName'] = person_json['fullname_and_title']['en']

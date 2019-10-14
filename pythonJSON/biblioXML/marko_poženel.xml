@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="23953" period="2001-2019" represent="false">
+  <Name>Dr. Marko Poženel</Name>
+  <Header>
+    <Left>Dr. Marko Poženel [23953]</Left>
+    <Right>Osebna bibliografija za obdobje 2001-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Marko Poženel [23953]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2001-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4054115</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiziranje obnašanja uporabnikov na spletu brez sledenja 
+stanja (z uporabo prstnega odtisa)</Title>
+      <TitleISBD>Analiziranje obnašanja uporabnikov na spletu brez sledenja 
+stanja (z uporabo prstnega odtisa) / Marko Poženel, Matjaž Kukar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 86</VolumeNum>
+        <IssueNum>št. 3</IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 144-151</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 144-151</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 151</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+      </Notes>
+      <Descriptors lang="slv">klikotok /razpletanje sej /hevristično 
+preiskovanje /markovske verige /obnašanje uporabnikov</Descriptors>
+      <Descriptors lang="eng">clickstream /session reconstruction 
+/heuristic search /Markov chains /user behaviour</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>https://ev.fe.uni-lj.si/3-2019/Pozenel.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538290115">
+      https://plus.si.cobiss.net/opac7/bib/1538290115</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Hovelja</SurName>
+ <Code>31407</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>82920035</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A comparison of the Planning Poker and Team Estimation Game : 
+a case study in software development capstone project course</Title>
+      <TitleISBD>A comparison of the Planning Poker and Team Estimation 
+Game : a case study in software development capstone project course / Marko 
+Poženel and Tomaž Hovelja</TitleISBD>
+        <Subtitle>a case study in software development capstone project 
+course</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>International journal of engineering education</Title>
+        <TitleISBD>International journal of engineering 
+education</TitleISBD>
+        <Keytitle>Int. j. eng. educ.</Keytitle>
+      <ISSN>0949-149X</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="irl"/>
+      <Numbering>
+        <VolumeNum>no. 1</VolumeNum>
+        <IssueNum>part A</IssueNum>
+        <Year>2019</Year>
+        <ArtPageNums>str. 195-208</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 195-208</Extent>
+      </PhysicalAttributes>
+      <ISSN>0949-149X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 206-207</Summaries>
+      </Notes>
+      <Descriptors lang="slv">empirična študija /zaključni študentski 
+projekt /agilni razvoj programske opreme /Scrum /Planning Poker /Team 
+Estimation Game</Descriptors>
+      <Descriptors lang="eng">empirical study /capstone course /agile 
+software development /Scrum /Planning Poker /Team Estimation 
+Game</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="1538110915">
+      https://plus.si.cobiss.net/opac7/bib/1538110915</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Studying agile software estimation techniques : the design of 
+an empirical study with students</Title>
+      <TitleISBD>Studying agile software estimation techniques : the design 
+of an empirical study with students / Marko Poženel &amp; Viljan 
+Mahnič</TitleISBD>
+        <Subtitle>the design of an empirical study with students</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Global journal of engineering education</Title>
+        <TitleISBD>Global journal of engineering education</TitleISBD>
+      <ISSN>1328-3154</ISSN>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="aus"/>
+      <Numbering>
+        <VolumeNum>vol. 18</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>2016</Year>
+        <ArtPageNums>str. 53-58</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 53-58</Extent>
+      </PhysicalAttributes>
+      <ISSN>1328-3154</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 58</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">izobraževanje za razvoj programske opreme 
+/empirične študije /zaključni študentski projekt /agilni razvoj programske 
+opreme /Scrum</Descriptors>
+      <Descriptors lang="eng">software engineering education /empirical 
+studies /capstone course /agile software development /Scrum /planning poker 
+/team estimation game</Descriptors>
+      <UDK>37.091.3</UDK>
+      <ClassNumber code="udc">37.091.3:004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.wiete.com.au/journals/GJEE/Publish/vol18no2/01-Mahnic-V.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537017795">
+      https://plus.si.cobiss.net/opac7/bib/1537017795</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Assessing teamwork in a software engineering capstone 
+course</Title>
+      <TitleISBD>Assessing teamwork in a software engineering capstone 
+course / Marko Poženel</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>World transactions on engineering and technology 
+education</Title>
+        <TitleISBD>World transactions on engineering and technology 
+education</TitleISBD>
+      <ISSN>1446-2257</ISSN>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="aus"/>
+      <Numbering>
+        <VolumeNum>vol. 11</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>2013</Year>
+        <ArtPageNums>str. 6-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 6-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1446-2257</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 11-12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Scrum /agilne metode razvoja /ocenitev 
+razvojne skupine</Descriptors>
+      <Descriptors lang="eng">Scrum /agile software development /teamwork 
+assessment</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>https://www.wiete.com.au/journals/WTE&amp;TE/Pages/Vol.11,%20No.1%20(2013)/01-Pozenel-M.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="9781076">
+      https://plus.si.cobiss.net/opac7/bib/9781076</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4054115</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Separating interleaved HTTP sessions using a stochastic 
+model</Title>
+      <TitleISBD>Separating interleaved HTTP sessions using a stochastic 
+model / Marko Poženel, Viljan Mahnič and Matjaž Kukar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Informatica</Title>
+        <TitleISBD>Informatica</TitleISBD>
+        <Subtitle>an international journal of computing and 
+informatics</Subtitle>
+        <Keytitle>Informatica (Ljublj., Tisk. izd.)</Keytitle>
+      <ISSN>0350-5596</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 34</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>2010</Year>
+        <ArtPageNums>str. 199-205</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 199-205</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>0350-5596</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: 204-205</Summaries>
+        <Summaries>Abstract ; Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Markov model /analiza klikotoka /obnašanje 
+spletnih obiskovalcev</Descriptors>
+      <Descriptors lang="eng">Markov model /clickstream analysis /web user 
+behavior</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="7785812">
+      https://plus.si.cobiss.net/opac7/bib/7785812</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Uporaba podatkovnih skladišč v univerzitetnem okolju : primer 
+Univerze v Ljubljani</Title>
+      <TitleISBD>Uporaba podatkovnih skladišč v univerzitetnem okolju : 
+primer Univerze v Ljubljani / Viljan Mahnič, Marko Poženel</TitleISBD>
+        <Subtitle>primer Univerze v Ljubljani</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Uporabna informatika</Title>
+        <TitleISBD>Uporabna informatika</TitleISBD>
+        <Keytitle>Uporab. inform. (Ljubljana, Tisk. izd.)</Keytitle>
+      <ISSN>1318-1882</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 12</VolumeNum>
+        <IssueNum>št. 4</IssueNum>
+        <Year>okt./nov./dec. 2004</Year>
+        <ArtPageNums>str. 237-247</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 237-247</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1318-1882</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 247</Summaries>
+        <Summaries>Povzetek; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">izobraževanje /visoko šolstvo /univerze 
+/Univerza v Ljubljani /študijsko gradivo /baze podatkov /skladiščenje 
+podatkov /modeli /primeri /analiza</Descriptors>
+      <Descriptors lang="eng">training /university education /universities 
+/Univerza v Ljubljani /study papers /data base /Data Warehousing /models 
+/cases /analysis</Descriptors>
+      <UDK>37</UDK>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="15188454">
+      https://plus.si.cobiss.net/opac7/bib/15188454</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Introduction of the automated assessment of homework 
+assignments in a university-level programming course</Title>
+      <TitleISBD>Introduction of the automated assessment of homework 
+assignments in a university-level programming course [Elektronski vir] / 
+Marko Poženel, Luka Fürst and Viljan Mahnič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>MIPRO 2015, 38th International Convention, May 
+25-29, 2015, Opatija, Croatia</CorpAuthor>
+        <Editor>
+  <FirstName>Petar</FirstName>
+  <SurName>Biljanović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>MIPRO 2015 : proceedings</Title>
+        <TitleISBD>MIPRO 2015 [Elektronski vir] / 38th International 
+Convention, May 25-29, 2015, Opatija, Croatia</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-953-233-083-0</ISBN>
+      <SeriesInfo>
+        <Title>MIPRO ... (CD-ROM)</Title>
+        <SeriesVolNums>38</SeriesVolNums>
+        <ISSN>1847-3946</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Rijeka</Address>
+        <PublisherName>Croatian Society for Information and Communication 
+Technology, Electronics - MIPRO</PublisherName>
+        </Publisher>
+      <PublisherISBD>Rijeka : Croatian Society for Information and 
+Communication Technology, Electronics - MIPRO, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>MIPRO ...</Title>
+        <TitleISBD>MIPRO ... [Elektronski vir]</TitleISBD>
+        <Keytitle>MIPRO (CD-ROM)</Keytitle>
+      <ISSN>1847-3946</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 862-867</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 862-867</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1847-3946</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 867</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">avtomatsko ocenjevanje /dinamično testiranje 
+/učenje programiranja</Descriptors>
+      <Descriptors lang="eng">automated grading /dynamic testing 
+/programming education</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="1536321219">
+      https://plus.si.cobiss.net/opac7/bib/1536321219</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Igor</FirstName>
+ <SurName>Rožanc</SurName>
+ <Code>13564</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3884643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Reconstruction of the web application hypertext model using 
+web logs</Title>
+      <TitleISBD>Reconstruction of the web application hypertext model 
+using web logs [Elektronski vir] / Igor Rožanc, Marko Poženel</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Mohamed H.</FirstName>
+  <SurName>Hamza</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the IASTED International Conference on 
+Informatics, February 17-19, 2014, Innsbruck, Austria : a publication of 
+the International Association of Science and Technology for 
+Development</Title>
+        <TitleISBD>Proceedings of the IASTED International Conference on 
+Informatics, February 17-19, 2014, Innsbruck, Austria [Elektronski vir] / 
+editor M. H. Hamza</TitleISBD>
+        <Subtitle>a publication of the International Association of Science 
+and Technology for Development</Subtitle>
+      <ISBN>978-0-88986-965-3</ISBN>
+        <Publisher>
+        <Address>Calgary (Alberta)</Address>
+        <Address>Anaheim (CA)</Address>
+        <PublisherName>ACTA Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Calgary (Alberta) ; Anaheim (CA) : ACTA Press, 
+2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="can, usa"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="can, usa"/>
+      <Numbering>
+        <ArtPageNums>str. 148-155</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 148-155</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 154-155</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vzvratno inženirstvo /spletna aplikacija 
+/hipertekstovni model /dnevniki spletnega strežnika /ATG</Descriptors>
+      <Descriptors lang="eng">reverse engineering /web application 
+/hypertext model /web logs /ATG</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10429780">
+      https://plus.si.cobiss.net/opac7/bib/10429780</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analiza kakovosti skupinskega dela pri študentskih projektih = 
+An analysis of the quality of team work in student projects</Title>
+      <TitleISBD>Analiza kakovosti skupinskega dela pri študentskih 
+projektih [Elektronski vir] = An analysis of the quality of team work in 
+student projects / Marko Poženel, Viljan Mahnič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Vladislav</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>01074</Code>
+  <CodeOrg>3-205</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>recenzent</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mojca</FirstName>
+  <SurName>Bernik</SurName>
+  <Code>18655</Code>
+  <CodeOrg>3-205</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>recenzent</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tanja</FirstName>
+  <SurName>Urbančič</SurName>
+  <Code>04586</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Vzgoja in izobraževanje v informacijski družbi : zbornik 
+referatov : conference proceedings</Title>
+        <TitleISBD>Vzgoja in izobraževanje v informacijski družbi 
+[Elektronski vir] / 15. mednarodna multikonferenca Informacijska družba, 
+12. oktober 2012 = 15th International Multiconference Information Society, 
+12th October 2012, Ljubljana, Slovenia</TitleISBD>
+        <Subtitle>zbornik referatov</Subtitle>
+        <Subtitle>conference proceedings</Subtitle>
+      <ISBN>978-961-232-261-8</ISBN>
+        <Publisher>
+        <Address>Kranj</Address>
+        <PublisherName>Moderna organizacija</PublisherName>
+        </Publisher>
+      <PublisherISBD>Kranj : Moderna organizacija, 2012</PublisherISBD>
+        <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 374-383</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 374-383</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 382-383</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">skupinsko delo /samoorganizacija /agilni 
+razvoj programske opreme /Scrum</Descriptors>
+      <Descriptors lang="eng">teamwork /self-organization /agile software 
+development /Scrum</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:37</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9464404">
+      https://plus.si.cobiss.net/opac7/bib/9464404</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4054115</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Heuristic best-first search in separation of interleaved Web 
+sessions</Title>
+      <TitleISBD>Heuristic best-first search in separation of interleaved 
+Web sessions [Elektronski vir] / Marko Poženel, Viljan Mahnič, Matjaž 
+Kukar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>Workshop on Analysis of Complex NEtworks at ECML 
+PKDD, September 20, 2010, Barcelona, Sapin</CorpAuthor>
+        <Editor>
+  <FirstName>Michele</FirstName>
+  <SurName>Berlingerio</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Björn</FirstName>
+  <SurName>Bringmann</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andreas</FirstName>
+  <SurName>Nürenberger</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>ACNE 2010</Title>
+        <TitleISBD>ACNE 2010 [Elektronski vir] / Workshop on Analysis of 
+Complex NEtworks at ECML PKDD, September 20, 2010, Barcelona, 
+Sapin</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="esp"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2010</PubDate>
+      <Country code="esp"/>
+      <Numbering>
+        <ArtPageNums>str. 63-74</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 63-74</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 74</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">prepletena seja /markovski model /RBFS 
+/obnašanje spletnih uporabnikov</Descriptors>
+      <Descriptors lang="eng">interleaved session /Markov model /RBFS /Web 
+user behavior</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>http://kdd.isti.cnr.it/acne/ACNE-2010-PROCEEDINGS.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="7896916">
+      https://plus.si.cobiss.net/opac7/bib/7896916</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4054115</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Separation of interleaved Web sessions with heuristic 
+search</Title>
+      <TitleISBD>Separation of interleaved Web sessions with heuristic 
+search [Elektronski vir] / Marko Poženel, Viljan Mahnič and Matjaž 
+Kukar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>The 10th IEEE International Conference on Data 
+Mining, 14- 17, December 2010, Sydney, Australia</CorpAuthor>
+        <Editor>
+  <FirstName>Geoffrey I.</FirstName>
+  <SurName>Webb</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>ICDM 2010</Title>
+        <TitleISBD>ICDM 2010 [Elektronski vir] / The 10th IEEE 
+International Conference on Data Mining, 14-17, December 2010, Sydney, 
+Australia</TitleISBD>
+      <ISBN>978-0-7695-4256-0</ISBN>
+      <SeriesInfo>
+        <Title>Proceedings (IEEE International Conference on Data 
+Mining)</Title>
+        <ISSN>1550-4786</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Los Alamitos (California)</Address>
+        <Address>Washington</Address>
+        <Address>Tokyo</Address>
+        <PublisherName>CPS</PublisherName>
+        <PublisherName>IEE Computer Society</PublisherName>
+        </Publisher>
+      <PublisherISBD>Los Alamitos (California) ; Washington ; Tokyo : CPS : 
+IEE Computer Society, cop. 2011</PublisherISBD>
+        <PubDate>cop. 2011</PubDate>
+      <Country code="usa, jpn"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="usa, jpn"/>
+      <Numbering>
+        <ArtPageNums>str. 411-420</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 411-420</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 419-420</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">http seja /klikotok /kvaliteta podatkov 
+/Markovski model /obnašanje uporabnikov /osejevanje /prepletene seje 
+/razpletanje sej</Descriptors>
+      <Descriptors lang="eng">http session /clickstream /data quality 
+/Markov model /user behavior /sessionization /interleaved session /session 
+separation process</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8275540">
+      https://plus.si.cobiss.net/opac7/bib/8275540</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4054115</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Using stochastic model for improving HTTP log data 
+pre-processing</Title>
+      <TitleISBD>Using stochastic model for improving HTTP log data 
+pre-processing / Marko Poženel, Viljan Mahnič, Matjaž Kukar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Bohanec</SurName>
+  <Code>02749</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matjaž</FirstName>
+  <SurName>Gams</SurName>
+  <Lineage>računalništvo</Lineage>
+  <Code>08501</Code>
+  <CodeOrg>1-001.03.09</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Vladislav</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>01074</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tanja</FirstName>
+  <SurName>Urbančič</SurName>
+  <Code>04586</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mojca</FirstName>
+  <SurName>Bernik</SurName>
+  <Code>18655</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Dunja</FirstName>
+  <SurName>Mladenić</SurName>
+  <Code>12570</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Grobelnik</SurName>
+  <Code>17137</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marjan</FirstName>
+  <SurName>Heričko</SurName>
+  <Code>11064</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Urban</FirstName>
+  <SurName>Kordeš</SurName>
+  <Code>18389</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Olga</FirstName>
+  <SurName>Markič</SurName>
+  <Code>13952</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jadran</FirstName>
+  <SurName>Lenarčič</SurName>
+  <Code>08948</Code>
+  <CodeOrg>1-001.03.01</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Leon</FirstName>
+  <SurName>Žlajpah</SurName>
+  <Code>03332</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Gams</SurName>
+  <Code>25638</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Olga S.</FirstName>
+  <SurName>Fomichova</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Vladimir</FirstName>
+  <SurName>Fomichov</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Brodnik</SurName>
+  <Code>04967</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik 12. mednarodne multikonference Informacijska družba 
+- IS 2009, 12.-16. oktober 2009 : zvezek A : volume A</Title>
+        <TitleISBD>Zbornik 12. mednarodne multikonference Informacijska 
+družba - IS 2009, 12.-16. oktober 2009 / uredili, edited by Marko Bohanec 
+... [et al.]</TitleISBD>
+        <Subtitle>zvezek A</Subtitle>
+        <Subtitle>volume A</Subtitle>
+      <ISBN>978-961-264-010-1</ISBN>
+      <SeriesInfo>
+        <Title>Informacijska družba</Title>
+        <ISSN>1581-9973</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Informacijska družba</Title>
+        <TitleISBD>Informacijska družba</TitleISBD>
+      <ISSN>1581-9973</ISSN>
+        <Edition>(Tiskana izd.)</Edition>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 50-53</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 50-53</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-9973</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 53</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">Markovski model /analiza klikotoka /obnašanje 
+spletnih uporabnikov</Descriptors>
+      <Descriptors lang="eng">Markov model /clickstream analysis /web user 
+behaviour</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="7501908">
+      https://plus.si.cobiss.net/opac7/bib/7501908</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Igor</FirstName>
+ <SurName>Rožanc</SurName>
+ <Code>13564</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3884643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Using e-business technology in a student records information 
+system</Title>
+      <TitleISBD>Using e-business technology in a student records 
+information system / Viljan Mahnic, Igor Rozanc, Marko Pozenel</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Azami</FirstName>
+  <SurName>Zaharim</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nikos E.</FirstName>
+  <SurName>Mastorakis</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Ioannis</FirstName>
+  <SurName>Gonos</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Recent advances in e-activities : proceedings of the 7th 
+WSEAS International Conference on E-Activities (E-Activities'08), Cairo, 
+Egypt, December 29-31, 2008</Title>
+        <TitleISBD>Recent advances in e-activities / [editors Azami 
+Zaharim, Nikos Mastorakis, Ioannis Gonos]</TitleISBD>
+        <Subtitle>proceedings of the 7th WSEAS International Conference on 
+E-Activities (E-Activities'08), Cairo, Egypt, December 29-31, 
+2008</Subtitle>
+      <ISBN>978-960-474-047-5</ISBN>
+      <SeriesInfo>
+        <Title>Electrical and computer engineering series</Title>
+      </SeriesInfo>
+      <SeriesInfo>
+        <Title>Recent advances in electrical engineering</Title>
+        <ISSN>1790-5117</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>WSEAS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l.] : WSEAS Press, cop. 2008</PublisherISBD>
+        <PubDate>cop. 2008</PubDate>
+      <Country code="int"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Recent advances in electrical engineering</Title>
+        <TitleISBD>Recent advances in electrical engineering</TitleISBD>
+        <Keytitle>Recent adv. electr. eng.</Keytitle>
+      <ISSN>1790-5117</ISSN>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="int"/>
+      <Numbering>
+        <ArtPageNums>str. 80-85</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 80-85</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1790-5117</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 85</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">elektronsko poslovanje /uporaba računalnikov 
+v administraciji /študentska in izpitna evidenca /trinivojska arhitektura 
+/varnostna politika /spletno podatkovno skladišče</Descriptors>
+      <Descriptors lang="eng">e-business /administrative computing /student 
+records /three-tier architecture /security policy /data 
+webhouse</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">659.23:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6975572">
+      https://plus.si.cobiss.net/opac7/bib/6975572</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Data webhouse : a tool for monitoring the use of a web based 
+information system</Title>
+      <TitleISBD>Data webhouse [Elektronski vir] : a tool for monitoring 
+the use of a web based information system / Marko Pozenel, Viljan 
+Mahnic</TitleISBD>
+        <Subtitle>a tool for monitoring the use of a web based information 
+system</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>EUNIS 2007 : innovation for a European era : 13th European 
+University Information Systems Conference</Title>
+        <TitleISBD>EUNIS 2007 [Elektronski vir]</TitleISBD>
+        <Subtitle>innovation for a European era</Subtitle>
+        <Subtitle>13th European University Information Systems 
+Conference</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="fra"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2007</PubDate>
+      <Country code="fra"/>
+      <Numbering>
+        <ArtPageNums>str. 1-12</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-12</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">spletno podatkovno skladišče /spletni 
+informacijski sistemi /podatki o obisku spletne strani /dnevnik spletnega 
+strežnika</Descriptors>
+      <Descriptors lang="eng">data webhouse /web information systems 
+/clickstream /web server log file</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6363220">
+      https://plus.si.cobiss.net/opac7/bib/6363220</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The role of data warehousing in university information 
+systems</Title>
+      <TitleISBD>The role of data warehousing in university information 
+systems / Viljan Mahnic, Marko Pozenel</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>UNINFOS 2005, medzinároda konferencie, Banská Bystrica, 
+7.-9. septembra 2005 : (Univerzitné informačné systémy) : zborník</Title>
+        <TitleISBD>UNINFOS 2005, medzinároda konferencie, Banská Bystrica, 
+7.-9. septembra 2005</TitleISBD>
+        <Subtitle>(Univerzitné informačné systémy)</Subtitle>
+        <Subtitle>zborník</Subtitle>
+      <ISBN>80-8083-103-3</ISBN>
+        <Publisher>
+        <Address>Banská Bystrica</Address>
+        <PublisherName>Univerzita Mateja Bela</PublisherName>
+        </Publisher>
+      <PublisherISBD>Banská Bystrica : Univerzita Mateja Bela, 
+2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="svk"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="svk"/>
+      <Numbering>
+        <ArtPageNums>str. 166-178</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 166-178</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 178</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovno skladišče /univerzitetni 
+informacijski sistem /integracija podatkov</Descriptors>
+      <Descriptors lang="eng">data warehouse /university information system 
+/data integration</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="5403732">
+      https://plus.si.cobiss.net/opac7/bib/5403732</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Igor</FirstName>
+ <SurName>Rožanc</SurName>
+ <Code>13564</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3884643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Slavko</FirstName>
+ <SurName>Drnovšček</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>77913443</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Five issues for effective implementation of web based 
+information systems</Title>
+      <TitleISBD>Five issues for effective implementation of web based 
+information systems [Elektronski vir] / Igor Rožanc ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>10. kongres JISA, Herceg Novi, 12.-17. juni 
+2005</CorpAuthor>
+        </AuthorGroup>
+        <Title>Zbornik radova</Title>
+        <TitleISBD>Zbornik radova [Elektronski vir] / 10. kongres JISA, 
+[12-17. jun 2005, Herceg Novi], 4. kongres SEFICT, [15-16. jun 2005, 
+Dubrovnik]</TitleISBD>
+        <Publisher>
+        <Address>[Beograd</Address>
+        <PublisherName>JISA]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[Beograd : JISA], 2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="srb"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2005</PubDate>
+      <Country code="srb"/>
+      <Numbering>
+        <ArtPageNums>str. [1-5]</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. [1-5]</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. [5]</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">informacijski sistemi /spletne aplikacije 
+/oddaljen dostop /spletni študijski informacijski sistemi</Descriptors>
+      <Descriptors lang="eng">information systems /web based applications 
+/remote access /web student records information systems</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4830548">
+      https://plus.si.cobiss.net/opac7/bib/4830548</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Analyzing enrolment and graduation records using a data 
+warehouse</Title>
+      <TitleISBD>Analyzing enrolment and graduation records using a data 
+warehouse / Viljan Mahnič, Marko Poženel</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Viljan</FirstName>
+  <SurName>Mahnič</SurName>
+  <Code>03307</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Boštjan</FirstName>
+  <SurName>Vilfan</SurName>
+  <Code>01902</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>IT innovation in a changing world : proceedings of the 10th 
+International Conference of European University Information Systems, Bled, 
+Slovenia, June 29 - July 2, 2004</Title>
+        <TitleISBD>IT innovation in a changing world / editors Viljan 
+Mahnič, Boštjan Vilfan</TitleISBD>
+        <Subtitle>proceedings of the 10th International Conference of 
+European University Information Systems, Bled, Slovenia, June 29 - July 2, 
+2004</Subtitle>
+      <ISBN>961-6209-46-9</ISBN>
+        <Edition>1st ed.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+        <PublisherName>= Faculty of Computer and Information 
+Science</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko 
+= Faculty of Computer and Information Science, 2004</PublisherISBD>
+      <Manufacturer>Ljubljana : Birografika Bori</Manufacturer>
+        <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 188-194</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 188-194</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 194</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovno skladišče /področno podatkovno 
+skladišče /dimenzijski model</Descriptors>
+      <Descriptors lang="eng">data warehouse /data mart /dimensional 
+model</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">681.3</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4330580">
+      https://plus.si.cobiss.net/opac7/bib/4330580</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Izbor orodij za izdelavo podatkovnih skladišč</Title>
+      <TitleISBD>Izbor orodij za izdelavo podatkovnih skladišč / Marko 
+Poženel, Viljan Mahnič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik trinajste mednarodne elektrotehniške in računalniške 
+konference ERK 2004, 27. - 29. september 2004, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik trinajste mednarodne elektrotehniške in 
+računalniške konference ERK 2004, 27. - 29. september 2004, Portorož, 
+Slovenija / uredil Baldomir Zajc</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+(Tiskana izd.)</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2004</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 79-82</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 79-82</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 82</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovna skladišča /OLAP /izbor 
+orodij</Descriptors>
+      <Descriptors lang="eng">data warehouse /OLAP</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4591956">
+      https://plus.si.cobiss.net/opac7/bib/4591956</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Samoocenitev informacijskega sistema z uporabo orodja 
+COBIT</Title>
+      <TitleISBD>Samoocenitev informacijskega sistema z uporabo orodja 
+COBIT / Viljan Mahnič, Marko Poženel</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik enajste mednarodne Elektrotehniške in računalniške 
+konference ERK 2002, 23.-25. september 2002, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik enajste mednarodne Elektrotehniške in 
+računalniške konference ERK 2002, 23.-25. september 2002, Portorož, 
+Slovenija / uredil Baldomir Zajc</TitleISBD>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+[2002]</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>[2002]</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2002</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 191-194</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 191-194</Extent>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 194</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">samoocenitev /COBIT</Descriptors>
+      <Descriptors lang="eng">self-assessment</Descriptors>
+      <UDK>004</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="3380308">
+      https://plus.si.cobiss.net/opac7/bib/3380308</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2051683</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Data webhouse : a tool for monitoring the use of a web based 
+information system</Title>
+      <TitleISBD>Data webhouse : a tool for monitoring the use of a web 
+based information system / Viljan Mahnic, Marko Pozenel</TitleISBD>
+        <Subtitle>a tool for monitoring the use of a web based information 
+system</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>EUNIS 2007 : innovation for a European era : 13th European 
+University Information Systems Conference, Grenoble, June 26th-29th, 
+2007</Title>
+        <TitleISBD>EUNIS 2007</TitleISBD>
+        <Subtitle>innovation for a European era</Subtitle>
+        <Subtitle>13th European University Information Systems Conference, 
+Grenoble, June 26th-29th, 2007</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="fra"/>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="fra"/>
+      <Numbering>
+        <ArtPageNums>str. 100</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 100</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">spletno podatkovno skladišče /spletni 
+informacijski sistemi /podatki o obisku spletne strani</Descriptors>
+      <Descriptors lang="eng">data webhouse /web information systems 
+/clickstream</Descriptors>
+      <UDK>659.2:004</UDK>
+      <ClassNumber code="udc">659.2:004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="6201428">
+      https://plus.si.cobiss.net/opac7/bib/6201428</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="21" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Lavbič</SurName>
+ <Code>25526</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57976419</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Discovering language of the stocks</Title>
+      <TitleISBD>Discovering language of the stocks [Elektronski vir] / 
+Marko Poženel and Dejan Lavbič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Audrone</FirstName>
+  <SurName>Lupeikiene</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Olegas</FirstName>
+  <SurName>Vasilecas</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Gintautas</FirstName>
+  <SurName>Dzemyda</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Databases and information systems X : selected papers from 
+the Thirteenth International Baltic Conference, DB&amp;IS 2018</Title>
+        <TitleISBD>Databases and information systems X [Elektronski vir] / 
+edited by Audrone Lupeikiene, Olegas Vasilecas and Gintautas 
+Dzemyda</TitleISBD>
+        <Subtitle>selected papers from the Thirteenth International Baltic 
+Conference, DB&amp;IS 2018</Subtitle>
+      <ISBN>978-1-61499-941-6</ISBN>
+      <SeriesInfo>
+        <Title>Frontiers in artificial intelligence and applications 
+(Online)</Title>
+        <SeriesVolNums>vol. 315</SeriesVolNums>
+        <ISSN>1879-8314</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam</Address>
+        <Address>Berlin</Address>
+        <Address>Washington (DC)</Address>
+        <PublisherName>IOS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam ; Berlin ; Washington (DC) : IOS Press, cop. 
+2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="nld, deu, usa"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <TitleISBD>Frontiers in artificial intelligence and applications 
+[Elektronski vir]</TitleISBD>
+      <ISSN>1879-8314</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="nld, deu, usa"/>
+      <Numbering>
+        <ArtPageNums>str. 243-258</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 243-258</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3233/978-1-61499-941-6-243</DOI>
+      </Identifier>
+      <ISSN>1879-8314</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 257-258</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">napovedovanje cen delnic /Word2Vec /japonski 
+svečniki /trgovalna strategija /NLP</Descriptors>
+      <Descriptors lang="eng">stock price prediction /Word2Vec /Japanese 
+candlesticks /trading strategy /NLP</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:336.761.5</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        <URL>http://ebooks.iospress.nl/volumearticle/51008</URL>
+      </Link>
+      <COBISS co="SI" id="1538113219">
+      https://plus.si.cobiss.net/opac7/bib/1538113219</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="22" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Kukar</SurName>
+ <Code>14565</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Inteligentno razpletanje sej pri izgradnji spletnega 
+podatkovnega skladišča : doktorska disertacija</Title>
+      <TitleISBD>Inteligentno razpletanje sej pri izgradnji spletnega 
+podatkovnega skladišča : doktorska disertacija / Marko Poženel</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Poženel]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Poženel], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XX, 186 str.</Extent>
+        <Details>ilustr., tabele</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Viljan Mahnič, somentor Matjaž Kukar, član 
+komisije za zagovor Matjaž Gams</Responsibility>
+        <Summaries>Bibliografija: str. 171-180</Summaries>
+        <Summaries>Povzetek v slov. in angl.</Summaries>
+        <Summaries>Kazalo</Summaries>
+        <Dissertation>Univ. Ljubljana, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="">seja HTTP /kakovost podatkov /klikotok 
+/markovski model /stohastični model /obnašanje uporabnikov /osejevanje 
+/prepletene seje /razpletanje sej /podatkovna skladišča 
+/disertacije</Descriptors>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.65(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <COBISS co="SI" id="253025280">
+      https://plus.si.cobiss.net/opac7/bib/253025280</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.09 Magistrsko delo</Title>
+  
+    <BiblioEntry bno="23" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Izgradnja podatkovnega skladišča za spremljanje študijskega 
+procesa po metodi "od spodaj navzgor" : magistrska naloga</Title>
+      <TitleISBD>Izgradnja podatkovnega skladišča za spremljanje 
+študijskega procesa po metodi "od spodaj navzgor" : magistrska naloga / 
+Marko Poženel</TitleISBD>
+        <Subtitle>magistrska naloga</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Poženel]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Poženel], 2004</PublisherISBD>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XI, 106 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 99-100</Summaries>
+        <Summaries>Povzetek</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="">podatkovna skladišča /izgradnja /sodobne metode 
+/spremljanje študijskega procesa /metoda "od spodaj navzgor" /računalništvo 
+/magisteriji</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="2.09">magistrsko delo</Typology>
+      <COBISS co="SI" id="4417108">
+      https://plus.si.cobiss.net/opac7/bib/4417108</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="24" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Marko</FirstName>
+ <SurName>Poženel</SurName>
+ <Dates>1976-</Dates>
+ <Code>23953</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>55311459</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Viljan</FirstName>
+ <SurName>Mahnič</SurName>
+ <Code>03307</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Podatkovno skladišče za mesno-predelovalno podjetje : 
+diplomsko delo</Title>
+      <TitleISBD>Podatkovno skladišče za mesno-predelovalno podjetje : 
+diplomsko delo / Marko Poženel</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[M. Poženel]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [M. Poženel], 2001</PublisherISBD>
+      <PubDate>2001</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>IV, 91 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 89</Summaries>
+        <Summaries>Povzetek</Summaries>
+        <Summaries>Kazali</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">podatkovno skladišče /dimenzionalna 
+podatkovna baza /dimenzionalni podatkovni model /zvezdna shema 
+/večdimenzionalne kocke /OLAP orodja /diplomske naloge</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="2433620">
+      https://plus.si.cobiss.net/opac7/bib/2433620</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

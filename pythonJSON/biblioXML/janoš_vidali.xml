@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="30920" period="2008-2019" represent="false">
+  <Name>Dr. Janoš Vidali</Name>
+  <Header>
+    <Left>Dr. Janoš Vidali [30920]</Left>
+    <Right>Osebna bibliografija za obdobje 2008-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Janoš Vidali [30920]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2008-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3026275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>4-016</CodeOrg>
+ <CodeOrg>3-111.02</CodeOrg>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The Sylvester graph and Moore graphs</Title>
+      <TitleISBD>The Sylvester graph and Moore graphs / A. Jurišić, J. 
+Vidali</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>European journal of combinatorics</Title>
+        <TitleISBD>European journal of combinatorics</TitleISBD>
+        <Keytitle>Eur. j. comb. (Print)</Keytitle>
+      <ISSN>0195-6698</ISSN>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <IssueNum>vol. 80</IssueNum>
+        <Year>Aug. 2019</Year>
+        <ArtPageNums>str. 184-193</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 184-193</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.ejc.2018.02.018</DOI>
+      </Identifier>
+      <ISSN>0195-6698</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: 13 enot</Summaries>
+      </Notes>
+      <Abstract lang="slv">Preučujemo kombinatorno strukturo Sylvestrovega 
+grafa, znanega grafa z visoko ožino. Enostavne tehnike, kot so dvojno 
+preštevanje, particije, lovljenje krogov in krovi, nam pomagajo 
+identificirati manjše strukture, s katerimi pokažemo, da ni drugih grafov, 
+s katerimi si Sylvestrov graf deli majhno število regularnostnih lastnosti. 
+Kot posledico pokažemo enako tudi za Hoffman-Singletonov graf. Opazimo, da 
+imajo nekateri veliko večji grafi z visoko ožino podobne lastnosti, in bi 
+jih lahko morda preučevali s podobnimi tehnikami. Posebej pokažemo, da tako 
+kot Hoffman-Singletonov graf vsebuje Sylvestrov graf, mora tudi Moorov graf 
+valence 57, čigar obstoj je znan odprt problem, vsebovati podgraf s 
+strukturo, ki je podobna tisti, ki jo izpeljemo za Sylvestrov 
+graf.</Abstract>
+      <Abstract lang="eng">The combinatorial structure of a famous graph 
+with large girth, namely the Sylvester graph, is studied. Simple 
+techniques, such as two-way counting, partitions, circuit chasing and 
+covers are used to identify smaller structures and to show that there are 
+no other graphs that share a small number of regularity properties with it. 
+As a consequence, we show the same for the Hoffman-Singleton graph. We 
+notice that some much larger graphs with large girth have similar 
+properties, and could be studied using the same techniques. In particular, 
+we show that just as the Hoffman-Singleton graph contains the Sylvester 
+graph, a Moore graph of valency 57, whose existence is a famous open 
+problem, must contain a subgraph with a structure that is similar to the 
+one we derived for the Sylvester graph.</Abstract>
+      <Descriptors lang="slv">razdaljno regularni grafi /posplošeni 
+četverokotniki /1-homogenost /kode /lovljenje krogov /Sylvestrov graf 
+/Moorovi grafi</Descriptors>
+      <Descriptors lang="eng">distance-regular graphs /generalized 
+quadrangles /1-homogeneous property /codes /circuit chasing /Sylvester 
+graph /Moore graphs</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <ClassNumber code="MSC 2010">05E30</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>https://doi.org/10.1016/j.ejc.2018.02.018</URL>
+      </Link>
+      <COBISS co="SI" id="18461785">
+      https://plus.si.cobiss.net/opac7/bib/18461785</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-111.02</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Using symbolic computation to prove nonexistence of 
+distance-regular graphs</Title>
+      <TitleISBD>Using symbolic computation to prove nonexistence of 
+distance-regular graphs [Elektronski vir] / Janoš Vidali</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The Electronic journal of combinatorics</Title>
+        <TitleISBD>The Electronic journal of combinatorics [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Electron. j. comb. (On line)</Keytitle>
+      <ISSN>1077-8926</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2018</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>iss. 4</VolumeNum>
+        <IssueNum>paper P4.21</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 1-10</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-10</Extent>
+      </PhysicalAttributes>
+      <ISSN>1077-8926</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 8-10</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="slv">Razvili smo paket za sistem za računalniško 
+algebro Sage za namene preverjanja dopustnosti presečnih zaporedij 
+razdaljno regularnih grafov. S tem orodjem pokažemo neobstoj razdaljno 
+regularnih grafov s presečnim zaporedjem ▫$\{(2r+1)(4r+1)(4t-1), 
+8r(4rt-r+2t), (r+t)(4r+1); 1, (r+t)(4r+1), 4r(2r+1)(4t-1)\}$▫ (▫$r, t \ge 
+1$▫), ▫$\{135, 128, 16; 1, 16, 120\}$▫, ▫$\{234, 165, 12; 1, 30, 198\}$▫ 
+ali ▫$\{55, 54, 50, 35, 10; 1, 5, 20, 45, 55\}$▫. V vseh primerih dokaz 
+neobstoja temelji na enakosti v Kreinovem pogoju, na podlagi katerega 
+računamo trojna presečna števila. Z nadaljnjimi kombinatornimi argumenti 
+nato pokažemo neobstoj.</Abstract>
+      <Abstract lang="eng">A package for the Sage computer algebra system 
+is developed for checking feasibility of a given intersection array for a 
+distance-regular graph. We use this tool to show that there is no 
+distance-regular graph with intersection array ▫$\{(2r+1)(4r+1)(4t-1), 
+8r(4rt-r+2t), (r+t)(4r+1); 1, (r+t)(4r+1), 4r(2r+1)(4t-1)\}$▫ (▫$r, t \ge 
+1$▫), ▫$\{135, 128, 16; 1, 16, 120\}$▫, ▫$\{234, 165, 12; 1, 30, 198\}$▫ or 
+▫$\{55, 54, 50, 35, 10; 1, 5, 20, 45, 55\}$▫. In all cases, the proofs rely 
+on equality in the Krein condition, from which triple intersection numbers 
+are determined. Further combinatorial arguments are then used to derive 
+nonexistence.</Abstract>
+      <Descriptors lang="slv">razdaljno regularni grafi /Kreinovi parametri 
+/trojna presečna števila /neobstoj /simbolno računanje</Descriptors>
+      <Descriptors lang="eng">distance-regular graphs /Krein parameters 
+/triple intersection numbers /nonexistence /symbolic 
+computation</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <ClassNumber code="MSC 2010">05CE30</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i4p21/pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="18469721">
+      https://plus.si.cobiss.net/opac7/bib/18469721</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>4-016</CodeOrg>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3026275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-111.02</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Restrictions on classical distance-regular graphs</Title>
+      <TitleISBD>Restrictions on classical distance-regular graphs / 
+Aleksandar Jurišić, Janoš Vidali</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Journal of algebraic combinatorics</Title>
+        <TitleISBD>Journal of algebraic combinatorics</TitleISBD>
+        <Keytitle>J. algebr. comb.</Keytitle>
+      <ISSN>0925-9899</ISSN>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 46</VolumeNum>
+        <IssueNum>iss. 3-4</IssueNum>
+        <Year>Dec. 2017</Year>
+        <ArtPageNums>str. 571-588</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 571-588</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/s10801-017-0765-3</DOI>
+      </Identifier>
+      <ISSN>0925-9899</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 587-588</Summaries>
+      </Notes>
+      <Abstract lang="slv">Naj bo ▫$\Gamma$▫ razdaljno regularen graf 
+premera ▫$d \ge 2$▫. Pravimo, da ima ▫$\Gamma$▫ klasične parametre ▫$(d, b, 
+\alpha, \beta)$▫, ko njegovo presečno zaporedje ▫$\{b_0, b_1, \dots, 
+b_{d-1}; c_1, c_2, \dots, c_d \}$▫ zadostuje pogojema ▫$$ b_i = ([d]_b - 
+[i]_b)(\beta - \alpha[i]_b) $$▫ in ▫$$ c_{i+1} = [i+1]_b (1 + \alpha[i]_b) 
+$$▫ (▫$0 \le i \le d-1$▫), kjer je ▫$[i]_b := 1+b+ \dots + b^{i-1}$▫. Poleg 
+znanih družin razdaljno regularnih grafov obstaja veliko presečnih 
+zaporedij s klasičnimi parametri, za katere je obstoj ustreznega grafa 
+odprt problem. Izkaže se, da v večini takih primerov velja bodisi ▫$\alpha 
+= b-1$▫ ali ▫$\alpha = b$▫. Za slednja primera izpeljemo meje za parameter 
+▫$\beta$▫, kar nam da popolni klasifikaciji, ko velja ▫$b=-2$▫. Razdaljno 
+regularni grafi s klasičnimi parametri so antipodni natanko tedaj, ko velja 
+▫$b=1$▫ in ▫$\beta = 1 + \alpha[d-1]_b$▫. Če pri tem izpustimo pogoj 
+▫$b=1$▫, se izkaže, da dobimo dvodelne ali tesne grafe. Za slednje 
+izpeljemo eksplicitne formule za izračun parametrov particij CAB in 
+razdaljne particije glede na neko povezavo. Na koncu najdemo še 
+dvoparametrično družino dopustnih presečnih zaporedij za tesne razdaljno 
+regularne grafe s klasičnimi parametri ▫$(d, b, b-1, b^{d-1})$▫ (slednji so 
+primitivni natanko tedaj, ko velja ▫$b \ne 1$▫) in uporabimo naše 
+rezultate, da pokažemo, da so edini taki grafi ▫$d$▫-kocke 
+▫$(b=1)$▫.</Abstract>
+      <Abstract lang="eng">Let ▫$\Gamma$▫ be a distance-regular graph with 
+diameter ▫$d \ge 2$▫. It is said to have classical parameters ▫$(d, b, 
+\alpha, \beta)$▫ when its intersection array ▫$\{b_0, b_1, \dots, b_{d-1}; 
+c_1,c_2, \dots, c_d \}$▫ satisfies ▫$$b_i = ([d]_b - [i]_b)(\beta - 
+\alpha[i]_b) \quad\text{and} \quad c_{i+1} = [i+1]_b (1 + \alpha[i]_b) 
+\quad (0 \le i \le d-1),$$▫ where ▫$[i]_b := 1+b+ \dots + b^{i-1}$▫. Apart 
+from the well-known families, there are many sets of classical parameters 
+for which the existence of a corresponding graph is still open. It turns 
+out that in most such cases we have either ▫$\alpha = b-1$ or $\alpha=b$▫. 
+For these two cases, we derive bounds on the parameter ▫$\beta$▫, which 
+give us complete classifications when ▫$b=-2$▫. Distance-regular graphs 
+with classical parameters are antipodal iff ▫$b=1$▫ and ▫$\beta = 1 + 
+\alpha[d-1]_b$▫. If we drop the condition ▫$b=1$▫, it turns out that one 
+obtains either bipartite or tight graphs. For the latter graphs, we find 
+closed formulas for the parameters of the CAB partitions and the distance 
+partition corresponding to an edge. Finally, we find a two-parameter family 
+of feasible intersection arrays for tight distance-regular graphs with 
+classical parameters ▫$(d ,b, b-1, b^{d-1})$▫ (primitive iff ▫$b \ne 1$▫) 
+and apply our results to show that it is realized only by ▫$d$▫-cubes 
+▫$(b=1)$▫.</Abstract>
+      <Descriptors lang="slv">razdaljno regularni grafi /klasični parametri 
+/formalno sebi dualni grafi /tesni grafi /lokalno krepko regularni 
+grafi</Descriptors>
+      <Descriptors lang="eng">distance-regular graphs /classical parameters 
+/formally self-dual /tight graphs /locally strongly regular</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <ClassNumber code="MSC 2000">05E30</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>https://doi.org/10.1007/s10801-017-0765-3</URL>
+      </Link>
+      <COBISS co="SI" id="18158169">
+      https://plus.si.cobiss.net/opac7/bib/18158169</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3026275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Extremal 1-codes in distance-regular graphs of diameter 
+3</Title>
+      <TitleISBD>Extremal 1-codes in distance-regular graphs of diameter 3 
+/ Aleksandar Jurišić, Janoš Vidali</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Designs, codes and cryptography</Title>
+        <TitleISBD>Designs, codes and cryptography</TitleISBD>
+        <Keytitle>Designs codes cryptogr.</Keytitle>
+      <ISSN>0925-1022</ISSN>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 65</VolumeNum>
+        <IssueNum>no. 1/2</IssueNum>
+        <Year>Oct. 2012</Year>
+        <ArtPageNums>str. 29-47</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 29-47</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0925-1022</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 47</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">razdaljno regularni grafi /1-kode /Kreinov 
+pogoj /trojna presečna števila /neobstoj /algebraična 
+kombinatorika</Descriptors>
+      <Descriptors lang="eng">distance-regular graphs /1-codes /Krein 
+condition /triple intersection numbers /nonexistence /algebraic 
+combinatorics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:51</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <Note>Elektronski vir na naslovu 
+http://download.springer.com/static/pdf/396/art%253A10.1007%252Fs10623-012-9651-0.pdf?auth66=1354707553_0f7fc02b7ea877ae77e429122d6e44b4&amp;ext=.pdf ni več dostopen (14. 2. 2018)</Note>
+
+      </Link>
+      <COBISS co="SI" id="9549140">
+      https://plus.si.cobiss.net/opac7/bib/9549140</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Peter</FirstName>
+ <SurName>Nose</SurName>
+ <Code>31355</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150782307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Enes</FirstName>
+ <SurName>Pašalić</SurName>
+ <Code>27777</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>96460899</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Collisions for variants of the BLAKE hash function</Title>
+      <TitleISBD>Collisions for variants of the BLAKE hash function / Janoš 
+Vidali, Peter Nose, Enes Pašalić</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Information processing letters</Title>
+        <TitleISBD>Information processing letters</TitleISBD>
+        <Keytitle>Inf. process. lett.</Keytitle>
+      <ISSN>0020-0190</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 110</VolumeNum>
+        <IssueNum>no. 14/15</IssueNum>
+        <Year>July 2010</Year>
+        <ArtPageNums>str. 585-590</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 585-590</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.ipl.2010.05.007</DOI>
+      </Identifier>
+      <ISSN>0020-0190</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 590</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">In this paper we present an attack to the BLOKE 
+and BRAKE hash functions, which are weakened versions of the SHA-3 
+candidate BLAKE. In difference to BLAKE, the BLOKE hash function does not 
+permute the message words and constants in the round computation of the 
+compression function, and BRAKE additionally removes feedforward and zeroes 
+the constants used in each round of the compression function. We show that 
+in these cases we can efficiently find, for any intermediate hash value, a 
+fixed-point block giving us an internal collision, thus producing 
+collisions for messages of equal length in case of BLOKE, and internal 
+collisions for BRAKE.</Abstract>
+      <Descriptors lang="eng">BLAKE /BLOKE /BRAKE /collision /cryptography 
+/fixed point /hash functions</Descriptors>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.6</ClassNumber>
+      <ClassNumber code="MSC 2010">68P25, 94A60</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>https://doi.org/10.1016/j.ipl.2010.05.007</URL>
+      </Link>
+      <COBISS co="SI" id="1024263252">
+      https://plus.si.cobiss.net/opac7/bib/1024263252</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Katja</FirstName>
+ <SurName>Berčič</SurName>
+ <Dates>1984-</Dates>
+ <Code>33231</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>189115235</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-111.02</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>DiscreteZOO : towards a Fingerprint Database of Discrete 
+Objects</Title>
+      <TitleISBD>DiscreteZOO : towards a Fingerprint Database of Discrete 
+Objects / Katja Berčič, Janoš Vidali</TitleISBD>
+        <Subtitle>towards a Fingerprint Database of Discrete 
+Objects</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>James H.</FirstName>
+  <SurName>Davenport</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Mathematical Software - ICMS 2018 : 6th International 
+Conference, South Bend, IN, USA, July 24-27, 2018 : proceedings</Title>
+        <TitleISBD>Mathematical Software - ICMS 2018 / James H. Davenport 
+...[et al.] (eds.)</TitleISBD>
+        <Subtitle>6th International Conference, South Bend, IN, USA, July 
+24-27, 2018</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-96417-1</ISBN>
+      <ISBN>978-3-319-96418-8</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>10931</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, cop. 2018</PublisherISBD>
+        <PubDate>cop. 2018</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <ArtPageNums>str. 36-44</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 36-44</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-319-96418-8_5</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: 20 enot</Summaries>
+      </Notes>
+      <Abstract lang="slv">Znanih je več poskusov zbiranja matematičnih 
+rezultatov v podatkovne baze z možnostjo iskanja. V tem članku predstavimo 
+DiscreteZOO: repozitorij in bazo prstnih odtisov za diskretne matematične 
+objekte. Trenutno vsebuje zbirke vozliščno tranzitivnih grafov in 
+manipleksov, ki predstavljajo posplošitev tako zemljevidov kot tudi 
+abstraktnih politopov. Projekt vključuje tako orodje za delo z zbirkami 
+objektov in njihovo vzdrževanje, kot tudi spletno stran in paket za 
+SageMath, ki omogočata interakcijo s podatkovno bazo. Cilj projekta je 
+postati splošna platforma za lažje objavljanje zbirk matematičnih objektov 
+in dostop do njih.</Abstract>
+      <Abstract lang="eng">Znanih je več poskusov zbiranja matematičnih 
+rezultatov v podatkovne baze z možnostjo iskanja. V tem članku predstavimo 
+DiscreteZOO: repozitorij in bazo prstnih odtisov za diskretne matematične 
+objekte. Trenutno vsebuje zbirke vozliščno tranzitivnih grafov in 
+manipleksov, ki predstavljajo posplošitev tako zemljevidov kot tudi 
+abstraktnih politopov. Projekt vključuje tako orodje za delo z zbirkami 
+objektov in njihovo vzdrževanje, kot tudi spletno stran in paket za 
+SageMath, ki omogočata interakcijo s podatkovno bazo. Cilj projekta je 
+postati splošna platforma za lažje objavljanje zbirk matematičnih objektov 
+in dostop do njih.</Abstract>
+      <Descriptors lang="slv">baza prstnih odtisov /vozliščno tranzitiven 
+graf /manipleks /paket za SageMath /spletna stran</Descriptors>
+      <Descriptors lang="eng">fingerprint database /vertex-transitive 
+graphs /maniplexes /SageMath package /website</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:519.1</ClassNumber>
+      <ClassNumber code="MSC 2010">68E99</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="1">
+        <URL>https://doi.org/10.1007/978-3-319-96418-8_5</URL>
+      </Link>
+      <COBISS co="SI" id="18462297">
+      https://plus.si.cobiss.net/opac7/bib/18462297</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Michel</FirstName>
+ <SurName>Deza</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>57551971</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Elena</FirstName>
+ <SurName>Deza</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>110781539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Cones of weighted and partial metrics</Title>
+      <TitleISBD>Cones of weighted and partial metrics / Michel Deza, Elena 
+Deza and Janoš Vidali</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Wanida</FirstName>
+  <SurName>Hemakul</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <SurName>Wahyuni</SurName>
+  <Lineage>Sri</Lineage>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Polly Wee</FirstName>
+  <SurName>Sy</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Algebra 2010 : advances in algebraic structures</Title>
+        <TitleISBD>Algebra 2010 / proceedings of the International 
+Conference on Algebra 2010, Faculty of Mathematics and Natural Sciences of 
+the Gadjah Mada University, Yogjakarta, Indonesia on 7-10 October 
+2010</TitleISBD>
+        <Subtitle>advances in algebraic structures</Subtitle>
+      <ISBN>978-981-4366-30-4</ISBN>
+      <ISBN>981-4366-30-7</ISBN>
+        <Publisher>
+        <Address>Singapore</Address>
+        <PublisherName>World Scientific</PublisherName>
+        </Publisher>
+      <PublisherISBD>Singapore : World Scientific, 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="sgp"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="sgp"/>
+      <Numbering>
+        <ArtPageNums>str. 177-197</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 177-197</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 196-197</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">obtežene metrike /delne metrike /hipermetrike 
+/rezi /konveksni stožci /računski eksperimenti</Descriptors>
+      <Descriptors lang="eng">weighted metrics /partial metrics 
+/hypermetrics /cuts /convex cones /computational experiments</Descriptors>
+      <UDK>51</UDK>
+      <ClassNumber code="udc">51</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9120852">
+      https://plus.si.cobiss.net/opac7/bib/9120852</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>4-016</CodeOrg>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3026275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>1-codes in primitive distance-regular graphs of diameter 
+3</Title>
+      <TitleISBD>1-codes in primitive distance-regular graphs of diameter 3 
+/ Aleksandar Jurišić, Janoš Vidali</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>25th LL-Seminar on Graph Theory : Montanuniversität Leoben, 
+September 23-24, 2011</Title>
+        <TitleISBD>25th LL-Seminar on Graph Theory</TitleISBD>
+        <Subtitle>Montanuniversität Leoben, September 23-24, 2011</Subtitle>
+        <Publisher>
+        <Address>Leoben</Address>
+        <PublisherName>Montanuniversität Leoben</PublisherName>
+        </Publisher>
+      <PublisherISBD>Leoben : Montanuniversität Leoben, 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="aut"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <ArtPageNums>str. 7</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 7</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">teorija grafov /Kreinovi parametri 
+/razdaljno-regularni grafi</Descriptors>
+      <Descriptors lang="eng">graph theory /Krein parameters 
+/distance-regular graphs</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <ClassNumber code="MSC 2010">05C12, 05C25, 05C50</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="16044377">
+      https://plus.si.cobiss.net/opac7/bib/16044377</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3026275</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mikhail</FirstName>
+ <SurName>Muzychuk</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>92977507</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Equivalences of constructions of bilinear forms graphs</Title>
+      <TitleISBD>Equivalences of constructions of bilinear forms graphs / 
+Janoš Vidali ; joint work with A. Jurišić and M. Muzychuk</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Klavdija</FirstName>
+  <SurName>Kutnar</SurName>
+  <Code>24997</Code>
+  <CodeOrg>3-300</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Primož</FirstName>
+  <SurName>Šparl</SurName>
+  <Code>23341</Code>
+  <CodeOrg>3-117</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Boštjan</FirstName>
+  <SurName>Kuzman</SurName>
+  <Code>23501</Code>
+  <CodeOrg>3-117</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Abstracts of the 7th Slovenian international conference on 
+graph theory, Bled, Slovenia, 19-25 June 2011</Title>
+        <TitleISBD>Abstracts of the 7th Slovenian international conference 
+on graph theory, Bled, Slovenia, 19-25 June 2011 / [organizer University at 
+Primorska, Faculty of Mathematics, Natural Sciences and Informational 
+Technologies, University of Primorska, Primorska Institut of Science and 
+Technology]</TitleISBD>
+        <Publisher>
+        <Address>Koper</Address>
+        <PublisherName>UP FAMNIT</PublisherName>
+        <PublisherName>UP PINT</PublisherName>
+        </Publisher>
+      <PublisherISBD>Koper : UP FAMNIT : UP PINT, 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 144</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 144</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">teorija grafov /razdaljno regularni 
+grafi</Descriptors>
+      <Descriptors lang="eng">graph theory /distance-regular 
+graphs</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <ClassNumber code="MSC 2010">05C12, 05C50</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="1">
+        
+<URL>http://osebje.famnit.upr.si/~bled.2011/Bled11-Abstracts.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="15965785">
+      https://plus.si.cobiss.net/opac7/bib/15965785</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="10" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Kode v razdaljno regularnih grafih : doktorska 
+disertacija</Title>
+      <TitleISBD>Kode v razdaljno regularnih grafih : doktorska disertacija 
+/ Janoš Vidali</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Vidali]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Vidali], 2013</PublisherISBD>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>XIV, 155 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Aleksandar Jurišić</Responsibility>
+        <Summaries>Bibliografija: str. 149-155</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Grafi - Kode - Disertacije</TopicalName>
+      <Descriptors lang="slv">algebraična kombinatorika /teorija kodiranja 
+/razdaljno regularni grafi /kode v grafih /presežna števila /klasični 
+parametri /Q-polinomska lastnost /Kreinovi parametri /antipodni krovi 
+/disertacije /računalništvo</Descriptors>
+      <Descriptors lang="eng">algebraic combinatorics /coding theory 
+/distance-regular graphs /codes in a graph /triple intersection numbers 
+/classical parameters /Q-polynomial property /Krein parameters /antipodal 
+covers</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.172.4(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/2167/</URL>
+      </Link>
+      <COBISS co="SI" id="10141524">
+      https://plus.si.cobiss.net/opac7/bib/10141524</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="11" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150764643</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Skupinski podpisi = [Group signatures] : diplomsko delo</Title>
+      <TitleISBD>Skupinski podpisi = [Group signatures] : diplomsko delo / 
+Janoš Vidali</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Vidali]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Vidali], 2008</PublisherISBD>
+      <PubDate>2008</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>X, 56 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+        <AccompMaterial>1 optični disk (CD-ROM)</AccompMaterial>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 52-55</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za matematiko in 
+fiziko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">asimetrična kriptografija /varnost 
+/anonimnost /digitalni podpis /skupinski podpis /dokaz brez razkritja 
+znanja /računalništvo /univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">asymmetric cryptography /security /anonymity 
+/digital signature /group signature /zero-knowledge proof /computer science 
+/diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:003.26(043.2)</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/270/</URL>
+      </Link>
+      <COBISS co="SI" id="6750036">
+      https://plus.si.cobiss.net/opac7/bib/6750036</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="12" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Domen</FirstName>
+ <SurName>Gašperlin</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>316722275</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Aleksandar</FirstName>
+ <SurName>Jurišić</SurName>
+ <Code>08724</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Peter</FirstName>
+ <SurName>Nose</SurName>
+ <Code>31355</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Janoš</FirstName>
+ <SurName>Vidali</SurName>
+ <Code>30920</Code>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Napadi na Ethereum : diplomsko delo : univerzitetni študijski 
+program prve stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Napadi na Ethereum : diplomsko delo : univerzitetni 
+študijski program prve stopnje Računalništvo in informatika / Domen 
+Gašperlin</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[D. Gašperlin]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [D. Gašperlin], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>60 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Aleksandar Jurišić</Responsibility>
+        <Responsibility>Somentor Peter Nose</Responsibility>
+        <Responsibility>Somentor Janoš Vidali</Responsibility>
+        <Summaries>Bibliografija: str. 55-58</Summaries>
+        <Summaries>Kazalo</Summaries>
+        <Summaries>Povzetek ; Abstract: Attacks on Ethereum</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">kriptovalute /varnost /Ethereum 
+/računalništvo in informatika /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">cryptocurrencies /security /Ethereum 
+/computer and information science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:336.74(043.2)</ClassNumber>
+      <Typology>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4212/</URL>
+      </Link>
+      <COBISS co="SI" id="1537915843">
+      https://plus.si.cobiss.net/opac7/bib/1537915843</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

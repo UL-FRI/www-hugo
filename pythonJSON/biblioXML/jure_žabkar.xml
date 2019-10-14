@@ -1,0 +1,5641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="29020" period="1999-2019" represent="false">
+  <Name>Dr. Jure Žabkar</Name>
+  <Header>
+    <Left>Dr. Jure Žabkar [29020]</Left>
+    <Right>Osebna bibliografija za obdobje 1999-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Jure Žabkar [29020]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 1999-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Extreme value correction : a method for correcting optimistic 
+estimations in rule learning</Title>
+      <TitleISBD>Extreme value correction : a method for correcting 
+optimistic estimations in rule learning / Martin Možina ... [et 
+al.]</TitleISBD>
+        <Subtitle>a method for correcting optimistic estimations in rule 
+learning</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Machine learning</Title>
+        <TitleISBD>Machine learning</TitleISBD>
+        <Keytitle>Mach. learn.</Keytitle>
+      <ISSN>0885-6125</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 108</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>Feb. 2019</Year>
+        <ArtPageNums>str. 297-329</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 297-329</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/s10994-018-5731-3</DOI>
+      </Identifier>
+      <ISSN>0885-6125</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 327-329</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /distribucije ekstremnih 
+vrednosti /pretirano prilagajanje podatkom</Descriptors>
+      <Descriptors lang="eng">machine learning /extreme value distribution 
+/overfitting</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>https://link.springer.com/article/10.1007/s10994-018-5731-3</URL>
+      </Link>
+      <COBISS co="SI" id="1537841603">
+      https://plus.si.cobiss.net/opac7/bib/1537841603</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <CodeOrg>1-016.03</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Feasibility of spirography features for objective assessment 
+of motor function in Parkinson's disease</Title>
+      <TitleISBD>Feasibility of spirography features for objective 
+assessment of motor function in Parkinson's disease / Aleksander Sadikov 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence in medicine</Title>
+        <TitleISBD>Artificial intelligence in medicine</TitleISBD>
+        <Keytitle>Artif. intell. med.</Keytitle>
+      <ISSN>0933-3657</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <IssueNum>vol. 88</IssueNum>
+        <Year>2017</Year>
+        <ArtPageNums>str. 54-62</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 54-62</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.artmed.2017.03.011</DOI>
+      </Identifier>
+      <ISSN>0933-3657</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 62</Summaries>
+      </Notes>
+      <Descriptors lang="eng">Parkinson's disease /movement disorder 
+/spirography /spirography features /objective monitoring 
+/visualisation</Descriptors>
+      <UDK>616.8</UDK>
+      <ClassNumber code="udc">616.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="3832748">
+      https://plus.si.cobiss.net/opac7/bib/3832748</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Extracting qualitative relations from categorical data</Title>
+      <TitleISBD>Extracting qualitative relations from categorical data / 
+Jure Žabkar, Ivan Bratko, Janez Demšar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence</Title>
+        <TitleISBD>Artificial intelligence</TitleISBD>
+        <Keytitle>Artif. intell.</Keytitle>
+      <ISSN>0004-3702</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <IssueNum>vol. 239</IssueNum>
+        <Year>Oct. 2016</Year>
+        <ArtPageNums>str. 54-69</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 54-69</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.artint.2016.06.007</DOI>
+      </Identifier>
+      <ISSN>0004-3702</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 69</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kvalitativno modeliranje /strojno učenje 
+/ceteris paribus</Descriptors>
+      <Descriptors lang="eng">qualitative modeling /machine learning 
+/ceteris paribus</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science/article/pii/S0004370216300704</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537020611">
+      https://plus.si.cobiss.net/opac7/bib/1537020611</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Leonardis</SurName>
+ <Code>05896</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2514275</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Motor memory : representation, learning and 
+consolidation</Title>
+      <TitleISBD>Motor memory : representation, learning and consolidation 
+/ Jure Žabkar, Aleš Leonardis</TitleISBD>
+        <Subtitle>representation, learning and consolidation</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Biologically inspired cognitive architectures</Title>
+        <TitleISBD>Biologically inspired cognitive architectures</TitleISBD>
+      <ISSN>2212-683X</ISSN>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <IssueNum>vol. 16</IssueNum>
+        <Year>Apr. 2016</Year>
+        <ArtPageNums>str. 64-74</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 64-74</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.bica.2016.03.003</DOI>
+      </Identifier>
+      <ISSN>2212-683X</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 73-74</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">motorični spomin /kompozicionalna hierarhija 
+/konsolidacija motoričnega spomina /globoko učenje</Descriptors>
+      <Descriptors lang="eng">motor memory /compositional hierarchy /motor 
+memory consolidation /deep learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.896</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science/article/pii/S2212683X16300202</URL>
+
+      </Link>
+      <COBISS co="SI" id="1536972483">
+      https://plus.si.cobiss.net/opac7/bib/1536972483</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Feasibility of spirography features for objective assessment 
+of motor symptoms in Parkinson's disease</Title>
+      <TitleISBD>Feasibility of spirography features for objective 
+assessment of motor symptoms in Parkinson's disease [Elektronski vir] / 
+Aleksander Sadikov ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>John Hubert</FirstName>
+  <SurName>Holmes</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Riccardo</FirstName>
+  <SurName>Bellazzi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Lucia</FirstName>
+  <SurName>Sacchi</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Niels</FirstName>
+  <SurName>Peek</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine [Elektronski vir] / 
+15th Conference on Artificial Intelligence in Medicine, AIME 2015, Pavia, 
+Italy, June 17-20, 2015</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-19551-3</ISBN>
+      <ISBN>978-3-319-19550-6</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science (Internet)</Title>
+        <SeriesVolNums>9105</SeriesVolNums>
+        <ISSN>1611-3349</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Lect. notes comput. sci. (Internet)</Keytitle>
+      <ISSN>1611-3349</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 267-276</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 267-276</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-319-19551-3_35</DOI>
+      </Identifier>
+      <ISSN>1611-3349</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 275-276</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">parkinsonova bolezen /motnje gibanja 
+/spirografija /spirografski atributi /objektivno spremljanje</Descriptors>
+      <Descriptors lang="eng">Parkinson's disease /movement disorder 
+/spirography /spirography features /objective monitoring</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://link.springer.com/chapter/10.1007%2F978-3-319-19551-3_35</URL>
+      </Link>
+      <COBISS co="SI" id="1536391875">
+      https://plus.si.cobiss.net/opac7/bib/1536391875</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Domen</FirstName>
+ <SurName>Šoberl</SurName>
+ <Code>31917</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50534243</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Qualitative planning of object pushing by a robot</Title>
+      <TitleISBD>Qualitative planning of object pushing by a robot / Domen 
+Šoberl, Jure Žabkar and Ivan Bratko</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Floriana</FirstName>
+  <SurName>Esposito</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Olivier</FirstName>
+  <SurName>Pivert</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mohand-Saïd</FirstName>
+  <SurName>Hacid</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Zbigniew W.</FirstName>
+  <SurName>Raś</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Stefano</FirstName>
+  <SurName>Ferilli</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Foundations of intelligent systems : 22nd International 
+Symposium, ISMIS 2015, Lyon, France, October 21-23, 2015 : 
+proceedings</Title>
+        <TitleISBD>Foundations of intelligent systems / Floriana Esposito 
+(eds.) ... [et al.]</TitleISBD>
+        <Subtitle>22nd International Symposium, ISMIS 2015, Lyon, France, 
+October 21-23, 2015</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-25251-3</ISBN>
+      <ISBN>978-3-319-25252-0</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>9384</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham [etc.] : Springer, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 410-419</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 410-419</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 419</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kvalitativno sklepanje /kvalitativno 
+modeliranje /strojno učenje /planiranje</Descriptors>
+      <Descriptors lang="eng">qualitative reasoning /qualitative modeling 
+/machine learning /planning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="1536601795">
+      https://plus.si.cobiss.net/opac7/bib/1536601795</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Popovič</SurName>
+ <Code>24105</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>7030115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Papa</SurName>
+ <Code>18291</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4610659</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Jaklič</SurName>
+ <Code>13682</Code>
+ <CodeOrg>3-125</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3906147</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A case analysis of embryonic data mining success</Title>
+      <TitleISBD>A case analysis of embryonic data mining success / Uroš 
+Bole ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of information management</Title>
+        <TitleISBD>International journal of information 
+management</TitleISBD>
+        <Keytitle>Int. j. inf. manage.</Keytitle>
+      <ISSN>0268-4012</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 35</VolumeNum>
+        <IssueNum>iss. 2</IssueNum>
+        <Year>Apr. 2015</Year>
+        <ArtPageNums>str. 253-259</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 253-259</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/j.ijinfomgt.2014.12.001</DOI>
+      </Identifier>
+      <ISSN>0268-4012</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 258-259</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">informatika /poslovne informacije 
+/analiza</Descriptors>
+      <Descriptors lang="eng">informatics /business information 
+/analysis</Descriptors>
+      <UDK>659.2:004</UDK>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="28277799">
+      https://plus.si.cobiss.net/opac7/bib/28277799</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Filip</FirstName>
+ <SurName>Bergquist</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268346467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anders</FirstName>
+ <SurName>Johansson</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>60278115</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dietrich</FirstName>
+ <SurName>Haubenberger</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268349539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Automatic spiral analysis for objective assessment of motor 
+symptoms in Parkinson's disease</Title>
+      <TitleISBD>Automatic spiral analysis for objective assessment of 
+motor symptoms in Parkinson's disease [Elektronski vir] / Mevludin Memedi 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Sensors</Title>
+        <TitleISBD>Sensors [Elektronski vir]</TitleISBD>
+        <Keytitle>Sensors (Basel)</Keytitle>
+      <ISSN>1424-8220</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <VolumeNum>vol. 15</VolumeNum>
+        <IssueNum>no. 9</IssueNum>
+        <Year>Sep. 2015</Year>
+        <ArtPageNums>str. 23728-23744</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 23728-23744</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.3390/s150923727</DOI>
+      </Identifier>
+      <ISSN>1424-8220</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 23742-23744</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">digitalna analiza spiral /parkinsonova 
+bolezen /bradikinezija /diskinezija /oddaljen nadzor</Descriptors>
+      <Descriptors lang="eng">digital spiral analysis /Parkinson's disease 
+/bradykinesia /dyskinesia /remote monitoring</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        <URL>http://www.mdpi.com/1424-8220/15/9/23727</URL>
+      </Link>
+      <COBISS co="SI" id="1536488643">
+      https://plus.si.cobiss.net/opac7/bib/1536488643</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Zvezdan</FirstName>
+ <SurName>Pirtošek</SurName>
+ <Code>05380</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>2421347</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>ParkinsonCheck smart phone app</Title>
+      <TitleISBD>ParkinsonCheck smart phone app [Elektronski vir] / 
+Aleksander Sadikov ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Torsten</FirstName>
+  <SurName>Schaub</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Gerhard</FirstName>
+  <SurName>Friedrich</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Barry</FirstName>
+  <SurName>O'Sullivan</SurName>
+  <Lineage>Dr.</Lineage>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>ECAI 2014 : proceedings</Title>
+        <TitleISBD>ECAI 2014 [Elektronski vir] / 21st European Conference 
+on Artificial Intelligence, 18-22 August 2014, Prague, Czech 
+Republic</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-1-61499-418-3</ISBN>
+      <ISBN>978-1-61499-419-0</ISBN>
+      <SeriesInfo>
+        <Title>Frontiers in artificial intelligence and applications 
+(Print)</Title>
+        <SeriesVolNums>vol. 263</SeriesVolNums>
+        <ISSN>0922-6389</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam [etc.]</Address>
+        <PublisherName>IOS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam [etc.] : IOS Press, cop. 2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <TitleISBD>Frontiers in artificial intelligence and 
+applications</TitleISBD>
+        <Keytitle>Front. artif. intell. appl.</Keytitle>
+      <ISSN>0922-6389</ISSN>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 1213-1214</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1213-1214</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0922-6389</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1214</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">parkinsonova bolezen /esencialni tremor 
+/sistem za podporo odločanju /spirografija /pametni telefoni</Descriptors>
+      <Descriptors lang="eng">Parkinson's disease /essential tremor 
+/decision support system /spirography /smartphones</Descriptors>
+      <UDK>621.39</UDK>
+      <ClassNumber code="udc">621.39:616.858</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10767444">
+      https://plus.si.cobiss.net/opac7/bib/10767444</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Leonardis</SurName>
+ <Code>05896</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2514275</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning compositional hierarchies of a sensorimotor 
+system</Title>
+      <TitleISBD>Learning compositional hierarchies of a sensorimotor 
+system / Jure Žabkar and Aleš Leonardis</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Allan</FirstName>
+  <SurName>Tucker</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Advances in intelligent data analysis XII : IDA 2013 : 12th 
+International Symposium, London, UK, October 17-19, 2013 : 
+proceedings</Title>
+        <TitleISBD>Advances in intelligent data analysis XII / Allan Tucker 
+... [et al.] (eds.)</TitleISBD>
+        <Subtitle>IDA 2013</Subtitle>
+        <Subtitle>12th International Symposium, London, UK, October 17-19, 
+2013</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-642-41397-1</ISBN>
+      <ISBN>978-3-642-41398-8</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>8207</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Berlin</Address>
+        <Address>Heidelberg</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Berlin ; Heidelberg : Springer, 2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 450-461</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 450-461</Extent>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 459-461</Summaries>
+        <Summaries>Kazalo</Summaries>
+      </Notes>
+      <Descriptors lang="slv">zaznavno-motorični sistem /inverzna 
+kinematika /avtonomno učenje</Descriptors>
+      <Descriptors lang="eng">sensorimotor system /inverse kinematics 
+/autonomous learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10212692">
+      https://plus.si.cobiss.net/opac7/bib/10212692</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Tadej</FirstName>
+ <SurName>Janež</SurName>
+ <Code>30916</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150776419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning faster by discovering and exploiting object 
+similarities</Title>
+      <TitleISBD>Learning faster by discovering and exploiting object 
+similarities [Elektronski vir] / Tadej Janež ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of advanced robotic systems</Title>
+        <TitleISBD>International journal of advanced robotic systems 
+[Elektronski vir]</TitleISBD>
+        <Keytitle>Int. j. adv. robot. syst. (Online)</Keytitle>
+      <ISSN>1729-8814</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <IssueNum>vol. 10</IssueNum>
+        <Year>2013</Year>
+        <ArtPageNums>str. 1-18</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-18</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1729-8814</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 17-18</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">avtonomni učeči agenti /hitrost učenja 
+/kompleksnost domene /učenje z izvajanjem eksperimentov /strojno 
+učenje</Descriptors>
+      <Descriptors lang="eng">autonomous learning agents /learning speed 
+/domain complexity /learning by experimentation /machine 
+learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="0">
+        
+<URL>http://www.intechopen.com/journals/international_journal_of_advanced_robotic_systems/learning-faster-by-discovering-and-exploiting-object-similarities</URL>
+
+      </Link>
+      <COBISS co="SI" id="9731668">
+      https://plus.si.cobiss.net/opac7/bib/9731668</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative models from numerical data</Title>
+      <TitleISBD>Learning qualitative models from numerical data / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence</Title>
+        <TitleISBD>Artificial intelligence</TitleISBD>
+        <Keytitle>Artif. intell.</Keytitle>
+      <ISSN>0004-3702</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 175</VolumeNum>
+        <IssueNum>no. 9/10</IssueNum>
+        <Year>2011</Year>
+        <ArtPageNums>str. 1604-1619</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1604-1619</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0004-3702</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1618-1619</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /kvalitativno modeliranje 
+/monotoni modeli /parcialni odvodi</Descriptors>
+      <Descriptors lang="eng">machine learning /qualitative modelling 
+/monotone models /partial derivatives</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science?_ob=MImg&amp;_imagekey=B6TYF-5296708-1-1&amp;_cdi=5617&amp;_user=4776866&amp;_pii=S0004370211000361&amp;_origin=search&amp;_zone=rslt_list_item&amp;_coverDate=06%2F30%2F2011&amp;_sk=998249990&amp;wchp=dGLbVlW-zSkWA&amp;md5=f5ba923d75f2d6aa6e637395ddffbf2f&amp;ie=/sdarticle.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="8324436">
+      https://plus.si.cobiss.net/opac7/bib/8324436</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning predictive qualitative models with Padé</Title>
+      <TitleISBD>Learning predictive qualitative models with Padé / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Informatica</Title>
+        <TitleISBD>Informatica</TitleISBD>
+        <Subtitle>an international journal of computing and 
+informatics</Subtitle>
+        <Keytitle>Informatica (Ljublj., Tisk. izd.)</Keytitle>
+      <ISSN>0350-5596</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>vol. 35</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>dec. 2011</Year>
+        <ArtPageNums>str. 435-444</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 435-444</Extent>
+      </PhysicalAttributes>
+      <ISSN>0350-5596</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 443-444</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kvalitativno modeliranje /strojno 
+učenje</Descriptors>
+      <Descriptors lang="eng">qualitative modelling /machine 
+learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.informatica.si/PDF/35-4/11_Zabkar%20-%20Learning%20Predictive%20Qualitative%20Models%20with%20Pade.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="8863572">
+      https://plus.si.cobiss.net/opac7/bib/8863572</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Aljaž</FirstName>
+ <SurName>Košmerlj</SurName>
+ <Code>31885</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150769251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Embodied concept discovery through qualitative action 
+models</Title>
+      <TitleISBD>Embodied concept discovery through qualitative action 
+models / Aljaž Košmerlj, Ivan Bratko and Jure Žabkar</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of uncertainty, fuzziness and 
+knowledge-based systems</Title>
+        <TitleISBD>International journal of uncertainty, fuzziness and 
+knowledge-based systems</TitleISBD>
+        <Keytitle>Int. j. uncertain. fuzziness knowl.-based syst.</Keytitle>
+      <ISSN>0218-4885</ISSN>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="sgp"/>
+      <Numbering>
+        <VolumeNum>vol. 19</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>2011</Year>
+        <ArtPageNums>str. 453-475</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 453-475</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0218-4885</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 474-475</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kognitivna robotika /induktivno logično 
+programiranje /odkrivanje novih predikatov /kvalitativno modeliranje 
+/simbolično modeliranje</Descriptors>
+      <Descriptors lang="eng">cognitive robotics /inductive logic 
+programming /predicate invention /qualitative modeling /symbolic 
+modeling</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="8352084">
+      https://plus.si.cobiss.net/opac7/bib/8352084</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Gregor</FirstName>
+ <SurName>Leban</SurName>
+ <Code>23398</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>31604067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>An experiment in robot discovery with ILP</Title>
+      <TitleISBD>An experiment in robot discovery with ILP / Gregor Leban, 
+Jure Žabkar and Ivan Bratko</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>18th International Conference, ILP 2008, Prague, 
+Czech Republic, September 2008</CorpAuthor>
+        <Editor>
+  <FirstName>Filip</FirstName>
+  <SurName>Železný</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Nada</FirstName>
+  <SurName>Lavrač</SurName>
+  <Code>08949</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Inductive logic programming : 18th International Conference, 
+ILP 2008, Prague, Czech Republic, September 10-12, 2008 : 
+proceedings</Title>
+        <TitleISBD>Inductive logic programming / Filip Železný , Nada 
+Lavrač (eds.)</TitleISBD>
+        <Subtitle>18th International Conference, ILP 2008, Prague, Czech 
+Republic, September 10-12, 2008</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-540-85927-7</ISBN>
+      <ISBN>3-540-85927-6</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>LNAI 5194</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Berlin</Address>
+        <Address>Heidelberg</Address>
+        <Address>New York</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Berlin ; Heidelberg ; New York : Springer, cop. 
+2008</PublisherISBD>
+        <PubDate>cop. 2008</PubDate>
+      <Country code="deu, usa"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="deu, usa"/>
+      <Numbering>
+        <ArtPageNums>str. 77-90</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 77-90</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 89-90</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">induktivno logično programiranje /robotsko 
+učenje /strojno učenje</Descriptors>
+      <Descriptors lang="eng">inductive logic programming /robot learning 
+/machine learning</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="6633812">
+      https://plus.si.cobiss.net/opac7/bib/6633812</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Dates>1978-</Dates>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument based machine learning</Title>
+      <TitleISBD>Argument based machine learning / Martin Možina, Jure 
+Žabkar, Ivan Bratko</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence</Title>
+        <TitleISBD>Artificial intelligence</TitleISBD>
+        <Keytitle>Artif. intell.</Keytitle>
+      <ISSN>0004-3702</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 171</VolumeNum>
+        <IssueNum>no. 10/15</IssueNum>
+        <Year>2007</Year>
+        <ArtPageNums>str. 922-937</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 922-937</Extent>
+      </PhysicalAttributes>
+      <ISSN>0004-3702</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 937</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentirano učenje 
+/predznanje /argumentacija</Descriptors>
+      <Descriptors lang="eng">machine learning /learning through arguments 
+/background knowledge /argumentation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="6240084">
+      https://plus.si.cobiss.net/opac7/bib/6240084</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Trevor J. M.</FirstName>
+ <SurName>Bench-Capon</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>88514403</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument based machine learning applied to law</Title>
+      <TitleISBD>Argument based machine learning applied to law / Martin 
+Možina ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Artificial intelligence and law</Title>
+        <TitleISBD>Artificial intelligence and law</TitleISBD>
+        <Keytitle>Artif. intell. law (Dordr., Print)</Keytitle>
+      <ISSN>0924-8463</ISSN>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 13</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>2005</Year>
+        <ArtPageNums>str. [53]-73</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. [53]-73</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0924-8463</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 72-73</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">argumentacija /CN2 /pravni informacijski 
+sistemi /odkrivanje znanja v pravu /strojno učenje /učenje 
+pravil</Descriptors>
+      <Descriptors lang="eng">argumentation /CN2 /legal information systems 
+/legal knowledge discovery /machine learning /rule induction</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="5796948">
+      https://plus.si.cobiss.net/opac7/bib/5796948</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jerneja</FirstName>
+ <SurName>Videčnik</SurName>
+ <Code>24469</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>80410467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument based machine learning in a medical domain</Title>
+      <TitleISBD>Argument based machine learning in a medical domain / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Paul E.</FirstName>
+  <SurName>Dunne</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Trevor J. M.</FirstName>
+  <SurName>Bench-Capon</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Computational models of argument : proceedings of COMMA 
+2006</Title>
+        <TitleISBD>Computational models of argument / [1st International 
+Conference on Computational Models of Argument, Dept. of Computer Science 
+of The University of Liverpool from Sept. 11th-12th, 2006]</TitleISBD>
+        <Subtitle>proceedings of COMMA 2006</Subtitle>
+      <ISBN>1-58603-652-1</ISBN>
+      <SeriesInfo>
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <SeriesVolNums>vol. 144</SeriesVolNums>
+        <ISSN>0922-6389</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam [etc.]</Address>
+        <PublisherName>IOS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam [etc.] : IOS Press, cop. 2006</PublisherISBD>
+        <PubDate>cop. 2006</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <TitleISBD>Frontiers in artificial intelligence and 
+applications</TitleISBD>
+        <Keytitle>Front. artif. intell. appl.</Keytitle>
+      <ISSN>0922-6389</ISSN>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 59-70</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 59-70</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>0922-6389</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 69-70</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje z argumenti /učenje pravil 
+/populacija starostnikov /bakterijske okužbe</Descriptors>
+      <Descriptors lang="eng">argument based machine learning /rule 
+learning /geriatric population /bacterial infections</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="5581396">
+      https://plus.si.cobiss.net/opac7/bib/5581396</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Dates>1978-</Dates>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument based rule learning</Title>
+      <TitleISBD>Argument based rule learning / Martin Možina and Jure 
+Žabkar and Ivan Bratko</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Gerhard</FirstName>
+  <SurName>Brewka</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>ECAI 2006 : proceedings</Title>
+        <TitleISBD>ECAI 2006 / 17th European Conference on Artificial 
+Intelligence, August 29 - September 1, 2006, Riva del Garda, Italy, 
+including Prestigious Applicants of Intelligent System (PAIS 
+2006)</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>1-58603-642-4</ISBN>
+      <SeriesInfo>
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <SeriesVolNums>vol. 141</SeriesVolNums>
+        <ISSN>0922-6389</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam [etc.]</Address>
+        <PublisherName>IOS Press</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam [etc.] : IOS Press, cop. 2006</PublisherISBD>
+        <PubDate>cop. 2006</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Frontiers in artificial intelligence and applications</Title>
+        <TitleISBD>Frontiers in artificial intelligence and 
+applications</TitleISBD>
+        <Keytitle>Front. artif. intell. appl.</Keytitle>
+      <ISSN>0922-6389</ISSN>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 504-508</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 504-508</Extent>
+      </PhysicalAttributes>
+      <ISSN>0922-6389</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 508</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentacija /učenje pravil 
+/CN2</Descriptors>
+      <Descriptors lang="eng">machine learning /argumentation /rule 
+learning /CN2</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="5582932">
+      https://plus.si.cobiss.net/opac7/bib/5582932</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Dates>1946-</Dates>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument-based machine learning</Title>
+      <TitleISBD>Argument-based machine learning / Ivan Bratko, Martin 
+Možina and Jure Zabkar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Floriana</FirstName>
+  <SurName>Esposito</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Zbigniew W.</FirstName>
+  <SurName>Raś</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Donato</FirstName>
+  <SurName>Malerba</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Giovanni</FirstName>
+  <SurName>Semeraro</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Foundations of intelligent systems : proceedings</Title>
+        <TitleISBD>Foundations of intelligent systems / 16th International 
+Symposium, ISMIS 2006, Bari, Italy, September 27-29, 2006</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>3-540-45764-X</ISBN>
+      <ISBN>978-3-540-45764-0</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artificial intelligence</Title>
+        <SeriesVolNums>4203</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Berlin</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Berlin : Springer, cop. 2006</PublisherISBD>
+        <PubDate>cop. 2006</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. [11]-17</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. [11]-17</Extent>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 17</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentacija /učenje pravil 
+/CN2 /induktivno logično programiranje</Descriptors>
+      <Descriptors lang="eng">machine learning /argumentation /rule 
+learning /CN2 /inductive logic programming</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="5582420">
+      https://plus.si.cobiss.net/opac7/bib/5582420</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="21" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Why is rule learning optimistic and how to correct it</Title>
+      <TitleISBD>Why is rule learning optimistic and how to correct it / 
+Martin Možina ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Johannes</FirstName>
+  <SurName>Fürnkranz</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tobias</FirstName>
+  <SurName>Scheffer</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Machine learning : ECML 2006 : proceedings</Title>
+        <TitleISBD>Machine learning / 17th European Conference on Machine 
+Learning, Berlin, Germany, September 18-22, 2006</TitleISBD>
+        <Subtitle>ECML 2006</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>3-540-45375-X</ISBN>
+      <ISBN>978-3-540-45375-8</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science, Lecture notes in 
+artifical intelligence</Title>
+        <SeriesVolNums>4212</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Berlin</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Berlin : Springer, cop. 2006</PublisherISBD>
+        <PubDate>cop. 2006</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. [330]-340</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. [330]-340</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 339-340</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">ocena kvalitete pravila /učenje pravil 
+/optimistična ocena kvalitete</Descriptors>
+      <Descriptors lang="eng">rule quality estimation /rule learning 
+/optimistic quality estimates</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="5581908">
+      https://plus.si.cobiss.net/opac7/bib/5581908</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="22" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rahela</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>21370</Code>
+ <CodeOrg>3-111.01</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11507555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Daniel</FirstName>
+ <SurName>Vladušič</SurName>
+ <Code>21305</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5046627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danijel</FirstName>
+ <SurName>Čemas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>42868579</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dorian</FirstName>
+ <SurName>Šuc</SurName>
+ <Code>15754</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4286819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Q[sup]2 prediction of ozone concentrations</Title>
+      <TitleISBD>Q[sup]2 prediction of ozone concentrations / Jure Žabkar 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Sašo</FirstName>
+  <SurName>Džeroski</SurName>
+  <Code>11130</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>gostujoči urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Bernard</FirstName>
+  <SurName>Ženko</SurName>
+  <Code>22279</Code>
+  <Contrib>gostujoči urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Debeljak</SurName>
+  <Code>15660</Code>
+  <Contrib>gostujoči urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Selected papers from the Fourth International Workshop on 
+Environmental Applications of Machine Learning, September 27 - October 
+1,2004, Bled, Slovenia : special issue</Title>
+        <TitleISBD>Selected papers from the Fourth International Workshop 
+on Environmental Applications of Machine Learning, September 27 - October 
+1,2004, Bled, Slovenia / edited by Sašo Džeroski, Bernard Ženko and Marko 
+Debeljak</TitleISBD>
+        <Subtitle>special issue</Subtitle>
+      <SeriesInfo>
+        <Title>Ecological modelling</Title>
+        <SeriesVolNums>vol. 191, issue 1, 2006</SeriesVolNums>
+        <ISSN>0304-3800</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Amsterdam</Address>
+        <PublisherName>Elsevier</PublisherName>
+        </Publisher>
+      <PublisherISBD>Amsterdam : Elsevier, 2006</PublisherISBD>
+        <PubDate>2006</PubDate>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Ecological modelling</Title>
+        <TitleISBD>Ecological modelling</TitleISBD>
+        <Keytitle>Ecol. model.</Keytitle>
+      <ISSN>0304-3800</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2006</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 191</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>Jan. 2006</Year>
+        <ArtPageNums>str. [68]-82</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. [68]-82</Extent>
+      </PhysicalAttributes>
+      <ISSN>0304-3800</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 82</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">onesnaževanje zraka /kvalitativno modeliranje 
+/napovedni model za koncentracijo ozona</Descriptors>
+      <Descriptors lang="eng">air pollution /qualitative modelling /ozone 
+concentration prediction model</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">504.054:004.9</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="1883236">
+      https://plus.si.cobiss.net/opac7/bib/1883236</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="23" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Teodora</FirstName>
+ <SurName>Matić</SurName>
+ <Code>52097</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>330705507</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Somayeh</FirstName>
+ <SurName>Aghanavesi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>330706019</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mevludin</FirstName>
+ <SurName>Memedi</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266830435</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dag</FirstName>
+ <SurName>Nyholm</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>266825827</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Filip</FirstName>
+ <SurName>Bergquist</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268346467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-300</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Unsupervised learning from motion sensor data to assess the 
+condition of patients with Parkinson's disease</Title>
+      <TitleISBD>Unsupervised learning from motion sensor data to assess 
+the condition of patients with Parkinson's disease [Elektronski vir] / 
+Teodora Matić ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>David</FirstName>
+  <SurName>Riaño</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Szymon</FirstName>
+  <SurName>Wilk</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Annette ten</FirstName>
+  <SurName>Teije</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Artificial intelligence in medicine : proceedings</Title>
+        <TitleISBD>Artificial intelligence in medicine [Elektronski vir] / 
+17th Conference on Artificial Intelligence in Medicine, AIME 2019, Poznan, 
+Poland, June 26-29, 2019</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-030-21642-9</ISBN>
+      <ISBN>3-030-21642-X</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science (Internet)</Title>
+        <SeriesVolNums>11526</SeriesVolNums>
+        <ISSN>1611-3349</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, cop. 2019</PublisherISBD>
+        <PubDate>cop. 2019</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Lect. notes comput. sci. (Internet)</Keytitle>
+      <ISSN>1611-3349</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <ArtPageNums>str. 420-424</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 420-424</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-030-21642-9_52</DOI>
+      </Identifier>
+      <ISSN>1611-3349</ISSN>
+      <Notes>
+        <Summaries>Abstract</Summaries>
+        <Summaries>Bibliografija: str. 424</Summaries>
+      </Notes>
+      <Descriptors lang="slv">nenadzorovano učenje /senzorski podatki 
+/Parkinsonova bolezen</Descriptors>
+      <Descriptors lang="eng">unsupervised learning /sensor data 
+/Parkinson's disease</Descriptors>
+      <UDK>616.8</UDK>
+      <ClassNumber code="udc">616.858:004.89</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>https://link.springer.com/chapter/10.1007%2F978-3-030-21642-9_52</URL>
+      </Link>
+      <COBISS co="SI" id="1541444036">
+      https://plus.si.cobiss.net/opac7/bib/1541444036</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="24" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Attribute visualisation for computer-aided diagnosis : a case 
+study</Title>
+      <TitleISBD>Attribute visualisation for computer-aided diagnosis 
+[Elektronski vir] : a case study / Vida Groznik ... [et al.]</TitleISBD>
+        <Subtitle>a case study</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>2014 IEEE International Conference on Healthcare 
+Informatics, 15-17 September 2014, Verona, VR, Italy</CorpAuthor>
+        </AuthorGroup>
+        <Title>ICHI 2014 : proceedings</Title>
+        <TitleISBD>ICHI 2014 [Elektronski vir] / 2014 IEEE International 
+Conference on Healthcare Informatics, 15-17 September 2014, Verona, VR, 
+Italy</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+        <Publisher>
+        <Address>Los Alamitos (California)</Address>
+        <Address>Washington</Address>
+        <Address>Tokyo</Address>
+        <PublisherName>IEEE Computer Society, Conference Publishing 
+Services</PublisherName>
+        </Publisher>
+      <PublisherISBD>Los Alamitos (California) ; Washington ; Tokyo : IEEE 
+Computer Society, Conference Publishing Services, 2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="usa, jpn"/>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="usa, jpn"/>
+      <Numbering>
+        <ArtPageNums>str. 294-299</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 294-299</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 299</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">vizualizacija atributov /časovne vrste 
+/tremor</Descriptors>
+      <Descriptors lang="eng">attribute visualisation /time series 
+/tremor</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10768468">
+      https://plus.si.cobiss.net/opac7/bib/10768468</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="25" type="article">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Leonardis</SurName>
+ <Code>05896</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2514275</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning compositional hierarchies of a sensorimotor 
+system</Title>
+      <TitleISBD>Learning compositional hierarchies of a sensorimotor 
+system [Elektronski vir] / Jure Žabkar, Aleš Leonardis</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>IEEE International Conference on Robotics and 
+Automation, Karlsruhe, Germany, May 6-10, 2013</CorpAuthor>
+        </AuthorGroup>
+        <Title>Workshops and tutorials proceedings</Title>
+        <TitleISBD>Workshops and tutorials proceedings [Elektronski vir] / 
+IEEE International Conference on Robotics and Automation, Karlsruhe, 
+Germany, May 6-10, 2013</TitleISBD>
+        <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l.] : IEEE, 2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>[3] str.</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>[3] str.</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. [3]</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">zaznavno-motorični sistem /inverzna 
+kinematika /avtonomno učenje</Descriptors>
+      <Descriptors lang="eng">sensorimotor system /inverse kinematics 
+/autonomous learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10206804">
+      https://plus.si.cobiss.net/opac7/bib/10206804</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="26" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Jaklič</SurName>
+ <Code>13682</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3906147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Papa</SurName>
+ <Code>18291</Code>
+ <CodeOrg>1-001.03.07</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4610659</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Identification of important factors to success of 
+organizational data mining</Title>
+      <TitleISBD>Identification of important factors to success of 
+organizational data mining [Elektronski vir] / Uroš Bole ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>EPIA 2011, 15th Portuguese Conference on Artificial 
+Intelligence, 10-13 October, 2011, Lisboa, Portugal</CorpAuthor>
+        </AuthorGroup>
+        <Title>Proceedigs</Title>
+        <TitleISBD>Proceedigs / EPIA 2011, 15th Portuguese Conference on 
+Artificial Intelligence, 10-13 October, 2011, Lisboa, Portugal</TitleISBD>
+      <ISBN>978-989-95618-4-7</ISBN>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2011</PublisherISBD>
+        <PubDate>2011</PubDate>
+      <Country code="prt"/>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="prt"/>
+      <Numbering>
+        <ArtPageNums>str. 535-549</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 535-549</Extent>
+      </PhysicalAttributes>
+      <UDK>004.8</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="25475111">
+      https://plus.si.cobiss.net/opac7/bib/25475111</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="27" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tadej</FirstName>
+ <SurName>Janež</SurName>
+ <Code>30916</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150776419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Preference learning from qualitative partial 
+derivatives</Title>
+      <TitleISBD>Preference learning from qualitative partial derivatives 
+[Elektronski vir] / Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>ECMLPKDD 2010</Title>
+        <TitleISBD>ECMLPKDD 2010 [Elektronski vir] / European Conference on 
+Machine Learning and Principles and Practice of Knowledge Discovery in 
+Databases, 24 September 2010, Barcelona, Spain</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="esp"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2010</PubDate>
+      <Country code="esp"/>
+      <Numbering>
+        <ArtPageNums>str. 1-13</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1-13</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 11-12</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">učenje preferenc /kvalitativno modeliranje 
+/kvalitativni odvodi /strojno učenje</Descriptors>
+      <Descriptors lang="eng">preference learning /qualitative modeling 
+/qualitative derivatives /machine learning</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://www.ke.tu-darmstadt.de/events/PL-10/papers/5-Zabkar.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="7926100">
+      https://plus.si.cobiss.net/opac7/bib/7926100</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="28" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tadej</FirstName>
+ <SurName>Janež</SurName>
+ <Code>30916</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>150776419</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Active learning of qualitative models with Padé</Title>
+      <TitleISBD>Active learning of qualitative models with Padé / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>QR 2010</Title>
+        <TitleISBD>QR 2010 / 24th International Workshop on Qualitative 
+Reasoning, August 8-10, 2010, Portland, Oregon, USA</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 97-104</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 97-104</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 103-104</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">aktivno učenje /kvalitativno sklepanje 
+/strojno učenje /kvalitativni modeli</Descriptors>
+      <Descriptors lang="eng">active learning /qualitative reasoning 
+/machine learning /qualitative models</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.838.2</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="7881556">
+      https://plus.si.cobiss.net/opac7/bib/7881556</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="29" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative relations from categorical data</Title>
+      <TitleISBD>Learning qualitative relations from categorical data / 
+Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>QR 2010</Title>
+        <TitleISBD>QR 2010 / 24th International Workshop on Qualitative 
+Reasoning, August 8-10, 2010, Portland, Oregon, USA</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 105-111</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 105-111</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 110-111</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kvalitativno modeliranje /Bayesovsko učenje 
+/verjetnostni kvalitativni parcialni odvodi</Descriptors>
+      <Descriptors lang="eng">qualitative modeling /Bayesian learning 
+/probabilistic qualitative partial derivatives</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="7881812">
+      https://plus.si.cobiss.net/opac7/bib/7881812</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="30" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Dates>1973-</Dates>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Papa</SurName>
+ <Code>18291</Code>
+ <CodeOrg>1-001.03.07</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4610659</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Organizacijski vidik uvajanja napovedne analitike v 
+organizacije = Organizational point of view of applying predictive 
+analytics in organizations</Title>
+      <TitleISBD>Organizacijski vidik uvajanja napovedne analitike v 
+organizacije = Organizational point of view of applying predictive 
+analytics in organizations / Uroš Bole, Gregor Papa, Jure Žabkar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik devetnajste mednarodne Elektrotehniške in 
+računalniške konference ERK 2010, Portorož, Slovenija, 20.-22. september 
+2010</Title>
+        <TitleISBD>Zbornik devetnajste mednarodne Elektrotehniške in 
+računalniške konference ERK 2010, Portorož, Slovenija, 20.-22. september 
+2010 / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniske konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2010</PublisherISBD>
+        <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 82-85</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 82-85</Extent>
+      </PhysicalAttributes>
+      <UDK>621.38</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="24173095">
+      https://plus.si.cobiss.net/opac7/bib/24173095</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="31" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Discovering monotone relations with Padé</Title>
+      <TitleISBD>Discovering monotone relations with Padé [Elektronski vir] 
+/ Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>Learning monotone models from data : at ECML PKDD 
+2009</Title>
+        <TitleISBD>Learning monotone models from data [Elektronski vir] / 
+European Conference on Machine Learning and Principles and Practice of 
+Knowledge Discovery in Databases, September 7, 2009, Bled, 
+Slovenia</TitleISBD>
+        <Subtitle>at ECML PKDD 2009</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni in slikovni podatki</Electronic>
+      </Material>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 39-46</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 39-46</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 46</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /kvalitativno modeliranje 
+/kvalitativni parcialni odvodi</Descriptors>
+      <Descriptors lang="eng">machine learning /qualitative partial 
+derivatives</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://www.ecmlpkdd2009.net/wp-content/uploads/2009/08/learning-monotone-models-from-data.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="7625812">
+      https://plus.si.cobiss.net/opac7/bib/7625812</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="32" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Jerše</SurName>
+ <Code>25594</Code>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>63858531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Johann</FirstName>
+ <SurName>Prankl</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>144508003</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matthias</FirstName>
+ <SurName>Schlemmer</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>144508515</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative models from image sequences</Title>
+      <TitleISBD>Learning qualitative models from image sequences / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Elizabeth</FirstName>
+  <SurName>Bradley</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Louise</FirstName>
+  <SurName>Travé-Massuyès</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>22nd International Workshop on Qualitative Reasoning, 24-26 
+June 2008, University of Colorado, Boulder CO USA</Title>
+        <TitleISBD>22nd International Workshop on Qualitative Reasoning, 
+24-26 June 2008, University of Colorado, Boulder CO USA / [editors 
+Elizabeth Bradley, Louise Travé-Massuyès]</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2008</PublisherISBD>
+        <PubDate>2008</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 146-149</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 146-149</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 149</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">In this paper, we describe the autonomous 
+learning of qualitative models with a robot's on-board vision. Those models 
+are used to describe spatio-temporal qualitative relations between observed 
+objects. Therefore, the algorithm QING is described which extracts the 
+necessary qualitative relations between the objects from the sequence of 
+images. The robot uses these features together with other sensory data to 
+learn about the environment.</Abstract>
+      <Descriptors lang="slv">učenje kvalitativnih modelov /kvalitativne 
+omejitve /računska topologija /diskretna Morseova teorija /analiza 
+slik</Descriptors>
+      <Descriptors lang="eng">learning qualitative models /qualitative 
+constraints /computational topology /dicrete Morse theory /image analysis 
+/qualitative (spatial) reasoning /cognitive vision /cognitive 
+robotics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="1">
+        
+<URL>http://www.cs.colorado.edu/~lizb/qr08/papers/Zabkar-QING.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="6584404">
+      https://plus.si.cobiss.net/opac7/bib/6584404</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="33" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ashok C.</FirstName>
+ <SurName>Mohan</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>144513379</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative models by an autonomous robot</Title>
+      <TitleISBD>Learning qualitative models by an autonomous robot / Jure 
+Žabkar, Ivan Bratko, Ashok C. Mohan</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Elizabeth</FirstName>
+  <SurName>Bradley</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Louise</FirstName>
+  <SurName>Travé-Massuyès</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>22nd International Workshop on Qualitative Reasoning, 24-26 
+June 2008, University of Colorado, Boulder CO USA</Title>
+        <TitleISBD>22nd International Workshop on Qualitative Reasoning, 
+24-26 June 2008, University of Colorado, Boulder CO USA / [editors 
+Elizabeth Bradley, Louise Travé-Massuyès]</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2008</PublisherISBD>
+        <PubDate>2008</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 150-155</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 150-155</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 155</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">učenje kvalitativnih modelov /aktivno učenje 
+/avtonomni robot</Descriptors>
+      <Descriptors lang="eng">learning qualitative models /active learning 
+/autonomous robot</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6584660">
+      https://plus.si.cobiss.net/opac7/bib/6584660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="34" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative models through partial derivatives by 
+Padé</Title>
+      <TitleISBD>Learning qualitative models through partial derivatives by 
+Padé / Jure Žabkar and Ivan Bratko and Janez Demšar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007,lock1 Aberystwyth University, Wales, U. 
+K.</CorpAuthor>
+        <Editor>
+  <FirstName>Chris</FirstName>
+  <SurName>Price</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>QR07</Title>
+        <TitleISBD>QR07 / 21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007, Aberystwyth University, Wales, U. 
+K.</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <ArtPageNums>str. 193-202</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 193-202</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 201-202</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">učenje kvalitativnih modelov /kvalitativne 
+omejitve /kvalitativni odvodi /vizualizacija kvalitativnih 
+modelov</Descriptors>
+      <Descriptors lang="eng">learning qualitative models /qualitative 
+constraints /qualitative derivatives /visualization of qualitative 
+models</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6002516">
+      https://plus.si.cobiss.net/opac7/bib/6002516</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="35" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Jerše</SurName>
+ <Code>25594</Code>
+ <CodeOrg>3-111.02</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>63858531</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Neža</FirstName>
+ <SurName>Mramor Kosta</SurName>
+ <Code>08947</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <CodeOrg>4-016</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3065955</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Induction of qualitative models using discrete Morse 
+theory</Title>
+      <TitleISBD>Induction of qualitative models using discrete Morse 
+theory / Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007,lock1 Aberystwyth University, Wales, U. 
+K.</CorpAuthor>
+        <Editor>
+  <FirstName>Chris</FirstName>
+  <SurName>Price</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>QR07</Title>
+        <TitleISBD>QR07 / 21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007, Aberystwyth University, Wales, U. 
+K.</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <ArtPageNums>str. 203-208</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 203-208</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 208</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Abstract lang="eng">Qualitative models are often a useful 
+abstraction of the physical word. Learning qualitative models from 
+numerical data is a possible way to obtain such an abstraction. We present 
+a new approach to induction of qualitative models from numerical data whivh 
+is based on discrete Morse theory (DMT). Our algorithm QING (ualitative 
+INduction Generalized) has a firm theoretical background in computational 
+topology. This makes it possible to extend the capabilities of 
+state-of-the-art algorithms for qualitative modelling substantially. The 
+output of QING is a labeled graph, which enables a visualisation of the 
+qualitative model. Induced qualitative models can also be used for 
+numerical regression by applying the ▫$Q^2$▫ method. To ilustrate the power 
+of QING we present its application on an artificial function, add noice, 
+and finally show how it performs on a dynamic domain such as inverted 
+pendulum.</Abstract>
+      <Descriptors lang="slv">učenje kvalitativnih modelov /kvalitativne 
+omejitve /računska topologija /diskretna Morseova teorija</Descriptors>
+      <Descriptors lang="eng">learning qualitative models /qualitative 
+constraints /computational topology /discrete Morse theory</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6003028">
+      https://plus.si.cobiss.net/opac7/bib/6003028</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="36" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Qualitatively constrained equation discovery</Title>
+      <TitleISBD>Qualitatively constrained equation discovery / Jure Žabkar 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007,lock1 Aberystwyth University, Wales, U. 
+K.</CorpAuthor>
+        <Editor>
+  <FirstName>Chris</FirstName>
+  <SurName>Price</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>QR07</Title>
+        <TitleISBD>QR07 / 21st International Workshop on Qualitative 
+Reasoning, June 26-28, 2007, Aberystwyth University, Wales, U. 
+K.</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2007</PublisherISBD>
+        <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      </BiblioSet>
+      <PubDate>2007</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <ArtPageNums>str. 209-211</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 209-211</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 211</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">odkrivanje enačb /kvalitativne omejitve 
+/nelinearna regresija</Descriptors>
+      <Descriptors lang="eng">equation discovery /qualitative constraints 
+/nonlinear regression</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="6002004">
+      https://plus.si.cobiss.net/opac7/bib/6002004</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="37" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Trevor J. M.</FirstName>
+ <SurName>Bench-Capon</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>88514403</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument based machine learning applied to law</Title>
+      <TitleISBD>Argument based machine learning applied to law 
+[Elektronski vir] / Martin Možina ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Paul E.</FirstName>
+  <SurName>Dunne</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Trevor J. M.</FirstName>
+  <SurName>Bench-Capon</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Argumentation in artificial intelligence and law</Title>
+        <TitleISBD>Argumentation in artificial intelligence and law 
+[Elektronski vir] / [Tenth International Conference on Artificial 
+Intelligence and Law (ICAIL 2005), June 6-11, 2005, Bologna - 
+Italy]</TitleISBD>
+      <ISBN>90-5850-501-4</ISBN>
+        <Publisher>
+        <Address>Nijmegen</Address>
+        <PublisherName>Wolf Legal Publishers</PublisherName>
+        </Publisher>
+      <PublisherISBD>Nijmegen : Wolf Legal Publishers, 2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>Besedilni podatki</Electronic>
+      </Material>
+      <PubDate>2005</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <Year>2005</Year>
+        <ArtPageNums>str. 87-94</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 87-94</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 94</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentacija /umetna 
+inteligenca /administrativno pravo /učenje pravil</Descriptors>
+      <Descriptors lang="eng">machine learning /argumentation /artificial 
+intelligence /administrative law /rule induction</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.89</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <Note>Elektronski vir na naslovu 
+http://vortex.uvt.nl/bzk/ICAIL05ws/vol2_ArgAIL.pdf ni več dostopen (7. 4. 
+2016)</Note>
+      </Link>
+      <COBISS co="SI" id="5070164">
+      https://plus.si.cobiss.net/opac7/bib/5070164</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="38" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Daniel</FirstName>
+ <SurName>Vladušič</SurName>
+ <Code>21305</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5046627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rahela</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>21370</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>11507555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danijel</FirstName>
+ <SurName>Čemas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>42868579</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dorian</FirstName>
+ <SurName>Šuc</SurName>
+ <Code>15754</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4286819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Using qualitative constraints in ozone prediction</Title>
+      <TitleISBD>Using qualitative constraints in ozone prediction / Jure 
+Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Michael</FirstName>
+  <SurName>Hofbaur</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Bernhard</FirstName>
+  <SurName>Rinner</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Franz</FirstName>
+  <SurName>Wotawa</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 19th International Workshop on 
+Qualitative Reasoning (QR-05), Graz, Austria, 18-20 May 2005</Title>
+        <TitleISBD>Proceedings of the 19th International Workshop on 
+Qualitative Reasoning (QR-05), Graz, Austria, 18-20 May 2005 / Michael 
+Hofbaur, Bernhard Rinner, Franz Wotawa (editors)</TitleISBD>
+      <ISBN>3-9502019-0-4</ISBN>
+        <Publisher>
+        <Address>Graz</Address>
+        <PublisherName>[s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>Graz : [s. n.], 2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="aut"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <ArtPageNums>str. 149-156</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 149-156</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 155-156</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">model za napovedovanje koncentracije ozona 
+/onesnaženost zraka /kvalitativno modeliranje</Descriptors>
+      <Descriptors lang="eng">ozone concentration prediction model /air 
+pollution /qualitative modelling</Descriptors>
+      <UDK>004.9</UDK>
+      <ClassNumber code="udc">004.9</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4765780">
+      https://plus.si.cobiss.net/opac7/bib/4765780</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="39" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>01984</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1844067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>1-001.03.09</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jerneja</FirstName>
+ <SurName>Videčnik</SurName>
+ <Code>24469</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>80410467</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Strojno učenje z argumenti na področju hudih bakterijskih 
+okužb pri starostnikih</Title>
+      <TitleISBD>Strojno učenje z argumenti na področju hudih bakterijskih 
+okužb pri starostnikih / Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>Prvo srečanje slovenskih bioinformatikov, 
+Ljubljana, 2. december 2005</CorpAuthor>
+        <Editor>
+  <FirstName>Gregor</FirstName>
+  <SurName>Anderluh</SurName>
+  <Code>15686</Code>
+  <Contrib>urednik</Contrib>
+  <Contrib>drugo</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Blaž</FirstName>
+  <SurName>Zupan</SurName>
+  <Code>12536</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Janez</FirstName>
+  <SurName>Stare</SurName>
+  <Code>08992</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik</Title>
+        <TitleISBD>Zbornik / Prvo srečanje slovenskih bioinformatikov, 
+Ljubljana, 2. december 2005</TitleISBD>
+      <ISBN>961-6209-54-X</ISBN>
+        <Edition>1. izd.</Edition>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 66-69</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 66-69</Extent>
+      </PhysicalAttributes>
+      <UDK>004.8</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="19486759">
+      https://plus.si.cobiss.net/opac7/bib/19486759</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="40" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Rahela</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>21370</Code>
+ <CodeOrg>3-111.01</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11507555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danijel</FirstName>
+ <SurName>Čemas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>42868579</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Ground-level ozone forecast based on machine learning</Title>
+      <TitleISBD>Ground-level ozone forecast based on machine learning / R. 
+Žabkar, J. Žabkar, and D. Čemas</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Carlos Alberto</FirstName>
+  <SurName>Brebbia</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Air pollution XII</Title>
+        <TitleISBD>Air pollution XII / edited by C.A. Brebbia</TitleISBD>
+      <ISBN>1-85312-722-1</ISBN>
+      <SeriesInfo>
+        <Title>Advances in air pollution</Title>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Southampton</Address>
+        <PublisherName>WIT</PublisherName>
+        </Publisher>
+      <PublisherISBD>Southampton : WIT, 2004</PublisherISBD>
+        <PubDate>2004</PubDate>
+      <Country code="gbr"/>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <ArtPageNums>str. 41-48</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 41-48</Extent>
+      </PhysicalAttributes>
+      <UDK>551.5</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="1882980">
+      https://plus.si.cobiss.net/opac7/bib/1882980</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="41" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Dayana</FirstName>
+ <SurName>Hristova</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>252873059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Geršak</SurName>
+ <Code>16323</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407139</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The persistency of motor programs as a source of difficulty in 
+motor learning</Title>
+      <TitleISBD>The persistency of motor programs as a source of 
+difficulty in motor learning [Elektronski vir] / Dayana Hristova Hristova, 
+Gregor Geršak, Jure Žabkar</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>MEi:CogSci Conference 2014, Kraków, Jagiellonian 
+University in Kraków, June 12-14, 2014</CorpAuthor>
+        </AuthorGroup>
+        <Title>MEi:CogSci Conference 2014, Kraków</Title>
+        <TitleISBD>MEi:CogSci Conference 2014, Kraków [Elektronski 
+vir]</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="cze"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="cze"/>
+      <Numbering>
+        <ArtPageNums>str. 1</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 1</Summaries>
+      </Notes>
+      <Descriptors lang="slv">merjenje /težavnost /motorično učenje 
+/givi</Descriptors>
+      <Descriptors lang="eng">measurements /difficulty /motor learning 
+/movement</Descriptors>
+      <UDK>621.317</UDK>
+      <ClassNumber code="udc">621.317</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://www.univie.ac.at/meicogsci/php/ocs/index.php/meicog/meicog2014/paper/view/618</URL>
+
+      </Link>
+      <COBISS co="SI" id="11096660">
+      https://plus.si.cobiss.net/opac7/bib/11096660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="42" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4407395</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learning qualitative models from numerical data : extended 
+abstract</Title>
+      <TitleISBD>Learning qualitative models from numerical data 
+[Elektronski vir] : extended abstract / Jure Žabkar ... [et al.]</TitleISBD>
+        <Subtitle>extended abstract</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>23rd International Joint Conference on Artificial 
+Intelligence</CorpAuthor>
+        </AuthorGroup>
+        <Title>IJCAI-13</Title>
+        <TitleISBD>IJCAI-13 [Elektronski vir] / 23rd International Joint 
+Conference on Artificial Intelligence, August 3-9, 2013, Beijing, 
+China</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2013</PublisherISBD>
+        <PubDate>2013</PubDate>
+      <Country code="chn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. prispevek</Electronic>
+      </Material>
+      <PubDate>2013</PubDate>
+      <Country code="chn"/>
+      <Numbering>
+        <ArtPageNums>str. 305-309</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 305-309</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 309</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kvalitativno sklepanje /regresija /ceteris 
+paribus /parcialni odvodi</Descriptors>
+      <Descriptors lang="eng">qualitative reasoning /regression /ceteris 
+paribus /partial derivatives</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="10186324">
+      https://plus.si.cobiss.net/opac7/bib/10186324</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="43" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Blaž</FirstName>
+ <SurName>Vrabec</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57380195</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Godnič</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84010851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Valter</FirstName>
+ <SurName>Šorli</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>84011619</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Daniel</FirstName>
+ <SurName>Vladušič</SurName>
+ <Code>21305</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5046627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Kay</FirstName>
+ <SurName>Sušelj</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>60446307</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Hydrological modelling of Savinja river using machine learning 
+methods</Title>
+      <TitleISBD>Hydrological modelling of Savinja river using machine 
+learning methods / Jure Žabkar ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>The Fifth European Conference on Ecological 
+Modelling ECEM 2005, Pushchino, Russia, September 19-23</CorpAuthor>
+        <Editor>
+  <FirstName>Alexander S.</FirstName>
+  <SurName>Komarov</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings</Title>
+        <TitleISBD>Proceedings / The Fifth European Conference on 
+Ecological Modelling ECEM 2005, Pushchino, Russia, September 
+19-23</TitleISBD>
+      <ISBN>5-7844-0120-3</ISBN>
+        <Publisher>
+        <Address>Pushchino</Address>
+        <PublisherName>Institute of Physicochemical and Biological Problems 
+in Soil Science</PublisherName>
+        </Publisher>
+      <PublisherISBD>Pushchino : Institute of Physicochemical and 
+Biological Problems in Soil Science, cop. 2005</PublisherISBD>
+        <PubDate>cop. 2005</PubDate>
+      <Country code="rus"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="rus"/>
+      <Numbering>
+        <ArtPageNums>str. 200-201</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 200-201</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 201</Summaries>
+      </Notes>
+      <Descriptors lang="slv">hidrološko modeliranje /strojno učenje 
+/napovedovanje poplav</Descriptors>
+      <Descriptors lang="eng">hydrological modelling /machine learning 
+/flood prediction</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">551.579:004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="4938324">
+      https://plus.si.cobiss.net/opac7/bib/4938324</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="44" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Trevor J. M.</FirstName>
+ <SurName>Bench-Capon</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>88514403</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Application of argument based machine learning to law</Title>
+      <TitleISBD>Application of argument based machine learning to law / 
+Martin Možina ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>The Tenth International Conference on Artificial 
+Intelligence and Law, June 6-11, 2005, Alma Mater Studiorum - University of 
+Bologna, CIRSFID, Bologna, Italy : proceedings of the conference</Title>
+        <TitleISBD>The Tenth International Conference on Artificial 
+Intelligence and Law, June 6-11, 2005, Alma Mater Studiorum - University of 
+Bologna, CIRSFID, Bologna, Italy</TitleISBD>
+        <Subtitle>proceedings of the conference</Subtitle>
+      <ISBN>1-59593-081-7</ISBN>
+        <Publisher>
+        <Address>New York</Address>
+        <PublisherName>The Association for Computing 
+Machinery</PublisherName>
+        </Publisher>
+      <PublisherISBD>New York : The Association for Computing Machinery, 
+cop. 2005</PublisherISBD>
+        <PubDate>cop. 2005</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 249</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 249</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 249</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /argumentacija /umetna 
+inteligenca /administrativno pravo /učenje pravil</Descriptors>
+      <Descriptors lang="eng">machine learning /argumentation /artificial 
+intelligence /administrative law /rule induction</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.89</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="5142868">
+      https://plus.si.cobiss.net/opac7/bib/5142868</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="45" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rahela</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>21370</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>11507555</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Daniel</FirstName>
+ <SurName>Vladušič</SurName>
+ <Code>21305</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5046627</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danijel</FirstName>
+ <SurName>Čemas</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>42868579</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dorian</FirstName>
+ <SurName>Šuc</SurName>
+ <Code>15754</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4286819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Q[sup]2 prediction of ozone concentrations</Title>
+      <TitleISBD>Q[sup]2 prediction of ozone concentrations / Jure Žabkar 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>The Fourth International Workshop on Environmental 
+Applications of Machine Learning (EAML 2004), Bled, Slovenia, September 
+27-October 1, 2004</CorpAuthor>
+        <Editor>
+  <FirstName>Sašo</FirstName>
+  <SurName>Džeroski</SurName>
+  <Code>11130</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Bernard</FirstName>
+  <SurName>Ženko</SurName>
+  <Code>22279</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marko</FirstName>
+  <SurName>Debeljak</SurName>
+  <Code>15660</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings</Title>
+        <TitleISBD>Proceedings / The Fourth International Workshop on 
+Environmental Applications of Machine Learning - EAML 2004, Bled, Slovenia, 
+September 27 - October 1, 2004</TitleISBD>
+      <ISBN>961-6303-59-7</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Jožef Stefan Institute</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Jožef Stefan Institute, 
+2004</PublisherISBD>
+      <Manufacturer>Ljubljana : Biografika Bori</Manufacturer>
+        <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. [1-2]</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. [1-2]</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. [2]</Summaries>
+      </Notes>
+      <Descriptors lang="slv">avtomatska gradnja modelov /strojno učenje 
+/kvalitativno sklepanje /učenje kvalitativnih modelov /regresija /ozon 
+/onesnaževanje ozračja</Descriptors>
+      <Descriptors lang="eng">automated model building /machine learning 
+/qualitative reasoning /learning qualitative models /ozone /air 
+pollution</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">681.3</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="4384596">
+      https://plus.si.cobiss.net/opac7/bib/4384596</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="46" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Vida</FirstName>
+ <SurName>Groznik</SurName>
+ <Code>33187</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>183676259</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Dejan</FirstName>
+ <SurName>Georgiev</SurName>
+ <Code>30915</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>163650147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleksander</FirstName>
+ <SurName>Sadikov</SurName>
+ <Code>20389</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4949859</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Development, debugging, and assessment of ParkinsonCheck 
+attributes through visualisation</Title>
+      <TitleISBD>Development, debugging, and assessment of ParkinsonCheck 
+attributes through visualisation [Elektronski vir] / Vida Groznik ... [et 
+al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Alexia</FirstName>
+  <SurName>Briassouli</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Jenny</FirstName>
+  <SurName>Benois-Pineau</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Alexander</FirstName>
+  <SurName>Hauptmann</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Health monitoring and personalized feedback using multimedia 
+data</Title>
+        <TitleISBD>Health monitoring and personalized feedback using 
+multimedia data [Elektronski vir] / Alexia Briassouli, Jenny Benois-Pineau, 
+Alexander Hauptmann, editors</TitleISBD>
+      <ISBN>978-3-319-17963-6</ISBN>
+      <ISBN>978-3-319-17962-9</ISBN>
+        <Publisher>
+        <Address>Cham [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham [etc.] : Springer, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 47-71</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 47-71</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-319-17963-6_4</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 69-71</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">ParkinsonCheck /tremor /parkinsonova bolezen 
+/sistem za podporo odločanju /vizualizacija atributov</Descriptors>
+      <Descriptors lang="eng">ParkinsonCheck /tremor /Parkinson's disease 
+/decision support system /attribute visualisation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:616.858</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        
+<URL>http://link.springer.com/chapter/10.1007/978-3-319-17963-6_4</URL>
+      </Link>
+      <COBISS co="SI" id="1536378819">
+      https://plus.si.cobiss.net/opac7/bib/1536378819</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="47" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Dates>1946-</Dates>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Argument-based machine learning</Title>
+      <TitleISBD>Argument-based machine learning / Ivan Bratko, Jure Žabkar 
+and Martin Možina</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Iyad</FirstName>
+  <SurName>Rahwan</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Guillermo R.</FirstName>
+  <SurName>Simari</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Argumentation in artificial intelligence</Title>
+        <TitleISBD>Argumentation in artificial intelligence / edited by 
+Iyad Rahwan, Guillermo R. Simari</TitleISBD>
+      <ISBN>978-0-387-98196-3</ISBN>
+      <ISBN>0-387-98196-9</ISBN>
+      <ISBN>0-387-98197-7</ISBN>
+      <ISBN>978-0-387-98197-0</ISBN>
+        <Publisher>
+        <Address>Dordrecht [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Dordrecht [etc.] : Springer, cop. 2009</PublisherISBD>
+        <PubDate>cop. 2009</PubDate>
+      <Country code="nld"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <ArtPageNums>str. 463-482</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 463-482</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 481-482</Summaries>
+      </Notes>
+      <Descriptors lang="slv">strojno učenje /tehnike argumentiranja 
+/argumentirano strojno učenje /učenje pravil</Descriptors>
+      <Descriptors lang="eng">machine learning /argumentation techniques 
+/argument-based machine learning /rule learning</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <COBISS co="SI" id="7718228">
+      https://plus.si.cobiss.net/opac7/bib/7718228</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.22 Intervju</Title>
+  
+    <BiblioEntry bno="48" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Bruno</FirstName>
+ <SurName>Maissonier</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>212181859</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Ude</SurName>
+ <Code>11772</Code>
+ <CodeOrg>1-001.03.01</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>3557219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marko</FirstName>
+ <SurName>Munih</SurName>
+ <Code>07134</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>2747491</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Christopher G.</FirstName>
+ <SurName>Atkeson</SurName>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>6700899</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Kako ustvariti stroj, ki nam bo čim bolj enak</Title>
+      <TitleISBD>Kako ustvariti stroj, ki nam bo čim bolj enak / Bruno 
+Maissonier ... [et al.] ; [pogovarjal se je] Uroš Škerl 
+Kramberger</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>IRT 3000</Title>
+        <TitleISBD>IRT 3000</TitleISBD>
+        <Subtitle>inovacije, razvoj, tehnologije</Subtitle>
+      <ISSN>1854-3669</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 6</VolumeNum>
+        <IssueNum>št. 36</IssueNum>
+        <Year>dec. 2011</Year>
+        <ArtPageNums>str. 15-16</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 15-16</Extent>
+      </PhysicalAttributes>
+      <ISSN>1854-3669</ISSN>
+      <UDK>007.52</UDK>
+      <Typology id="1.22">intervju</Typology>
+      <COBISS co="SI" id="25419815">
+      https://plus.si.cobiss.net/opac7/bib/25419815</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.05 Drugo učno gradivo</Title>
+  
+    <BiblioEntry bno="49" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Vaje pri predmetu Osnove umetne inteligence</Title>
+      <TitleISBD>Vaje pri predmetu Osnove umetne inteligence [Elektronski 
+vir] / Jure Žabkar, Martin Možina</TitleISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 USB ključ</Extent>
+        <Details>ilustr.</Details>
+        <Dim>11 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">umetna inteligenca /preiskovanje /planiranje 
+/strojno učenje</Descriptors>
+      <Descriptors lang="eng">artificial intelligence /search /planning 
+/machine learning</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.85</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <COBISS co="SI" id="1537377475">
+      https://plus.si.cobiss.net/opac7/bib/1537377475</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="50" type="monograph">
+      <AuthorGroup>
+        <CorpAuthor></CorpAuthor>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Martin</FirstName>
+ <SurName>Možina</SurName>
+ <Code>29021</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>15882851</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Zbirka nalog za predmet Osnove umetne inteligence</Title>
+      <TitleISBD>Zbirka nalog za predmet Osnove umetne inteligence 
+[Elektronski vir] / Jure Žabkar, Martin Možina</TitleISBD>
+      <Material>
+        <Electronic>El. knjiga</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Založba FRI</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Založba FRI, 2017</PublisherISBD>
+      <PubDate>2017</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <ISBN>978-961-6209-91-5</ISBN>
+        <Note>pdf</Note>
+        <Terms>brezplačno</Terms>
+      </Identifier>
+      <Abstract lang="">Gradivo je zbirka rešenih nalog iz raznih področij 
+umetne inteligence. Razdeljeno je na štiri poglavja: preiskovanje, 
+planiranje, strojno učenje in Bayesove mreže. S tem pokriva celotno snov 
+predmeta Osnove umetne inteligence.</Abstract>
+      <TopicalName>Umetna inteligenca - Vaje za visoke šole</TopicalName>
+      <Descriptors lang="">preiskovanje /planiranje /strojno učenje 
+/Bayesove mreže /računalništvo /naloge /rešitve</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8(075.8)(076.2)(0.034.2)</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <Link rel="0">
+        <URL>https://ailab.si/oui-zbirka-nalog.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="290478080">
+      https://plus.si.cobiss.net/opac7/bib/290478080</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="51" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Lotrič</SurName>
+ <Code>16109</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4360291</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Danijel</FirstName>
+ <SurName>Skočaj</SurName>
+ <Code>18198</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4597091</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Spoznavanje programiranja in robotike z Lego Mindstorms</Title>
+      <TitleISBD>Spoznavanje programiranja in robotike z Lego Mindstorms / 
+Uroš Lotrič, Danijel Skočaj, Jure Žabkar</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Fakulteta za računalništvo in 
+informatiko</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Fakulteta za računalništvo in informatiko, 
+2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 zv. (loč. pag.)</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">Lego Mindstorms /programiranje /EV3 
+/robotika</Descriptors>
+      <Descriptors lang="eng">Lego Mindstorms /programming /EV3 
+/robotics</Descriptors>
+      <UDK>004.8</UDK>
+      <UDK>007.52</UDK>
+      <ClassNumber code="udc">004.896</ClassNumber>
+      <ClassNumber code="udc">007.52</ClassNumber>
+      <Typology id="2.05">drugo učno gradivo</Typology>
+      <COBISS co="SI" id="1536232131">
+      https://plus.si.cobiss.net/opac7/bib/1536232131</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="52" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Učenje kvalitativnih odvisnosti : doktorska disertacija</Title>
+      <TitleISBD>Učenje kvalitativnih odvisnosti : doktorska disertacija / 
+Jure Žabkar</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Žabkar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Žabkar], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>X, 100 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Ivan Bratko, somentor Janez 
+Demšar</Responsibility>
+        <Summaries>Bibliografija: str. 93-100</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Umetna inteligenca - Modeliranje - 
+Disertacije</TopicalName>
+      <TopicalName>Strojno učenje - Disertacije</TopicalName>
+      <Descriptors lang="slv">kvalitativno modeliranje /kvalitativno učenje 
+/parcialni odvodi /okolice /sosednost /Padé /Qube /izbirni nomogrami /Edgar 
+/Strudel /Qing</Descriptors>
+      <Descriptors lang="eng">artificial intelligence /qualitative 
+modelling /machine learning /qualitative learning /partial derivatives 
+/neighbourhood /Padé /Qube /selective nomograms /Edgar /Strudel /Qing 
+/computer science /doctoral dissertations /theses</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8(043.3)</ClassNumber>
+      <ClassNumber code="udc">004.85(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1161/</URL>
+      </Link>
+      <COBISS co="SI" id="8024660">
+      https://plus.si.cobiss.net/opac7/bib/8024660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="53" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Janez</FirstName>
+ <SurName>Demšar</SurName>
+ <Code>16324</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Učenje kvalitativnih odvisnosti : doktorska disertacija</Title>
+      <TitleISBD>Učenje kvalitativnih odvisnosti [Elektronski vir] : 
+doktorska disertacija / Jure Žabkar</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Material>
+        <Electronic>Besedilni podatki</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Žabkar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Žabkar], 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>1 optični disk (CD-ROM)</Extent>
+        <Dim>12 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Ivan Bratko, somentor Janez 
+Demšar</Responsibility>
+        <Summaries>Bibliografija</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <TopicalName>Umetna inteligenca - Modeliranje - 
+Disertacije</TopicalName>
+      <TopicalName>Strojno učenje - Disertacije</TopicalName>
+      <Descriptors lang="">kvalitativno modeliranje /kvalitativno učenje 
+/parcialni odvodi /okolice /sosednost /Padé /Qube /izbirni nomogrami /Edgar 
+/Strudel /Qing /CD-ROM</Descriptors>
+      <Descriptors lang="eng">artificial intelligence /qualitative 
+modelling /machine learning /qualitative learning /partial derivatives 
+/neighbourhood /Padé /Qube /selective nomograms /Edgar /Strudel /Qing 
+/computer science /doctoral dissertations /theses</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8(043.3)(086.034.4)</ClassNumber>
+      <ClassNumber code="udc">004.85(043.3)(086.034.4)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/1161/</URL>
+      </Link>
+      <COBISS co="SI" id="253532672">
+      https://plus.si.cobiss.net/opac7/bib/253532672</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="54" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Uporaba Q [na] 2 učenja pri modeliranju dinamičnih sistemov : 
+diplomska naloga</Title>
+      <TitleISBD>Uporaba Q [na] 2 učenja pri modeliranju dinamičnih 
+sistemov : diplomska naloga / Jure Žabkar</TitleISBD>
+        <Subtitle>diplomska naloga</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Žabkar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Žabkar], 2004</PublisherISBD>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>43 f.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: f. 43</Summaries>
+        <Summaries>Povzetek</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">dinamični sistemi /modeliranje dinamičnih 
+sistemov /strojno učenje /kvalitativno zvesto kvantitativno učenje 
+/univerzitetni študij /diplomske naloge</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="4242004">
+      https://plus.si.cobiss.net/opac7/bib/4242004</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="55" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Dates>1974-</Dates>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Martin</FirstName>
+ <SurName>Juvan</SurName>
+ <Code>11220</Code>
+ <CodeOrg>3-111</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Standard STEP in prikaz objektov : diplomska naloga</Title>
+      <TitleISBD>Standard STEP in prikaz objektov : diplomska naloga / Jure 
+Žabkar</TitleISBD>
+        <Subtitle>diplomska naloga</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Žabkar]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Žabkar], 1999</PublisherISBD>
+      <PubDate>1999</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>47 f.</Extent>
+        <Details>graf. prikazi</Details>
+        <Dim>30 cm</Dim>
+        <AccompMaterial>1 CD-ROM</AccompMaterial>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: f. 47</Summaries>
+        <Dissertation>Univ. Ljubljana, FMF Matematika - praktična 
+matematika</Dissertation>
+      </Notes>
+      <Abstract lang="slv">Diplomska naloga na kratko predstavi standard 
+STEP, standard za izmenjavo podatkov. Opisani so glavni deli njegove 
+strukture. Ker je standard relativno nov, se še hitro spreminja in 
+dopolnjuje. V drugem poglavju je opisan računalniški program za prikaz 
+oblike objektov, opisanih v STEP-u. Diplomski nalogi je priložen tudi CD s 
+programom in potrebnimi knjižnicami. Tretje poglavje se poglobi v [Part42], 
+del standarda, ki opisuje obliko objekta. Izdelani računalniški program 
+temelji na tem delu. V četrtem poglavju je predstavljenih nekaj 
+matematičnih problemov, na katere sem naletel med pisanjem 
+programa.</Abstract>
+      <Descriptors lang="eng">standard /STEP /EXPRESS /Java /Java3D 
+/triangulation /computer graphics /CAD /curves /surfaces 
+/NURBS</Descriptors>
+      <Descriptors lang="slv">standard /triangulacija /računalniška grafika 
+/krivulje /ploskve</Descriptors>
+      <UDK>51</UDK>
+      <ClassNumber code="udc">519.68(043.2)</ClassNumber>
+      <ClassNumber code="MSC 91">68P20, 68U07, 68U05</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="9438809">
+      https://plus.si.cobiss.net/opac7/bib/9438809</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.13 Elaborat, predštudija, študija</Title>
+  
+    <BiblioEntry bno="56" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Jaklič</SurName>
+ <Code>13682</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3906147</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Papa</SurName>
+ <Code>18291</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4610659</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Critical success factors of data mining in 
+organizations</Title>
+      <TitleISBD>Critical success factors of data mining in organizations 
+[Elektronski vir] / Uroš Bole ... [et al.]</TitleISBD>
+      <SeriesInfo>
+        <Title>IJS delovno poročilo</Title>
+        <SeriesVolNums>10893</SeriesVolNums>
+      </SeriesInfo>
+      <SeriesInfoISBD>IJS delovno poročilo ; 10893
+      </SeriesInfoISBD>
+      <PublisherISBD>2011</PublisherISBD>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <UDK>004.8</UDK>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <Link rel="1">
+        <Note>Dostopno v knjižnici IJS</Note>
+      </Link>
+      <COBISS co="SI" id="25425191">
+      https://plus.si.cobiss.net/opac7/bib/25425191</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="57" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Dates>1973-</Dates>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>InterActive8 methodological framework for management od data 
+mining integration in organizations</Title>
+      <TitleISBD>InterActive8 methodological framework for management od 
+data mining integration in organizations [Elektronski vir] / Uroš Bole, 
+Jure Žabkar</TitleISBD>
+      <SeriesInfo>
+        <Title>IJS delovno poročilo</Title>
+        <SeriesVolNums>10894</SeriesVolNums>
+      </SeriesInfo>
+      <SeriesInfoISBD>IJS delovno poročilo ; 10894
+      </SeriesInfoISBD>
+      <PublisherISBD>2011</PublisherISBD>
+      <PubDate>2011</PubDate>
+      <Country code="svn"/>
+      <UDK>004</UDK>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <Link rel="1">
+        <Note>Dostopno v knjižnici IJS</Note>
+      </Link>
+      <COBISS co="SI" id="25425447">
+      https://plus.si.cobiss.net/opac7/bib/25425447</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.11 Radijski ali TV dogodek</Title>
+  
+    <BiblioEntry bno="58" type="performedwork">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Ivan</FirstName>
+ <SurName>Bratko</SurName>
+ <Code>02275</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>1897059</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jana</FirstName>
+ <SurName>Krivec</SurName>
+ <Code>32317</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>58476131</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Kaluža</SurName>
+ <Code>30875</Code>
+ <CodeOrg>1-001.03.09</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>125825891</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Matjaž</FirstName>
+ <SurName>Gams</SurName>
+ <Lineage>računalništvo</Lineage>
+ <Code>08501</Code>
+ <CodeOrg>1-001.03.09</CodeOrg>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>2986339</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>intervjuvanec</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Umetna inteligenca : TV Slovenija 1, oddaja Ugriznimo znanost 
+: intervju</Title>
+      <TitleISBD>Umetna inteligenca : TV Slovenija 1, oddaja Ugriznimo 
+znanost : intervju / Ivan Bratko ... [et al.] ; [pogovor vodil] Miha 
+Žorž</TitleISBD>
+        <Subtitle>TV Slovenija 1, oddaja Ugriznimo znanost</Subtitle>
+        <Subtitle>intervju</Subtitle>
+      <PublisherISBD>8. jun. 2010</PublisherISBD>
+      <PubDate>2010</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="">umetna inteligenca /šah /ambientalna inteligenca 
+/humanoidni roboti</Descriptors>
+      <UDK>004.8</UDK>
+      <Typology id="3.11">radijski ali TV dogodek</Typology>
+      <COBISS co="SI" id="23700007">
+      https://plus.si.cobiss.net/opac7/bib/23700007</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>3.15 Prispevek na konferenci brez natisa</Title>
+  
+    <BiblioEntry bno="59" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Bole</SurName>
+ <Dates>1973-</Dates>
+ <Code>36411</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>152804707</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>50440803</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A proposed methodology for integration of predictive analytics 
+in organizations : presented at Predictive Analytics World Workshop, 30 
+November - 1 December 2011, London, UK</Title>
+      <TitleISBD>A proposed methodology for integration of predictive 
+analytics in organizations : presented at Predictive Analytics World 
+Workshop, 30 November - 1 December 2011, London, UK / Uroš Bole, Jure 
+Žabkar</TitleISBD>
+        <Subtitle>presented at Predictive Analytics World Workshop, 30 
+November - 1 December 2011, London, UK</Subtitle>
+      <PublisherISBD>2011</PublisherISBD>
+      <PubDate>2011</PubDate>
+      <Country code="gbr"/>
+      <UDK>621.38</UDK>
+      <Typology id="3.15">prispevek na konferenci brez natisa</Typology>
+      <COBISS co="SI" id="25463847">
+      https://plus.si.cobiss.net/opac7/bib/25463847</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Urednik</Title>
+  
+    <BiblioEntry bno="60" type="monograph">
+      <AuthorGroup>
+        <Corporate>International Workshop on Qualitative Reasoning (23 ; 
+2009 ; Ljubljana)</Corporate>
+        <Editor>
+  <FirstName>Jure</FirstName>
+  <SurName>Žabkar</SurName>
+  <Code>29020</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Ivan</FirstName>
+  <SurName>Bratko</SurName>
+  <Code>02275</Code>
+  <CodeOrg>1-001.03.09</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+      </AuthorGroup>
+      <Title>QR 2009, 23rd International Workshop on Qualitative Reasoning, 
+22-24 June 2009, Ljubljana, Slovenia</Title>
+      <TitleISBD>QR 2009, 23rd International Workshop on Qualitative 
+Reasoning, 22-24 June 2009, Ljubljana, Slovenia / editors Jure Žabkar, Ivan 
+Bratko</TitleISBD>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>University of Ljubljana, Faculty of Computer and 
+Information Science</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : University of Ljubljana, Faculty of 
+Computer and Information Science, 2009</PublisherISBD>
+      <PubDate>2009</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>146 str.</Extent>
+        <Details>ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija pri vsakem prispevku</Summaries>
+      </Notes>
+      <Descriptors lang="">umetna inteligenca /kvalitativno sklepanje 
+/učenje</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8</ClassNumber>
+      <Typology>Urednik
+      </Typology>
+      <COBISS co="SI" id="23328551">
+      https://plus.si.cobiss.net/opac7/bib/23328551</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="61" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jaka</FirstName>
+ <SurName>Jenko</SurName>
+ <Dates>1997-</Dates>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>263817571</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Ambrož</FirstName>
+ <SurName>Stropnik</SurName>
+ <Code>31754</Code>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Diagnosticiranje napak v ekosistemu vozil : diplomsko delo : 
+visokošolski strokovni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Diagnosticiranje napak v ekosistemu vozil : diplomsko delo 
+: visokošolski strokovni študijski program prve stopnje Računalništvo in 
+informatika / Jaka Jenko</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>visokošolski strokovni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[J. Jenko]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [J. Jenko], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>36 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jure Žabkar</Responsibility>
+        <Responsibility>Somentor Ambrož Stropnik</Responsibility>
+        <Summaries>Bibliografija: str. 35-36</Summaries>
+        <Summaries>Povzetek ; Abstract: Diagnosing faults in vehicle 
+ecosystem</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">vozilo /napaka /diagnostika /računalništvo 
+/računalništvo in informatika /visokošolski strokovni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">vehicle /fault /diagnostic /computer science 
+/computer and information science /diploma</Descriptors>
+      <UDK>004.5</UDK>
+      <ClassNumber code="udc">004.5:629.33(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        
+<URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=109933&amp;lang=slv</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538337731">
+      https://plus.si.cobiss.net/opac7/bib/1538337731</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="62" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Edi</FirstName>
+ <SurName>Čebokli</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>332025443</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Merjenje bradikinezije za odkrivanje Parkinsonove bolezni : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika</Title>
+      <TitleISBD>Merjenje bradikinezije za odkrivanje Parkinsonove bolezni 
+: diplomsko delo : univerzitetni študijski program prve stopnje 
+Računalništvo in informatika / Edi Čebokli</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[E. Čebokli]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [E. Čebokli], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>42 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jure Žabkar</Responsibility>
+        <Summaries>Bibliografija: str. 39-42</Summaries>
+        <Summaries>Povzetek ; Abstract: Measurement of bradykinesia for the 
+detection of Parkinson's disease</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">bradikinezija /Enotna ocenjevalna lestvica 
+Parkinsonove bolezni /UPDRS /Parkinsonova bolezen /tapkanje s prsti 
+/računalništvo in informatika /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">bradykinesia /finger tapping /Parkinson's 
+disease /disease rating scale /UPDRS /computer and information science 
+/diploma</Descriptors>
+      <UDK>004.8</UDK>
+      <ClassNumber code="udc">004.8:616.858(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        
+<URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=109932&amp;lang=slv</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538336451">
+      https://plus.si.cobiss.net/opac7/bib/1538336451</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="63" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Simon</FirstName>
+ <SurName>Žaucer</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>332276579</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Paralelizacija Delaunayeve triangulacije : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Paralelizacija Delaunayeve triangulacije : diplomsko delo 
+: univerzitetni študijski program prve stopnje Računalništvo in informatika 
+/ Simon Žaucer</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[S. Žaucer]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [S. Žaucer], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>44 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jure Žabkar</Responsibility>
+        <Summaries>Bibliografija: str. 43-44</Summaries>
+        <Summaries>Povzetek ; Abstract: Parallelization of Delaunay 
+triangulation</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">triangulacija /deli in vladaj /Delaunay 
+/paralelnost /računalništvo in informatika /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">triangulation /divide and conquer /Delaunay 
+/paralelism /computer and information science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        
+<URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=110530&amp;lang=slv</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538347715">
+      https://plus.si.cobiss.net/opac7/bib/1538347715</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="64" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Armin</FirstName>
+ <SurName>Komić</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>332020323</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Rezanje poligonov : diplomsko delo : univerzitetni študijski 
+program prve stopnje Računalništvo in informatika</Title>
+      <TitleISBD>Rezanje poligonov : diplomsko delo : univerzitetni 
+študijski program prve stopnje Računalništvo in informatika / Armin 
+Komić</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[A. Komić]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [A. Komić], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>44 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jure Žabkar</Responsibility>
+        <Summaries>Bibliografija: str. 41-42</Summaries>
+        <Summaries>Povzetek ; Abstract: Polygon clipping</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">poligon /segment /presečišče /računalništvo 
+in informatika /univerzitetni študij /diplomske naloge</Descriptors>
+      <Descriptors lang="eng">polygon /segment /intersection /computer and 
+information science /diploma</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        
+<URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=109934&amp;lang=slv</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538335683">
+      https://plus.si.cobiss.net/opac7/bib/1538335683</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="65" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Luka</FirstName>
+ <SurName>Vranješ</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>332271715</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Sledenje očem z uporabo spletne kamere : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Sledenje očem z uporabo spletne kamere : diplomsko delo : 
+univerzitetni študijski program prve stopnje Računalništvo in informatika / 
+Luka Vranješ</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[L. Vranješ]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [L. Vranješ], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>30 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jure Žabkar</Responsibility>
+        <Summaries>Bibliografija: str. 29-30</Summaries>
+        <Summaries>Povzetek ; Abstract: Webcam based eyetracking</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">računalnik /oči /sledenje /kamera 
+/računalništvo in informatika /univerzitetni študij /diplomske 
+naloge</Descriptors>
+      <Descriptors lang="eng">computer /eyes /tracking /webcam /computer 
+and information science /diploma</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93:004.5(043.2)</ClassNumber>
+      <Typology>Mentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        
+<URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=110529&amp;lang=slv</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538347459">
+      https://plus.si.cobiss.net/opac7/bib/1538347459</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="66" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Anže</FirstName>
+ <SurName>Rozman</SurName>
+ <Dates>1992-</Dates>
+ <Contrib>avtor</Contrib>
+ <CONOR>283121763</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jože</FirstName>
+ <SurName>Rugelj</SurName>
+ <Code>05808</Code>
+ <CodeOrg>3-117</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jure</FirstName>
+ <SurName>Žabkar</SurName>
+ <Code>29020</Code>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Razvijanje algoritmičnega mišljenja osnovnošolcev s 
+pripomočkom Lego Mindstorms : diplomsko delo</Title>
+      <TitleISBD>Razvijanje algoritmičnega mišljenja osnovnošolcev s 
+pripomočkom Lego Mindstorms : diplomsko delo / Anže Rozman</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[A. Rozman]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [A. Rozman], 2016</PublisherISBD>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>II, 38 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jože Rugelj, somentor Jure 
+Žabkar</Responsibility>
+        <Summaries>Bibliografija: str. 38</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Pedagoška fak., Matematika - 
+računalništvo</Dissertation>
+      </Notes>
+      <TopicalName>computer science</TopicalName>
+      <TopicalName>računalništvo</TopicalName>
+      <Descriptors lang="slv">računalniško razmišljanje /algoritmično 
+razmišljanje /Lego Mindstorms EV3 /poletna šola LegoPy</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.2)</ClassNumber>
+      <Typology>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://pefprints.pef.uni-lj.si/id/eprint/3732</URL>
+      </Link>
+      <COBISS co="SI" id="11165769">
+      https://plus.si.cobiss.net/opac7/bib/11165769</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>

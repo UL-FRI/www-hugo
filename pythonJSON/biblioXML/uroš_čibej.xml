@@ -1,0 +1,4013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bibliography biblioType="personal" code="23400" period="2002-2019" represent="false">
+  <Name>Dr. Uroš Čibej</Name>
+  <Header>
+    <Left>Dr. Uroš Čibej [23400]</Left>
+    <Right>Osebna bibliografija za obdobje 2002-2019</Right>
+  </Header>
+  <Footer>
+    <Left>Vir: vzajemna baza podatkov COBISS.SI/COBIB.SI</Left>
+    <Right>14.10.2019</Right>
+  </Footer>
+  <Title>Dr. Uroš Čibej [23400]</Title>
+  <Subtitle>Osebna bibliografija za obdobje 2002-2019</Subtitle>
+  
+  
+  
+<BiblioDiv>
+  <Title>ČLANKI IN DRUGI SESTAVNI DELI</Title>
+  <BiblioList>
+    <Title>1.01 Izvirni znanstveni članek</Title>
+  
+    <BiblioEntry bno="1" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Identifying differences between human-written and random 
+programs</Title>
+      <TitleISBD>Identifying differences between human-written and random 
+programs / Uroš Čibej, Borut Robič and Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>The IPSI BgD transactions on internet research</Title>
+        <TitleISBD>The IPSI BgD transactions on internet 
+research</TitleISBD>
+        <Keytitle>IPSI BGD Trans. Internet Res.</Keytitle>
+      <ISSN>1820-4503</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 15</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>Jan. 2019</Year>
+        <ArtPageNums>str. 41-47</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 41-47</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>1820-4503</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 47</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">ročno napisani programi /strukturne lastnosti 
+/naključno generiranje /naključni programi</Descriptors>
+      <Descriptors lang="eng">human-written programs /structural properties 
+/random generation /random programs</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://tir.ipsitransactions.org/</URL>
+      </Link>
+      <COBISS co="SI" id="1538101187">
+      https://plus.si.cobiss.net/opac7/bib/1538101187</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="2" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Experimental comparison of matrix algorithms for dataflow 
+computer architecture</Title>
+      <TitleISBD>Experimental comparison of matrix algorithms for dataflow 
+computer architecture / Jurij Mihelič, Uroš Čibej</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Acta electrotechnica et informatica</Title>
+        <TitleISBD>Acta electrotechnica et informatica</TitleISBD>
+        <Keytitle>Acta electrotech. inform.</Keytitle>
+      <ISSN>1335-8243</ISSN>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svk"/>
+      <Numbering>
+        <VolumeNum>vol. 18</VolumeNum>
+        <IssueNum>no. 3</IssueNum>
+        <Year>Jul.-Sep. 2018</Year>
+        <ArtPageNums>str. 47-56</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 47-56</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.15546/aeei-2018-0025</DOI>
+      </Identifier>
+      <ISSN>1335-8243</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 55-56</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovno-pretokovno /koreografija /matrika 
+/algoritem /eksperiment /ovrednotenje</Descriptors>
+      <Descriptors lang="eng">dataflow /choreography /matrix /algorithm 
+/experiment /evaluation</Descriptors>
+      <UDK>004.2</UDK>
+      <ClassNumber code="udc">004.2</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://www.aei.tuke.sk/papers/2018/3/07_Mihelic.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538022339">
+      https://plus.si.cobiss.net/opac7/bib/1538022339</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="3" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Search-tree size estimation for the subgraph isomorphism 
+problem</Title>
+      <TitleISBD>Search-tree size estimation for the subgraph isomorphism 
+problem / Uroš Čibej, Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Acta electrotechnica et informatica</Title>
+        <TitleISBD>Acta electrotechnica et informatica</TitleISBD>
+        <Keytitle>Acta electrotech. inform.</Keytitle>
+      <ISSN>1335-8243</ISSN>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svk"/>
+      <Numbering>
+        <VolumeNum>vol. 18</VolumeNum>
+        <IssueNum>no. 4</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 3-10</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 3-10</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.15546/aeei-2018-0026</DOI>
+      </Identifier>
+      <ISSN>1335-8243</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 9-10</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sestopanje /hevristično vzorčenje /podgrafno 
+ujemanje /razpoznavanje vzorcev /iskalno drevo /podgrafni 
+izomorfizem</Descriptors>
+      <Descriptors lang="eng">backtracking /heuristic sampling /subgraph 
+matching /pattern matching /search trees /subgraph isomorphism</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93'1:519.17</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://www.aei.tuke.sk/papers/2018/4/01_Cibej.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538105539">
+      https://plus.si.cobiss.net/opac7/bib/1538105539</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="4" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Iskanje vzorčnih grafov s pomočjo iskalnega načrta ob 
+prisotnosti avtomorfizmov</Title>
+      <TitleISBD>Iskanje vzorčnih grafov s pomočjo iskalnega načrta ob 
+prisotnosti avtomorfizmov / Luka Fürst, Uroš Čibej, Jurij 
+Mihelič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 85</VolumeNum>
+        <IssueNum>št. 4</IssueNum>
+        <Year>2018</Year>
+        <ArtPageNums>str. 162-168</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 162-168</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 168</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">graf /podgrafni izomorfizem /avtomorfizem 
+/simetrija /iskalni načrt /preiskovalna ekvivalenca</Descriptors>
+      <Descriptors lang="eng">graph /subgraph isomorphism /automorphism 
+/symmetry /search plan /exploratory equivalence</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://ev.fe.uni-lj.si/4-2018/Fuerst.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538055619">
+      https://plus.si.cobiss.net/opac7/bib/1538055619</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="5" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Experimental algorithmics for the dataflow architecture : 
+guidelines and issues</Title>
+      <TitleISBD>Experimental algorithmics for the dataflow architecture : 
+guidelines and issues / Jurij Mihelič and Uroš Čibej</TitleISBD>
+        <Subtitle>guidelines and issues</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>The IPSI BGD Transactions on Advanced Research</Title>
+        <TitleISBD>The IPSI BGD Transactions on Advanced 
+Research</TitleISBD>
+        <Keytitle>IPSI BGD Trans. Adv. Res.</Keytitle>
+      <ISSN>1820-4511</ISSN>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="srb"/>
+      <Numbering>
+        <VolumeNum>vol. 13</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>Jul. 2017</Year>
+        <ArtPageNums>str. 1-8</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-8</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1820-4511</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 7-8</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">napotki /eksperimentalna algoritmika 
+/podatkovo-pretokovna arhitektura /učinkovitost /splošnost</Descriptors>
+      <Descriptors lang="eng">guidelines /experimental algorithmics 
+/dataflow architecture /efficiency /generality</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://tar.ipsitransactions.org/</URL>
+      </Link>
+      <COBISS co="SI" id="1537327555">
+      https://plus.si.cobiss.net/opac7/bib/1537327555</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="6" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Improvements to Ullmann's algorithm for the subgraph 
+isomorphism problem</Title>
+      <TitleISBD>Improvements to Ullmann's algorithm for the subgraph 
+isomorphism problem / Uroš Čibej and Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>International journal of pattern recognition and artificial 
+intelligence</Title>
+        <TitleISBD>International journal of pattern recognition and 
+artificial intelligence</TitleISBD>
+        <Keytitle>Int. j. pattern recogn. artif. intell.</Keytitle>
+      <ISSN>0218-0014</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="sgp"/>
+      <Numbering>
+        <VolumeNum>vol. 29</VolumeNum>
+        <IssueNum>no. 7</IssueNum>
+        <Year>Nov. 2015</Year>
+        <ArtPageNums>str. 1-26</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-26</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1142/S0218001415500251</DOI>
+      </Identifier>
+      <ISSN>0218-0014</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 24-26</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podgrafni izomorfizem /grafni vzorci 
+/eksperimentalno ovrednotenje /algoritem</Descriptors>
+      <Descriptors lang="eng">subgraph isomorphism /graph patterns 
+/algorithm /experimental evaluation</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93'1:004.89</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www.worldscientific.com/doi/abs/10.1142/S0218001415500251</URL>
+      </Link>
+      <COBISS co="SI" id="1536454339">
+      https://plus.si.cobiss.net/opac7/bib/1536454339</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="7" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>David</FirstName>
+ <SurName>Karlaš</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>261501539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Comparison of two automatic cell-counting solutions for 
+fluorescent microscopic images</Title>
+      <TitleISBD>Comparison of two automatic cell-counting solutions for 
+fluorescent microscopic images / J. Lojk ... [et al.]</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Journal of Microscopy</Title>
+        <TitleISBD>Journal of Microscopy</TitleISBD>
+        <Keytitle>J. Microsc. (Oxf.)</Keytitle>
+      <ISSN>0022-2720</ISSN>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 260</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>2015</Year>
+        <ArtPageNums>str. 107-116</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 107-116</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1111/jmi.12272</DOI>
+      </Identifier>
+      <ISSN>0022-2720</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 115-116</Summaries>
+        <Summaries>Summary</Summaries>
+      </Notes>
+      <Descriptors lang="slv">avtomatsko štetje celic /CellCounter 
+/Learn123 /celična variabilnost /evolucijski algoritem /fluorescenčna 
+mikroskopija /transfekcija</Descriptors>
+      <Descriptors lang="eng">automatic cell counting /CellCounter 
+/Learn123 /cell viability /evolutionary algorithm /fluorescence microscopy 
+/transfection</Descriptors>
+      <UDK>576</UDK>
+      <ClassNumber code="udc">576:602</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <URL>http://onlinelibrary.wiley.com/doi/10.1111/jmi.12272/epdf</URL>
+      </Link>
+      <COBISS co="SI" id="11059028">
+      https://plus.si.cobiss.net/opac7/bib/11059028</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="8" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Search strategies for subgraph isomorphism algorithms</Title>
+      <TitleISBD>Search strategies for subgraph isomorphism algorithms / 
+Uroš Čibej and Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>First International Conference on Applied 
+Algorithms, Kolkata, India, January 13-14, 2014</CorpAuthor>
+        <Editor>
+  <FirstName>Prosenjit</FirstName>
+  <SurName>Gupta</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Applied algorithms : first international conference : 
+proceedings</Title>
+        <TitleISBD>Applied algorithms / ICAA 2014, Kolkata, India, January 
+13-15, 2014</TitleISBD>
+        <Subtitle>first international conference</Subtitle>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-3-319-04125-4</ISBN>
+      <ISBN>978-3-319-04126-1</ISBN>
+      <SeriesInfo>
+        <Title>Lecture notes in computer science</Title>
+        <SeriesVolNums>8321</SeriesVolNums>
+        <ISSN>0302-9743</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham [etc.] : Springer, 2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Lecture notes in computer science</Title>
+        <TitleISBD>Lecture notes in computer science</TitleISBD>
+        <Keytitle>Lect. notes comput. sci.</Keytitle>
+      <ISSN>0302-9743</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 77-88</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 77-88</Extent>
+      </PhysicalAttributes>
+      <ISSN>0302-9743</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 87-88</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podgrafni izomorfizmi /Ullmanov algoritem 
+/iskalne strategije</Descriptors>
+      <Descriptors lang="eng">subgraph isomorphism /Ullman's algorithm 
+/search strategy</Descriptors>
+      <UDK>004.4</UDK>
+      <ClassNumber code="udc">004.4.021</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10394964">
+      https://plus.si.cobiss.net/opac7/bib/10394964</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="9" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Graditev in analiza grafov slovenskih besed</Title>
+      <TitleISBD>Graditev in analiza grafov slovenskih besed / Uroš 
+Čibej</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Elektrotehniški vestnik</Title>
+        <TitleISBD>Elektrotehniški vestnik</TitleISBD>
+      <ISSN>0013-5852</ISSN>
+        <Edition>[Slovenska tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <VolumeNum>letn. 80</VolumeNum>
+        <IssueNum>št. 4</IssueNum>
+        <Year>2013</Year>
+        <ArtPageNums>str. 141-146</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 141-146</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0013-5852</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 145-146</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">grafi /analiza grafov /naravni jeziki 
+/značilke grafov /slovenske besede /Levenshteinova razdalja /Hammingova 
+razdalja /Burkhard-Kellerjeva drevesa</Descriptors>
+      <Descriptors lang="eng">graph /graph analysis /nature languages 
+/Slovene words /Levenshtein distance /Hamming distance /Burkhard-Keller 
+trees</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:811.163.6</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="10394452">
+      https://plus.si.cobiss.net/opac7/bib/10394452</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="10" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Anthony</FirstName>
+ <SurName>Sulistio</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142885219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Sushil K.</FirstName>
+ <SurName>Prasad</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142970467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rajkumar</FirstName>
+ <SurName>Buyya</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142886755</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>GarQ : an efficient scheduling data structure for advance 
+reservations of grid resources</Title>
+      <TitleISBD>GarQ : an efficient scheduling data structure for advance 
+reservations of grid resources / Anthony Sulistio ... [et al.]</TitleISBD>
+        <Subtitle>an efficient scheduling data structure for advance 
+reservations of grid resources</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>International journal of parallel, emergent and distributed 
+systems</Title>
+        <TitleISBD>International journal of parallel, emergent and 
+distributed systems</TitleISBD>
+        <Keytitle>Int. j. parallel emergent distributed syst. 
+(Print)</Keytitle>
+      <ISSN>1744-5760</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 24</VolumeNum>
+        <IssueNum>no. 1</IssueNum>
+        <Year>2009</Year>
+        <ArtPageNums>str. 1-19</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-19</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1744-5760</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 18-19</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovna struktura /predhodna rezervacija 
+/drevo segmentov /čakalna vrsta s koledarjem /omrežno 
+računanje</Descriptors>
+      <Descriptors lang="eng">data structure /advance reservation /segment 
+tree /calendar queue /grid computing</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        <Note>Elektronski vir na naslovu 
+http://pdfserve.informaworld.com/85610_926843177_906359532.pdf ni več 
+dostopen (22. 5. 2013)</Note>
+      </Link>
+      <COBISS co="SI" id="6536276">
+      https://plus.si.cobiss.net/opac7/bib/6536276</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="11" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Anthony</FirstName>
+ <SurName>Sulistio</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142885219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Srikumar</FirstName>
+ <SurName>Venugopal</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142885987</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rajkumar</FirstName>
+ <SurName>Buyya</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142886755</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A toolkit for modelling and simulating data Grids : an 
+extension to GridSim</Title>
+      <TitleISBD>A toolkit for modelling and simulating data Grids : an 
+extension to GridSim / Anthony Sulistio ... [et al.]</TitleISBD>
+        <Subtitle>an extension to GridSim</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>Concurrency and computation</Title>
+        <TitleISBD>Concurrency and computation</TitleISBD>
+        <Subtitle>practice and experience</Subtitle>
+        <Keytitle>Concurr. comput.</Keytitle>
+      <ISSN>1532-0626</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2008</PubDate>
+      <Country code="gbr"/>
+      <Numbering>
+        <VolumeNum>vol. 20</VolumeNum>
+        <IssueNum>no. 13</IssueNum>
+        <Year>Sep. 2008</Year>
+        <ArtPageNums>str. 1591-1609</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1591-1609</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1002/cpe.1307</DOI>
+      </Identifier>
+      <ISSN>1532-0626</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 1608-1609</Summaries>
+        <Summaries>Summary</Summaries>
+      </Notes>
+      <Descriptors lang="slv">omrežno računanje /simulacije omrežij 
+/podatkovna omrežja</Descriptors>
+      <Descriptors lang="eng">Grid computing /Grid simulation /Data 
+Grids</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <Link rel="1">
+        
+<URL>http://www3.interscience.wiley.com/journal/121357857/issue</URL>
+      </Link>
+      <COBISS co="SI" id="6533716">
+      https://plus.si.cobiss.net/opac7/bib/6533716</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="12" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The complexity of static data replication in data grids</Title>
+      <TitleISBD>The complexity of static data replication in data grids / 
+Uroš Čibej, Boštjan Slivnik, Borut Robič</TitleISBD>
+      <BiblioSet relation="journal">
+        <Title>Parallel Computing</Title>
+        <TitleISBD>Parallel Computing</TitleISBD>
+        <Keytitle>Parallel comput.</Keytitle>
+      <ISSN>0167-8191</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="nld"/>
+      <Numbering>
+        <VolumeNum>vol. 31</VolumeNum>
+        <IssueNum>no. 8/9</IssueNum>
+        <Year>2005</Year>
+        <ArtPageNums>str. [900]-912</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. [900]-912</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>0167-8191</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 911-912</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podvajanje podatkov /omrežno računanje 
+/optimizacijski problem /NP-težak problem /neaproksimabilen 
+problem</Descriptors>
+      <Descriptors lang="eng">data replication /grid computing 
+/optimization problem /NP-hard problem /non-approximable 
+problem</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.01">izvirni znanstveni članek</Typology>
+      <COBISS co="SI" id="4995412">
+      https://plus.si.cobiss.net/opac7/bib/4995412</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.08 Objavljeni znanstveni prispevek na konferenci</Title>
+  
+    <BiblioEntry bno="13" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Tomaž</FirstName>
+ <SurName>Dobravec</SurName>
+ <Code>18188</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4596067</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>On the applicability of high-performance computing platforms : 
+an overview</Title>
+      <TitleISBD>On the applicability of high-performance computing 
+platforms [Elektronski vir] : an overview / Jurij Mihelič ... [et 
+al.]</TitleISBD>
+        <Subtitle>an overview</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Matej</FirstName>
+  <SurName>Babič</SurName>
+  <Lineage>matematik</Lineage>
+  <Code>32712</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>1st International Conference on New Research and Development 
+in Technical and Natural Science - ICNRDTNS, Radenci, Slovenia, 18.- 20. 
+September 2019</Title>
+        <TitleISBD>1st International Conference on New Research and 
+Development in Technical and Natural Science - ICNRDTNS, Radenci, Slovenia, 
+18.- 20. September 2019 [Elektronski vir] / [editor Matej Babič]</TitleISBD>
+      <ISBN>978-961-290-461-6</ISBN>
+        <Edition>Elektronic ed.</Edition>
+        <Publisher>
+        <Address>Podgradje</Address>
+        <PublisherName>Complex system Company</PublisherName>
+        </Publisher>
+      <PublisherISBD>Podgradje : Complex system Company, 
+2019</PublisherISBD>
+        <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 27-31</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 27-31</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 30</Summaries>
+      </Notes>
+      <Descriptors lang="slv">visoko zmogljivo računalništvo /procesor 
+/aplikacija /primerjava</Descriptors>
+      <Descriptors lang="eng">high-performance computing /processor 
+/application /comparison</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://icnrdtns.com/wp-content/uploads/2019/09/e-book-of-conference-paper.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1538374595">
+      https://plus.si.cobiss.net/opac7/bib/1538374595</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="14" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Heuristic sampling for the subgraph isomorphism problem</Title>
+      <TitleISBD>Heuristic sampling for the subgraph isomorphism problem / 
+Uroš Čibej, Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Valerie</FirstName>
+  <SurName>Novitzká</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Štefan</FirstName>
+  <SurName>Korečko</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Anikó</FirstName>
+  <SurName>Szakál</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Informatics 2017 : proceedings</Title>
+        <TitleISBD>Informatics 2017 / 2017 IEEE 14th International 
+Scientific Conference on Informatics, November 14-16, 2017, Poprad, 
+Slovakia</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-1-5386-0888-3</ISBN>
+        <Publisher>
+        <Address>Piscataway (NJ)</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Piscataway (NJ) : IEEE, cop. 2017</PublisherISBD>
+        <PubDate>cop. 2017</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 57-62</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 57-62</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1109/INFORMATICS.2017.8327222</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 61-62</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">sestopanje /vzorčenje /preiskovalno drevo 
+/podgrafni izomorfizem</Descriptors>
+      <Descriptors lang="eng">backtracking /sampling /search tree /subgraph 
+isomorphism</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="1">
+        <URL>https://ieeexplore.ieee.org/document/8327222</URL>
+      </Link>
+      <COBISS co="SI" id="1538115011">
+      https://plus.si.cobiss.net/opac7/bib/1538115011</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="15" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Dataflow processing of matrices and vectors : experimental 
+analysis</Title>
+      <TitleISBD>Dataflow processing of matrices and vectors : experimental 
+analysis / Jurij Mihelič, Uroš Čibej</TitleISBD>
+        <Subtitle>experimental analysis</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Valerie</FirstName>
+  <SurName>Novitzká</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Štefan</FirstName>
+  <SurName>Korečko</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Anikó</FirstName>
+  <SurName>Szakál</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Informatics 2017 : proceedings</Title>
+        <TitleISBD>Informatics 2017 / 2017 IEEE 14th International 
+Scientific Conference on Informatics, November 14-16, 2017, Poprad, 
+Slovakia</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-1-5386-0888-3</ISBN>
+        <Publisher>
+        <Address>Piscataway (NJ)</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Piscataway (NJ) : IEEE, cop. 2017</PublisherISBD>
+        <PubDate>cop. 2017</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 265-270</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 265-270</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1109/INFORMATICS.2017.8327258</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 270</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovno-pretokovno /koreografija /matrika 
+/algoritem /eksperiment /ovrednotenje</Descriptors>
+      <Descriptors lang="eng">dataflow /choreography /matrix /algorithm 
+/experiment /evaluation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="1">
+        <URL>https://ieeexplore.ieee.org/document/8327258</URL>
+      </Link>
+      <COBISS co="SI" id="1538023619">
+      https://plus.si.cobiss.net/opac7/bib/1538023619</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="16" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Exploratory equivalence on hypercube graphs</Title>
+      <TitleISBD>Exploratory equivalence on hypercube graphs [Elektronski 
+vir] / Jurij Mihelič, Uroš Čibej, Luka Fürst</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Brodnik</SurName>
+  <Code>04967</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Middle-European Conference on Applied Theoretical Computer 
+Science (MATCOS 2016) : zbornik 19. mednarodne multikonference 
+Informacijska družba - IS 2016, 12.-13. oktober 2016, [Ljubljana, 
+Slovenija] = proceedings of the 19th International Multiconference 
+Information Society - IS 2016, 12.-13 October 2016, Ljubljana, Slovenia : 
+zvezek H = volume H</Title>
+        <TitleISBD>Middle-European Conference on Applied Theoretical 
+Computer Science (MATCOS 2016) [Elektronski vir] / uredil, edited by Andrej 
+Brodnik</TitleISBD>
+        <Subtitle>zbornik 19. mednarodne multikonference Informacijska 
+družba - IS 2016, 12.-13. oktober 2016, [Ljubljana, Slovenija]</Subtitle>
+        <Subtitle>= proceedings of the 19th International Multiconference 
+Information Society - IS 2016, 12.-13 October 2016, Ljubljana, 
+Slovenia</Subtitle>
+        <Subtitle>zvezek H</Subtitle>
+        <Subtitle>= volume H</Subtitle>
+      <ISBN>978-961-264-104-7</ISBN>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut Jožef Stefan</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut Jožef Stefan, 2016</PublisherISBD>
+        <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 87-90</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 87-90</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 90</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">preiskovalna ekvivalenca /hiperkocka 
+/algoritem /Hammingova razdalja</Descriptors>
+      <Descriptors lang="eng">exploratory equivalence /hypercube /algorithm 
+/Hamming distance</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://library.ijs.si/Stacks/Proceedings/InformationSociety/2016/IS2016_Volume_H%20-%20MATCOS.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537328323">
+      https://plus.si.cobiss.net/opac7/bib/1537328323</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="17" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Compression of planar graphs</Title>
+      <TitleISBD>Compression of planar graphs / Uroš Čibej</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik petindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2016, 19. - 21. september 2016, Portorož, 
+Slovenija</Title>
+        <TitleISBD>Zbornik petindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2016, 19. - 21. september 2016, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <SeriesVolNums>25</SeriesVolNums>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2016</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 15-18</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 15-18</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 18</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">kompresija /ravninski grafi /empirično 
+ovrednotenje</Descriptors>
+      <Descriptors lang="eng">compression /planar graph /empirical 
+evaluation</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="1">
+        
+<URL>http://erk.fe.uni-lj.si/2016/papers/cibej(compression_of)p.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1537387203">
+      https://plus.si.cobiss.net/opac7/bib/1537387203</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="18" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Automatic adaptation of filter sequences for cell 
+counting</Title>
+      <TitleISBD>Automatic adaptation of filter sequences for cell counting 
+[Elektronski vir] / Uroš Čibej ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>MIPRO 2015, 38th International Convention, May 
+25-29, 2015, Opatija, Croatia</CorpAuthor>
+        <Editor>
+  <FirstName>Petar</FirstName>
+  <SurName>Biljanović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>MIPRO 2015 : proceedings</Title>
+        <TitleISBD>MIPRO 2015 [Elektronski vir] / 38th International 
+Convention, May 25-29, 2015, Opatija, Croatia</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-953-233-083-0</ISBN>
+      <SeriesInfo>
+        <Title>MIPRO ... (CD-ROM)</Title>
+        <SeriesVolNums>38</SeriesVolNums>
+        <ISSN>1847-3946</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Rijeka</Address>
+        <PublisherName>Croatian Society for Information and Communication 
+Technology, Electronics - MIPRO</PublisherName>
+        </Publisher>
+      <PublisherISBD>Rijeka : Croatian Society for Information and 
+Communication Technology, Electronics - MIPRO, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>MIPRO ...</Title>
+        <TitleISBD>MIPRO ... [Elektronski vir]</TitleISBD>
+        <Keytitle>MIPRO (CD-ROM)</Keytitle>
+      <ISSN>1847-3946</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2015</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 398-403</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 398-403</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1847-3946</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 403</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">genetski algoritmi /štetje celic /zaporedja 
+filtrov /računalniški vid</Descriptors>
+      <Descriptors lang="eng">genetic algorithms /cell counting /filter 
+sequences /computer vision</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93:575</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="1536324291">
+      https://plus.si.cobiss.net/opac7/bib/1536324291</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="19" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Maximum exploratory equivalence in trees</Title>
+      <TitleISBD>Maximum exploratory equivalence in trees [Elektronski vir] 
+/ Luka Fürst, Uroš Čibej and Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Author responsibility="alternative">
+ <FirstName>Maria</FirstName>
+ <SurName>Ganzha</SurName>
+ <Contrib>urednik</Contrib>
+        </Author>
+        <Editor>
+  <FirstName>Leszek</FirstName>
+  <SurName>Maciaszek</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marcin</FirstName>
+  <SurName>Paprzycki</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 2015 Federated Conference on Computer 
+Science and Information Systems, September 13-16, 2015, Łódź, Poland</Title>
+        <TitleISBD>Proceedings of the 2015 Federated Conference on Computer 
+Science and Information Systems, September 13-16, 2015, Łódź, Poland 
+[Elektronski vir] / Maria Ganzha, Leszek Maciaszek, Marcin Paprzycki 
+(eds.)</TitleISBD>
+      <ISBN>978-83-60810-65-1</ISBN>
+      <ISBN>978-83-60810-67-5</ISBN>
+      <ISBN>978-83-60810-66-8</ISBN>
+      <SeriesInfo>
+        <Title>Annals of computer science and information systems</Title>
+        <SeriesVolNums>vol. 5</SeriesVolNums>
+        <ISSN>2300-5963</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Warsaw</Address>
+        <PublisherName>Polskie Towarzystwo Informatyczne</PublisherName>
+        <Address>Los Alamitos (CA)</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Warsaw : Polskie Towarzystwo Informatyczne ; Los 
+Alamitos (CA) : IEEE, cop. 2015</PublisherISBD>
+        <PubDate>cop. 2015</PubDate>
+      <Country code="pol, usa"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Annals of computer science and information systems</Title>
+        <TitleISBD>Annals of computer science and information systems 
+[Elektronski vir]</TitleISBD>
+        <Keytitle>Ann. Comput. Sci. Inf. Syst.</Keytitle>
+      <ISSN>2300-5963</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2015</PubDate>
+      <Country code="pol, usa"/>
+      <Numbering>
+        <ArtPageNums>str. 507-518</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 507-518</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.15439/2015F329</DOI>
+      </Identifier>
+      <ISSN>2300-5963</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 517-518</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">graf /preiskovalna ekvivalenca /podgrafni 
+izomorfizem /optimizacijski problem</Descriptors>
+      <Descriptors lang="eng">graph /exploratory equivalence /subgraph 
+isomorphism /optimization problem</Descriptors>
+      <UDK>519.17</UDK>
+      <ClassNumber code="udc">519.17:004.021</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://fedcsis.org/proceedings/2015/pliks/fedcsis.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1536634563">
+      https://plus.si.cobiss.net/opac7/bib/1536634563</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="20" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Empirical estimation of the halting probabilities</Title>
+      <TitleISBD>Empirical estimation of the halting probabilities 
+[Elektronski vir] / Uroš Čibej, Borut Robič, and Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Arnold</FirstName>
+  <SurName>Beckmann</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Erszebet</FirstName>
+  <SurName>Csuháj-Varju</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Klaus</FirstName>
+  <SurName>Meer</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Collection of unpublished abstracts</Title>
+        <TitleISBD>Collection of unpublished abstracts [Elektronski vir] / 
+Tenth Conference on Computability in Europe, CiE 2014, Language, Life, 
+Limits, Budapest, Hungary, June 23 - 27, 2014</TitleISBD>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2014</PublisherISBD>
+        <PubDate>2014</PubDate>
+      <Country code="hun"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="hun"/>
+      <Numbering>
+        <ArtPageNums>str. 38-47</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 38-47</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 47</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">verjetnost ustavitve /generiranje programov 
+/semantika</Descriptors>
+      <Descriptors lang="eng">halting probability /program generation 
+/semantics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        
+<URL>http://cie2014.inf.elte.hu/?download=Collection-of-Unpublished-Abstracts-part-1.pdf</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537390275">
+      https://plus.si.cobiss.net/opac7/bib/1537390275</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="21" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Automatic cell counter for cell viability estimation</Title>
+      <TitleISBD>Automatic cell counter for cell viability estimation 
+[Elektronski vir] / Jasna Lojk ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>MIPRO 2014, 37th International Convention, May 
+26-30, 2014, Opatija, Croatia</CorpAuthor>
+        <Editor>
+  <FirstName>Petar</FirstName>
+  <SurName>Biljanović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>MIPRO 2014 : proceedings</Title>
+        <TitleISBD>MIPRO 2014 [Elektronski vir] / 37th International 
+Convention, May 26-30, 2014, Opatija, Croatia</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-953-233-078-6</ISBN>
+      <SeriesInfo>
+        <Title>MIPRO ... (CD-ROM)</Title>
+        <ISSN>1847-3946</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Rijeka</Address>
+        <PublisherName>Croatian Society for Information and Communication 
+Technology, Electronics - MIPRO</PublisherName>
+        </Publisher>
+      <PublisherISBD>Rijeka : Croatian Society for Information and 
+Communication Technology, Electronics - MIPRO, cop. 2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>MIPRO ...</Title>
+        <TitleISBD>MIPRO ... [Elektronski vir]</TitleISBD>
+        <Keytitle>MIPRO (CD-ROM)</Keytitle>
+      <ISSN>1847-3946</ISSN>
+        <Edition>[Online ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 252-257</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 252-257</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1847-3946</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 256-257</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">računalniški vid /avtomatsko štetje celic 
+/analiza mikroskopskih slik /transfekcija /preživetje celic /fluorescenčno 
+obarvane celice</Descriptors>
+      <Descriptors lang="eng">computer vision /automatic cell counting 
+/microscopic analysis /transfection /cell viability /fluorescently stained 
+cells</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.93</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10605908">
+      https://plus.si.cobiss.net/opac7/bib/10605908</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="22" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Fürst</SurName>
+ <Code>25527</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>57978211</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Exploratory equivalence in graphs : definition and 
+algorithms</Title>
+      <TitleISBD>Exploratory equivalence in graphs [Elektronski vir] : 
+definition and algorithms / Jurij Mihelič, Luka Fürst and Uroš 
+Čibej</TitleISBD>
+        <Subtitle>definition and algorithms</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Maria</FirstName>
+  <SurName>Ganzha</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Leszek</FirstName>
+  <SurName>Maciaszek</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marcin</FirstName>
+  <SurName>Paprzycki</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings of the 2014 Federated Conference on Computer 
+Science and Information Systems, September 7-10, 2014, Warsaw, 
+Poland</Title>
+        <TitleISBD>Proceedings of the 2014 Federated Conference on Computer 
+Science and Information Systems, September 7-10, 2014, Warsaw, Poland 
+[Elektronski vir] / Maria Ganzha, Leszek Maciaszek, Marcin Paprzycki 
+(eds.)</TitleISBD>
+      <ISBN>978-83-60810-58-3</ISBN>
+      <SeriesInfo>
+        <Title>Annals of Computer Science and Information Systems</Title>
+        <SeriesVolNums>vol. 2</SeriesVolNums>
+        <ISSN>2300-5963</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Warszawa</Address>
+        <PublisherName>Polskie Towarzystwo Informatyczne</PublisherName>
+        <Address>New York</Address>
+        <PublisherName>IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Warszawa : Polskie Towarzystwo Informatyczne ; New 
+York : IEEE, cop. 2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="pol, usa"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Annals of computer science and information systems</Title>
+        <TitleISBD>Annals of computer science and information systems 
+[Elektronski vir]</TitleISBD>
+        <Keytitle>Ann. Comput. Sci. Inf. Syst.</Keytitle>
+      <ISSN>2300-5963</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2014</PubDate>
+      <Country code="pol"/>
+      <Numbering>
+        <ArtPageNums>str. 447-456</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 447-456</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>2300-5963</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 456</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">graf /avtomorfizem /preiskovalna ekvivalenca 
+/kombinatorična optimizacija /grafna gramatika</Descriptors>
+      <Descriptors lang="eng">graph /automorphism /exploratory equivalence 
+/combinatorial optimization /graph grammar</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>https://fedcsis.org/proceedings/2014/pliks/fedcsis.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1536060099">
+      https://plus.si.cobiss.net/opac7/bib/1536060099</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="23" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Matic</FirstName>
+ <SurName>Potočnik</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>224314467</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Linter - a tool for finding bugs and potential problems in 
+Scala code</Title>
+      <TitleISBD>Linter - a tool for finding bugs and potential problems in 
+Scala code [Elektronski vir] / Matic Potočnik, Uroš Čibej, Boštjan 
+Slivnik</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>Proceedings of the 29th Annual ACM Symposium on 
+Applied Computing, Gyeongju, Korea, March 24-28, 2014</CorpAuthor>
+        </AuthorGroup>
+        <Title>Proceedings of the 29th Annual ACM Symposium on Applied 
+Computing, Gyeongju, Korea, March 24-28, 2014</Title>
+        <TitleISBD>Proceedings of the 29th Annual ACM Symposium on Applied 
+Computing, Gyeongju, Korea, March 24-28, 2014 [Elektronski vir]</TitleISBD>
+        <Publisher>
+        <Address>[S. l.]</Address>
+        <PublisherName>Association for Computing Machinery</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l.] : Association for Computing Machinery, cop. 
+2014</PublisherISBD>
+        <PubDate>cop. 2014</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <PubDate>2014</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 1615-1616</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 1615-1616</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 1616</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">statična analiza /abstraktna interpretacija 
+/Scala</Descriptors>
+      <Descriptors lang="eng">static analysis /abstract interpretation 
+/Scala</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10520660">
+      https://plus.si.cobiss.net/opac7/bib/10520660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="24" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Konstrukcija grafov slovenskih besed</Title>
+      <TitleISBD>Konstrukcija grafov slovenskih besed / Uroš 
+Čibej</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik dvaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2013, 16.-18. september 2013, Portorož, 
+Slovenija</Title>
+        <TitleISBD>Zbornik dvaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2013, 16.-18. september 2013, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2013</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2013</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 19-22</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 19-22</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 22</Summaries>
+        <Summaries>Povzetek v angl.</Summaries>
+      </Notes>
+      <Descriptors lang="slv">analiza grafov /Levenshteinova razdalja 
+/značilke grafa</Descriptors>
+      <Descriptors lang="eng">graph analysis /Levenshtein distance /graph 
+features</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004:519.17</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="10104660">
+      https://plus.si.cobiss.net/opac7/bib/10104660</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="25" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Izboljšave Ullmannovega algoritma za problem iskanja 
+podgrafnih izomorfizmov</Title>
+      <TitleISBD>Izboljšave Ullmannovega algoritma za problem iskanja 
+podgrafnih izomorfizmov / Jurij Mihelič in Uroš Čibej</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Trost</SurName>
+  <Code>18185</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik enaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2012, 17.-19. september 2012, Portorož, 
+Slovenija</Title>
+        <TitleISBD>Zbornik enaindvajsete mednarodne Elektrotehniške in 
+računalniške konference ERK 2012, 17.-19. september 2012, Portorož, 
+Slovenija / uredila Baldomir Zajc, Andrej Trost</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2012</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2012</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>zv. B</IssueNum>
+        <ArtPageNums>str. 35-38</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 35-38</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 38</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podgrafni izomorfizmi /iskanje vzorcev 
+/algoritem</Descriptors>
+      <Descriptors lang="eng">subgraph isomorphisms /pattern matching 
+/algorithm</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004.021</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="9385556">
+      https://plus.si.cobiss.net/opac7/bib/9385556</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="26" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Distributed web service for geospatial applications</Title>
+      <TitleISBD>Distributed web service for geospatial applications / U. 
+Čibej, J. Mihelič and Boštjan Slivnik</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>MIPRO 2009, 32nd International Convention, May 
+25-29, 2009, Opatija, Croatia</CorpAuthor>
+        <Editor>
+  <FirstName>Petar</FirstName>
+  <SurName>Biljanović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Karolj</FirstName>
+  <SurName>Skala</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings. [Vol. 1, MEET &amp; GVS]</Title>
+        <TitleISBD>Proceedings. [Vol. 1, MEET &amp; GVS] / MIPRO 2009, 32nd 
+International Convention, May 25-29, 2009, Opatija, Croatia</TitleISBD>
+      <ISBN>978-953-233-044-1</ISBN>
+        <Publisher>
+        <Address>Rijeka</Address>
+        <PublisherName>MIPRO</PublisherName>
+        </Publisher>
+      <PublisherISBD>Rijeka : MIPRO, cop. 2009</PublisherISBD>
+        <PubDate>cop. 2009</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 295-299</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 295-299</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 299</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">porazdeljeni sistemi /spletne storitve 
+/geografski informacijski sistemi</Descriptors>
+      <Descriptors lang="eng">distributed systems /web services /geographic 
+information systems</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">659.2:004:91</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="8620372">
+      https://plus.si.cobiss.net/opac7/bib/8620372</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="27" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Modeling of data replication in data grids</Title>
+      <TitleISBD>Modeling of data replication in data grids / Uroš Čibej, 
+Boštjan Slivnik and Borut Robič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>Cracow '04 Grid Workshop, December 13-15, 2004, 
+Cracow, Poland</CorpAuthor>
+        <Editor>
+  <FirstName>Marian</FirstName>
+  <SurName>Bubak</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Michał</FirstName>
+  <SurName>Turała</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Kazimierz</FirstName>
+  <SurName>Wiatr</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings</Title>
+        <TitleISBD>Proceedings / Cracow '04 Grid Workshop, December 13-15, 
+2004, Cracow, Poland</TitleISBD>
+      <ISBN>83-915141-4-5</ISBN>
+        <Publisher>
+        <Address>Kraków</Address>
+        <PublisherName>Academic Computer Centre</PublisherName>
+        </Publisher>
+      <PublisherISBD>Kraków : Academic Computer Centre, 2005</PublisherISBD>
+        <PubDate>2005</PubDate>
+      <Country code="pol"/>
+      </BiblioSet>
+      <PubDate>2005</PubDate>
+      <Country code="pol"/>
+      <Numbering>
+        <ArtPageNums>str. 229-236</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 229-236</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 236</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podvajanje podatkov /modeliranje /časovna 
+kompleksnost</Descriptors>
+      <Descriptors lang="eng">data replication /modelling /time 
+complexity</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4812116">
+      https://plus.si.cobiss.net/opac7/bib/4812116</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="28" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Pipan</SurName>
+ <Code>17166</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4469603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Jovanovič</SurName>
+ <Code>25424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>8500323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Šterk</SurName>
+ <Code>21555</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5086819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Igor</FirstName>
+ <SurName>Ozimek</SurName>
+ <Code>09856</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3205731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Roman</FirstName>
+ <SurName>Trobec</SurName>
+ <Code>06875</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2697315</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Setting up an interinstitutional test grid</Title>
+      <TitleISBD>Setting up an interinstitutional test grid / B. Slivnik 
+... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>27rd International Convention MIPRO 2004, May 
+24-28, 2004, Opatija, Croatia</CorpAuthor>
+        <Editor>
+  <FirstName>Petar</FirstName>
+  <SurName>Biljanović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Karolj</FirstName>
+  <SurName>Skala</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Proceedings, Microelectronics, electronics and electronic 
+technologies / MEET, Hypermedia and grid systems / HGS</Title>
+        <TitleISBD>Proceedings. Microelectronics, electronics and 
+electronic technologies / MEET. Hypermedia and grid systems / HGS / 27th 
+International Convention MIPRO 2004, May 24-28, 2004, Opatija, 
+Croatia</TitleISBD>
+      <ISBN>953-233-001-1</ISBN>
+        <Publisher>
+        <Address>Rijeka</Address>
+        <PublisherName>MIPRO</PublisherName>
+        </Publisher>
+      <PublisherISBD>Rijeka : MIPRO, 2004</PublisherISBD>
+        <PubDate>2004</PubDate>
+      <Country code="hrv"/>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="hrv"/>
+      <Numbering>
+        <ArtPageNums>str. 245-249</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 245-249</Extent>
+      </PhysicalAttributes>
+      <UDK>621.39</UDK>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="18250535">
+      https://plus.si.cobiss.net/opac7/bib/18250535</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="29" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>NP-completeness of the incremental data replication problem in 
+data grids</Title>
+      <TitleISBD>NP-completeness of the incremental data replication 
+problem in data grids / Uroš Čibej and Boštjan Slivnik</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Marjan</FirstName>
+  <SurName>Heričko</SurName>
+  <Code>11064</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Ivan</FirstName>
+  <SurName>Rozman</SurName>
+  <Code>08067</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Matjaž B.</FirstName>
+  <SurName>Jurič</SurName>
+  <Code>18337</Code>
+  <CodeOrg>3-202</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Vladislav</FirstName>
+  <SurName>Rajkovič</SurName>
+  <Code>01074</Code>
+  <CodeOrg>1-001.03.09</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Tanja</FirstName>
+  <SurName>Urbančič</SurName>
+  <Code>04586</Code>
+  <CodeOrg>1-001.03.08</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Mojca</FirstName>
+  <SurName>Bernik</SurName>
+  <Code>18655</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Maja</FirstName>
+  <SurName>Bučar</SurName>
+  <Code>03791</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Andrej</FirstName>
+  <SurName>Brodnik</SurName>
+  <Code>04967</Code>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik D 7. mednarodne multikonference Informacijska družba 
+IS 2004, 9. do 15. oktober 2004</Title>
+        <TitleISBD>Zbornik D 7. mednarodne multikonference Informacijska 
+družba IS 2004, 9. do 15. oktober 2004 / uredili, edited by Marjan Heričko 
+... [et al.]</TitleISBD>
+      <ISBN>961-6303-65-1</ISBN>
+      <SeriesInfo>
+        <Title>Informacijska družba</Title>
+        <ISSN>1581-9973</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Institut "Jožef Stefan"</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : Institut "Jožef Stefan", 
+2004</PublisherISBD>
+      <Manufacturer>Ljubljana : Bori</Manufacturer>
+        <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Informacijska družba</Title>
+        <TitleISBD>Informacijska družba</TitleISBD>
+      <ISSN>1581-9973</ISSN>
+        <Edition>(Tiskana izd.)</Edition>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 203-205</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 203-205</Extent>
+      </PhysicalAttributes>
+      <ISSN>1581-9973</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 205</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">podatkovno omrežje /podvajanje 
+podatkov</Descriptors>
+      <Descriptors lang="eng">data grid /data replication</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4421716">
+      https://plus.si.cobiss.net/opac7/bib/4421716</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="30" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Zahtevnost izboljšave požrešnega podvajanja podatkov v 
+podatkovnih omrežjih</Title>
+      <TitleISBD>Zahtevnost izboljšave požrešnega podvajanja podatkov v 
+podatkovnih omrežjih / Uroš Čibej, Boštjan Slivnik, Borut Robič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik trinajste mednarodne elektrotehniške in računalniške 
+konference ERK 2004, 27. - 29. september 2004, Portorož, Slovenija</Title>
+        <TitleISBD>Zbornik trinajste mednarodne elektrotehniške in 
+računalniške konference ERK 2004, 27. - 29. september 2004, Portorož, 
+Slovenija / uredil Baldomir Zajc</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+(Tiskana izd.)</Title>
+        <ISSN>1581-4572</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2004</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <IssueNum>vol. B</IssueNum>
+        <ArtPageNums>str. 123-126</ArtPageNums>
+        <ArtDetails>Graf. prikazi</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 123-126</Extent>
+        <Details>Graf. prikazi</Details>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 126</Summaries>
+        <Summaries>Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">omrežno računanje /podvajanje podatkov 
+/hevristika /časovna zahtevnost</Descriptors>
+      <Descriptors lang="eng">grid computing /data replication /heuristic 
+/time complexity</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="4362068">
+      https://plus.si.cobiss.net/opac7/bib/4362068</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="31" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>NP-polnost podvajanja podatkov v omrežnem računanju</Title>
+      <TitleISBD>NP-polnost podvajanja podatkov v omrežnem računanju / 
+Boštjan Slivnik, Uroš Čibej, Borut Robič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Baldomir</FirstName>
+  <SurName>Zajc</SurName>
+  <Code>01925</Code>
+  <CodeOrg>3-107</CodeOrg>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Zbornik dvanajste mednarodne Elektrotehniške in računalniške 
+konference ERK 2003, 25. - 26. september 2003, Ljubljana, Slovenija</Title>
+        <TitleISBD>Zbornik dvanajste mednarodne Elektrotehniške in 
+računalniške konference ERK 2003, 25. - 26. september 2003, Ljubljana, 
+Slovenija / uredil Baldomir Zajc</TitleISBD>
+      <SeriesInfo>
+        <Title>Zbornik ... Elektrotehniške in računalniške konference ERK 
+...</Title>
+        <SeriesVolNums>1581-4572</SeriesVolNums>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>IEEE Region 8, Slovenska sekcija IEEE</PublisherName>
+        </Publisher>
+      <PublisherISBD>Ljubljana : IEEE Region 8, Slovenska sekcija IEEE, 
+2003</PublisherISBD>
+      <Manufacturer>Ljubljana : Somaru</Manufacturer>
+        <PubDate>2003</PubDate>
+      <Country code="svn"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Zbornik ... Elektrotehniške in računalniške konference 
+...</Title>
+        <TitleISBD>Zbornik ... Elektrotehniške in računalniške konference 
+...</TitleISBD>
+      <ISSN>1581-4572</ISSN>
+        <Edition>[Tiskana izd.]</Edition>
+      </BiblioSet>
+      <PubDate>2003</PubDate>
+      <Country code="svn"/>
+      <Numbering>
+        <ArtPageNums>str. 421-424</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 421-424</Extent>
+      </PhysicalAttributes>
+      <ISSN>1581-4572</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 424</Summaries>
+        <Summaries>Povzetek</Summaries>
+      </Notes>
+      <Descriptors lang="slv">mrežno računanje /podvajanje podatkov 
+/kompleksnost /formalni model</Descriptors>
+      <Descriptors lang="eng">grid computing /data replication /complexity 
+/formal model</Descriptors>
+      <UDK>51-7</UDK>
+      <ClassNumber code="udc">51-7</ClassNumber>
+      <Typology id="1.08">objavljeni znanstveni prispevek na 
+konferenci</Typology>
+      <COBISS co="SI" id="3856980">
+      https://plus.si.cobiss.net/opac7/bib/3856980</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.12 Objavljeni povzetek znanstvenega prispevka na konferenci</Title>
+  
+    <BiblioEntry bno="32" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Symmetry-compressible graphs</Title>
+      <TitleISBD>Symmetry-compressible graphs [Elektronski vir] / Uroš 
+Čibej, Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Ali</FirstName>
+  <SurName>Bilgin</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>DCC 2017 : proceedings</Title>
+        <TitleISBD>DCC 2017 [Elektronski vir] / Data Compression 
+Conference, 4-7 April 2017, Snowbird, Utah, USA</TitleISBD>
+        <Subtitle>proceedings</Subtitle>
+      <ISBN>978-1-5090-6721-3</ISBN>
+      <SeriesInfo>
+        <Title>DCC (Los Alamitos, Calif.)</Title>
+        <ISSN>1068-0314</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Los Alamitos (CA)</Address>
+        <PublisherName>IEEE Computer Society</PublisherName>
+        </Publisher>
+      <PublisherISBD>Los Alamitos (CA) : IEEE Computer Society, cop. 
+2017</PublisherISBD>
+        <PubDate>cop. 2017</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 435</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 435</Extent>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1109/DCC.2017.20</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 435</Summaries>
+      </Notes>
+      <Descriptors lang="slv">teorija grafov /kompresija podatkov 
+/avtomorfizmi</Descriptors>
+      <Descriptors lang="eng">graph theory /data compression 
+/automorphisms</Descriptors>
+      <UDK>004.6</UDK>
+      <ClassNumber code="udc">004.627</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <Link rel="0">
+        <URL>http://ieeexplore.ieee.org/document/7923718/</URL>
+      </Link>
+      <COBISS co="SI" id="1537445571">
+      https://plus.si.cobiss.net/opac7/bib/1537445571</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="33" type="article">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>David</FirstName>
+ <SurName>Karlaš</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>261501539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Easy automatic cell counting solutions for fluorescence 
+mycroscopy</Title>
+      <TitleISBD>Easy automatic cell counting solutions for fluorescence 
+mycroscopy / J. Lojk ... [et al.]</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor>7th International Congress Nanotechnology in 
+Medicine &amp; Biology, 6-8 April 2016, Krems, Austria</CorpAuthor>
+        </AuthorGroup>
+        <Title>BioNanoMed 2016 : congress documentation</Title>
+        <TitleISBD>BioNanoMed 2016 / 7th International Congress 
+Nanotechnology in Medicine &amp; Biology, 6-8 April 2016, Krems / 
+Austria</TitleISBD>
+        <Subtitle>congress documentation</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2016</PublisherISBD>
+        <PubDate>2016</PubDate>
+      <Country code="aut"/>
+      </BiblioSet>
+      <PubDate>2016</PubDate>
+      <Country code="aut"/>
+      <Numbering>
+        <ArtPageNums>str. [97]</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. [97]</Extent>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. [97]</Summaries>
+      </Notes>
+      <Descriptors lang="slv">štetje celic /CellCounter /Learn123 
+/evaluacija programa</Descriptors>
+      <Descriptors lang="eng">cell counting /CellCounter /Learn123 /program 
+evaluation</Descriptors>
+      <UDK>577</UDK>
+      <ClassNumber code="udc">577</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="11335508">
+      https://plus.si.cobiss.net/opac7/bib/11335508</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="34" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Locating copies of data in a grid computing environment : a 
+formal model and heuristics</Title>
+      <TitleISBD>Locating copies of data in a grid computing environment : 
+a formal model and heuristics / Uroš Čibej, Borut Robič</TitleISBD>
+        <Subtitle>a formal model and heuristics</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>European working group on locational analysis, September 
+5-8, 2004, Saarland University, Saarbrücken, Germany : XV meeting : 
+[program - abstracts]</Title>
+        <TitleISBD>European working group on locational analysis, September 
+5-8, 2004, Saarland University, Saarbrücken, Germany</TitleISBD>
+        <Subtitle>XV meeting</Subtitle>
+        <Subtitle>[program - abstracts]</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2004</PublisherISBD>
+        <PubDate>2004</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <PubDate>2004</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 62</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 62</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">razmeščanje podatkov /omrežno računanje 
+/hervistike</Descriptors>
+      <Descriptors lang="eng">data location /grid computing 
+/heuristics</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="4361556">
+      https://plus.si.cobiss.net/opac7/bib/4361556</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="35" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2289251</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>A location science approach to data replication in grid 
+computing</Title>
+      <TitleISBD>A location science approach to data replication in grid 
+computing / Uroš Čibej, Borut Robič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        </AuthorGroup>
+        <Title>European working group on locational analysis, 11-13 
+September, 2003, Corfu, Greece : XIV meeting : [programme - 
+abstracts]</Title>
+        <TitleISBD>European working group on locational analysis, 11-13 
+September, 2003, Corfu, Greece</TitleISBD>
+        <Subtitle>XIV meeting</Subtitle>
+        <Subtitle>[programme - abstracts]</Subtitle>
+        <Publisher>
+        <Address>[S. l.</Address>
+        <PublisherName>s. n.]</PublisherName>
+        </Publisher>
+      <PublisherISBD>[S. l. : s. n.], 2003</PublisherISBD>
+        <PubDate>2003</PubDate>
+      <Country code="grc"/>
+      </BiblioSet>
+      <PubDate>2003</PubDate>
+      <Country code="grc"/>
+      <Numbering>
+        <ArtPageNums>str. 23</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 23</Extent>
+      </PhysicalAttributes>
+      <Descriptors lang="slv">omrežno računanje /podvajanje podatkov 
+/problem k-center /optimizacija</Descriptors>
+      <Descriptors lang="eng">grid computing /data replication /k-center 
+problem /optimization</Descriptors>
+      <UDK>51-7</UDK>
+      <ClassNumber code="udc">51-7</ClassNumber>
+      <Typology id="1.12">objavljeni povzetek znanstvenega prispevka na 
+konferenci</Typology>
+      <COBISS co="SI" id="3833428">
+      https://plus.si.cobiss.net/opac7/bib/3833428</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.16 Samostojni znanstveni sestavek ali poglavje v monografski publikaciji</Title>
+  
+    <BiblioEntry bno="36" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Matrix-based algorithms for dataflow computer architecture : 
+an overview and comparison</Title>
+      <TitleISBD>Matrix-based algorithms for dataflow computer architecture 
+[Elektronski vir] : an overview and comparison / Jurij Mihelič and Uroš 
+Čibej</TitleISBD>
+        <Subtitle>an overview and comparison</Subtitle>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>Veljko</FirstName>
+  <SurName>Milutinović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Milos</FirstName>
+  <SurName>Kotlar</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Exploring the DataFlow supercomputing paradigm : example 
+algorithms for selected applications</Title>
+        <TitleISBD>Exploring the DataFlow supercomputing paradigm 
+[Elektronski vir] / Veljko Milutinovic, Milos Kotlar, editors</TitleISBD>
+        <Subtitle>example algorithms for selected applications</Subtitle>
+      <ISBN>978-3-030-13803-5</ISBN>
+      <ISBN>978-3-030-13802-8</ISBN>
+      <SeriesInfo>
+        <Title>Computer communications and networks (Internet)</Title>
+        <ISSN>2197-8433</ISSN>
+      </SeriesInfo>
+        <Publisher>
+        <Address>Cham</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cham : Springer, 2019</PublisherISBD>
+        <PubDate>2019</PubDate>
+      <Country code="che"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Computer communications and networks</Title>
+        <TitleISBD>Computer communications and networks [Elektronski 
+vir]</TitleISBD>
+        <Keytitle>Comput. commun. netw. (Internet)</Keytitle>
+      <ISSN>2197-8433</ISSN>
+      </BiblioSet>
+      <Material>
+        <Electronic>El. članek</Electronic>
+      </Material>
+      <PubDate>2019</PubDate>
+      <Country code="che"/>
+      <Numbering>
+        <ArtPageNums>str. 91-131</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 91-131</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-3-030-13803-5_4</DOI>
+      </Identifier>
+      <ISSN>2197-8433</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 130-131</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">matrični algoritmi /podatkovno-pretokovna 
+arhitektura /podatkovna koreografija /primerjava</Descriptors>
+      <Descriptors lang="eng">matrix algorithmics /dataflow architecture 
+/data choreography /comparision</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="0">
+        
+<URL>https://link.springer.com/chapter/10.1007/978-3-030-13803-5_4</URL>
+      </Link>
+      <COBISS co="SI" id="1538246851">
+      https://plus.si.cobiss.net/opac7/bib/1538246851</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="37" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Adaptation and evaluation of the simplex algorithm for a 
+data-flow architecture</Title>
+      <TitleISBD>Adaptation and evaluation of the simplex algorithm for a 
+data-flow architecture / Uroš Čibej, Jurij Mihelič</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+            <CorpAuthor></CorpAuthor>
+        <Editor>
+  <FirstName>A. R.</FirstName>
+  <SurName>Hurson</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Veljko</FirstName>
+  <SurName>Milutinović</SurName>
+  <Contrib>urednik</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Advances in computers</Title>
+        <TitleISBD>Advances in computers / edited by Ali R. Hurson and 
+Veljko Milutinovic</TitleISBD>
+      <ISBN>978-0-12-812230-3</ISBN>
+      <SeriesInfo>
+        <Title>Advances in computers</Title>
+        <SeriesVolNums>vol. 106</SeriesVolNums>
+        <ISSN>0065-2458</ISSN>
+      </SeriesInfo>
+        <Edition>1st ed.</Edition>
+        <Publisher>
+        <Address>Cambridge (MA) [etc.]</Address>
+        <PublisherName>Academic Press, an imprint of 
+Elsevier</PublisherName>
+        </Publisher>
+      <PublisherISBD>Cambridge (MA) [etc.] : Academic Press, an imprint of 
+Elsevier, cop. 2017</PublisherISBD>
+        <PubDate>cop. 2017</PubDate>
+      <Country code="usa"/>
+      </BiblioSet>
+      <BiblioSet relation="journal">
+        <Title>Advances in computers</Title>
+        <TitleISBD>Advances in computers</TitleISBD>
+        <Keytitle>Adv. comput.</Keytitle>
+      <ISSN>0065-2458</ISSN>
+      </BiblioSet>
+      <PubDate>2017</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <ArtPageNums>str. 63-105</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 63-105</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1016/bs.adcom.2017.04.003</DOI>
+      </Identifier>
+      <ISSN>0065-2458</ISSN>
+      <Notes>
+        <Summaries>Bibliografija: str. 103-104</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">linearno programiranje /algoritem simpleks 
+/podatkovno pretočne arhitekture /inženiring algoritmov</Descriptors>
+      <Descriptors lang="eng">linear programming /simplex /data-flow 
+/algorithm engineering</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="1">
+        
+<URL>http://www.sciencedirect.com/science/article/pii/S0065245817300153</URL>
+
+      </Link>
+      <COBISS co="SI" id="1537626051">
+      https://plus.si.cobiss.net/opac7/bib/1537626051</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="38" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Anthony</FirstName>
+ <SurName>Sulistio</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142885219</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Rajkumar</FirstName>
+ <SurName>Buyya</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>142886755</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Grid computing</Title>
+      <TitleISBD>Grid computing / Uroš Čibej, Anthony Sulistio and Rajkumar 
+Buyya</TitleISBD>
+      <BiblioSet relation="book">
+      <AuthorGroup>
+        <Editor>
+  <FirstName>Roman</FirstName>
+  <SurName>Trobec</SurName>
+  <Code>06875</Code>
+  <CodeOrg>1-001.03.06</CodeOrg>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Marian</FirstName>
+  <SurName>Vajteršic</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor</Contrib>
+        </Editor>
+        <Editor>
+  <FirstName>Peter</FirstName>
+  <SurName>Zinterhof</SurName>
+  <Contrib>urednik</Contrib>
+  <Contrib>avtor</Contrib>
+        </Editor>
+        </AuthorGroup>
+        <Title>Parallel computing : numerics, applications, and 
+trends</Title>
+        <TitleISBD>Parallel computing / Roman Trobec, Marián Vajteršic, 
+Peter Zinterhof, editors</TitleISBD>
+        <Subtitle>numerics, applications, and trends</Subtitle>
+      <ISBN>978-1-84882-408-9</ISBN>
+      <ISBN>978-1-84882-409-6</ISBN>
+        <Publisher>
+        <Address>Dordrecht [etc.]</Address>
+        <PublisherName>Springer</PublisherName>
+        </Publisher>
+      <PublisherISBD>Dordrecht [etc.] : Springer, 2009</PublisherISBD>
+        <PubDate>2009</PubDate>
+      <Country code="deu"/>
+      </BiblioSet>
+      <PubDate>2009</PubDate>
+      <Country code="deu"/>
+      <Numbering>
+        <ArtPageNums>str. 117-145</ArtPageNums>
+        <ArtDetails>Ilustr.</ArtDetails>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>Str. 117-145</Extent>
+        <Details>Ilustr.</Details>
+      </PhysicalAttributes>
+      <Identifier>
+        <DOI>10.1007/978-1-84882-409-6_4</DOI>
+      </Identifier>
+      <Notes>
+        <Summaries>Bibliografija: str. 140-145</Summaries>
+        <Summaries>Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="slv">omrežno računanje /paralelno računanje 
+/obvladovanje virov</Descriptors>
+      <Descriptors lang="eng">grid computing /parallel computing /resource 
+management</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.16">samostojni znanstveni sestavek ali poglavje v 
+monografski publikaciji</Typology>
+      <Link rel="1">
+        
+<URL>https://link.springer.com/chapter/10.1007/978-1-84882-409-6_4</URL>
+      </Link>
+      <COBISS co="SI" id="1537387459">
+      https://plus.si.cobiss.net/opac7/bib/1537387459</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>1.20 Predgovor, spremna beseda</Title>
+  
+    <BiblioEntry bno="39" type="article">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>22912099</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Selected research in data analysis and theoretical computer 
+science : editorial</Title>
+      <TitleISBD>Selected research in data analysis and theoretical 
+computer science : editorial / Jurij Mihelič and Uroš Čibej</TitleISBD>
+        <Subtitle>editorial</Subtitle>
+      <BiblioSet relation="journal">
+        <Title>The IPSI BgD transactions on internet research</Title>
+        <TitleISBD>The IPSI BgD transactions on internet 
+research</TitleISBD>
+        <Keytitle>IPSI BGD Trans. Internet Res.</Keytitle>
+      <ISSN>1820-4503</ISSN>
+        <Edition>[Print ed.]</Edition>
+      </BiblioSet>
+      <PubDate>2019</PubDate>
+      <Country code="usa"/>
+      <Numbering>
+        <VolumeNum>vol. 15</VolumeNum>
+        <IssueNum>no. 2</IssueNum>
+        <Year>Jul. 2019</Year>
+        <ArtPageNums>str. 1-2</ArtPageNums>
+      </Numbering>
+      <PhysicalAttributes>
+        <Extent>str. 1-2</Extent>
+      </PhysicalAttributes>
+      <ISSN>1820-4503</ISSN>
+      <Descriptors lang="slv">računalništvo</Descriptors>
+      <Descriptors lang="eng">computer science</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="1.20">predgovor, spremna beseda</Typology>
+      <Link rel="1">
+        
+<URL>http://ipsitransactions.org/journals/papers/tir/2019jul/p1.pdf</URL>
+      </Link>
+      <COBISS co="SI" id="1538264259">
+      https://plus.si.cobiss.net/opac7/bib/1538264259</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>MONOGRAFIJE IN DRUGA ZAKLJUČENA DELA</Title>
+  <BiblioList>
+    <Title>2.08 Doktorska disertacija</Title>
+  
+    <BiblioEntry bno="40" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Podvajanje podatkov v omrežnem računanju : doktorska 
+disertacija</Title>
+      <TitleISBD>Podvajanje podatkov v omrežnem računanju : doktorska 
+disertacija / Uroš Čibej</TitleISBD>
+        <Subtitle>doktorska disertacija</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[U. Čibej]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [U. Čibej], 2007</PublisherISBD>
+      <PubDate>2007</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>III, 127 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: str. 105-115</Summaries>
+        <Summaries>Kazalo</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univerza v Ljubljani, Fakulteta za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">omrežno računanje /podvajanje podatkov 
+/računalništvo /disertacije</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004(043.3)</ClassNumber>
+      <Typology id="2.08">doktorska disertacija</Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/708/</URL>
+      </Link>
+      <COBISS co="SI" id="5968468">
+      https://plus.si.cobiss.net/opac7/bib/5968468</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.11 Diplomsko delo</Title>
+  
+    <BiblioEntry bno="41" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Borut</FirstName>
+ <SurName>Robič</SurName>
+ <Code>04646</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Vključevanje dinamičnosti in stohastičnosti v modele 
+razmeščanja : diplomska naloga</Title>
+      <TitleISBD>Vključevanje dinamičnosti in stohastičnosti v modele 
+razmeščanja : diplomska naloga / Uroš Čibej</TitleISBD>
+        <Subtitle>diplomska naloga</Subtitle>
+      <Publisher>
+        <Address>[Ljubljan</Address>
+        <PublisherName>U. Čibej]</PublisherName>
+      </Publisher>
+      <PublisherISBD>[Ljubljan : U. Čibej], 2002</PublisherISBD>
+      <PubDate>2002</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VII, 54 f.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Summaries>Bibliografija: f. 49-50</Summaries>
+        <Summaries>Kazalo</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+      </Notes>
+      <Descriptors lang="">modeli razmeščanja /problemi razmeščanja 
+/algoritmi /aproksimacijski algoritmi /računalništvo /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="2.11">diplomsko delo</Typology>
+      <COBISS co="SI" id="3337300">
+      https://plus.si.cobiss.net/opac7/bib/3337300</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.13 Elaborat, predštudija, študija</Title>
+  
+    <BiblioEntry bno="42" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Igor</FirstName>
+ <SurName>Ozimek</SurName>
+ <Code>09856</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>3205731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Boštjan</FirstName>
+ <SurName>Slivnik</SurName>
+ <Code>12766</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3746915</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Jovanovič</SurName>
+ <Code>25424</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>8500323</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Pipan</SurName>
+ <Code>17166</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>4469603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Šterk</SurName>
+ <Code>21555</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>5086819</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Postavitev testnega GRID sistema : poročilo 1. delovnega 
+sklopa</Title>
+      <TitleISBD>Postavitev testnega GRID sistema : poročilo 1. delovnega 
+sklopa / Igor Ozimek ... [et al.]</TitleISBD>
+        <Subtitle>poročilo 1. delovnega sklopa</Subtitle>
+      <SeriesInfo>
+        <Title>Tehnologija GRID kot standardna komunikacijsko-računska 
+infrastruktura</Title>
+      </SeriesInfo>
+      <SeriesInfoISBD>Tehnologija GRID kot standardna 
+komunikacijsko-računska infrastruktura
+      </SeriesInfoISBD>
+      <PublisherISBD>2004</PublisherISBD>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <UDK>621.39</UDK>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <COBISS co="SI" id="18156327">
+      https://plus.si.cobiss.net/opac7/bib/18156327</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="43" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Aleš</FirstName>
+ <SurName>Štimec</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>25253475</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Gregor</FirstName>
+ <SurName>Pipan</SurName>
+ <Code>17166</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4469603</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Marjan</FirstName>
+ <SurName>Šterk</SurName>
+ <Code>21555</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>5086819</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Roman</FirstName>
+ <SurName>Trobec</SurName>
+ <Code>06875</Code>
+ <CodeOrg>1-001.03.06</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>2697315</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Igor</FirstName>
+ <SurName>Ozimek</SurName>
+ <Code>09856</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>3205731</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Testna aplikacija : poročilo 2. delovnega sklopa</Title>
+      <TitleISBD>Testna aplikacija : poročilo 2. delovnega sklopa / Aleš 
+Štimec ... [et al.]</TitleISBD>
+        <Subtitle>poročilo 2. delovnega sklopa</Subtitle>
+      <SeriesInfo>
+        <Title>Tehnologija GRID kot standardna komunikacijsko-računska 
+infrastruktura</Title>
+      </SeriesInfo>
+      <SeriesInfoISBD>Tehnologija GRID kot standardna 
+komunikacijsko-računska infrastruktura
+      </SeriesInfoISBD>
+      <PublisherISBD>2004</PublisherISBD>
+      <PubDate>2004</PubDate>
+      <Country code="svn"/>
+      <UDK>621.39</UDK>
+      <Typology id="2.13">elaborat, predštudija, študija</Typology>
+      <COBISS co="SI" id="18514471">
+      https://plus.si.cobiss.net/opac7/bib/18514471</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>2.21 Programska oprema</Title>
+  
+    <BiblioEntry bno="44" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>Learn123</Title>
+      <TitleISBD>Learn123 [Elektronski vir] / Uroš Čibej ... [et 
+al.]</TitleISBD>
+      <Material>
+        <Electronic>Podatki in programi</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Faculty of Electrical Engineering</PublisherName>
+        <PublisherName>Faculty of Computer and Information 
+Science</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Faculty of Electrical Engineering : 
+Faculty of Computer and Information Science, 2015</PublisherISBD>
+      <PubDate>2015</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">genetski algoritmi /avtomatično štetje celic 
+/fluorescenčne slike /računalniški programi</Descriptors>
+      <Descriptors lang="eng">genetic algorithms /automatic cell counting 
+/fluorescence images /program</Descriptors>
+      <UDK>576</UDK>
+      <ClassNumber code="udc">576:004.42</ClassNumber>
+      <Typology id="2.21">programska oprema</Typology>
+      <Link rel="0">
+        <URL>http://lalg.fri.uni-lj.si/learn123/</URL>
+      </Link>
+      <COBISS co="SI" id="10950996">
+      https://plus.si.cobiss.net/opac7/bib/10950996</COBISS>
+    </BiblioEntry>
+  
+  
+    <BiblioEntry bno="45" type="monograph">
+      <AuthorGroup>
+        <Author responsibility="alternative">
+ <FirstName>David</FirstName>
+ <SurName>Karlaš</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>261501539</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Jasna</FirstName>
+ <SurName>Lojk</SurName>
+ <Code>34385</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>201790563</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>11295075</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+        <Author responsibility="alternative">
+ <FirstName>Mojca</FirstName>
+ <SurName>Pavlin</SurName>
+ <Code>19225</Code>
+ <CodeOrg>3-107</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>4775011</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>CellCounter</Title>
+      <TitleISBD>CellCounter [Elektronski vir] / David Karlaš ... [et 
+al.]</TitleISBD>
+      <Material>
+        <Electronic>Podatki in programi</Electronic>
+      </Material>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>Faculty of Electrical Engineering</PublisherName>
+        <PublisherName>Faculty of Computer and Information 
+Science</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : Faculty of Electrical Engineering : 
+Faculty of Computer and Information Science, 2014</PublisherISBD>
+      <PubDate>2014</PubDate>
+      <Country code="svn"/>
+      <Descriptors lang="slv">avtomatično štetje celic /fluorescenčne slike 
+/računalniški programi</Descriptors>
+      <Descriptors lang="eng">automatic cell counting /fluorescence images 
+/program</Descriptors>
+      <UDK>576</UDK>
+      <ClassNumber code="udc">576:004.42</ClassNumber>
+      <Typology id="2.21">programska oprema</Typology>
+      <Link rel="0">
+        <URL>http://lalg.fri.uni-lj.si/CellCounter/</URL>
+      </Link>
+      <COBISS co="SI" id="10950740">
+      https://plus.si.cobiss.net/opac7/bib/10950740</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>IZVEDENA DELA (DOGODKI)</Title>
+  <BiblioList>
+    <Title>3.14 Predavanje na tuji univerzi</Title>
+  
+    <BiblioEntry bno="46" type="performedwork">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>23176547</CONOR>
+        </Author>
+      </AuthorGroup>
+      <Title>The empirical exploration of the halting problem : lecture at 
+Seminar on Computer Science and Applied Mathematics, Mathematical Institute 
+of the Serbian Academy of Sciences and Arts, July 14, 2015</Title>
+      <TitleISBD>The empirical exploration of the halting problem : lecture 
+at Seminar on Computer Science and Applied Mathematics, Mathematical 
+Institute of the Serbian Academy of Sciences and Arts, July 14, 2015 / Uroš 
+Čibej</TitleISBD>
+        <Subtitle>lecture at Seminar on Computer Science and Applied 
+Mathematics, Mathematical Institute of the Serbian Academy of Sciences and 
+Arts, July 14, 2015</Subtitle>
+      <PubDate>2015</PubDate>
+      <Country code="srb"/>
+      <UDK>004</UDK>
+      <ClassNumber code="udc">004</ClassNumber>
+      <Typology id="3.14">predavanje na tuji univerzi</Typology>
+      <COBISS co="SI" id="1536454851">
+      https://plus.si.cobiss.net/opac7/bib/1536454851</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+</BiblioDiv>
+<BiblioDiv>
+  <Title>SEKUNDARNO AVTORSTVO</Title>
+  <BiblioList>
+    <Title>Somentor pri magistrskih delih (bolonjski študij)</Title>
+  
+    <BiblioEntry bno="47" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Sven</FirstName>
+ <SurName>Cerk</SurName>
+ <Contrib>avtor</Contrib>
+ <CONOR>268486243</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Jurij</FirstName>
+ <SurName>Mihelič</SurName>
+ <Code>22475</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Metode sestopanja za reševanje problema podgrafnega 
+izomorfizma : magistrsko delo : Prešernova nagrada študentom</Title>
+      <TitleISBD>Metode sestopanja za reševanje problema podgrafnega 
+izomorfizma : magistrsko delo : Prešernova nagrada študentom / Sven 
+Cerk</TitleISBD>
+        <Subtitle>magistrsko delo</Subtitle>
+        <Subtitle>Prešernova nagrada študentom</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[S. Cerk]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [S. Cerk], 2018</PublisherISBD>
+      <PubDate>2018</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>VII, 60 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Jurij Mihelič, somentor Uroš 
+Čibej</Responsibility>
+        <Summaries>Bibliografija: str. 59-60</Summaries>
+        <Summaries>Povzetek ; Abstract</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za matematiko in fiziko, 
+Oddelek za matematiko, Računalništvo in matematika - 2. 
+stopnja</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">podgrafni izomorfizem /problemi zadoščanja 
+omejitvam /algoritmi sestopanja /inženiring algoritmov</Descriptors>
+      <Descriptors lang="eng">subgraph isomorphism /constraint satisfaction 
+problems /backtracking algorithms /algorithm engineering</Descriptors>
+      <UDK>004.42</UDK>
+      <ClassNumber code="udc">004.42</ClassNumber>
+      <ClassNumber code="MSC 2010">68R10</ClassNumber>
+      <Typology>Somentor pri magistrskih delih (bolonjski študij)
+      </Typology>
+      <Link rel="1">
+        <URL>https://repozitorij.uni-lj.si/IzpisGradiva.php?id=103888</URL>
+      </Link>
+      <COBISS co="SI" id="18456409">
+      https://plus.si.cobiss.net/opac7/bib/18456409</COBISS>
+    </BiblioEntry>
+  
+  </BiblioList>
+  <BiblioList>
+    <Title>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)</Title>
+  
+    <BiblioEntry bno="48" type="monograph">
+      <AuthorGroup>
+     <Author>
+ <FirstName>Klara</FirstName>
+ <SurName>Nosan</SurName>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>avtor</Contrib>
+ <CONOR>200024419</CONOR>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Luka</FirstName>
+ <SurName>Šajn</SurName>
+ <Code>23401</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>mentor</Contrib>
+        </Author>
+      <Author responsibility="secondary">
+ <FirstName>Uroš</FirstName>
+ <SurName>Čibej</SurName>
+ <Code>23400</Code>
+ <CodeOrg>3-128</CodeOrg>
+ <Contrib>somentor</Contrib>
+        </Author>
+      </AuthorGroup>
+      <Title>Inženiring programa za štetje objektov na slikah : diplomsko 
+delo : univerzitetni študijski program prve stopnje Računalništvo in 
+informatika</Title>
+      <TitleISBD>Inženiring programa za štetje objektov na slikah : 
+diplomsko delo : univerzitetni študijski program prve stopnje Računalništvo 
+in informatika / Klara Nosan</TitleISBD>
+        <Subtitle>diplomsko delo</Subtitle>
+        <Subtitle>univerzitetni študijski program prve stopnje 
+Računalništvo in informatika</Subtitle>
+      <Publisher>
+        <Address>Ljubljana</Address>
+        <PublisherName>[K. Nosan]</PublisherName>
+      </Publisher>
+      <PublisherISBD>Ljubljana : [K. Nosan], 2019</PublisherISBD>
+      <PubDate>2019</PubDate>
+      <Country code="svn"/>
+      <PhysicalAttributes>
+        <Extent>53 str.</Extent>
+        <Details>ilustr.</Details>
+        <Dim>30 cm</Dim>
+      </PhysicalAttributes>
+      <Notes>
+        <Responsibility>Mentor Luka Šajn</Responsibility>
+        <Responsibility>Somentor Uroš Čibej</Responsibility>
+        <Summaries>Bibliografija: str. 45-49</Summaries>
+        <Summaries>Povzetek ; Abstract: Engineering of an object-counting 
+program</Summaries>
+        <Dissertation>Univ. v Ljubljani, Fak. za računalništvo in 
+informatiko</Dissertation>
+      </Notes>
+      <Descriptors lang="slv">štetje objektov /procesiranje slik /ImageJ 
+/genetski algoritem /računalništvo in informatika /univerzitetni študij 
+/diplomske naloge</Descriptors>
+      <Descriptors lang="eng">object counting /image processing /imageJ 
+/genetic algorithm /computer and information science /diploma</Descriptors>
+      <UDK>004.93</UDK>
+      <ClassNumber code="udc">004.932(043.2)</ClassNumber>
+      <Typology>Somentor pri diplomskih delih (bolonjski študij 1. stopnje)
+      </Typology>
+      <Link rel="1">
+        <URL>http://eprints.fri.uni-lj.si/4402/</URL>
+      </Link>
+      <COBISS co="SI" id="1538173379">
+      https://plus.si.cobiss.net/opac7/bib/1538173379</COBISS>
+    </BiblioEntry>
+  
+  
+  </BiblioList>
+</BiblioDiv>
+    <Request format="ISO 690" units="all" source="COBIB.SI">
+      <Dates  job="14. 10. 2019"/>
+      <Language  lang="slv" script="lat"/>
+    </Request>
+</Bibliography>
