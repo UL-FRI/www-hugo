@@ -104,7 +104,8 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if 'subjects' in person_json:
                     course_codes = []
                     for subject in person_json['subjects']:
-                        course_codes.append(subject['course_code'])
+                        if 'course_code' in subject:
+                            course_codes.append(subject['course_code'])
                     sname = './data/osebje/subjects_and_img/' + fix_name + '_sub_img.json'
 
                     with io.open(sname, 'w+', encoding='utf8') as to:
