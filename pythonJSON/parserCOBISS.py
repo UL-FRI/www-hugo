@@ -126,6 +126,7 @@ ref = [
 {'fname': 'vida_groznik', 'sicris': '33187'},{'fname': 'zoran_bosnić', 'sicris': '28779'}
 ]
 '''
+TO DOWNLOAD BIBLIOGRAPHY
 for person in ref:
     print(person)
     biblio = get_bibliography(person['sicris'], 'slv')
