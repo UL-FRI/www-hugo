@@ -1,0 +1,11 @@
+{{- $file_now := printf "%s" (lower .Params.fixName) -}}
+{{- $check := printf "./data/osebje/biblio/%s.json" (lower .Params.fixName) -}}
+{{ if (fileExists $check) }}
+<div class="aboutMainSectionTitle">{{ i18n "publications" }}</div>
+<div class="description-stuff publications">
+    {{ range first 10 (index $.Site.Data.osebje.biblio $file_now).entries }}
+        {{ partial "citationFormat.html" . }}
+    {{ end }}
+    <p>&nbsp;</p>
+</div>
+{{ end }}

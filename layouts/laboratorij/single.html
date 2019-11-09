@@ -73,7 +73,11 @@
                             </div>
                         </div>
 
-                        {{ partial "side-menu.html" . }}
+                        {{ if eq .Site.Language.Lang "sl"}}
+                            {{ partial "side_lab.sl.html" . }}
+                        {{else}}
+                            {{ partial "side_lab.en.html" . }}
+                        {{end}}
 
                     </div>
                 </div>
@@ -82,7 +86,11 @@
         </div>
     </div>
 
-    {{ partial "footer.html" . }}
+    {{ if eq .Site.Language.Lang "sl"}}
+        {{ partial "footer.sl.html" . }}
+    {{else}}
+        {{ partial "footer.en.html" . }}
+    {{end}}
 
     {{ partial "js.html" . }}
 

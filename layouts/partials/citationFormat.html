@@ -1,0 +1,6 @@
+<p class="rtejustify">
+    {{range .authors}}
+        {{ .surname }} {{ substr .firstname 0 1 }},
+    {{end}}
+    ({{.date}}) {{.title}}, <em>{{.publisher}},</em> {{if not (eq .num "") }}{{.num}},{{end}} {{.page}}
+</p>
