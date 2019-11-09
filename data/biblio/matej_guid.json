@@ -1,0 +1,1616 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Janko"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "A program for Progressive chess",
+      "type": "",
+      "publisher": "Theoretical computer science",
+      "date": "2016",
+      "vol": "vol. 644",
+      "num": "",
+      "page": "str. 76-91"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Janko"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Development of a program for playing progressive chess",
+      "type": "",
+      "publisher": "Advances in computer games : 14th International Conference, \nACG 2015, Leiden, the Netherlands, July 1-3, 2015 : revised selected \npapers",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 122-134"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Zapu\u0161ek"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Rugelj"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Designing an interactive teaching tool with ABML knowledge \nrefinement loop",
+      "type": "",
+      "publisher": "Intelligent tutoring systems : 12th International \nConference, ITS 2014, Honolulu, HI, USA, June 5-9, 2014 : \nproceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 575-582"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dayana",
+          "surname": "Hristova"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Assessing the difficulty of chess tactical problems",
+      "type": "",
+      "publisher": "International journal on advances in intelligent \nsystems",
+      "date": "2014",
+      "vol": "no. 3/4",
+      "num": "",
+      "page": "str. 728-738"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Search-based estimation of problem difficulty for \nhumans",
+      "type": "",
+      "publisher": "Artificial intelligence in education : AIED 2013 : 16th \nInternational Conference, Memphis, TN, USA, July 9-13, 2013 : \nproceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 860-863"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Veronika",
+          "surname": "Kragelj"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Ribari\u010d"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Elicitation of neurological knowledge with argument-based \nmachine learning",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine",
+      "date": "2013",
+      "vol": "no. 2, spec. iss.",
+      "num": "",
+      "page": "str. 133-144"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Detecting fortresses in chess",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2012",
+      "vol": "no. 1/2",
+      "num": "",
+      "page": "str. 35-40"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "ABML knowledge refinement loop : a case study",
+      "type": "",
+      "publisher": "Foundations of intelligent systems : proceedings",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 41-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Azlan",
+          "surname": "Iqbal"
+        },
+        {
+          "firstname": "Harold van der",
+          "surname": "Heijden"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ali",
+          "surname": "Makhmali"
+        }
+      ],
+      "title": "Evaluating the aesthetics of endgame studies : a computational \nmodel of human aesthetic perception",
+      "type": "",
+      "publisher": "IEEE transactions on computational intelligence and AI in \ngames",
+      "date": "2012",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 178-191"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Goal-oriented conceptualization of procedural knowledge",
+      "type": "",
+      "publisher": "Intelligent tutoring systems : 11th international \nconference, ITS 2012, Chania, Crete, Greece, June 14-18, 2012 : \nproceedings",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 286-291"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Veronika",
+          "surname": "Kragelj"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Ribari\u010d"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Elicitation of neurological knowledge with ABML",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 14-23"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Using heuristic-search based engines for estimating human \nskill at chess",
+      "type": "",
+      "publisher": "ICGA journal",
+      "date": "2011",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 71-81"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Deriving concepts and strategies from chess tablebases",
+      "type": "",
+      "publisher": "Advances in computer games : 12th international conference, \nACG 2009, Pamplona, Spain, May 11-13, 2009 : revised papers",
+      "date": "cop. 2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 195-207"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Learning positional features for annotating chess games : a \ncase study",
+      "type": "",
+      "publisher": "Computers and games : 6th international conference, CG 2008, \nBeijing, China, September 29 - October 1, 2008 : proceedings",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 192-204"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Fighting knowledge acquisition bottleneck with argument based \nmachine learning",
+      "type": "",
+      "publisher": "ECAI 2008 : proceedings",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 234-238"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aritz",
+          "surname": "P\u00e9rez"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "How trustworthy is CRAFTY'S analysis of world chess \nchampions?",
+      "type": "",
+      "publisher": "ICGA journal",
+      "date": "2008",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 131-144"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Computer analysis of chess champions",
+      "type": "",
+      "publisher": "Computers and games : 5th international conference, CG 2006, \nTurin, Italy, May 29-31, 2006 : revised papers",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. [1]-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Automated chess tutor",
+      "type": "",
+      "publisher": "Computers and games : 5th international conference, CG 2006, \nTurin, Italy, May 29-31, 2006 : revised papers",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. [13]-25"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Factors affecting diminishing returns for searching \ndeeper",
+      "type": "",
+      "publisher": "ICGA journal",
+      "date": "2007",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 75-84"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka primerjava svetovnih prvakov",
+      "type": "",
+      "publisher": "\u0160ahovska misel",
+      "date": "2007",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 36-44"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Computer analysis of world chess champions",
+      "type": "",
+      "publisher": "ICGA journal",
+      "date": "2006",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 65-73"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pavli\u010d"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        }
+      ],
+      "title": "Automated feedback generation for argument-based intelligent \ntutoring systems",
+      "type": "",
+      "publisher": "CSEDU 2019. Vol. 1",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 70-77"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pavli\u010d"
+        },
+        {
+          "firstname": "Klemen",
+          "surname": "Tur\u0161i\u010d"
+        }
+      ],
+      "title": "Learning by arguing in argument-based machine learning \nframework",
+      "type": "",
+      "publisher": "Intelligent tutoring systems : proceedings",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 112-122"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Influence of search depth on position evaluation",
+      "type": "",
+      "publisher": "Advances in computer games : 15th International Conferences, \nACG 2017, Leiden, The Netherlands, July 3-5, 2017 : revised selected \npapers",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 115-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rozalija",
+          "surname": "Gre\u0161ak"
+        },
+        {
+          "firstname": "Nika",
+          "surname": "Hren"
+        },
+        {
+          "firstname": "Alen",
+          "surname": "Kopi\u0107"
+        },
+        {
+          "firstname": "Ines",
+          "surname": "Medved"
+        },
+        {
+          "firstname": "Manca",
+          "surname": "Pogladi\u010d"
+        },
+        {
+          "firstname": "Barbara",
+          "surname": "Stopar"
+        },
+        {
+          "firstname": "Teja",
+          "surname": "\u0160avs"
+        },
+        {
+          "firstname": "Manca",
+          "surname": "Zavir\u0161ek"
+        },
+        {
+          "firstname": "Katja",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Maja",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Zupanec"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Zapu\u0161ek"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Vpeljava inteligentnega tutorskega sistema za pou\u010devanje \nmatematike v slovenski \u0161olski sistem = Introducing an intelligent tutoring \nsystems for teaching mathematics into Slovenian school system",
+      "type": "",
+      "publisher": "KUPM 2014 : zbornik prispevkov = conference \nproceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 199-209"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Stoiljkovikj"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "A computational model for estimating the difficulty of chess \nproblems",
+      "type": "",
+      "publisher": "Proceedings of the Third Annual Conference on Advances in \nCognitive Systems, [May 28-31, 2015, Atlanta, Georgia]",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dayana",
+          "surname": "Hristova"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Toward modeling task difficulty : the case of chess",
+      "type": "",
+      "publisher": "ComputationWorld 2014 : May 25-29, 2014, Venice, \nItaly",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 211-214"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Building an intelligent tutoring system for chess \nendgames",
+      "type": "",
+      "publisher": "CSEDU 2013",
+      "date": "cop. 2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 263-266"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        }
+      ],
+      "title": "An experiment in students\u02bc acquisition of problem solving \nskill from goal-oriented instructions",
+      "type": "",
+      "publisher": "ComputationWorld 2012 : July 22-27, 2012, Nice, \nFrance",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 159-164"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Conceptualizing procedural knowledge targeted at students of \ndifferent skill levels",
+      "type": "",
+      "publisher": "Educational data mining 2010",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 309-310"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Learning to explain with ABML",
+      "type": "",
+      "publisher": "Exact 2010 : explanation-aware computing : proceedings of \nthe Fifth International Workshop on Explanation-aware Computing Exact 2010, \nLisbon, Portugal, August 16, 2010, held in conjunction with the 19th \nEuropean Conference on Artificial Intelligence ECAI 2010, University of \nLisbon, Lisbon, Portugal",
+      "date": "cop. 2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Identification and characteristic descriptions of procedural \nchunks",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 448-453"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Factors affecting diminishing returns for searching \ndeeper",
+      "type": "",
+      "publisher": "Computer games workshop 2007, Amsterdam, June 15-17, \n2007",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 3-14"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Aritz",
+          "surname": "P\u00e9rez"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "How trustworthy is CRAFTY'S analysis of chess \nchampions?",
+      "type": "",
+      "publisher": "Computer games workshop 2007, Amsterdam, June 15-17, \n2007",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 15-26"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Avtomatski \u0161ahovski tutor",
+      "type": "",
+      "publisher": "Zbornik 10. mednarodne multikonference Informacijska dru\u017eba \n- IS 2007, 8.-12. oktober 2007 : zvezek A : volume A",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 80-83"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Veronika",
+          "surname": "Kragelj"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Ribari\u010d"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        }
+      ],
+      "title": "Digitalised spirography and clinical examination based \ndecision support system of differentiating between tremors",
+      "type": "",
+      "publisher": "European journal of neurology",
+      "date": "2012",
+      "vol": "suppl. 1",
+      "num": "",
+      "page": "str. 298"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Veronika",
+          "surname": "Kragelj"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Ribari\u010d"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Parkinsonian and essential tremor differentiation usnig \ndigitalized spirography and a computer decision support system",
+      "type": "",
+      "publisher": "1st European Basal Ganglia Club, 2nd Croatian Congress on \nMovement Disorders, Bol, Bra\u010d, Croatia, May 18th - 21st 2011 : [Final \nProgramme & Abstracts] : Program & Sa\u017eeci]",
+      "date": "2011]",
+      "vol": "",
+      "num": "",
+      "page": "str. 28"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Veronika",
+          "surname": "Kragelj"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Ribari\u010d"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Differentiation of parkinsonian and essential tremor using \ndigitalized spirography and a computer decision support system",
+      "type": "",
+      "publisher": "Book of abstracts : SNC`11 : Central European FENS featured \nregional meeting",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 131"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Dayana",
+          "surname": "Hristova"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Search versus knowledge in human problem solving : a case \nstudy in chess",
+      "type": "",
+      "publisher": "Model-based reasoning in science and technology : logical, \nepistemological, and cognitive issues",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 569-583"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Using chess engines to estimate human skill",
+      "type": "",
+      "publisher": "Chessbase news",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Azlan",
+          "surname": "Iqbal"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Colton"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Shazril",
+          "surname": "Azman"
+        },
+        {
+          "firstname": "Boshra",
+          "surname": "Haghighi"
+        }
+      ],
+      "title": "The digital synaptic neural substrate : a new approach to \ncomputational creativity",
+      "type": "",
+      "publisher": "Springer briefs in cognitive computation",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Learn and master Progressive Chess",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Search and knowledge for human and machine problem solving : \ndoctoral dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Search and knowledge for human and machine problem solving : \ndoctoral dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka analiza svetovnih \u0161ahovskih prvakov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka analiza svetovnih \u0161ahovskih prvakov : delo je \nopravljeno v skladu s Pravilnikom o podeljevanju Pre\u0161ernovih nagrad \n\u0161tudentom, pod mentorstvom prof. dr. Ivana Bratka",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Schwarzmann"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Analiza javnega mestnega potni\u0161kega prometa z napovedovanjem \n\u010dasovnih vrst : magistrsko delo : magistrski program druge stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Teja",
+          "surname": "Ro\u0161tan"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Tom",
+          "surname": "Vodopivec"
+        }
+      ],
+      "title": "Napovedovanje \u010dasovnih vrst z nevronskimi mre\u017eami z dolgim \nkratkoro\u010dnim spominom : magistrsko delo : magistrski program druge stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Argumentirano strojno u\u010denje z uporabo logisti\u010dne regresije : \nmagistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pavli\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Ocenjevanje kvalitete argumentov pri argumentiranem strojnem \nu\u010denju : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "\u0160aponja"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Odkrivanje skupin s pomo\u010djo argumentiranega strojnega u\u010denja : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ur\u0161a",
+          "surname": "Krevs"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka analiza in primerjava stilov igre \u0161ahistov : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Janko"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Razvoj programa za igranje 1-2-3 \u0161aha : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anei",
+          "surname": "Makovec"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Orodje za vizualizacijo delovanja algoritmov pri re\u0161evanju \nproblemov Sokoban : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Habjan"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        }
+      ],
+      "title": "U\u010denje igranja realno-\u010dasovne strate\u0161ke igre z uporabo \nglobokega spodbujevalnega u\u010denja : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Plut"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Prepoznavanje pozicijskih motivov v \u0161ahovskih pozicijah : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mitja",
+          "surname": "Rizvi\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Avtomatsko odkrivanje zanimivih \u0161ahovskih problemov : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Tur\u0161i\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Izdelava grafi\u010dnega vmesnika za na argumentiranju temelje\u010d \ninteligentni tutorski sistem : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Stoiljkovikj"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Computer-based estimation of the difficulty of chess tactical \nproblems : bachelor's thesis",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Emanuel",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Trendi iskanja informacij preko digitalnih medijskih kanalov \nin u\u010dinek izbranih besed na odziv potro\u0161nika : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Janko"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Razvoj programa za igranje 1-2-3 \u0161aha : delo je pripravljeno v \nskladu s Pravilnikom o podeljevanju Pre\u0161ernovih nagrad \u0161tudentom, pod \nmentorstvom doc. dr. Mateja Guida",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        }
+      ],
+      "title": "Learn and master Progressive Chess",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Azlan",
+          "surname": "Iqbal"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        }
+      ],
+      "title": "The digital synaptic neural substrate : a new approach to \ncomputational creativity",
+      "type": "",
+      "publisher": "ArXiv.org",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "39 str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Guid"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Detektiranje utrdb v \u0161ahu",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2012",
+      "vol": "\u0161t. 1/2",
+      "num": "",
+      "page": "str. 35-40"
+    }
+  ]
+}

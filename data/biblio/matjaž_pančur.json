@@ -1,0 +1,2454 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ileni\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Ajda",
+          "surname": "Pretnar"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Hartman"
+        },
+        {
+          "firstname": "Wang",
+          "surname": "Hamilton"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Petrovi\u010d"
+        },
+        {
+          "firstname": "Silvia",
+          "surname": "Garagna"
+        },
+        {
+          "firstname": "Maurizio",
+          "surname": "Zuccotti"
+        },
+        {
+          "firstname": "Dongsu",
+          "surname": "Park"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Democratized image analytics by visual programming through \nintegration of deep models and small-scale machine learning",
+      "type": "",
+      "publisher": "Nature communications",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 4551-1-4551-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Impact of test-driven development on productivity, code and \ntests : a controlled experiment",
+      "type": "",
+      "publisher": "Information and software technology",
+      "date": "2011",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. 557-573"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor Robert",
+          "surname": "Krmelj"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "OpenSPA - an open and extensible protocol for Single Packet \nAuthorization",
+      "type": "",
+      "publisher": "CECC 2018",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Supporting advanced learning paradigms with virtual computing \ncloud and social Web technologies",
+      "type": "",
+      "publisher": "The proceedings of the 2nd International Conference on \nInformation Society and Information Technologies - ISIT 2010, Dolenjske \nToplice, 10-12 November 2010",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Comparison of attacks on IPv4 and IPv6 protocols",
+      "type": "",
+      "publisher": "Euromedia'2009",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 122-127"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Uvajanje enotnega upravljanja z digitalnimi identitetami na \nUniverzi v Ljubljani",
+      "type": "",
+      "publisher": "Interoperabilnost kot izziv informatiki, Zbornik \nprispevkov",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Varnostno izobra\u017eevanje s pomo\u010djo Cimosove spletne \nu\u010dilnice",
+      "type": "",
+      "publisher": "Cimosov forum : 3. zbornik referatov, 16. november \n2007",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 73-77"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Cikel varnostnega ozave\u0161\u010danja",
+      "type": "",
+      "publisher": "Dan raziskav : 2. zbornik referatov, Koper, 17. november \n2006",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 301-307"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Security policies in military environments",
+      "type": "",
+      "publisher": "Dynamic communications management : RTO meeting \nproceedings",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "A framework for developing mobile location based \napplications",
+      "type": "",
+      "publisher": "Dynamic communications management : RTO meeting \nproceedings",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Datamining in grid environment",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : proceedings of \nthe International Conference in Coimbra, Portugal, 2005",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 522-525"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Vklju\u010devanje varnostnih mehanizmov v okolje GRID",
+      "type": "",
+      "publisher": "Zbornik trinajste mednarodne elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2004, 27. - 29. september 2004, Portoro\u017e, Slovenija",
+      "date": "2004",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 47-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Message routing in pure peer-to-peer networks",
+      "type": "",
+      "publisher": "Applied informatics",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 813-817"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Comparison of frameworks and tools for test-driven \ndevelopment",
+      "type": "",
+      "publisher": "Applied informatics",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 980-985"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Attacking end users' applications by run time \nmodifications",
+      "type": "",
+      "publisher": "Applied informatics",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 997-1002"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Rome"
+        },
+        {
+          "firstname": "\u017deljko",
+          "surname": "Aksenti\u0107"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Berginc"
+        }
+      ],
+      "title": "Using smart cards as a secure storage for digitally signed \ndocuments",
+      "type": "",
+      "publisher": "The IEEE Region 8 EUROCON 2003 : computer as a tool : 22-24. \nSeptember 2003, Faculty of Electrical Engineering, University of Ljubljana, \nLjubljana, Slovenia : proceedings",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 74-78"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Distributed message routing in unstructured P2P network \noverlays",
+      "type": "",
+      "publisher": "The IEEE Region 8 EUROCON 2003 : computer as a tool : 22-24. \nSeptember 2003, Faculty of Electrical Engineering, University of Ljubljana, \nLjubljana, Slovenia : proceedings",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 79-82"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Towards empirical evaluation of test-driven development in a \nuniversity environment",
+      "type": "",
+      "publisher": "The IEEE Region 8 EUROCON 2003 : computer as a tool : 22-24. \nSeptember 2003, Faculty of Electrical Engineering, University of Ljubljana, \nLjubljana, Slovenia : proceedings",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 83-86"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Rome"
+        },
+        {
+          "firstname": "\u017deljko",
+          "surname": "Aksenti\u0107"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Berginc"
+        }
+      ],
+      "title": "Uporaba pametnih kartic za varno hranjenje dokumentov",
+      "type": "",
+      "publisher": "Inteligentni in ra\u010dunalni\u0161ki sistemi. Kompleksni sistemi v \ne-poslovanju : zbornik A 6. mednarodne multi-konference Informacijska \ndru\u017eba IS 2003, 13. do 17. oktober 2003 = proceedings A of the 6th \nInternational Multi-Conference Information Society IS 2003, 13-17th \nOctober, Ljubljana, Slovenia",
+      "date": "2003",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 155-158"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Content networks : distributed routing decisions in presence \nof repeated queries",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-6]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Are E-commerce users defenceless?",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-7]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Testno voden razvoj v okoljih Java in .NET",
+      "type": "",
+      "publisher": "Zbornik posvetovanja",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 437-442"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Database design with UML: implementation issues",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Symposia Applied \nInformatics, Innsbruck, Austria, February 19-22, 2001",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 608-613"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Degen"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Simplifying multimedia applications development by introducing \nmulticast extensions to COM",
+      "type": "",
+      "publisher": "Proceedings. Vol. 1, Microelectronics, eletronics and \nelectronic technologies / MEET, Multimedia and hypermedia systems / \nMHS",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 83-86"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Mati\u010di\u010d"
+        },
+        {
+          "firstname": "Tanja",
+          "surname": "Seli\u010d Kurin\u010di\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Kastelic"
+        },
+        {
+          "firstname": "Mario",
+          "surname": "Poljak"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Le\u0161ni\u010dar"
+        },
+        {
+          "firstname": "Jelka",
+          "surname": "Megli\u010d-Volkar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Rajter"
+        },
+        {
+          "firstname": "Janja",
+          "surname": "Prah"
+        },
+        {
+          "firstname": "Zvonko",
+          "surname": "Baklan"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "A national multidisciplinary healthcare network for treatment \nof hepatitis C in people who inject drugs in Slovenia : high enrollement, \nadherence and sustained virological response",
+      "type": "",
+      "publisher": "Suchtmedizin in Forschung und Praxis",
+      "date": "2013",
+      "vol": "nr. 4",
+      "num": "",
+      "page": "str. 245"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        }
+      ],
+      "title": "Uporaba virtualizacije in ra\u010dunalni\u0161tva v oblaku pri \npedago\u0161kem procesu = Enhancing the pedagogical process with virtualization \nand cloud computing",
+      "type": "",
+      "publisher": "Zbornik",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 32-33"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Izbolj\u0161anje e-u\u010denja s pomo\u010djo virtualnih laboratorijev = \nImproving e-learning process with virtual laboratories",
+      "type": "",
+      "publisher": "Nova vizija tehnologij prihodnosti",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 71"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Effects of network dynamics on routing efficiency in P2P \nnetworks",
+      "type": "",
+      "publisher": "8th World Enformatika Conference, October 26-28, 2005, \nBudapest, Hungary",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 299-302"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Content networks : distributed routing decisions in presence \nof repeated queries",
+      "type": "",
+      "publisher": "Proceedings : [abstracts and CD-ROM]",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 161"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Are E-commerce users defenceless?",
+      "type": "",
+      "publisher": "Proceedings : [abstracts and CD-ROM]",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 244"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Using Nexenta as a cloud storage",
+      "type": "",
+      "publisher": "10th TF-Storage Meeting Agenda and Slides",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Varnost kot storitev : kako lahko zagotovimo varnost iz \noblaka?",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Rugelj"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        }
+      ],
+      "title": "Constructivist learning environment in a cloud",
+      "type": "",
+      "publisher": "Workshop on learning technology for education in cloud \n(LTCE'12)",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 193-204"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Strategija upravljanja z digitalnimi identitetami",
+      "type": "",
+      "publisher": "Informacijska dru\u017eba : multidisciplinarni pogledi : \nmultidisciplinary approaches",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 311-326"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Porazdeljena infrastruktura sistema X",
+      "type": "",
+      "publisher": "Informacijsko-komunikacijski sistem",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 375-414"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "An\u017eelj"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Brank"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Mirko",
+          "surname": "\u0110uki\u0107"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "F\u00fcrst"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Kikelj"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Krape\u017e"
+        },
+        {
+          "firstname": "Helena",
+          "surname": "Medve\u0161ek"
+        },
+        {
+          "firstname": "Nata\u0161a",
+          "surname": "Mori"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Sterle"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161tvo in informatika 1 : e-u\u010dbenik za informatiko v \ngimnaziji",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Gradnja oblakov z ogrodjem OpenStack : gradivo za predavanja \nin vaje : tehni\u010dni predmet, 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Komunikacije v porazdeljenih sistemih : gradivo za vaje : \nuniverzitetni \u0161tudij na Fakulteti za elektrotehniko 2012-2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Komunikacijski protokoli : gradivo za vaje : univerzitetni \n\u0161tudij, 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        }
+      ],
+      "title": "Oblaki : seminar : Iskratel, 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        }
+      ],
+      "title": "Virtualizacija : seminar : Iskratel, 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ke komunikacije : gradivo za vaje : univerzitetni in \nvisoki strokovni \u0161tudij, 2012",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ke komunikacije in omre\u017eja : gradivo za vaje : \nponetki predavanj na vajh : univerzitetni \u0161tudij 2010",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Vpliv testno vodenega razvoja na parametre agilnega razvojnega \nprocesa : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Analiza in dolo\u010danje primernosti uporabe lahkih metodologij \nrazvoja informacijskih sistemov : magistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Nizko paralelni sistemi in prednosti gru\u010d stre\u017enikov : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Safti\u0107"
+        }
+      ],
+      "title": "Analiza okoljevarstvenih in regulativnih pritiskov kot \niniciativ, ki oblikujejo podro\u010dje in trg zelenega data centra",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "TCSP na platformi OpenStack : prototip tCSP na platformi \nOpenStack : navodila za fizi\u010dno postavitev in dokumentacija s testi in \ncenilkami : Iskratel",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Kostanj\u0161ek"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Safti\u0107"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        }
+      ],
+      "title": "Platforma za orkestriranje testnih okolij v oblaku",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Vklju\u010ditev varnostnih mehanizmov in digitalnih potrdil v \nokolje grid : zaklju\u010dno poro\u010dilo",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Berginc"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "\u017deljko",
+          "surname": "Aksenti\u0107"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Rome"
+        }
+      ],
+      "title": "Uporaba pametnih kartic za varno hrambo digitalno podpisanih \ndokumentov : zaklju\u010dno poro\u010dilo",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "TCSP na platformi OpenStack : prototip tCSP na platformi \nOpenStack : design specifikacija : Iskratel",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Enovita visokorazpolo\u017eljiva in robustna aplikativna platforma \nza telekomunikacijske storitve : upravljanje z identitetami - IdM na linux \nOS, IPA : funkcijska specifikacija : CSP",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "TCSP na platformi OpenStack : predlog arhitekture tCSP na \nplatformi OpenStack : funkcijska specifikacija : Iskratel",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Analiza in priporo\u010dila za vzpostavitev \u017eeljenega varnostnega \nnivoja v sistemu : funkcijska specifikacija : SI3000",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Grohar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Centralna infrastruktura AAA : upravljanje z identitetami - \nIPA : funkcijska specifikacija : SI3000",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Poro\u010dilo o delovanju stre\u017enika za anonimizacijo \nDatacleaner",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Poro\u010dilo o svetovanju CRSA sistem - Humane tehnologije \nd.o.o.",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Poro\u010dilo o varnostni presoji CRSA sistem - Humane tehnologije \nd.o.o.",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Upravljanje z digitalnimi identitetami na Univerzi v \nLjubljani",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Ladava"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Zdovc"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Jagodic"
+        },
+        {
+          "firstname": "Damir",
+          "surname": "Metelko"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Orehek"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "\u010cepin"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Grom"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Govej\u0161ek"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        }
+      ],
+      "title": "Na\u010drt za vpeljavo, organizacijo in vodenje sistema za \nupravljanje digitalnih identitet",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        }
+      ],
+      "title": "Osnutek varnostne politike za uporabnike prenosnih \nra\u010dunalnikov",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        }
+      ],
+      "title": "Predlog prenove brez\u017ei\u010dnega omre\u017eja",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Cotman"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Jagodic"
+        }
+      ],
+      "title": "Priporo\u010dilo \u010dlanicam Univerze - omre\u017eje METULJ",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        }
+      ],
+      "title": "Uporaba digitalnih identitet pri razvoju spletnih \naplikacij",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Arhiviranje informacijskega sistema UL : uporaba programske \nopreme HP Data Protector in osnovni koncepti",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Stane",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Informacijsko komunikacijski sistem NCO-NCW-NNEC : projekt \n\"Viking\"",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Lokacijske storitve v mobilnih sistemih",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Pelan"
+        }
+      ],
+      "title": "Medsebojno povezovanje overiteljev digitalnih potrdil",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Osnutek varnostne politike : razli\u010dica 0.6",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Predlog vzpostavitve sistema za arhiviranje na UL",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Predlogi za izvedbo oddaljenega dostopa",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Kandus"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Pregled napadov na informacijsko komunikacijski sistem : \nprojekt \"Viking\"",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Sistemi za voja\u0161ko sporo\u010danje MMHS : projekt \"Viking\"",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Varnostne politike in standardi varovanja informacij : projekt \n\"Viking\"",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Pre\u0161eren"
+        }
+      ],
+      "title": "Zmogljivost spletnih storitev v Microsoftovih okoljih",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Omre\u017ena varnost informacijskih sistemov : Hands-on \ndelavnica",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Osnovni koncepti varnega obna\u0161anja na internetu : (gradivo za \nseminar)",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Varnostni standardi in ocena tveganja : (gradivo za \nseminar)",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Varnostne politike in standardi varovanja informacij : gradivo \nza delavnico",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Krevl"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Zavec"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Viki[n]g NCW porazdeljen sistem : gradivo za delavnico",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Varnostne gro\u017enje pri selitvi v oblak in varnost kot storitev \n(SecaaS)",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        }
+      ],
+      "title": "Evaluating quantitative and qualitative effects on \nconstructive technology-enhanced learning : an experiment",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Tackling end users' applications - the attacks on system and \napplication infrastructure",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor Robert",
+          "surname": "Krmelj"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        }
+      ],
+      "title": "Dinami\u010dno dodeljevanje dostopa do omre\u017enih naprav : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bona\u010d"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Porenta"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Bagon"
+        }
+      ],
+      "title": "Nexenta",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

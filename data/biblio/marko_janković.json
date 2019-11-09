@@ -1,0 +1,659 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Lovro",
+          "surname": "\u0160ubelj"
+        },
+        {
+          "firstname": "Neli",
+          "surname": "Blagus"
+        },
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Pristop in podporno orodje za delno avtomatski zajem metode \nrazvoja programske opreme",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2014",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Neli",
+          "surname": "Blagus"
+        },
+        {
+          "firstname": "Lovro",
+          "surname": "\u0160ubelj"
+        },
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Ohranjanje lastnosti pri zmanj\u0161evanju dru\u017ebenih omre\u017eij",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2014",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 127-136"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lovro",
+          "surname": "\u0160ubelj"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Kumer"
+        },
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Velika omre\u017eja iz realnega sveta",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2013",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 107-115"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ludvik",
+          "surname": "Kumar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Munih"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Podobnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Uporaba pametnih o\u010dal v sodobni proizvodnji",
+      "type": "",
+      "publisher": "IRT 3000",
+      "date": "2015",
+      "vol": "\u0161t. 6",
+      "num": "",
+      "page": "str. 41-42,[44-45]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Arhitektura sistema za oddaljeno spremljanje pacientov",
+      "type": "",
+      "publisher": "Delavnica za elektronsko in mobilno zdravje ter pametna \nmesta : zbornik 20. mednarodne multikonference Informacijska dru\u017eba - IS \n2017, 9.-13. oktober 2017, [Ljubljana, Slovenia] : zvezek I : proceedings \nof the 20th International Multiconference Information Society - IS 2017, \n9th-13th October, 2017, Ljubljana, Slovenia : volume I",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 27-28"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "MyDataHub",
+      "type": "",
+      "publisher": "Delavnica Elektronsko in mobilno zdravje : zbornik 19. \nmednarodne multikonference Informacijska dru\u017eba - IS 2016, 10.-11. oktober \n2016, [Ljubljana, Slovenija] : zvezek G : proceedings of the 19th \nInternational Multiconference Information Society - IS 2016, 10-11 October \n2016, Ljubljana, Slovenia : volume G",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 50-51"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Klemen",
+          "surname": "Petrov\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Architecture of standard-based, interoperable and extensible \nIoT platform",
+      "type": "",
+      "publisher": "Proceedings of papers",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sanja",
+          "surname": "Del\u010dev"
+        },
+        {
+          "firstname": "Maja",
+          "surname": "Vukasovi\u0107"
+        },
+        {
+          "firstname": "Dra\u017een",
+          "surname": "Dra\u0161kovi\u0107"
+        },
+        {
+          "firstname": "Dimitrije",
+          "surname": "Radojevi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        },
+        {
+          "firstname": "Bo\u0161ko",
+          "surname": "Nikoli\u0107"
+        }
+      ],
+      "title": "Veb sistem za polaganje testova znanja iz inteligentnih \nsistema",
+      "type": "",
+      "publisher": "Proceedings of papers",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Comparison of software repositories for their usability in \nsoftware process reconstruction",
+      "type": "",
+      "publisher": "IEEE RCIS 2015 : proceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 330-340"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Neli",
+          "surname": "Blagus"
+        },
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Pridobivanje znanja na osnovi spremljanja dejanskih metod \nrazvoja programske opreme",
+      "type": "",
+      "publisher": "Dvajset let pozneje : zbornik prispevkov",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Lavbi\u010d"
+        },
+        {
+          "firstname": "Neli",
+          "surname": "Blagus"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Podatkovne baze vrste triplestore",
+      "type": "",
+      "publisher": "Dvajset let pozneje : zbornik prispevkov",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Neli",
+          "surname": "Blagus"
+        },
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Zrnec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Zmanj\u0161evanje socialnih omre\u017eij za namene la\u017eje analize in \nu\u010dinkovitej\u0161e vizualizacije",
+      "type": "",
+      "publisher": "Dvajset let pozneje : zbornik prispevkov",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ghazaleh",
+          "surname": "Khodabandelou"
+        },
+        {
+          "firstname": "Charlotte",
+          "surname": "Hug"
+        },
+        {
+          "firstname": "R\u00e9becca",
+          "surname": "Deneck\u00e8re"
+        },
+        {
+          "firstname": "Camille",
+          "surname": "Salinesi"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        },
+        {
+          "firstname": "Elena",
+          "surname": "Kornyshova"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        }
+      ],
+      "title": "COTS products to trace method enactment : review and \nselection",
+      "type": "",
+      "publisher": "ECIS 2013 proceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        },
+        {
+          "firstname": "Ghazaleh",
+          "surname": "Khodabandelou"
+        },
+        {
+          "firstname": "R\u00e9becca",
+          "surname": "Deneck\u00e8re"
+        },
+        {
+          "firstname": "Charlotte",
+          "surname": "Hug"
+        },
+        {
+          "firstname": "Camille",
+          "surname": "Salinesi"
+        }
+      ],
+      "title": "Intelligent agile method framework",
+      "type": "",
+      "publisher": "ENASE 2013 : proceedings of the 8th International Conference \non Evaluation of Novel Approaches to Software Engineering, 4-6 July, 2013, \nAngers, France",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 187-192"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        }
+      ],
+      "title": "Semi-automatic improvement of software development methods : \ndoctoral consortium paper",
+      "type": "",
+      "publisher": "RCIS 2013 : conference proceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 597-602"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Lovro",
+          "surname": "\u0160ubelj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Furlan"
+        },
+        {
+          "firstname": "Dra\u017een",
+          "surname": "Dra\u0161kovi\u0107"
+        },
+        {
+          "firstname": "Nemanja",
+          "surname": "Koji\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Mi\u0161i\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Iterative end-to-end information extraction based on linear \nmodels",
+      "type": "",
+      "publisher": "Zbornik dvaindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2013, 16.-18. september 2013, Portoro\u017e, \nSlovenija",
+      "date": "2013",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 47-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Milo\u0161",
+          "surname": "Pavkovi\u0107"
+        },
+        {
+          "firstname": "Dra\u017een",
+          "surname": "Dra\u0161kovi\u0107"
+        },
+        {
+          "firstname": "Lovro",
+          "surname": "\u0160ubelj"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Lavbi\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Jelica",
+          "surname": "Proti\u0107"
+        },
+        {
+          "firstname": "Bo\u0161ko",
+          "surname": "Nikoli\u0107"
+        }
+      ],
+      "title": "Intelligent techniques for searching Internet forums",
+      "type": "",
+      "publisher": "Zbornik dvaindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2013, 16.-18. september 2013, Portoro\u017e, \nSlovenija",
+      "date": "2013",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 85-88"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ludvik",
+          "surname": "Kumar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Munih"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Podobnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Uporaba \"pametnih o\u010dal\" v sodobni proizvodnji",
+      "type": "",
+      "publisher": "Vir znanja in izku\u0161enj za stroko : zbornik foruma",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 45-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Petrov\u010di\u010d"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Kerec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bala\u017eic"
+        },
+        {
+          "firstname": "Kristjan",
+          "surname": "Voje"
+        },
+        {
+          "firstname": "Amela",
+          "surname": "Sijari\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Podobnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Munih"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Kumar"
+        }
+      ],
+      "title": "Pametna o\u010dala v proizvodnji",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 187"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Mobilna nadzorna plo\u0161\u010da za dogodkovno vodene arhitekture : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Jankovi\u0107"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Rejc"
+        },
+        {
+          "firstname": "Darko",
+          "surname": "Te\u0161i\u0107"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Me\u017enar"
+        }
+      ],
+      "title": "Ko zvezdice postanejo zalivke",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

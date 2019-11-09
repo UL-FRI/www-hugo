@@ -1,0 +1,5226 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Vavpoti\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Hovelja"
+        }
+      ],
+      "title": "Exploring the relations between net benefits of IT projects \nand CIOs perception of quality of software development disciplines",
+      "type": "",
+      "publisher": "Business & information systems engineering",
+      "date": "2019",
+      "vol": "no. ",
+      "num": "",
+      "page": "str. 1-14"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "NetSDM : semantic data mining with network analysis",
+      "type": "",
+      "publisher": "Journal of machine learning research",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "\u0160kvorc"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Senja",
+          "surname": "Pollak"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Predicting Slovene text complexity using readability \nmeasures",
+      "type": "",
+      "publisher": "Prispevki za novej\u0161o zgodovino",
+      "date": "2019",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 198-220"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Spyros",
+          "surname": "Konitsiotis"
+        },
+        {
+          "firstname": "Dimitros",
+          "surname": "Gatsios"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Symptoms and medications change patterns for Parkinson's \ndisease patients stratification",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 82-95"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Number of instances for reliable feature ranking in a given \nproblem",
+      "type": "",
+      "publisher": "Business systems research journal",
+      "date": "2018",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 35-44"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Explanation of prediction models with ExplainPrediction",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "2018",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 13-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Dataset comparison workflows",
+      "type": "",
+      "publisher": "International journal of data science",
+      "date": "2018",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 126-145"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Milo\u0161 D.",
+          "surname": "Radovi\u0107"
+        },
+        {
+          "firstname": "Smiljana",
+          "surname": "\u0110orovi\u0107"
+        },
+        {
+          "firstname": "Bojana",
+          "surname": "An\u0111elkovi\u0107 \u0106irkovi\u0107"
+        },
+        {
+          "firstname": "Nenad",
+          "surname": "Filipovi\u0107"
+        }
+      ],
+      "title": "Modeling ischemia with finite elements and automated machine \nlearning",
+      "type": "",
+      "publisher": "Journal of computational science",
+      "date": "2018",
+      "vol": "vol. 29",
+      "num": "",
+      "page": "str. 99-106"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "HINMINE : heterogeneous information network mining with \ninformation retrieval heuristics",
+      "type": "",
+      "publisher": "Journal of intelligent information systems",
+      "date": "2018",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 29-61"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Analysis of medications change in Parkinson's disease \nprogression data",
+      "type": "",
+      "publisher": "Journal of intelligent information systems",
+      "date": "2018",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 301-337"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Estimation of minimum sample size for identification of the \nmost important features : a case study providing a qualitative B2B sales \ndata set",
+      "type": "",
+      "publisher": "Croatian operational research review",
+      "date": "2017",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 515-524"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Explaining machine learning models in sales predictions",
+      "type": "",
+      "publisher": "Expert systems with applications",
+      "date": "2017",
+      "vol": "vol. 71",
+      "num": "",
+      "page": "str. 416-428"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Johannes",
+          "surname": "F\u00fcrnkranz"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Refinement and selection heuristics in subgroup discovery and \nclassification rule learning",
+      "type": "",
+      "publisher": "Expert systems with applications",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 147-162"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Kranjc"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Ora\u010d"
+        },
+        {
+          "firstname": "Vid",
+          "surname": "Podpe\u010dan"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "ClowdFlows : online workflows for distributed big data \nmining",
+      "type": "",
+      "publisher": "Future generation computer systems",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 38-58"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        }
+      ],
+      "title": "Decision-making framework with double-loop learning through \ninterpretable black-box machine learning models",
+      "type": "",
+      "publisher": "Industrial management + data systems",
+      "date": "2017",
+      "vol": "no. 7",
+      "num": "",
+      "page": "str. 1389-1406"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        }
+      ],
+      "title": "Organizational learning supported by machine learning models \ncoupled with general explanation methods : a case of B2B sales \nforecasting",
+      "type": "",
+      "publisher": "Organizacija",
+      "date": "2017",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 217-234"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Kuntari\u010d"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Primerjava obi\u010dajnih in faktorskih modelov pri statisti\u010dnem \nstrojnem prevajanju iz angle\u0161\u010dine v sloven\u0161\u010dino z orodjem Moses",
+      "type": "",
+      "publisher": "Sloven\u0161\u010dina 2.0",
+      "date": "2017",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 1-25"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Obtaining structural descriptions of building fa\u00e7ades",
+      "type": "",
+      "publisher": "Computer science and information systems",
+      "date": "2016",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 23-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Data generators for learning systems based on RBF \nnetworks",
+      "type": "",
+      "publisher": "IEEE transactions on neural networks and learning \nsystems",
+      "date": "2016",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 926-938"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Heterogeneous network decomposition and weighting with text \nmining heuristics",
+      "type": "",
+      "publisher": "New frontiers in mining complex patterns : 4th International \nWorkshop, NFMCP 2015 held in conjunction with ECML-PKDD 2015 Porto, \nPortugal, September 7, 2015 : revised selected papers",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 194-208"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Mining text enriched heterogeneous citation networks",
+      "type": "",
+      "publisher": "Advances in knowledge discovery and data mining : 19th \nPacific Asia Conference, PAKDD 2015, Ho Chi Minh City, Vietnam, May 19 - \n22, 2015. part 2 : proceedindgs",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 672-683"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andreja",
+          "surname": "\u010cufar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Mrhar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Assessment of surveys for the management of hospital clinical \npharmacy services",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine",
+      "date": "2015",
+      "vol": "iss. 2",
+      "num": "",
+      "page": "str. 147-158"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Predictive power of fantasy sports data for soccer \nforecasting",
+      "type": "",
+      "publisher": "International journal of data mining, modelling and \nmanagement",
+      "date": "2015",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 154-163"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Pi\u010dulin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Handling numeric attributes with ant colony based classifier \nfor medical decision making",
+      "type": "",
+      "publisher": "Expert systems with applications",
+      "date": "2014",
+      "vol": "no. 16",
+      "num": "",
+      "page": "str. 7524-7535"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Efficiently explaining the predictions of a probabilistic \nradial basis function classification network",
+      "type": "",
+      "publisher": "Intelligent data analysis",
+      "date": "2013",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 791-802"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Brane",
+          "surname": "De\u017eman"
+        },
+        {
+          "firstname": "Frane",
+          "surname": "Er\u010dulj"
+        }
+      ],
+      "title": "A decade of Euroleague basketball : an analysis of trends and \nrecent rule change effects",
+      "type": "",
+      "publisher": "Journal of Human Kinetics",
+      "date": "2013",
+      "vol": "vol. 38",
+      "num": "",
+      "page": "str. 183-189"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        }
+      ],
+      "title": "Quality of classification explanations with PRBF",
+      "type": "",
+      "publisher": "Neurocomputing",
+      "date": "2012",
+      "vol": "vol. 96",
+      "num": "",
+      "page": "str. 37-46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Aristidis",
+          "surname": "Likas"
+        },
+        {
+          "firstname": "Constantinos",
+          "surname": "Constantinopoulos"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        }
+      ],
+      "title": "Efficiently explaining decisions of probabilistic RBF \nclassification networks",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : 10th \ninternational conference, ICANNGA 2011, Ljubljana, Slovenia, April 14-16, \n2011 : proceedings",
+      "date": "cop. 2011",
+      "vol": "part 1",
+      "num": "",
+      "page": "str. 169-179"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Brane",
+          "surname": "De\u017eman"
+        },
+        {
+          "firstname": "Frane",
+          "surname": "Er\u010dulj"
+        }
+      ],
+      "title": "Statisti\u010dna analiza prednosti doma\u010dega igri\u0161\u010da in vplivov \nspremembe pravil v 1. A in 1. B slovenski mo\u0161ki ko\u0161arkarski ligi",
+      "type": "",
+      "publisher": "\u0160port",
+      "date": "2011",
+      "vol": "\u0161t. 3/4",
+      "num": "",
+      "page": "str. 102-106"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Online bookmakers' odds as forecasts : the case of European \nsoccer leagues",
+      "type": "",
+      "publisher": "International journal of forecasting",
+      "date": "2010",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 482-488"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Kris",
+          "surname": "Brijs"
+        },
+        {
+          "firstname": "Koen",
+          "surname": "Vanhoof"
+        }
+      ],
+      "title": "Ordinal evaluation : a new perspective on country \nimages",
+      "type": "",
+      "publisher": "Advances in data mining : applications and theoretical \naspects : 9th industrial conference, ICDM 2009, Leipzig, Germany, July \n20-22, 2009 : proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 261-275"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Explaining instance classifications with interactions of \nsubsets of feature values",
+      "type": "",
+      "publisher": "Data & Knowledge Engineering",
+      "date": "2009",
+      "vol": "no. 10",
+      "num": "",
+      "page": "str. 886-904"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Learning betting tips from users' bet selections",
+      "type": "",
+      "publisher": "Machine learning and data mining in pattern recognition : \n6th international conference, MLDM 2009, Leipzig, Germany, July 23-25, 2009 \n: proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 678-688"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Petr",
+          "surname": "Savicky"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Learning random numbers : a MATLAB anomaly",
+      "type": "",
+      "publisher": "Applied artificial intelligence",
+      "date": "2008",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 254-265"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Explaining classifications for individual instances",
+      "type": "",
+      "publisher": "IEEE transactions on knowledge and data engineering",
+      "date": "2008",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 589-600"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Koen",
+          "surname": "Vanhoof"
+        }
+      ],
+      "title": "Evaluation of ordinal attributes at value level",
+      "type": "",
+      "publisher": "Data mining and knowledge discovery",
+      "date": "2007",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. [225]-243"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Improving random forests",
+      "type": "",
+      "publisher": "Machine learning: ECML 2004 : 15th European Conference on \nMachine Lerning, Pisa, Italy, September 20-24,2004 : proceedings",
+      "date": null,
+      "vol": "",
+      "num": "",
+      "page": "str. [359]-370"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "David",
+          "surname": "Cukjati"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Comprehensible evaluation of prognostic factors and prediction \nof wound healing",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine",
+      "date": "2003",
+      "vol": "vol. 29",
+      "num": "",
+      "page": "str. 25-38"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Experiments with cost-sensitive feature evaluation",
+      "type": "",
+      "publisher": "Machine learning : ECML 2003 : proceedings",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 325-336"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Theoretical and empirical analysis of ReliefF and \nRReliefF",
+      "type": "",
+      "publisher": "Machine learning",
+      "date": "2003",
+      "vol": "vol. 53",
+      "num": "",
+      "page": "str. 23-69"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Cukjati"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Stanislav",
+          "surname": "Reber\u0161ek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Damijan",
+          "surname": "Miklav\u010di\u010d"
+        }
+      ],
+      "title": "Prognostic factors in the prediction of chronic wound healing \nby electrical stimulation",
+      "type": "",
+      "publisher": "Medical & biological engineering & computing",
+      "date": "2001",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 542-550"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anastasia",
+          "surname": "Dalaka"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Kompare"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Stefanos P.",
+          "surname": "Sgardelis"
+        }
+      ],
+      "title": "Modelling the effects of environmental conditions on apparent \nphotosynthesis of Stipa bromoides by machine learning tools",
+      "type": "",
+      "publisher": "Ecological modelling",
+      "date": "2000",
+      "vol": "no. 2/3",
+      "num": "",
+      "page": "str. 245-257"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Edvard",
+          "surname": "\u0160imec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Overcoming the myopia of inductive learning algorithms with \nRELIEFF",
+      "type": "",
+      "publisher": "Applied intelligence",
+      "date": "1997",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 39-55"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Konstruktivna indukcija v strojnem u\u010denju",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1995",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 43-49"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ajda",
+          "surname": "Pretnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Analiza slik in besedil s pristopi umetne inteligence : \nprilo\u017enosti in dileme",
+      "type": "",
+      "publisher": "Glasnik Slovenskega etnolo\u0161kega dru\u0161tva",
+      "date": "2019",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 49-56"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Nabor atributov za opisovanje medorganizacijske prodaje = A \ncollection of attributes describing business-to-business (B2B) sales",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2016",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 74-80"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Darko",
+          "surname": "Pevec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Explanation and reliability of individual predictions",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "2013",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 41-48"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Strojno u\u010denje, (med)jezikovne tehnologije in \npristranosti",
+      "type": "",
+      "publisher": "Pravna praksa",
+      "date": "2019",
+      "vol": "\u0161t. 12",
+      "num": "",
+      "page": "str. 11-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Connection between the Parkinson's disease subtypes and \npatients' symptoms progression",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 263-268"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Visualization and analysis of Parkinson's disease status and \ntherapy patterns",
+      "type": "",
+      "publisher": "Discovery science : 21st International Conference, DS 2018 \nLimassol, Cyprus, October 29-31, 2018 : proceedings",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 466-479"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Kaja",
+          "surname": "Dobrovoljc"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Gantar"
+        },
+        {
+          "firstname": "Vojko",
+          "surname": "Gorjanc"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Kosem"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Cyprian Adam",
+          "surname": "Laskowski"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Thesaurus of modern Slovene : by the community for the \ncommunity",
+      "type": "",
+      "publisher": "Proceedings of the 18th EURALEX International Congress, \n[17-21 July 2018, Ljubljana] : lexicography in global contexts",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 401-410"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Smiljana",
+          "surname": "\u0110orovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Milo\u0161 D.",
+          "surname": "Radovi\u0107"
+        },
+        {
+          "firstname": "Bojana",
+          "surname": "An\u0111elkovi\u0107 \u0106irkovi\u0107"
+        },
+        {
+          "firstname": "Nenad",
+          "surname": "Filipovi\u0107"
+        }
+      ],
+      "title": "Finite element modelling of cardiac ischemia and data mining \napplication for ischemic detection and localization",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2018",
+      "vol": "no. 8",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Klju\u010dev\u0161ek"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "U\u010dinkovit izra\u010dun frekven\u010dnih statistik za slovenske jezikovne \nkorpuse",
+      "type": "",
+      "publisher": "Zbornik konference Jezikovne tehnologije in digitalna \nhumanistika, 20. september - 21. september 2018, Ljubljana, \nSlovenija",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 126-132"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "\u0160kvorc"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Senja",
+          "surname": "Pollak"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Evaluation of statistical readability measures on Slovene \ntexts",
+      "type": "",
+      "publisher": "Zbornik konference Jezikovne tehnologije in digitalna \nhumanistika, 20. september - 21. september 2018, Ljubljana, \nSlovenija",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 240-247"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Spyros",
+          "surname": "Konitsiotis"
+        },
+        {
+          "firstname": "Dimitros",
+          "surname": "Gatsios"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Combining multitask learning and short time series analysis in \nParkinson's disease patients stratiscation",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : 16th Conference on \nArtificial Intelligence in Medicine, AIME 2017, Vienna, Austria, June \n21-24, 2017 : proceedings",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 116-125"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Cyprian Adam",
+          "surname": "Laskowski"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "From translation equivalents to synonyms : creation of a \nSlovene thesaurus using word co-occurrence network analysis",
+      "type": "",
+      "publisher": "Electronic lexicography in the 21st century : proceedings of \neLex 2017 Conference, 19-21 September 2017, Leiden, The Netherlands",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 93-109"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Multi-view approach to Parkinson's disease quality of life \ndata analysis",
+      "type": "",
+      "publisher": "New frontiers in mining complex patterns : 5th International \nWorkshop NFMCP 2016, held in conjunction with ECML-PKDD 2016, Riva del \nGarda, Italy, September 19, 2016 : revised selected papers",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 163-178"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Sample size for assessment of new feature's relevance in a \ngiven problem",
+      "type": "",
+      "publisher": "SOR '17 proceedings",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 455-460"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "\u0160kvorc"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Co-bidding graphs for constrained paper clustering",
+      "type": "",
+      "publisher": "5th Symposium on Languages, Applications and Technologies : \nSLATE'16, June 20-21, 2016, Maribor, Slovenia",
+      "date": "2016 ",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Dragana",
+          "surname": "Miljkovi\u0107"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Towards multi-view approach to Parkinson's disease quality of \nlife data analysis",
+      "type": "",
+      "publisher": "ECML-PKDD 2016, The European Conference on Machine Learning \nand Principles and Practice of Databases : 5th International Workshop on \nNew Frontiers in Mining Complex Patterns, 19-23 September 2016, 2016, Riva \nde Garda, Italy",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "12 str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lovro",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ebook recommendations based on stylometric features",
+      "type": "",
+      "publisher": "Slovenska konferenca o umetni inteligenci : zbornik 19. \nmednarodne multikonference Informacijska dru\u017eba - IS 2016, 12. oktober \n2016, [Ljubljana, Slovenija] : zvezek A : proceedings of the 19th \nInternational Multiconference Information Society - IS 2016, 12 October \n2016, Ljubljana, Slovenia : volume A",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 40-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kadunc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Analiza mnenj s pomo\u010djo strojnega u\u010denja in slovenskega \nleksikona sentimenta",
+      "type": "",
+      "publisher": "Zbornik konference Jezikovne tehnologije in digitalna \nhumanistika, 29. september - 1. oktober 2016, Filozofska fakulteta, \nUniverza v Ljubljani, Ljubljana, Slovenija",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 83-89"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Integration of machine learning insights into organizational \nlearning : a case of B2B sales forecasting",
+      "type": "",
+      "publisher": "#eWellBeing : conference proceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 338-352"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Machine learning data set analysis with visual \nsimulation",
+      "type": "",
+      "publisher": "Advances in simulation-based decision support & business \nintelligence : volume V",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 16-20"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Heterogeneous networks decomposition and weighting with text \nmining heuristics",
+      "type": "",
+      "publisher": "ECML PKDD 2015 : proceedings of the 4th Workshop on New \nFrontiers in Mining Complex Paterns, (NFMCP 2015), September 07-11, 2015, \nPorto, Portugal",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "12 str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Modeling attributes for forecasting B2B opportunities \nacquisition",
+      "type": "",
+      "publisher": "Internacionalizacija in sodelovanje : zbornik 34. mednarodne \nkonference o razvoju organizacijskih znanosti : proceedings of the 34th \nInternational Conference on Organizational Science Development",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 143-151"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Inverted heuristics in subgroup discovery",
+      "type": "",
+      "publisher": "Izkopavanje znanja in podatkovna skladi\u0161\u010da (SiKDD 2015) : \nzbornik 18. mednarodne multikonference Informacijska dru\u017eba - IS 2015, 5. \noktober 2015, [Ljubljana, Slovenia] : zvezek E : proceedings of the 18th \nInternational Multiconference Information Society - IS 2015, October 5th, \n2015, Ljubljana, Slovenia : volume E",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 41-44"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Feature subset selection for B2B sales forecasting",
+      "type": "",
+      "publisher": "SOR '15 proceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 285-290"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anja",
+          "surname": "Krajnc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Postavljanje vejic v sloven\u0161\u010dini s pomo\u010djo strojnega u\u010denja in \nizbolj\u0161anega korpusa \u0160olar",
+      "type": "",
+      "publisher": "Zbornik konference Sloven\u0161\u010dina na spletu in v novih medijih, \nLjubljana, 25.-27. november 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 38-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Darko",
+          "surname": "Pevec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Explanation and reliability of individual predictions : recent \nresearch by LKM",
+      "type": "",
+      "publisher": "Zbornik 15. mednarodne multikonference Informacijska dru\u017eba \n- IS 2012, 8.-12. oktober 2012, Ljubljana, Slovenia : zvezek A : volume \nA",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 41-44"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralji\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedovanje porabe elektri\u010dne energije z okni v podatkovnem \ntoku",
+      "type": "",
+      "publisher": "Zbornik dvajsete mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2011, 19.-21. september 2011, Portoro\u017e, Slovenija",
+      "date": "2011",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 189-192"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Pi\u010dulin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Diskretizacija \u0161tevilskih atributov z razvr\u0161\u010danjem",
+      "type": "",
+      "publisher": "Zbornik dvajsete mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2011, 19.-21. september 2011, Portoro\u017e, Slovenija",
+      "date": "2011",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 201-204"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Kuzma"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Hevristi\u010dno sestavljanje kri\u017eank",
+      "type": "",
+      "publisher": "Zbornik Osemnajste mednarodne elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference - ERK 2009, 21-23. september 2009, Portoro\u017e, \nSlovenija",
+      "date": "2009",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 167-170"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gorazd",
+          "surname": "Konc"
+        },
+        {
+          "firstname": "Du\u0161an",
+          "surname": "Bo\u017ei\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Analiza vpliva izmeni\u010dnega magnetnega polja na \nkapljevine",
+      "type": "",
+      "publisher": "Kognitivna znanost : zbornik A 7. mednarodne multikonference \nInformacijska dru\u017eba IS 2004, 9. do 15. oktober 2004 : proceedings A of the \n7th International Multiconference Information Society IS 2004, 9-15th \nOctober 2004, Ljubljana, Slovenia",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 102-105"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vouk"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Analiza vpliva pretresanja in sevanja na kapljevine",
+      "type": "",
+      "publisher": "Kognitivna znanost : zbornik A 7. mednarodne multikonference \nInformacijska dru\u017eba IS 2004, 9. do 15. oktober 2004 : proceedings A of the \n7th International Multiconference Information Society IS 2004, 9-15th \nOctober 2004, Ljubljana, Slovenia",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 106-109"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        }
+      ],
+      "title": "Evaluation of prediction reliability in regression using the \ntransduction principle",
+      "type": "",
+      "publisher": "The IEEE Region 8 EUROCON 2003 : computer as a tool : 22-24. \nSeptember 2003, Faculty of Electrical Engineering, University of Ljubljana, \nLjubljana, Slovenia : proceedings",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 99-103"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "A preliminary study on pattern analysis of dehydrated \ndroplets",
+      "type": "",
+      "publisher": "Mind-body studies : proceedings of 6th International \nConference on Cognitive Science, Ljubljana, 13-17th October 2003",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 4-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "David",
+          "surname": "Cukjati"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Evaluation of prognostic factors and prediction of chronic \nwound healing rate by machine learning tools",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 77-87"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Comprehensible interpretation of relief's estimates",
+      "type": "",
+      "publisher": "Machine learning : proceedings of the Eighteenth \nInternational Conference (ICML 2001) : Williams College, June 28-July 1, \n2001",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 433-440"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        }
+      ],
+      "title": "Ocenjevanje zanesljivosti predikcij pri regresiji",
+      "type": "",
+      "publisher": "Zbornik desete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2001, 24. - 26. september 2001, Portoro\u017e, Slovenija",
+      "date": "2001",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 173-176"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Comprehensiveness of tree based models: attribute dependencies \nand split selection",
+      "type": "",
+      "publisher": "Informacijska dru\u017eba IS'99 : zbornik mednarodne \nmulti-konference, 12. do 14. oktobra 1999, Ljubljana, Slovenija : \nproceedings of the international multi-conference, 12 - 14 October \n1999",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 89-99"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Attribute dependencies, understandability and split selection \nin tree based models",
+      "type": "",
+      "publisher": "Machine learning : proceedings of the Sixteenth \nInternational Conference (ICML '99), Bled, Slovenia, June 27 - 30, \n1999",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 344-353"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Pruning regression trees with MDL",
+      "type": "",
+      "publisher": "Proceedings : ECAI 98",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 455-459"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Speeding up Relief algorithms with k-d trees",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 137-140"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Pompe"
+        }
+      ],
+      "title": "ReliefF for estimation and discretization of attributes in \nclassification, regression and ILP problems",
+      "type": "",
+      "publisher": "Artificial intelligence: methodology, systems, \napplications",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 31-40"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "An adaption on RELIEF for atribute estimation in \nregression",
+      "type": "",
+      "publisher": "Machine Learning : proceedings of the Fourteenth \nInternational Conference (ICML'97), Nashville, Tennessee, July 8-12, \n1997",
+      "date": "cop. 1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 296-304"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "CORE - a system that predicts continuous variables",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 145-148"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        },
+        {
+          "firstname": "Nikola",
+          "surname": "Be\u0161i\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marija",
+          "surname": "Auersperg"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Prognosing the survival time of patients with anaplastic \nthyroid carcinoma using machine learning",
+      "type": "",
+      "publisher": "Inteligent data analysis in medicine and pharmacology",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 50-55"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Context-sensitive attribute estimation in regression",
+      "type": "",
+      "publisher": "Learning in context-sensitive domains : collected papers of \na workshop organized in conjunction with the 13th International Conference \non Machine Learning, Bari, Italy, 3 July 1996",
+      "date": "1996]",
+      "vol": "",
+      "num": "",
+      "page": "str. 43-52"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Discretization of continuous attributes using ReliefF",
+      "type": "",
+      "publisher": "Zbornik \u010detrte Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '95, 25. - 27. september 1995, Portoro\u017e, Slovenija",
+      "date": "1995",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 149-152"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Petra",
+          "surname": "Volk Markovi\u010d"
+        },
+        {
+          "firstname": "Tomislav",
+          "surname": "Lapto\u0161"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Andreja",
+          "surname": "\u010cufar"
+        }
+      ],
+      "title": "Evaluation of drug and disease influence on occurrence of \nhyperkalemia : a data mining approach",
+      "type": "",
+      "publisher": "Digital Healthcare Empowering Europeans : proceedings of \nMIE2015",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1026-1027"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Darko",
+          "surname": "Pevec"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "Ko\u0161ir"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedna analitika v naprednih aplikacijah",
+      "type": "",
+      "publisher": "PIES '13 : Posvetovanje o informatiki v energetiki \nSlovenije",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 40-46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Enja",
+          "surname": "Kokalj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Identifying attribute interactions by interpreting model \npredictions : the case of grapevine yellows disease",
+      "type": "",
+      "publisher": "Proceedings of the MEi : CogSci Conference 2019",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 33"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Feature evaluation and selection : beyond \nclassification",
+      "type": "",
+      "publisher": "Book of Abstracts",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 44"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Sample size for identification of important attributes in B2B \nsales",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 133"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Generator of unsupervised semi-artificial data",
+      "type": "",
+      "publisher": "Discovery science : book of abstracts",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. [18-19]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Cukjati"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Damijan",
+          "surname": "Miklav\u010di\u010d"
+        }
+      ],
+      "title": "A proposal of an expert system for chronic wound healing rate \nprediction",
+      "type": "",
+      "publisher": "Proceedings of the 5th International Conference on Cellular \nEngineering, July 4-6, 2001, Aachen, Germany",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "poster-27"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Petra",
+          "surname": "Volk Markovi\u010d"
+        },
+        {
+          "firstname": "Tomislav",
+          "surname": "Lapto\u0161"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Ognjenovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Andreja",
+          "surname": "\u010cufar"
+        }
+      ],
+      "title": "Vrednotenje vpliva klini\u010dnih in farmakolo\u0161kih dejavnikov na \npojav hiperkaliemije s pomo\u010djo algoritmov strojnega u\u010denja",
+      "type": "",
+      "publisher": "Elektroliti, minerali in vitamini : zbornik predavanj in \nprostih tem",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 78-79"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Comprehensible explanation of predictive models",
+      "type": "",
+      "publisher": "Encyclopedia of information science and technology",
+      "date": "cop. 2018",
+      "vol": "vol. 3",
+      "num": "",
+      "page": "str. 2085-2094"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        }
+      ],
+      "title": "Perturbation-based explanations of prediction models",
+      "type": "",
+      "publisher": "Human and machine learning : visible, explainable, \ntrustworthy and transparent",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 159-175"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "F\u00fcrst"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Technological design of a state-of-the-art digital \ndictionary",
+      "type": "",
+      "publisher": "Dictionary of modern Slovene : problems and solutions",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 10-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Gr\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Analysis of text-enriched heterogeneous information \nnetworks",
+      "type": "",
+      "publisher": "Big data analysis : new algorithms for a new society",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 115-139"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Integration of machine learning insights into organizational \nlearning : a case of B2B sales forecasting",
+      "type": "",
+      "publisher": "Blurring the boundaries through digital innovation : \nindividual, organizational, and societal challenges",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 71-85"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "F\u00fcrst"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Tehnolo\u0161ka izvedba sodobnega digitalnega slovarja",
+      "type": "",
+      "publisher": "Slovar sodobne sloven\u0161\u010dine : problemi in re\u0161itve",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 52-63"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        }
+      ],
+      "title": "Explaining predictive model decisions",
+      "type": "",
+      "publisher": "Encyclopedia of business analytics and optimization",
+      "date": "cop. 2014",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 909-918"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Brane",
+          "surname": "De\u017eman"
+        },
+        {
+          "firstname": "Frane",
+          "surname": "Er\u010dulj"
+        },
+        {
+          "firstname": "Brane",
+          "surname": "De\u017eman"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "\u0160trumbelj"
+        },
+        {
+          "firstname": "Nadja",
+          "surname": "Podmenik"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Li\u010den"
+        },
+        {
+          "firstname": "Frane",
+          "surname": "Er\u010dulj"
+        },
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Lesko\u0161ek"
+        },
+        {
+          "firstname": "Sonja",
+          "surname": "Tkal\u010di\u0107"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Zagorc"
+        }
+      ],
+      "title": "Statisti\u010dna analiza prednosti doma\u010dega igri\u0161\u010da in vplivov \nspremembe pravil v 1. A in 1. B slovenski mo\u0161ki ko\u0161arkarski ligi",
+      "type": "",
+      "publisher": "Struktura ko\u0161arkarske igre in igralna u\u010dinkovitost : \nznanstvena monografija",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Koen",
+          "surname": "Vanhoof"
+        }
+      ],
+      "title": "Visual survey analysis in marketing",
+      "type": "",
+      "publisher": "Visual analytics and interactive technologies : data, text, \nand web mining applications",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 151-168"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Context-sensitive attribute evaluation",
+      "type": "",
+      "publisher": "Encyclopedia of data warehousing and mining",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 328-332"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Non-myopic feature quality evaluation with (R)ReliefF",
+      "type": "",
+      "publisher": "Computational methods of feature selection",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 169-191"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Reliable feature evaluation in classification and \nregression",
+      "type": "",
+      "publisher": "Control and learning in robotic systems",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. [281]-319"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kukar"
+        },
+        {
+          "firstname": "Nikola",
+          "surname": "Be\u0161i\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marija",
+          "surname": "Auersperg"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Prognosing the survival time of patients with anaplastic \nthyroid carcinoma using machine learning",
+      "type": "",
+      "publisher": "Intelligent Data Analysis in Medicine and \nPharmacology",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 115-129"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kurt",
+          "surname": "Driessens"
+        },
+        {
+          "firstname": "Dragi",
+          "surname": "Kocev"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Myra",
+          "surname": "Spiliopoulou"
+        }
+      ],
+      "title": "Introduction to the special issue dedicated to the Journal \nTrack of ECML PKDD 2017",
+      "type": "",
+      "publisher": "Data mining and knowledge discovery",
+      "date": "2017",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 1155-1156"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kurt",
+          "surname": "Driessens"
+        },
+        {
+          "firstname": "Dragi",
+          "surname": "Kocev"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Myra",
+          "surname": "Spiliopoulou"
+        }
+      ],
+      "title": "Introduction to the special issue dedicated to the Journal \nTrack of ECML PKDD 2017",
+      "type": "",
+      "publisher": "Machine learning",
+      "date": "2017",
+      "vol": "no. 9/10",
+      "num": "",
+      "page": "str. 1243-1244"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Je umetna inteligenca uni\u010devalka (slu\u017eb)?",
+      "type": "",
+      "publisher": "Razpotja",
+      "date": "2018",
+      "vol": "\u0161t. 31",
+      "num": "",
+      "page": "str. 9-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Is artificial intelligence a (job) killer?",
+      "type": "",
+      "publisher": "The conversation",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Stabej"
+        },
+        {
+          "firstname": "Helena",
+          "surname": "Dobrovoljc"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Gantar"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Popi\u010d"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Darja",
+          "surname": "Fi\u0161er"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Sloven\u0161\u010dina Janes : pogovorna, nestandardna, spletna ali \nspretna?",
+      "type": "",
+      "publisher": "Ra\u010dunalni\u0161ko posredovana komunikacija",
+      "date": "2016",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 100-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Inteligentni sistemi",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        }
+      ],
+      "title": "Programiranje in algoritmi",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Osnove algoritmov in podatkovnih struktur II",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Algoritmi in podatkovne strukture I",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Algoritmi in podatkovne strukture : \u0161tudijsko gradivo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Statistika in analiza podatkov : zapiski s predavanj",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Osnove algoritmov in podatkovnih struktur II : vaje in \nnaloge",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zbirka programov v Javi za predmet Algoritmi in podatkovne \nstrukture I",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zbirka programov v Javi za predmet Osnova algoritmov in \npodatkovnih struktur II",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Lastnosti in uporaba hevristi\u010dne funkcije Relief v strojnem \nu\u010denju : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Razvoj hevristik za usmerjanje u\u010denja regresijskih dreves : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "Konstruktivna indukcija z odlo\u010ditvenimi drevesi : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "1993",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "A tale from Taleland",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zgodba iz Zgodozemlje",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zeleni gral : [mladinski roman]",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Krsnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "\u0160ef"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Automatically stress labelled morphological lexicon Sloleks \n1.2 : version 1.1",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Darja",
+          "surname": "Fi\u0161er"
+        },
+        {
+          "firstname": "Nikola",
+          "surname": "Ljube\u0161i\u0107"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Urban",
+          "surname": "Bren"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Udovi\u010d"
+        }
+      ],
+      "title": "Terminology identification dataset KAS-term 1.0",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Cyprian Adam",
+          "surname": "Laskowski"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Kosem"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Gantar"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Vojko",
+          "surname": "Gorjanc"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Kaja",
+          "surname": "Dobrovoljc"
+        }
+      ],
+      "title": "Thesaurus of modern Slovene 1.0",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Kadivec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Vintar"
+        }
+      ],
+      "title": "ccGigafida ARPA language model 1.0",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kadunc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Opinion corpus of Slovene web commentaries KKS 1.001",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kadunc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Slovene sentiment lexicon KSS 1.1",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Belej"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Character-level part-of-speech tagger of Slovene \nlanguage",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Krsnik"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Arhar Holdt"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Kaja",
+          "surname": "Dobrovoljc"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Klju\u010dev\u0161ek"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Corpus extraction tool LIST 1.0",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Milosavljevi\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Koliko hitrej\u0161e bodo novice, koliko hitrej\u0161i bodo slovenski \nnovinarji, ko boste enkrat umetno inteligenco poro\u010dili z mediji? : pogovor \nv oddaji Studio City, TV Slovenija 28. 1. 2019",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Martinc"
+        },
+        {
+          "firstname": "Senja",
+          "surname": "Pollak"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Assessing readability with deep neural language models : 2nd \nHBP Student Conference: Transdisciplinary Research Linking Neuroscience, \nBrain Medicine and Computer Science, 14-16 February, 2018 Ljubljana, \nSlovenia",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Cogent engineering",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Data mining and knowledge discovery",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "International journal of data mining, modelling and \nmanagement",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "International journal of data science",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Slovar sopomenk sodobne sloven\u0161\u010dine",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Sloven\u0161\u010dina 2.0",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Machine learning",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anita",
+          "surname": "Valmarska"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Descriptive data mining for Parkinson's disease data analysis \n: doctoral dissertation = Opisno podatkovno rudarjenje za analizo podatkov \no Parkinsonovi bolezni = doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Pi\u010dulin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "U\u010denje odlo\u010ditvenih pravil z evolucijsko optimizacijo : \ndoktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Kadivec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Vintar"
+        }
+      ],
+      "title": "Prilagoditev statisti\u010dnega strojnega prevajalnika za \nspecifi\u010dno domeno v slovenskem jeziku : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        }
+      ],
+      "title": "U\u010denje in prepoznavanje strukturnih elementov fasade iz \ndigitalnih slik = [Learning and recognition of fa\u00e7ade's structural elements \nfrom digital images] : magistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Enja",
+          "surname": "Kokalj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Iskanje interakcij s pomo\u010djo interpretacije napovednih modelov \nna primeru navadne trsne rumenice : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Klan\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Autoencoder based generators of semi-artificial data : \nmaster's thesis : the 2nd cycle master's study programme Computer and \nInformation Science",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Belej"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Oblikoskladenjsko ozna\u010devanje slovenskega jezika z globokimi \nnevronskimi mre\u017eami : magistrsko delo : magistrski program druge stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Ul\u010dar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Dobri\u0161ek"
+        }
+      ],
+      "title": "Razpoznavanje slovenskega govora z metodami globokih \nnevronskih mre\u017e : magistrsko delo : magistrski program druge stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Gabrov\u0161ek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Mozeti\u010d"
+        }
+      ],
+      "title": "Analysis of relations between currency market and social \nnetworks : master's thesis : the 2nd cycle master's study programme \nComputer and Information Science",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "\u0160kvorc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Gru\u010denje z omejitvami na podlagi besedil in grafov pri \nrazporejanju akademskih \u010dlankov : magistrsko delo : magistrski program \ndruge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Krsnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "\u0160ef"
+        }
+      ],
+      "title": "Napovedovanje naglasa slovenskih besed z metodami strojnega \nu\u010denja : magistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Declan",
+          "surname": "McPartlin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Inteligentni agent z omejenimi viri v dinami\u010dni ra\u010dunalni\u0161ki \nigri : magistrsko delo : \u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Magajna"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Izbira zna\u010dilk pri ve\u010dslojnem gru\u010denju : magistrsko delo : \n\u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "\u010cepin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ve\u010dciljno u\u010denje v klasifikaciji in regresiji : magistrsko \ndelo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Kari\u017e"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Iskanje podobnih primerov v ve\u010drazse\u017enih prostorih : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Ognjenovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Iskanje ne\u017eelenih interakcij zdravil : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017dan",
+          "surname": "Kafol"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Preiskovanje pri igrah z nepopolno informacijo na primeru \ntr\u0161eta : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Ora\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Strojno u\u010denje v porazdeljenem okolju z uporabo paradigme \nMapReduce : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kadunc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Dolo\u010danje sentimenta slovenskim spletnim komentarjem s pomo\u010djo \nstrojnega u\u010denja : diplomsko delo na visoko\u0161olskem strokovnem \n\u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Rutar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Mozeti\u010d"
+        }
+      ],
+      "title": "Empiri\u010dna evalvacija procesa avtomatske klasifikacije \nsentimenta na finan\u010dni domeni : univerzitetno diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Koncilja"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedovanje porabe pomnilni\u0161kih kapacitet pri rezervnem \nkopiranju : diplomsko delo : univerzitetni \u0161tudij",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Kuntari\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Primerjava obi\u010dajnih in faktorskih modelov pri statisti\u010dnem \nstrojnem prevajanju iz angle\u0161\u010dine v sloven\u0161\u010dino z orodjem Moses : diplomsko \ndelo na univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lovro",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Priporo\u010dilni sistem za slovenske elektronske knjige : \ndiplomsko delo : univerzitetni \u0161tudijski program Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Klju\u010dev\u0161ek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Statisti\u010dna analiza slovenskih jezikovnih korpusov : diplomsko \ndelo na univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Ritlop"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Umetno \u017eivljenje na primeru kolonije inteligentnih agentov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Andolj\u0161ek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Re\u0161evanje Ravenovih inteligen\u010dnih testov v arhitekturi ACT-R : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Ur\u0161i\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Evolucija nevronskih mre\u017e : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Kosi\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Mera podobnosti na podlagi naklju\u010dnih gozdov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Von\u010dina"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Predstavitev spletnih novic iz ve\u010d virov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Pi\u010dulin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Diskretizacija \u0161tevilskih atributov z razvr\u0161\u010danjem = \n[Clustering-based discretization of numeric attributes] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralji\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedovanje podatkovnega toka porabe elektri\u010dne energije : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "John Adeyanju",
+          "surname": "Alao"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija drevesnih modelov in naklju\u010dnih gozdov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Kuzma"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Hevristi\u010dno sestavljanje kri\u017eank = [Heuristic crossword puzzle \ngeneration] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Valter",
+          "surname": "\u0160orli"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Kalibracija verjetnosti s pomo\u010djo statistike hi-kvadrat = \n[Probability calibration with chi-square statistics] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Lugari\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Podobnost izvorne kode = [Source code similarity] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "\u0160krlec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Aplikacija za upravljanje seminarskih nalog : [diplomska \nnaloga]",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Snoj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Spletna predstavitev u\u010dne snovi o algoritmih in podatkovnih \nstrukturah : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maj",
+          "surname": "Bajuk"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ansambli verjetnostnih klasifikacijskih pravil : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ljupche",
+          "surname": "Milosheski"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Cross-lingual mappings of contextual word embedding ELMo : \nbachelor's thesis : undergraduate university study programme Computer and \nInformation Science",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jasmina",
+          "surname": "Pegan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Gantar"
+        }
+      ],
+      "title": "Detekcija protipomenk z vektorskimi vlo\u017eitvami besed : \ndiplomsko delo : interdisciplinarni univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristjan",
+          "surname": "Reba"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Mozeti\u010d"
+        }
+      ],
+      "title": "Medjezikovna klasifikacija sentimenta tvitov : diplomsko delo \n: univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastian",
+          "surname": "Me\u017enar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Petar",
+          "surname": "Vra\u010dar"
+        }
+      ],
+      "title": "Modeliranje sloga igre ko\u0161arkarske ekipe iz prostorskih \npodatkov : diplomsko delo : interdisciplinarni univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Vivod"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ocenjevanje atributov s posplo\u0161itvami algoritma Relief : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tilen",
+          "surname": "Zelinka"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vektorske vlo\u017eitve za prepoznavanje slovenskih glagolskih \nidiomov : diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristjan",
+          "surname": "Voje"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Gantar"
+        }
+      ],
+      "title": "Avtomatska izdelava vezljivostnih vzorcev za slovenske glagole \n: diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Klemen"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Izbolj\u0161ave metode globokih naklju\u010dnih gozdov : diplomsko delo \n: univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrejaana",
+          "surname": "Andova"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Assessment of text readability using statistical and machine \nlearning approaches : diploma thesis : undergraduate university study \nprogram Computer and Information Science",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "Baumkirher"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Avtomatsko podnaslavljanje slik z globokimi nevronskimi \nmre\u017eami : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Beltram"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Papa"
+        }
+      ],
+      "title": "Evolucijska optimizacija geometrije profila letalskega krila : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rejc",
+          "surname": "Rok"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Krek"
+        }
+      ],
+      "title": "Generiranje slovenskih besednih oblik s pomo\u010djo strojnega \nu\u010denja : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aron",
+          "surname": "Birsa"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Iskanje in razvr\u0161\u010danje spletnih trgovin : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jugovic"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Abstraktivno povzemanje dokumentov v slovenskem jeziku : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "\u0160kvorc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        }
+      ],
+      "title": "Orodje za razporejanje \u010dlankov na konferencah : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Karin",
+          "surname": "Pi\u0161kur"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Popravljanje vejic v slovenskih besedilih z orodjem \nLanguageTool : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anja",
+          "surname": "Krajnc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Postavljanje vejic v sloven\u0161\u010dini s pomo\u010djo strojnega u\u010denja : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Uporaba globokih konvolucijskih nevronskih mre\u017e na jezikovnih \nproblemih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Ambro\u017ei\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        },
+        {
+          "firstname": "Bogdan",
+          "surname": "Filipi\u010d"
+        }
+      ],
+      "title": "Ve\u010dkriterijska optimizacija pametnih stavb z evolucijskim \nalgoritmom : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Tramte"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ogrodje za vizualizacijo prostorskih podatkov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Drljepan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Klasifikacija s porazdeljeno predstavitvijo : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Ham"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ogrodje za vizualizacijo algoritmov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maks",
+          "surname": "Horvat"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Orodja za tekstovno rudarjenje v sloven\u0161\u010dini : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Levi\u010dnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Priporo\u010dilni sistem za izbiro turisti\u010dnih svetovalcev : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Lenar\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Testiranje modulov pri ina\u010dicah spletne aplikacije : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Tramte"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija algoritma minimax na primeru igre nim : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ervin",
+          "surname": "Perhaj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija algoritma PageRank : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Sokol"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija iskanja z algoritmom LRTA* : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Lokar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Generiranje psevdoumetnih podatkovnih mno\u017eic : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mateja",
+          "surname": "Rojko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ideje in gradiva v ra\u010dunskem razmi\u0161ljanju : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Kombinatori\u010dna optimizacija s porazdeljeno implementacijo \ngenetskih algoritmov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alojzij",
+          "surname": "Blatnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedovanje kriti\u010dnih dogodkov pri ponudbi ra\u010dunskih virov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Mlakar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Pripomo\u010dek za pisanje na podlagi besedilne analize : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Ga\u0161perin"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Spletna aplikacija za voza\u010de : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u0160trajhar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Uporabni\u0161ko prijazen sistem za upravljanje s spletnimi \nvsebinami za skavte : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Ro\u017eenbergar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Upravljanje trgovskega blaga z zna\u010dkami RFID : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Ivan\u0161ek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija optimizacije prometa z genetskimi algoritmi : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksandar",
+          "surname": "Koji\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija optimizacije z rojem delcev na mobilni platformi \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Ra\u010dki"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ocenjevanje atributov v neuravnote\u017eenih problemih : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maja",
+          "surname": "Madarasi"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Podatkovna analiza uspe\u0161nosti sodelovanja zdravnikov in \nfarmacevtov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Pereni\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Prakti\u010dna raba algoritmov za iskanje najkraj\u0161ih poti pri \nupravljanju skladi\u0161\u010d : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Lo\u010dni\u0161kar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Spletni zajem napovedne mo\u010di trgov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sandi",
+          "surname": "Gec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Tridimenzionalna vizualizacija genetskih algoritmov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Ognjenovi\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Ugotavljanje konsistentnosti anketnih odgovorov s strojnim \nu\u010denjem : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Darko",
+          "surname": "Lipovec"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Vizualizacija in animacija preiskovalnega algoritma RBFS = \n[Visualization and animation of RBFS search] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "\u010cater"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zajem modrosti mno\u017eic s spletnim anketiranjem : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Heterogeneous information network analysis for semantic data \nmining : doctoral dissertation = Analiza heterogenih informacijskih omre\u017eij \nza semanti\u010dno rudarjenje podatkov = doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bohanec"
+        },
+        {
+          "firstname": "Mirjana",
+          "surname": "Kljaji\u0107 Bor\u0161tnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Model napovedovanja prodajnih prilo\u017enosti v medorganizacijskem \nposlovanju z uporabo metod strojnega u\u010denja : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Kranjc"
+        },
+        {
+          "firstname": "Nada",
+          "surname": "Lavra\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Web workflows for data mining in the cloud : doctoral \ndissertation = Spletni delotoki za rudarjenje podatkov v oblaku = doktorska \ndisertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andreja",
+          "surname": "\u010cufar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Mrhar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Na\u010drtovanje dejavnosti klini\u010dne farmacije v bolni\u0161nici s \npomo\u010djo metod umetne inteligence = Planning of clinical pharmacy services \nin the hospital using artificial intelligence methods : doktorska \ndisertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Krapi\u0107"
+        },
+        {
+          "firstname": "Ne\u017ea",
+          "surname": "Mramor Kosta"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Application of topology in essay classification : master \nthesis",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Koren"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kononenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Napovedovanje ishemije iz simuliranih podatkov : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Robnik \u0160ikonja"
+        }
+      ],
+      "title": "Zeleni gral : mladinski roman",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

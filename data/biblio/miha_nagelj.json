@@ -1,0 +1,73 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Nagelj"
+        }
+      ],
+      "title": "Cloud hosted - client driven HTML5 website : a case \nstudy",
+      "type": "",
+      "publisher": "CLASS conference 2013, Bled, Slovenia, 22-23 October",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Nagelj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Spletni sistem za usmerjanje po cestnem omre\u017eju z video \nposnetki visoke lo\u010dljivosti : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tilen",
+          "surname": "Faganel"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u0160arc"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Nagelj"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "\u0160kerjanec"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Tuta"
+        },
+        {
+          "firstname": "Matja\u017e B.",
+          "surname": "Juri\u010d"
+        }
+      ],
+      "title": "Napredni koncepti razvoja spletnih aplikacij z uporabo \nAngular2",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

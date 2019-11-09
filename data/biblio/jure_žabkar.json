@@ -1,0 +1,1733 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Extreme value correction : a method for correcting optimistic \nestimations in rule learning",
+      "type": "",
+      "publisher": "Machine learning",
+      "date": "2019",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 297-329"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Dag",
+          "surname": "Nyholm"
+        },
+        {
+          "firstname": "Mevludin",
+          "surname": "Memedi"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        }
+      ],
+      "title": "Feasibility of spirography features for objective assessment \nof motor function in Parkinson's disease",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine",
+      "date": "2017",
+      "vol": "vol. 88",
+      "num": "",
+      "page": "str. 54-62"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Extracting qualitative relations from categorical data",
+      "type": "",
+      "publisher": "Artificial intelligence",
+      "date": "2016",
+      "vol": "vol. 239",
+      "num": "",
+      "page": "str. 54-69"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Motor memory : representation, learning and \nconsolidation",
+      "type": "",
+      "publisher": "Biologically inspired cognitive architectures",
+      "date": "2016",
+      "vol": "vol. 16",
+      "num": "",
+      "page": "str. 64-74"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Dag",
+          "surname": "Nyholm"
+        },
+        {
+          "firstname": "Mevludin",
+          "surname": "Memedi"
+        }
+      ],
+      "title": "Feasibility of spirography features for objective assessment \nof motor symptoms in Parkinson's disease",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 267-276"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Qualitative planning of object pushing by a robot",
+      "type": "",
+      "publisher": "Foundations of intelligent systems : 22nd International \nSymposium, ISMIS 2015, Lyon, France, October 21-23, 2015 : \nproceedings",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 410-419"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Popovi\u010d"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Papa"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "A case analysis of embryonic data mining success",
+      "type": "",
+      "publisher": "International journal of information management",
+      "date": "2015",
+      "vol": "iss. 2",
+      "num": "",
+      "page": "str. 253-259"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mevludin",
+          "surname": "Memedi"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Filip",
+          "surname": "Bergquist"
+        },
+        {
+          "firstname": "Anders",
+          "surname": "Johansson"
+        },
+        {
+          "firstname": "Dietrich",
+          "surname": "Haubenberger"
+        },
+        {
+          "firstname": "Dag",
+          "surname": "Nyholm"
+        }
+      ],
+      "title": "Automatic spiral analysis for objective assessment of motor \nsymptoms in Parkinson's disease",
+      "type": "",
+      "publisher": "Sensors",
+      "date": "2015",
+      "vol": "no. 9",
+      "num": "",
+      "page": "str. 23728-23744"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Zvezdan",
+          "surname": "Pirto\u0161ek"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "ParkinsonCheck smart phone app",
+      "type": "",
+      "publisher": "ECAI 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1213-1214"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Learning compositional hierarchies of a sensorimotor \nsystem",
+      "type": "",
+      "publisher": "Advances in intelligent data analysis XII : IDA 2013 : 12th \nInternational Symposium, London, UK, October 17-19, 2013 : \nproceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 450-461"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Learning faster by discovering and exploiting object \nsimilarities",
+      "type": "",
+      "publisher": "International journal of advanced robotic systems",
+      "date": "2013",
+      "vol": "vol. 10",
+      "num": "",
+      "page": "str. 1-18"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Learning qualitative models from numerical data",
+      "type": "",
+      "publisher": "Artificial intelligence",
+      "date": "2011",
+      "vol": "no. 9/10",
+      "num": "",
+      "page": "str. 1604-1619"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Learning predictive qualitative models with Pad\u00e9",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "2011",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 435-444"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Ko\u0161merlj"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Embodied concept discovery through qualitative action \nmodels",
+      "type": "",
+      "publisher": "International journal of uncertainty, fuzziness and \nknowledge-based systems",
+      "date": "2011",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 453-475"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "An experiment in robot discovery with ILP",
+      "type": "",
+      "publisher": "Inductive logic programming : 18th International Conference, \nILP 2008, Prague, Czech Republic, September 10-12, 2008 : \nproceedings",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 77-90"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Argument based machine learning",
+      "type": "",
+      "publisher": "Artificial intelligence",
+      "date": "2007",
+      "vol": "no. 10/15",
+      "num": "",
+      "page": "str. 922-937"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Trevor J. M.",
+          "surname": "Bench-Capon"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Argument based machine learning applied to law",
+      "type": "",
+      "publisher": "Artificial intelligence and law",
+      "date": "2006",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. [53]-73"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jerneja",
+          "surname": "Vide\u010dnik"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Argument based machine learning in a medical domain",
+      "type": "",
+      "publisher": "Computational models of argument : proceedings of COMMA \n2006",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 59-70"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Argument based rule learning",
+      "type": "",
+      "publisher": "ECAI 2006 : proceedings",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 504-508"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Argument-based machine learning",
+      "type": "",
+      "publisher": "Foundations of intelligent systems : proceedings",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. [11]-17"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Why is rule learning optimistic and how to correct it",
+      "type": "",
+      "publisher": "Machine learning : ECML 2006 : proceedings",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. [330]-340"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Rahela",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "\u010cemas"
+        },
+        {
+          "firstname": "Dorian",
+          "surname": "\u0160uc"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Q[sup]2 prediction of ozone concentrations",
+      "type": "",
+      "publisher": "Selected papers from the Fourth International Workshop on \nEnvironmental Applications of Machine Learning, September 27 - October \n1,2004, Bled, Slovenia : special issue",
+      "date": "2006",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. [68]-82"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Teodora",
+          "surname": "Mati\u0107"
+        },
+        {
+          "firstname": "Somayeh",
+          "surname": "Aghanavesi"
+        },
+        {
+          "firstname": "Mevludin",
+          "surname": "Memedi"
+        },
+        {
+          "firstname": "Dag",
+          "surname": "Nyholm"
+        },
+        {
+          "firstname": "Filip",
+          "surname": "Bergquist"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        }
+      ],
+      "title": "Unsupervised learning from motion sensor data to assess the \ncondition of patients with Parkinson's disease",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 420-424"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Attribute visualisation for computer-aided diagnosis : a case \nstudy",
+      "type": "",
+      "publisher": "ICHI 2014 : proceedings",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 294-299"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Learning compositional hierarchies of a sensorimotor \nsystem",
+      "type": "",
+      "publisher": "Workshops and tutorials proceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "[3] str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Papa"
+        }
+      ],
+      "title": "Identification of important factors to success of \norganizational data mining",
+      "type": "",
+      "publisher": "Proceedigs",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 535-549"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Preference learning from qualitative partial \nderivatives",
+      "type": "",
+      "publisher": "ECMLPKDD 2010",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Active learning of qualitative models with Pad\u00e9",
+      "type": "",
+      "publisher": "QR 2010",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 97-104"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Learning qualitative relations from categorical data",
+      "type": "",
+      "publisher": "QR 2010",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 105-111"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Papa"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Organizacijski vidik uvajanja napovedne analitike v \norganizacije = Organizational point of view of applying predictive \nanalytics in organizations",
+      "type": "",
+      "publisher": "Zbornik devetnajste mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2010, Portoro\u017e, Slovenija, 20.-22. september \n2010",
+      "date": "2010",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 82-85"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Discovering monotone relations with Pad\u00e9",
+      "type": "",
+      "publisher": "Learning monotone models from data : at ECML PKDD \n2009",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 39-46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Jer\u0161e"
+        },
+        {
+          "firstname": "Johann",
+          "surname": "Prankl"
+        },
+        {
+          "firstname": "Matthias",
+          "surname": "Schlemmer"
+        }
+      ],
+      "title": "Learning qualitative models from image sequences",
+      "type": "",
+      "publisher": "22nd International Workshop on Qualitative Reasoning, 24-26 \nJune 2008, University of Colorado, Boulder CO USA",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 146-149"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Ashok C.",
+          "surname": "Mohan"
+        }
+      ],
+      "title": "Learning qualitative models by an autonomous robot",
+      "type": "",
+      "publisher": "22nd International Workshop on Qualitative Reasoning, 24-26 \nJune 2008, University of Colorado, Boulder CO USA",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 150-155"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Learning qualitative models through partial derivatives by \nPad\u00e9",
+      "type": "",
+      "publisher": "QR07",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 193-202"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Jer\u0161e"
+        },
+        {
+          "firstname": "Ne\u017ea",
+          "surname": "Mramor Kosta"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Induction of qualitative models using discrete Morse \ntheory",
+      "type": "",
+      "publisher": "QR07",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 203-208"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Qualitatively constrained equation discovery",
+      "type": "",
+      "publisher": "QR07",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 209-211"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Trevor J. M.",
+          "surname": "Bench-Capon"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Argument based machine learning applied to law",
+      "type": "",
+      "publisher": "Argumentation in artificial intelligence and law",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 87-94"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Rahela",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "\u010cemas"
+        },
+        {
+          "firstname": "Dorian",
+          "surname": "\u0160uc"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Using qualitative constraints in ozone prediction",
+      "type": "",
+      "publisher": "Proceedings of the 19th International Workshop on \nQualitative Reasoning (QR-05), Graz, Austria, 18-20 May 2005",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 149-156"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jerneja",
+          "surname": "Vide\u010dnik"
+        }
+      ],
+      "title": "Strojno u\u010denje z argumenti na podro\u010dju hudih bakterijskih \noku\u017eb pri starostnikih",
+      "type": "",
+      "publisher": "Zbornik",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 66-69"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rahela",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "\u010cemas"
+        }
+      ],
+      "title": "Ground-level ozone forecast based on machine learning",
+      "type": "",
+      "publisher": "Air pollution XII",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 41-48"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dayana",
+          "surname": "Hristova"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "The persistency of motor programs as a source of difficulty in \nmotor learning",
+      "type": "",
+      "publisher": "MEi:CogSci Conference 2014, Krak\u00f3w",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "Learning qualitative models from numerical data : extended \nabstract",
+      "type": "",
+      "publisher": "IJCAI-13",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 305-309"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Vrabec"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Godni\u010d"
+        },
+        {
+          "firstname": "Valter",
+          "surname": "\u0160orli"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Kay",
+          "surname": "Su\u0161elj"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Hydrological modelling of Savinja river using machine learning \nmethods",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 200-201"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Trevor J. M.",
+          "surname": "Bench-Capon"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Application of argument based machine learning to law",
+      "type": "",
+      "publisher": "The Tenth International Conference on Artificial \nIntelligence and Law, June 6-11, 2005, Alma Mater Studiorum - University of \nBologna, CIRSFID, Bologna, Italy : proceedings of the conference",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 249"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Rahela",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "\u010cemas"
+        },
+        {
+          "firstname": "Dorian",
+          "surname": "\u0160uc"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Q[sup]2 prediction of ozone concentrations",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-2]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vida",
+          "surname": "Groznik"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Sadikov"
+        }
+      ],
+      "title": "Development, debugging, and assessment of ParkinsonCheck \nattributes through visualisation",
+      "type": "",
+      "publisher": "Health monitoring and personalized feedback using multimedia \ndata",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 47-71"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        }
+      ],
+      "title": "Argument-based machine learning",
+      "type": "",
+      "publisher": "Argumentation in artificial intelligence",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 463-482"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bruno",
+          "surname": "Maissonier"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Ude"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Munih"
+        },
+        {
+          "firstname": "Christopher G.",
+          "surname": "Atkeson"
+        }
+      ],
+      "title": "Kako ustvariti stroj, ki nam bo \u010dim bolj enak",
+      "type": "",
+      "publisher": "IRT 3000",
+      "date": "2011",
+      "vol": "\u0161t. 36",
+      "num": "",
+      "page": "str. 15-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        }
+      ],
+      "title": "Vaje pri predmetu Osnove umetne inteligence",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        }
+      ],
+      "title": "Zbirka nalog za predmet Osnove umetne inteligence",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Spoznavanje programiranja in robotike z Lego Mindstorms",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "U\u010denje kvalitativnih odvisnosti : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        }
+      ],
+      "title": "U\u010denje kvalitativnih odvisnosti : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        }
+      ],
+      "title": "Uporaba Q [na] 2 u\u010denja pri modeliranju dinami\u010dnih sistemov : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Juvan"
+        }
+      ],
+      "title": "Standard STEP in prikaz objektov : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Papa"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Critical success factors of data mining in \norganizations",
+      "type": "",
+      "publisher": "IJS delovno poro\u010dilo",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "InterActive8 methodological framework for management od data \nmining integration in organizations",
+      "type": "",
+      "publisher": "IJS delovno poro\u010dilo",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Bratko"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Kalu\u017ea"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Umetna inteligenca : TV Slovenija 1, oddaja Ugriznimo znanost \n: intervju",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Bole"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "A proposed methodology for integration of predictive analytics \nin organizations : presented at Predictive Analytics World Workshop, 30 \nNovember - 1 December 2011, London, UK",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "QR 2009, 23rd International Workshop on Qualitative Reasoning, \n22-24 June 2009, Ljubljana, Slovenia",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Jenko"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        },
+        {
+          "firstname": "Ambro\u017e",
+          "surname": "Stropnik"
+        }
+      ],
+      "title": "Diagnosticiranje napak v ekosistemu vozil : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Edi",
+          "surname": "\u010cebokli"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Merjenje bradikinezije za odkrivanje Parkinsonove bolezni : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "\u017daucer"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Paralelizacija Delaunayeve triangulacije : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Armin",
+          "surname": "Komi\u0107"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Rezanje poligonov : diplomsko delo : univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Vranje\u0161"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Sledenje o\u010dem z uporabo spletne kamere : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Rugelj"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Razvijanje algoritmi\u010dnega mi\u0161ljenja osnovno\u0161olcev s \npripomo\u010dkom Lego Mindstorms : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

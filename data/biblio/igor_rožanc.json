@@ -1,0 +1,3253 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Using reverse engineering to construct the platform \nindependent model of a web application for student information \nsystems",
+      "type": "",
+      "publisher": "Computer science and information systems",
+      "date": "2013",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 1557-1583"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Pou\u010devanje kakovosti programske opreme s poudarkom na modelu \nPSP",
+      "type": "",
+      "publisher": "Vzgoja in izobra\u017eevanje v informacijski dru\u017ebi",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 454-464"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Data quality : a prerequisite for successful data warehouse \nimplementation",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "2001",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 183-188"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Uporaba modela CMM v majhnih organizacijah za razvoj \nprogramske opreme",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2003",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 149-154"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Effective collection and selection of research articles for a \nSystematic Review",
+      "type": "",
+      "publisher": "MIPRO 2018 : 41st International Convention, May 21 -25, \n2018, Opatija, Croatia : proceedings",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1601-1606"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jurij",
+          "surname": "Miheli\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Techniques for traversal operation on an object structure : a \ncomparison",
+      "type": "",
+      "publisher": "Central European Conference on Information and Intelligent \nSystems CECIIS, 26th international conference [and] appendix 10th \nInternational Doctoral Seminar (IDS), September 23rd-25th, 2015, Vara\u017edin, \nCroatia",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 213-220"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Miheli\u010d"
+        }
+      ],
+      "title": "Evaluating the effect of the automatic assessment introduction \nin the ADS1 course practical work",
+      "type": "",
+      "publisher": "MIPRO 2015 : proceedings",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 879-884"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Analysis of elective courses selection in post - Bologna \nprogrammes",
+      "type": "",
+      "publisher": "MIPRO 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 862-867"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Po\u017eenel"
+        }
+      ],
+      "title": "Reconstruction of the web application hypertext model using \nweb logs",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Conference on \nInformatics, February 17-19, 2014, Innsbruck, Austria : a publication of \nthe International Association of Science and Technology for \nDevelopment",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 148-155"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "On the appropriateness of domain-specific languages derived \nfrom different metamodels",
+      "type": "",
+      "publisher": "QUATIC 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 190-195"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Framework for web application domain knowledge \nextraction",
+      "type": "",
+      "publisher": "MIPRO 2013 : Mipro proceedings",
+      "date": "cop. 2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 835-840"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Students\u02bc perceptions of Scrum practices",
+      "type": "",
+      "publisher": "MIPRO 2012 : 35th International Convention, May 21-25, 2012, \nOpatija - Adriaric Coast, Croatia : mipro proceedings",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 1364-1369"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Producing the platform independent model of an existing web \napplication",
+      "type": "",
+      "publisher": "Proceedings of the Federated Conference on Computer Science \nand Information Systems, September 9-12, 2012, Wroc\u0142aw, Poland : \nfedCSIS",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 1341-1348"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Load-balanced generation of a restricted set of \ncombinations",
+      "type": "",
+      "publisher": "Parallel and distributed computing and networks : \nproceedings of the Tenth IASTED International Conference on Parallel and \nDistributed Computing and Networks, February 15 - 17, 2011, Innsbruck, \nAustria : proceedings of the Tenth IASTED International Conference on \nSoftware Engineering, February 15 - 17, 2011, Innsbruck, Austria",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 124-130"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "One year later : the effect of the Bologna reform on \nalgorithms and data structures course teaching",
+      "type": "",
+      "publisher": "Recent researches in educational technologies : \nproceedings",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 221-226"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Po\u017eenel"
+        }
+      ],
+      "title": "Using e-business technology in a student records information \nsystem",
+      "type": "",
+      "publisher": "Recent advances in e-activities : proceedings of the 7th \nWSEAS International Conference on E-Activities (E-Activities'08), Cairo, \nEgypt, December 29-31, 2008",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 80-85"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Experience in teaching software quality engineering using TSP \nand PSP",
+      "type": "",
+      "publisher": "Congress proceedings",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 159-162"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Po\u017eenel"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "Drnov\u0161\u010dek"
+        }
+      ],
+      "title": "Five issues for effective implementation of web based \ninformation systems",
+      "type": "",
+      "publisher": "Zbornik radova",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-5]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Uporaba osebnega in skupinskega procesa razvoja programske \nopreme v majhnih organizacijah",
+      "type": "",
+      "publisher": "Zbornik enajste mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2002, 23.-25. september 2002, Portoro\u017e, Slovenija",
+      "date": "[2002]",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 75-78"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Data quality: a prerequisite for succesful data warehouse \nimplementation",
+      "type": "",
+      "publisher": "The changing universities the role of technology : \nproceedings",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 142-147"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Merjenje velikosti programske opreme",
+      "type": "",
+      "publisher": "Zbornik desete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2001, 24. - 26. september 2001, Portoro\u017e, Slovenija",
+      "date": "2001",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 51-54"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Principi za zagotavljanje kakovosti podtkov in njihova uporaba \npri merskem modelu",
+      "type": "",
+      "publisher": "Zbornik devete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2000, 21. - 23. september 2000, Portoro\u017e, Slovenija",
+      "date": "2000",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 71-74"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "The adaptation of the CAL system Ceilidh for teaching the \nOberon language",
+      "type": "",
+      "publisher": "Information technology shaping European universities : \n[proceedings of EUNIS 99, 7-9 June 1999, Espoo, Finland]",
+      "date": "1999]",
+      "vol": "",
+      "num": "",
+      "page": "str. 79-84"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Zasnova merskega modela za zagotavljanje kakovosti v procesu \nrazvoja poslovnih aplikacij",
+      "type": "",
+      "publisher": "Zbornik osme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'99, 23. - 25. september 1999, Portoro\u017e, Slovenija",
+      "date": "1999",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 69-72"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "CEILIDH: sistem za izvajanje te\u010dajev programiranja",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 427-430"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prilagoditev sistema CEILIDH za oberonov te\u010daj",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 431-434"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Pregled tehnologij na podro\u010dju ra\u010dunalni\u0161ko podprtega \nu\u010denja",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 417-420"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "A tool for rapid application development",
+      "type": "",
+      "publisher": "ITI '96 : proceedings of the 18th International Conference \non Information Technology Interfaces, Pula, Croatia, June 18-21, \n1996",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 561-566"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "A software engineering environment for the rapid development \nof Clipper applications",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 353-362"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Orodje za izdelavo prototipov Clipperjevih aplikacij po metodi \n\"storyboard\"",
+      "type": "",
+      "publisher": "Zbornik pete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'96, 19. - 21. september 1996, Portoro\u017e, Slovenija",
+      "date": "1996",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 55-58"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Programsko okolje za razvoj aplikacij v Clipperju",
+      "type": "",
+      "publisher": "Zbornik tretje Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '94, 26. - 28. september 1994, Portoro\u017e, Slovenija",
+      "date": "1994",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 51-54"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "I.",
+          "surname": "\u0160kraba"
+        },
+        {
+          "firstname": "J.",
+          "surname": "Zabukovec"
+        }
+      ],
+      "title": "FNISID: Informacijski sistem izobra\u017eevalne dejavnosti na \nposameznih visoko\u0161olskih zavodih ljubljanske univerze",
+      "type": "",
+      "publisher": "Zbornik druge Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'93, 27. - 29. september 1993, Portoro\u017e, Slovenija",
+      "date": "1993",
+      "vol": "",
+      "num": "",
+      "page": "zv. B, str. 99-102"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "F\u00fcrst"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Java skozi primere",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Model za kvantitativno spremljanje postopka razvoja programske \nopreme v skladu z zahtevami \u010detrte stopnje modela zrelostnih stopenj \nprogramske opreme : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        }
+      ],
+      "title": "Programsko orodje za hiter razvoj aplikacij v Clipperju : \n[magistrska naloga]",
+      "type": "",
+      "publisher": "",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Viljan",
+          "surname": "Mahni\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Programske specifikacije za fakultetni nivo informacijskega \nsistema izobra\u017eevalne dejavnosti v visokem \u0161olstvu : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "1992",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Spletni \u0161tudijski informacijski sistem Univerze v Ljubljani \ne\u0160tudent : dopolnitev sistema z moduli in izbirnimi predmeti za podporo \nbolonjskemu na\u010dinu izvajanja \u0161tudija : programska oprema",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Spletni \u0161tudijski informacijski sistem Univerze v Ljubljani \ne\u0160tudent : nadgradnja sistema za zajem vpisnega lista za \u0161tudijsko leto \n2010/11 ter dopolnitev poro\u010dil : programska oprema",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Analyzing two aspects of teaching at the Faculty of Computer \nand Information Science in Ljubljana : invited lecture at Faculty of \nTechnical Sciences of the University of Novi Sad, 14. 9. 2015",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Measuring appropriateness of DSLs derived from different \nmetamodels : invited lecture at Faculty of Technical Sciences of the \nUniversity of Novi Sad, 14. 9. 2015",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Murn"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Analiza pokritosti kode s testi z uporabo mutacijskega \noperatorja BSR : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Aha\u010di\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prikaz uporabe modelno vodenega razvoja z orodjem Eclipse \nmodeling framework : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski \nprogram Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Krivec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Priporo\u010dene prvine razvoja programske opreme : diplomsko delo \nna visoko\u0161olskem strokovnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "\u010copi\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "U\u010dinkovito oblikovanje izpisov v SAP ERP informacijskem \nsistemu : diplomsko delo na visoko\u0161olskem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Knafli\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vedenjsko voden razvoj programske opreme : diplomsko delo na \nvisoko\u0161olskem strokovnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Kastelic"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Izdelava aplikacij s podporo delovnih tokov za okolje \nSharePoint Server : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u0160arkanj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava orodij za testiranje enot JUnit in TestNG : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Skupek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za avtomatsko posredovanje elektronskih sporo\u010dil = \n[Application for automatic e-mail forwarding] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Govek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava razvoja sistema za upravljanje spletnih vsebin v \ntehnologijah ASP.NET in PHP = [Comparision of web content management system \ndeveloped by ASP.NET and PHP] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u0160avli"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj multimedijskega u\u010dnega okolja = [Development of \nmultimedia learning environment] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Josip",
+          "surname": "Varga"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Spletna aplikacija za interno naro\u010danje = [Web application for \ninternal ordering] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Hajdinjak"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Uporaba LINQ-a pri razvoju poslovnih aplikacij = [Using LINQ \nin business application development] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Barli\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Mobilna aplikacija \"eRokovnik\" = [ERokovnik mobile \napplication] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u0160tefan",
+          "surname": "Meglen"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadgradnja proizvodnega informacijskega sistema = [Upgrade of \nmanufacturing information system] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Sadar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Namestitev intraneta v podjetju Livar = [Intranet installation \nin Livar company] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Vetrih"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Odprtokodno okolje za celovito izvajanje testiranja = [An open \nsource environment for integral testing execution] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Horvat"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Poslovna inteligenca = [Business intelligence] : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Kodre"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prenos namizne igralni\u0161ke aplikacije na mobilno platformo = \n[The transfer of desktop casino application to mobile platform] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Djuki\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prenova aplikacije za vodenje radijskih iger = [The \nreengineering of radio drama management application] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Tittl"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava razvoja spletne aplikacije v tehnologijah PHP in \nAJAX = [The comparision of PHP and AJAX web application development] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Bajc"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava spletnih brskalnikov = [The web browsers coparison] \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Ban"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za najem apartmajev po metodologiji \nRUP = [The development of apartment rental web application using RUP \nmethodology] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Ivan\u010di\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vpeljava podpore kreditiranja v dokumentni sistem banke = \n[Enhancing banking electronic document management system with credit \nsupport] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161ko",
+          "surname": "Simeunovi\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Zajem fotografij iz spletne storitve Picasa Web Albums = \n[Acquisition of photographs from Picasa Web Albums] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Pritr\u017enik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadgradnja podro\u010dja kalkulacij v informacijskem sistemu Kopa : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Puh"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadgradnja programskega orodja za vodenje procesov = \n[Improvement of process management software tool] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Stanko"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Optimizacija spletnih strani = [Web page optimization] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "\u0160tamcar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Raz\u010dlenjevalnik kode za UN/EDIFACT sporo\u010dila : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miran",
+          "surname": "Lesjak"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj informacijskega sistema za upravljanje telefonskih \nglasovanj = [Development of televoting information system] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Vrane\u0161i\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj obdelave zavarovalnih polic v zavarovalni\u0161ki poslovni \naplikaciji = [The development of insurance contract processing in an \ninsurance business application] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mitja",
+          "surname": "Pi\u010dulin"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Sinhronizacija ve\u010dkrat name\u0161\u010denih aplikacij : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Mihori\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Izdelava spletne aplikacije za merjenje doseganja ciljev \ne-uprave : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Bezamovski"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Mo\u017enosti za izbolj\u0161avo razvoja v podjetju z uvedbo agilnih \nprincipov : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Mu\u0161i\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prikaz zdru\u017eevanja dveh podatkovnih zbirk in tvorbe skupnega \npodatkovnega skladi\u0161\u010da : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava razvoja poslovne aplikacije za izmenjavo podatkov v \nJavi z razvojem zavarovalni\u0161kega spletnega portala PAZZ v PHP-ju : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Vedral"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj aplikacije za materialno poslovanje podjetja MVA d.o.o. \n: diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Izudin",
+          "surname": "Had\u017ei\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj aplikacije za pripravo nalepk tekstilnih izdelkov po \nmetodologiji RUP : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Boris",
+          "surname": "Malen\u0161ek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije e-Loterija z uporabo tehnologije \nJava Server Pages : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Dolgan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Varen oddaljeni dostop do aplikacij podjetja Primorske novice \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Carl"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za podporo izvajanju osebnega procesa razvoja po \n(PSP) : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Jelov\u010dan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Iskraemeco povezovalni stre\u017enik : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vladimir",
+          "surname": "Ne\u0161kovi\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Meritve v skladu z ni\u017ejimi stopnjami modela zrelostnih stopenj \nprogramske opreme (CMM) v podjetju Hermes Softlab d.d. : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Ko\u0161ir"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadgradnja aplikacije za nastavitev in vzdr\u017eevanje sistema \nISKRAMATIC SEP2 : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kej\u017ear"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj informacijskega sistema za male podjetnike : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Bizjak"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Sestavljanje kri\u017eank z ra\u010dunalnikom : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Razpotnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Spletna aplikacija za zajem in obdelavo podatkov stacionarnega \nradarja : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Polanc"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Storitev za zajem podatkov iz merilnih naprav v sistemu \nISKRAMATIC SEP2 : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Gorjup"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Strate\u0161ki plan informacijskega sistema za prirejanje turnirjev \nv odbojki na mivki : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Levstek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Podatkovno skaldi\u0161\u010de v podjetju SPL d.d. : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "Krohne"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj poslovnih aplikacij z uporabo splo\u0161nih re\u0161itev tipi\u010dnih \nproblemov : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Valher"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacijski programski vmesnik s poizvedbenim jezikom GraphQL \n: diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Bregar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Avtomatizacija integracijskih testov za integracijsko \nplatformo CIM : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Arh"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Avtomatizirano testiranje spletnih aplikacij in storitev : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Tu\u0161ar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Generiranje programske kode kolutnih iger : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mihael",
+          "surname": "Podlesek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Ovrednotenje testnega procesa v podjetju in prakti\u010den prikaz \ntestiranja z orodjem SoapUi : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Kambi\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Postopek testiranja mobilne aplikacije za izposojo obla\u010dil : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "\u0106orluka"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prikaz uporabe sistema za upravljanje poslovnih pravil Drools \nna primeru izra\u010duna pla\u010d : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava na\u010drtovanja in izvedbe poslovnega procesa z uporabo \nmodelov BPM in UML : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jani",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava ogrodij za testno avtomatizacijo z orodjem Eggplant \nFunctional : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Zajc"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prototip re\u0161itve povezljivosti pametnih gospodinjskih aparatov \n: diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Ba\u0161a"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj domensko-specifi\u010dnega jezika za Slack bote : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Kri\u017eaj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletne predstavitve \u0161portnega dru\u0161tva s sistemom za \nupravljanje vsebin Drupal : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tilen",
+          "surname": "Kopa\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vizualno regresijsko testiranje v DevOps okolju : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mitja",
+          "surname": "Jenko"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za enotno iskanje literature v digitalnih \nknji\u017enicah : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava izvornega in hibridnega razvoja mobilne aplikacije \n: diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Gaber"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava orodij za avtomatizacijo testiranja uporabni\u0161kih \nvmesnikov : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava uporabe in u\u010dinkovitosti sodobnih programskih \nvmesnikov porazdeljenega predpomnilnika : diplomsko delo : visoko\u0161olski \nstrokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jasmin",
+          "surname": "Avdi\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Kristina",
+          "surname": "Gruden"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za zaznavanje variabilnosti v \nzaporedju DNA : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017dan",
+          "surname": "Hvala"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Izdelava spletne aplikacije za iskanje izgubljenih predmetov : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Drolc"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razrez 3D modela za potrebe 3D tiskanja : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Zaletelj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj domensko specifi\u010dnega jezika za generiranje Mocha \ntestov : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Premrl"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za prikaz porabe energentov pri \nproizvodnji asfaltnih zmesi : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Jankovi\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Analiza kakovosti spletnih aplikacij za elektronsko ban\u010dni\u0161tvo \n: diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "\u0160inkovec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Domensko-specifi\u010den jezik za izdelavo preprostih ra\u010dunalni\u0161kih \niger : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u0160tefan",
+          "surname": "\u0160urk"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Mobilna aplikacija za upravljanje turnirjev : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Su\u0161nik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prototip nadzora in evidence dostopa s pomo\u010djo pametnega \ntelefona : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Ple\u0161nar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prototip re\u0161itve za vodenje brezpilotnega letala z mobilno \naplikacijo : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tja\u0161a",
+          "surname": "Jagodnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prototip u\u010dnega sistema za pou\u010devanje aritmetike v osnovni \n\u0161oli : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Slobodan",
+          "surname": "Jovanovi\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj napredne spletne trgovine z upo\u0161tevanjem zgodovine \nnakupov : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sta\u0161",
+          "surname": "Voler"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Napredna spletna aplikacija za naro\u010danje hrane : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Robba"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Pregled odprtokodnih orodij za testiranje spletnih aplikacij v \nPython-u : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kaja",
+          "surname": "Krnec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava dveh ogrodij za izdelavo grafi\u010dnih uporabni\u0161kih \nvmesnikov : Windows Presentation Foundation in Windows Forms : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kladnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava igralnih pogonov Unity in Unreal engine : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Gorjan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava ogrodij za testiranje enot v programskem jeziku C# \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Plav\u010dak"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prototip enostavnega u\u010dnega sistema : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u010crt",
+          "surname": "Gregori\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj mobilnega robota vodenega preko iOS aplikacije : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Razinger"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vzpostavitev okolja za avtomatsko testiranje programske opreme \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Cetina"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Analiza u\u010dinkovitosti mutacij mutacijskega operatorja AOR : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Klemen\u010di\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za analizo podatkov klicnega centra : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Gregorec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za zapolnitev TV programa v \u010dasu manj\u0161e gledanosti \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Gobov"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Iskanje najkraj\u0161ih poti med to\u010dkami telekomunikacijskega \nomre\u017eja : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Zdenko",
+          "surname": "Vuk"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Izdelava spletne storitve za dostop do podatkov Ubiquiti mFi \nnaprav : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kra\u0161ovec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Mobilna aplikacija za hranjenje in prikaz lokacijskih podatkov \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miran",
+          "surname": "Okorn"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nabor testnih orodij za razvijalca javanskih aplikacij : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Elvis",
+          "surname": "Kocjan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadzor in pregled ra\u010dunalni\u0161ke opreme v podjetju : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ergim",
+          "surname": "Ramadan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Preprost prevajalnik besedil za platformo android : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Golob"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj mobilne aplikacije z uporabo ogrodja Sencha Touch 2 : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Vrhovnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj orodja za centralni nadzor posodobitev v platformi \nWordPress : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jurij",
+          "surname": "Drobni\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Testiranje spletne aplikacije za organizacijo tekmovanj z \norodjem Selenium : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Vydra Stan\u010di\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vti\u010dnik za analizo glasbenih anket za radijske postaje : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jurij",
+          "surname": "Ro\u017eanec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za nadzor uporabnikove aktivnosti pri uporabi \nra\u010dunalnika : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anton",
+          "surname": "Semprimo\u017enik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Lokacijsko zavedna mobilna aplikacija z zalednim sistemom v \noblaku : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kastelec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava na\u010dinov dostopa do podatkovne baze v programskem \njeziku C# : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Andol\u0161ek"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj aplikacije za obla\u010dno platformo Wndows Azure : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Ga\u0161per\u0161i\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj orodja za napredno upravljanje vsebin spletne strani : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Kra\u0161evec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Nadgradnja informacijskega sistema z Oraclovim podatkovnim \nskladi\u0161\u010dem : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Stani\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Programska re\u0161itev za poro\u010danje v nadzornem sistemu SCADA : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Me\u017enar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj mobilne aplikacije na platformi Android : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Lek\u0161e"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije DRAGON Venue Media center : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Zirdum"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj spletnega \u010darovnika v odprtokodnem ogrodju Vaadin : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bogdan",
+          "surname": "Urdih"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Testiranje spletne aplikacije z orodji Selenium in Windmill : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Okrogar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za prikaz periodi\u010dnega sistema kemijskih elementov \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Cegnar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za upravljanje inventarja ra\u010dunalni\u0161ke opreme : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Kreslin"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Aplikacija za upravljanje RFID pametnih kartic pri kontroli \npristopa v hotelu : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Mladovan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Grafi\u010dni uporabni\u0161ki vmesnik za izbiro \u010dasovnih pasov v orodju \nza upravljanje elektroenergetskih naprav : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Cigan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Izdelava grafi\u010dnega uporabni\u0161kega vmesnika za FTP stre\u017enik \nvsftpd : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Jure\u010di\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Optimizacija spletnih strani : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "\u0160imon"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Orodje za urejanje digitalnih fotografij : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "Kravos"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Poenotene komunikacije : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Ceglar"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Prenova spletnega portala za prodajna mesta z uporabo \ntehnologije Silverlight : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Pavle",
+          "surname": "Gartner"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava razli\u010dnih re\u0161itev za izvedbo spletne trgovine : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Kalan"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Programska oprema za nadzor telefonske centrale : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Zoran",
+          "surname": "Fetah"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Raz\u0161iritev lokacijske storitve TripTracker za satelitske \nnaprave : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miran",
+          "surname": "Peri\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Razvoj testnega orodja za sistem za upravljanje pristani\u0161kih \nterminalov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Fikon"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Spletna podpora tr\u017eenju ban\u010dnih storitev s kombinacijo \nodprtokodnih tehnologij : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Volf"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "\u0160ahovski spletni portal : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gjorgi",
+          "surname": "Markovski"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Testiranje spletnih aplikacij s testnim orodjem JMeter : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Leon",
+          "surname": "Ropo\u0161a"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Uporaba dokumentnega sistema Alfresco pri izdelavi delovnega \ntoka za potrjevanje pogodb : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Bi\u0161\u0107anin"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Vpliv nitnih bazenov na zmogljivost aplikacij : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastjan",
+          "surname": "Pugelj"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Primerjava tehnologij ASP in ASP.NET pri razvoju spletnega \nspremljanja nogometa = [The comparison of ASP and ASP.NET technologies on \nWeb football tracking system development] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sango Joshua",
+          "surname": "Mustapha"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Software methodology and secure application development \nblueprint : diploma thesis work = Predlog metodologije razvoja varnih \nspletnih aplikacij s primerom : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

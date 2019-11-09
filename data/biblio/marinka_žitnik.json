@@ -1,0 +1,1595 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Francis",
+          "surname": "Nguyen"
+        },
+        {
+          "firstname": "Bo",
+          "surname": "Wang"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        },
+        {
+          "firstname": "Anna",
+          "surname": "Goldenberg"
+        },
+        {
+          "firstname": "Michael M.",
+          "surname": "Hoffman"
+        }
+      ],
+      "title": "Machine learning for integrating data in biology and medicine \n: principles, practice, and opportunities",
+      "type": "",
+      "publisher": "Information fusion",
+      "date": "2019",
+      "vol": "vol. 50",
+      "num": "",
+      "page": "str. 71-91"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Fast optimization of non-negative matrix \ntri-factorization",
+      "type": "",
+      "publisher": "PloS one",
+      "date": "2019",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. 1-15"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Sosi\u010d"
+        },
+        {
+          "firstname": "Marcus W.",
+          "surname": "Feldman"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Evolution of resilience in protein interactomes across the \ntree of life",
+      "type": "",
+      "publisher": "Proceedings of the National Academy of Sciences of the \nUnited States of America",
+      "date": "2019",
+      "vol": "no. 10",
+      "num": "",
+      "page": "str. 4426-4433"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Sosi\u010d"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Prioritizing network communities",
+      "type": "",
+      "publisher": "Nature communications",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 2544-1-2544-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo",
+          "surname": "Wang"
+        },
+        {
+          "firstname": "Armin",
+          "surname": "Pourshafeie"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Junjie",
+          "surname": "Zhu"
+        },
+        {
+          "firstname": "Carlos D.",
+          "surname": "Bustamante"
+        },
+        {
+          "firstname": "Serafim",
+          "surname": "Batzoglou"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Network enhancement as a general method to denoise weighted \nbiological networks",
+      "type": "",
+      "publisher": "Nature communications",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 3108-1-3108-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Scalable non-negative matrix tri-factorization",
+      "type": "",
+      "publisher": "Biodata mining",
+      "date": "2017",
+      "vol": "no. 41",
+      "num": "",
+      "page": "str. 1-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Predicting multicellular function through multi-layer tissue \nnetworks",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2017",
+      "vol": "no. 14",
+      "num": "",
+      "page": "str. i190-i198"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Ule"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        }
+      ],
+      "title": "Orthogonal matrix factorization enables integrative analysis \nof multiple RNA binding proteins",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2016",
+      "vol": "no. 10",
+      "num": "",
+      "page": "str. 1527-1535"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Jumping across biomedical contexts using compressive data \nfusion",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2016",
+      "vol": "no. 12",
+      "num": "",
+      "page": "str. 90-100"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Gene network inference by fusing data from diverse \ndistributions",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2015",
+      "vol": "no. 12",
+      "num": "",
+      "page": "str. 230-239"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Sieve-based relation extraction of gene regulatory networks \nfrom biological literature",
+      "type": "",
+      "publisher": "BMC bioinformatics",
+      "date": "2015",
+      "vol": "suppl. 16",
+      "num": "",
+      "page": "str. 1-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data fusion by matrix factorization",
+      "type": "",
+      "publisher": "IEEE transactions on pattern analysis and machine \nintelligence",
+      "date": "2015",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 41-53"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data imputation in epistatic MAPs by network-guided matrix \ncompletion",
+      "type": "",
+      "publisher": "Journal of computational biology",
+      "date": "2015",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. 595-608"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Mattiazzi"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ogrizovi\u0107"
+        },
+        {
+          "firstname": "Petra",
+          "surname": "Kaferle"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Heimo",
+          "surname": "Wolinski"
+        },
+        {
+          "firstname": "F.",
+          "surname": "Leitner"
+        },
+        {
+          "firstname": "Sepp D.",
+          "surname": "Kohlwein"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Petrovi\u010d"
+        }
+      ],
+      "title": "Genome-wide localization study of yeast Pex11 identifies \nperoxisome-mitochondria interactions through the ERMES complex",
+      "type": "",
+      "publisher": "Journal of molecular biology",
+      "date": "2015",
+      "vol": "no. 11",
+      "num": "",
+      "page": "str. 2072-2087"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Edward Adam",
+          "surname": "Nam"
+        },
+        {
+          "firstname": "Christopher",
+          "surname": "Dinh"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Gene prioritization by compressive data fusion and \nchaining",
+      "type": "",
+      "publisher": "PLoS computational biology",
+      "date": "2015",
+      "vol": "no. 10",
+      "num": "",
+      "page": "str. 1-18"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Gene network inference by probabilistic scoring of \nrelationships from a factorized model of interactions",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2014",
+      "vol": "no. 12",
+      "num": "",
+      "page": "str. 246-254"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Imputation of quantitative genetic interactions in epistatic \nMAPs by interaction propagation matrix completion",
+      "type": "",
+      "publisher": "Research in computational molecular biology : 18th Annual \nInternational Conference, RECOMB 2014, Pittsburgh, PA, USA, April 2-5, 2014 \n: proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 448-462"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Matrix factorization-based data fusion for drug-induced liver \ninjury prediction",
+      "type": "",
+      "publisher": "Systems biomedicine",
+      "date": "2014",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 1-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Survival regression by data fusion",
+      "type": "",
+      "publisher": "Systems biomedicine",
+      "date": "2014",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 49-55"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "\u010crtomir",
+          "surname": "Gorup"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Polajnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Orange : data mining toolbox in Python",
+      "type": "",
+      "publisher": "Journal of machine learning research",
+      "date": "2013",
+      "vol": "vol. 14",
+      "num": "",
+      "page": "str. 2349-2353"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Vuk",
+          "surname": "Janji\u0107"
+        },
+        {
+          "firstname": "Chris",
+          "surname": "Larminie"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Nata\u0161a",
+          "surname": "Pr\u017eulj"
+        }
+      ],
+      "title": "Discovering disease-disease associations by fusing \nsystems-level molecular data",
+      "type": "",
+      "publisher": "Scientific reports",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "NIMFA : a Python library for nonnegative matrix \nfactorization",
+      "type": "",
+      "publisher": "Journal of machine learning research",
+      "date": "2012",
+      "vol": "vol. 13",
+      "num": "",
+      "page": "str. 849-853"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Zidar"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Majcen"
+        },
+        {
+          "firstname": "Matic",
+          "surname": "Poto\u010dnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Team ULjubljana's solution to the JRS 2012 Data Mining \nCompetition",
+      "type": "",
+      "publisher": "Rough sets and current trends in computing : \nproceedings",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 471-478"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Hidden genes : understanding cancer data with matrix \nfactorization",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2015",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 72-74"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lara",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Sorry kids, Iron Man's superpowers aren't unique",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2015",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 66-67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lara",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "According to sensor 22, Benny is preparing dinner",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2015",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 72-74"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Efficient sensor placement for environmental monitoring",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2014",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 73-75"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Exploring data with topological tools",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2014",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 65-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Dynamics of news from the New York Times",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2014",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 64-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "The anatomy of a human disease network",
+      "type": "",
+      "publisher": "Crossroads",
+      "date": "2014",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 58-60"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Matrix function : a \"VIP\" in linear algebra and its \napplications",
+      "type": "",
+      "publisher": "XRDS",
+      "date": "2013",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 66-67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Zero-knowledge proofs",
+      "type": "",
+      "publisher": "XRDS",
+      "date": "2013",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 65-67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "On constructing the tree of life",
+      "type": "",
+      "publisher": "XRDS",
+      "date": "2013",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 65-67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Using sentiment analysis to improve business operations",
+      "type": "",
+      "publisher": "XRDS",
+      "date": "2012",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 42-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Iterative numerical methods for nonlinear systems",
+      "type": "",
+      "publisher": "XRDS",
+      "date": "2012",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 64-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Claire",
+          "surname": "Donnat"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "David",
+          "surname": "Hallac"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        },
+        {
+          "firstname": "William L.",
+          "surname": "Hamilton"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Learning structural node embeddings via diffusion \nwavelets",
+      "type": "",
+      "publisher": "Proceedings of the 24th ACM SIGKDD KDD 2018 International \nConference on Knowledge Discovery & Data Mining, London, United \nKingdom, August 19 - 23, 2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1320-1329"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Monica",
+          "surname": "Agrawal"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Leskovec"
+        }
+      ],
+      "title": "Modeling polypharmacy side effects with graph convolutional \nnetworks",
+      "type": "",
+      "publisher": "Procedindgs of the International Symposium on Biological \nMonitoring, ISMB 2018, July 6 - July 10, Chicago, IL, USA",
+      "date": "2018",
+      "vol": "no. 13",
+      "num": "",
+      "page": "str. i457-i466"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Collective pairwise classification for multi-way analysis of \ndisease and drug data",
+      "type": "",
+      "publisher": "Pacific Symposium on Biocomputing 2016, Kohala Coast, \nHawaii, USA, 4-8 January 2016",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 81-92"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Survival regression by data fusion",
+      "type": "",
+      "publisher": "CAMDA",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 38-42"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Bajec"
+        }
+      ],
+      "title": "Extracting gene regulation networks using linear-chain \nconditional random fields and rules",
+      "type": "",
+      "publisher": "BioNLP shared task 2013 : ACL 2013 : proceedings of the \nworkshop : August 9, 2013, Sofia, Bulgaria",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 178-187"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Matrix factorization-based data fusion for drug-induced liver \ninjury prediction",
+      "type": "",
+      "publisher": "CAMDA 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Matrix factorization-based data fusion for gene function \nprediction in baker's yeast and slime mold",
+      "type": "",
+      "publisher": "PSB 2014 online proceedings [January 3-7, 2014, Kohala Coast \n(Hawaii)]",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "[12] str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Mattiazzi"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "U\u0161aj"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Dana",
+          "surname": "Kablawi"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Brenda J.",
+          "surname": "Andrews"
+        },
+        {
+          "firstname": "Charles",
+          "surname": "Boone"
+        }
+      ],
+      "title": "Exploring the yeast endocytic pathway by combining \nhigh-throughput genetics and high-content miscroscopy",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Jumping across biomedical contexts using compressive data \nfusion",
+      "type": "",
+      "publisher": "Pacific Symposium on Biocomputing 2016 : abstract \nbook",
+      "date": "2016]",
+      "vol": "",
+      "num": "",
+      "page": "str. 118"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Large-scale data fusion",
+      "type": "",
+      "publisher": "37th Annual International Conference of the IEEE Engineering \nin Medicine and Biology Society, Milan, Italy, August 25-29 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Edward Adam",
+          "surname": "Nam"
+        },
+        {
+          "firstname": "Christopher",
+          "surname": "Dinh"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Gene prioritization by compressive data fusion and \nchaining",
+      "type": "",
+      "publisher": "[BC] [sup] 2 Basel Computational Biology Conference, 7-10 \nJune 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Integrate everything but the kitchen sink : data set selection \nand sensitivity estimation in collective factor models",
+      "type": "",
+      "publisher": "ISMB, ECCB",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Edward",
+          "surname": "Nam"
+        },
+        {
+          "firstname": "Christopher",
+          "surname": "Dinh"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data fusion for gene prioritization",
+      "type": "",
+      "publisher": "ISMB 2014",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Biomedical data fusion by simultaneous matrix \ntri-factorization",
+      "type": "",
+      "publisher": "RECOMB 2014 : book of abstracts",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 89"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Edward",
+          "surname": "Nam"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data fusion for Dictyostelium bacterial response gene \nprioritization",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Topological methods in machine learning",
+      "type": "",
+      "publisher": "Summer School on Computational Topology and Topological Data \nAnalysis, July 1st-July 5th 2013, Ljubljana, Slovenia",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mojca",
+          "surname": "Mattiazzi"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Usaj"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "David",
+          "surname": "Drubin"
+        },
+        {
+          "firstname": "Brenda J.",
+          "surname": "Andrews"
+        },
+        {
+          "firstname": "Charles",
+          "surname": "Boone"
+        }
+      ],
+      "title": "Studying yeast endocytosis with high-throughput multi-channel \nfluorescence microscopy : a tale of cortical actin patches, endosomes and \nvacuoles",
+      "type": "",
+      "publisher": "ICSB",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 208"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data fusion of everything",
+      "type": "",
+      "publisher": "37th Annual International Conference of the IEEE Engineering \nin Medicine and Biology Society, Milan, Italy, August 25-29 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-3"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Large-scale data fusion by collective matrix \nfactorization",
+      "type": "",
+      "publisher": "[BC] [sup] 2 Basel Computational Biology Conference, 7-10 \nJune 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andreja",
+          "surname": "Vehovec"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Humar"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "Potisk"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Vehovec"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ke komunikacije in omre\u017eja I in II",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Balaji",
+          "surname": "Santhanam"
+        }
+      ],
+      "title": "Data mining w/o programming : a computational and integrative \nbiomedical research (CIBR) workshop at Baylor College of Medicine",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Learning by fusing heterogeneous data : a dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Pristop matri\u010dne faktorizacije za gradnjo napovednih modelov \niz heterogenih podatkovnih virov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u010cen\u010dula"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Sprogramirana dru\u017eba : Ugriznimo znanost, oddaja o \nznanosti",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Pristop matri\u010dne faktorizacije za gradnjo napovednih modelov \niz heterogenih podatkovnih virov : delo je pripravljeno v skladu s \nPravilnikom o podeljevanju Pre\u0161ernovih nagrad \u0161tudentom, pod mentorstvom \nprof. dr. Bla\u017ea Zupana",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Machine learning in Python : lecture at University of Pavia, \n18.-20. February 2015",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Data mining without programming : lecture at Baylor College of \nMedicine, 21.-22. May 2014",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "Learning by fusing heterogeneous data : lecture at 2nd \nHeidelberg Laureate Forum, September 21-26, 2014, Heidelberg",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Crossroads",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Svojo krono nosim v srcu, ne na glavi : zbornik prispevkov o \nhumanizmu in renesansi",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Svojo krono nosim v srcu, ne na glavi : zbornik prispevkov o \nhumanizmu in renesansi",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "S\u0160ER Ljubljana v mednarodnem projektu Mladina - \u0161ola - \ngospodarstvo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        }
+      ],
+      "title": "U\u010denje z zlivanjem heterogenih podatkov",
+      "type": "",
+      "publisher": "Novice IJS",
+      "date": "2017",
+      "vol": "\u0161t. 182",
+      "num": "",
+      "page": "str. 9-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Tonja",
+          "surname": "Jan\u0161a"
+        }
+      ],
+      "title": "Vklju\u010ditev Slovenije v Evropsko unijo : razisokvalna \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

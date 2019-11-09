@@ -1,0 +1,7740 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational analysis of viable parameter regions in models \nof synthetic biological systems",
+      "type": "",
+      "publisher": "Journal of biological engineering",
+      "date": "2019",
+      "vol": "vol. 13",
+      "num": "",
+      "page": "str. 1-21"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Initial state perturbations as a validation method for \ndata-driven fuzzy models of cellular networks",
+      "type": "",
+      "publisher": "BMC bioinformatics",
+      "date": "2018",
+      "vol": "no. 333",
+      "num": "",
+      "page": "str. 1-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Semi-quantitative modelling of gene regulatory processes with \nunknown parameter values using fuzzy logic and Petri nets",
+      "type": "",
+      "publisher": "Fundamenta informaticae",
+      "date": "2018",
+      "vol": "no. 1/2",
+      "num": "",
+      "page": "str. 81-100"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Grohar : automated visualization of genome-scale metabolic \nmodels and their pathways",
+      "type": "",
+      "publisher": "Journal of computational biology",
+      "date": "2018",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 505-508"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anastasiia",
+          "surname": "Vasylchenkova"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Classical mechanics approach applied to analysis of genetic \noscillators",
+      "type": "",
+      "publisher": "IEEE/ACM transactions on computational biology and \nbioinformatics",
+      "date": "2017",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 721-727"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational design of synchronous sequential structures in \nbiological systems",
+      "type": "",
+      "publisher": "Journal of computational science",
+      "date": "2017",
+      "vol": "vol. 18",
+      "num": "",
+      "page": "str. 24-31"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Realizacija dvoji\u0161kega pomnjenja v preprostih biolo\u0161kih \nsistemih",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2016",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 194-200"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "Bizjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational framework for modeling multiple noncooperative \ntranscription factor binding and its application to the analysis of nuclear \nfactor kappa B oscillatory response",
+      "type": "",
+      "publisher": "Journal of computational biology",
+      "date": "2016",
+      "vol": "no. 12",
+      "num": "",
+      "page": "str. 923-933"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Fuzzy logic as a computational tool for quantitative modelling \nof biological systems with uncertain kinetic data",
+      "type": "",
+      "publisher": "IEEE/ACM transactions on computational biology and \nbioinformatics",
+      "date": "2015",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 1199-1205"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Stochastic simulation algorithm for gene regulatory networks \nwith multiple binding sites",
+      "type": "",
+      "publisher": "Journal of computational biology",
+      "date": "2015",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 218-226"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "Krivic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Hardware implementation of FAST algorithm for mobile \napplications",
+      "type": "",
+      "publisher": "Journal of signal processing systems for signal, image, and \nvideo technology",
+      "date": "2015",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 247-256"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "An adaptive genetic algorithm for parameter estimation of \nbiological oscillator models to achieve target quantitative system \nresponse",
+      "type": "",
+      "publisher": "Natural computing",
+      "date": "2014",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 119-127"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Du\u0161an",
+          "surname": "Vu\u010dko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Hybrid discrete algorithm for the modelling of gene regulatory \nnetworks",
+      "type": "",
+      "publisher": "Biosystems and information technology",
+      "date": "2013",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 32-36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "\u0160tefan",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Marino",
+          "surname": "Medeot"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Solving the logistic problems with optimal resource assignment \nusing fuzzy logic methods",
+      "type": "",
+      "publisher": "Journal of advanced transportation",
+      "date": "2013",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 447-460"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Comparison of selected performances of biological and \nelectronic information processing structures",
+      "type": "",
+      "publisher": "Przegl\u0119ad Elektrotechniczny",
+      "date": "2013",
+      "vol": "no. 2a",
+      "num": "",
+      "page": "str. 165-169"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Monika",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Jerala"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Model realizacije funkcionalnosti RS-pomnilne celice v \nbiolo\u0161kem sistemu = A model of the RS memory-cell realization in biological \nsystems",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2009",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 223-228"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Monika",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Toward in vivo digital synchronous sequential circuits",
+      "type": "",
+      "publisher": "WSEAS Transactions on Circuits",
+      "date": "2009",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 301-310"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Solving the ternary quantum-dot cellular automata logic gate \nproblem by means of adiabatic switching",
+      "type": "",
+      "publisher": "Japanese journal of applied physics",
+      "date": "2008",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. 5000-5006"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Ram\u0161ak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Adiabatic pipelining : a key to ternary computing with quantum \ndots",
+      "type": "",
+      "publisher": "Nanotechnology",
+      "date": "2008",
+      "vol": "no. 49",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Automatic design of optimal logic circuits based on ternary \nquantum-dot cellular automata",
+      "type": "",
+      "publisher": "WSEAS Transactions on Circuits",
+      "date": "2008",
+      "vol": "no. 9",
+      "num": "",
+      "page": "str. 919-928"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Towards automated cooking process",
+      "type": "",
+      "publisher": "Food research international",
+      "date": "2007",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. [733]-741"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "The computational beauty of flocking : boids revisited",
+      "type": "",
+      "publisher": "Mathematical and computer modelling of dynamical \nsystems",
+      "date": "2007",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. [331]-347"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Decomposition of a complex fuzzy controller for the \ntruck-and-trailer reverse parking problem",
+      "type": "",
+      "publisher": "Mathematical and computer modelling",
+      "date": "2006",
+      "vol": "no. 5/6",
+      "num": "",
+      "page": "str. 632-645"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Towards the bottom-up concept : extended quantum-dot cellular \nautomata",
+      "type": "",
+      "publisher": "Microelectronic engineering",
+      "date": "2006",
+      "vol": "no. 4/9",
+      "num": "",
+      "page": "str. 1826-1829"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "The ternary quantum-dot cell and ternary logic",
+      "type": "",
+      "publisher": "Nanotechnology",
+      "date": "2006",
+      "vol": "no. 8",
+      "num": "",
+      "page": "str. 1937-1942"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Simulating flocks on the wing : the fuzzy approach",
+      "type": "",
+      "publisher": "Journal of theoretical biology",
+      "date": "2005",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. [199]-220"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Design considerations of hardware based fuzzy \ncontrollers",
+      "type": "",
+      "publisher": "WSEAS transactions on systems",
+      "date": "2004",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 811-816"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Trunk"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Virtual coronary cineangiography",
+      "type": "",
+      "publisher": "Computers in Biology and Medicine",
+      "date": "2003",
+      "vol": "is. 3",
+      "num": "",
+      "page": "str. 293-302"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mehki krmilnik Takagi-Sugeno realiziran v programabilnem \nlogi\u010dnem polju CPLD",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2003",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. [215-220]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Measurement and analysis of radial artery blood velocity in \nyoung normotensive subjects : research paper",
+      "type": "",
+      "publisher": "Informatica medica slovenica",
+      "date": "2003",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 15-19"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "PICAMS: Post Intensive CAre Monitoring System",
+      "type": "",
+      "publisher": "Informatica medica slovenica",
+      "date": "2003",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 20-26"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Notes on fuzzy cellular automata",
+      "type": "",
+      "publisher": "G\u00e4ongy\u00e8 g\u00e4ongch\u00e9ng xu\u00e9k\u00e4an",
+      "date": "2000",
+      "vol": "no. 5",
+      "num": "",
+      "page": "str. 469-476"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vojko",
+          "surname": "Valen\u010di\u010d"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "\u0160vajger"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Klemen\u010di\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Robert",
+          "surname": "Blumauer"
+        },
+        {
+          "firstname": "Jurij-Matija",
+          "surname": "Kali\u0161nik"
+        }
+      ],
+      "title": "Standardi za pou\u010devanje naravoslovja preko svetovnega spleta s \nprimeri iz fiziologije in elektrike",
+      "type": "",
+      "publisher": "Vzgoja in izobra\u017eevanje v informacijski dru\u017ebi",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 550-556"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "T-type fuzzy memory cells",
+      "type": "",
+      "publisher": "Fuzzy sets and systems",
+      "date": "1999",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 175-183"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Intelligent bush fire spread prediction using fuzzy cellular \nautomata",
+      "type": "",
+      "publisher": "Journal of intelligent & fuzzy systems",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 203-207"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Attention to time in fuzzy logic",
+      "type": "",
+      "publisher": "Fuzzy sets and systems",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 39-49"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Fuzzy automata with fuzzy relief",
+      "type": "",
+      "publisher": "IEEE transactions on fuzzy systems",
+      "date": "1995",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 69-74"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diva",
+          "surname": "Rejc"
+        },
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Tilen",
+          "surname": "Tr\u0161eli\u010d"
+        },
+        {
+          "firstname": "Timotej",
+          "surname": "Osolin"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Jakob",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Eva",
+          "surname": "Pavliha"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Tanja",
+          "surname": "Cvitanovi\u0107 Toma\u0161"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Computational modelling of genome-scale metabolic networks and \nits application to CHO cell cultures",
+      "type": "",
+      "publisher": "Computers in Biology and Medicine",
+      "date": "2017",
+      "vol": "vol. 88",
+      "num": "",
+      "page": "str. 150-160"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Varnost elektronske po\u0161te",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "62, \u0161t. 1 (1995), str. 66-69"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Za\u0161\u010dita podatkov v ra\u010dunalni\u0161kih omre\u017ejih",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1995",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 70-72"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Pepelnjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "Brade\u0161ko"
+        }
+      ],
+      "title": "Pregled sistemov elektronske po\u0161te",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1991",
+      "vol": "\u0161t. 5",
+      "num": "",
+      "page": "str. 243-249"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Nadzor in vzdr\u017eevanje ra\u010dunalni\u0161kih mre\u017e",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1991",
+      "vol": "\u0161t. 5",
+      "num": "",
+      "page": "str. 273-276"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Pepelnjak"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mo\u017enost implementacije zanesljive baze podatkov v MS-DOS \nokolju",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "1990",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 77-82"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivan",
+          "surname": "Pepelnjak"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "Brade\u0161ko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Interna struktura UNIX zdru\u017eljivega 8-bitnega operacijskega \nsistema",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "1988",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 30-39"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjan",
+          "surname": "Brade\u0161ko"
+        },
+        {
+          "firstname": "Ljubo",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Pepelnjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sistemski uporabni\u0161ki vmesnik za 8-bitni UNIX zdru\u017eljiv \noperacijski sistem",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "1988",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 40-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "Brade\u0161ko"
+        },
+        {
+          "firstname": "Ivan",
+          "surname": "Pepelnjak"
+        }
+      ],
+      "title": "Mo\u017enosti za\u0161\u010dite programske opreme na mikrora\u010dunalnikih",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "1988",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 44-47"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Matic",
+          "surname": "Tkalec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Towards the declaration of inter-functional protocol for \nFRAM",
+      "type": "",
+      "publisher": "R&M in the second machine age - the challenge of cyber \nphysical systems : proceedings",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational framework for global sensitivity analysis of \nhigh-dimensional and poorly connected parameter spaces",
+      "type": "",
+      "publisher": "Synthetic biology for manufacturing in the bioeconomy",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-2"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "The ternary quantum-dot cellular automata memorizing \ncell",
+      "type": "",
+      "publisher": "ISVLSI 2009",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 223-228"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Monika",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Towards the realization of synchronous sequential biological \ncircuits",
+      "type": "",
+      "publisher": "Recent advances in mathematics and computers in biology and \nchemistry : proceedings of the 10th WSEAS International Conference on \nMathematics and Computers in Biology and Chemistry (MCBC'09), Prague, Czech \nRepublic, March 23-25, 2009",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 136-141"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Zlatko",
+          "surname": "Magdevski"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Towards multistate nanocomputing : the implementation of a \nprimitive fuzzy controller",
+      "type": "",
+      "publisher": "ICQNM 2008",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 45-49"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Computer-aided design of ternary quantum-dot cellular automata \ncircuits",
+      "type": "",
+      "publisher": "New aspects of circuits : proceedings of the 12th WSEAS \nInternational Conference on Circuits, Heraklion, Greece, July 22-24, \n2008",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 296-301"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Space complexity optimization for nano electronic devices \nbased on evolutionary computation",
+      "type": "",
+      "publisher": "Sustainable development through effective man-machine \nco-existence",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 390-394"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Frank H.",
+          "surname": "Heppner"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Fuzzy model of bird flock foraging behavior",
+      "type": "",
+      "publisher": "EUROSIM 2007 : proceedings of the 6th EUROSIM Congress on \nModelling and Simulation, 9-13 September 2007, Ljubljana, Slovenia. Vol. 2, \nFull papers",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Quantum-dot field programmable gate array : enhanced \nrouting",
+      "type": "",
+      "publisher": "COMMAD'06 : proceedings of the 2006 Conference on \nOptoelectronic and Microelectronic Materials and Devices, 6-8 December \n2006, Perth Australia",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 121-124"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damir",
+          "surname": "Opsenica"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Kos"
+        }
+      ],
+      "title": "Hitri preklopi topologije v Ethernet omre\u017eju",
+      "type": "",
+      "publisher": "Zbornik petnajste mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2006, 25. - 27. september 2006, Portoro\u017e, Slovenija",
+      "date": "2006",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 183-186"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Universal Takagi-Sugeno fuzzy controller core implemented in a \nPLD device",
+      "type": "",
+      "publisher": "Applied computational intelligence : proceedings of the 6th \ninternational FLINS conference , Blankenberge, Belgium, September 1-3, \n2004",
+      "date": "cop. 2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 665-670"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "The application of fuzzy automata to medical signal \nprocessing",
+      "type": "",
+      "publisher": "Proceedings of 2004 International Symposium on Nonlinear \nTheory and its Applications",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 99-102"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Fuzzy logic used for modelling and simulation of massive \nprocesses : a useful tool for nanotechnologies?",
+      "type": "",
+      "publisher": "Proceedings of the Second IASTED International Conference on \nNeural Networks and Computational Intelligence, February 23-25, 2004, \nGrindelwald, Switzerland : a publication of The International Association \nof Science and Technology for Development - IASTED",
+      "date": "cop. 2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 274-278"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Boids with a fuzzy way of thinking",
+      "type": "",
+      "publisher": "Artificial intelligence and soft computing : a publication \nof The International Association of Science and Technology for Development \n- IASTED",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 58-62"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Fuzzifying the thoughts of animats",
+      "type": "",
+      "publisher": "Fuzzy sets and systems - IFSA 2003 : proceedings",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 195-202"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analysis of flow wave velocity in young normotensive subjects \nwith familial predisposition to hypertension",
+      "type": "",
+      "publisher": "Journal of hypertension. Supplement",
+      "date": "2003",
+      "vol": "suppl. 4",
+      "num": "",
+      "page": "str. S29"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analysis of velocity contour and diastolic function of the \nleft ventricle in young normotensive subjects",
+      "type": "",
+      "publisher": "12 NBC 2002 : proceedings of the International Federation \nfor Medical & Biological Engineering : regional meeting of IFMBE",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 26-27"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Jim",
+          "surname": "Keller"
+        },
+        {
+          "firstname": "Olfa",
+          "surname": "Nasraoui"
+        }
+      ],
+      "title": "Notes on memorizing in fuzzy decision process",
+      "type": "",
+      "publisher": "Proceedings : NAFIPS-FLINT 2002",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 216-220"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Memorizing in fuzzy computers",
+      "type": "",
+      "publisher": "Proceedings of the 3rd WSEAS International Conference on \nNeural Networks and Applications (NNA '02), 3rd WSEAS International \nConference on Fuzzy Sets and Fuzzy Systems (FSFS '02), 3rd WSEAS \nInternational Conference on Evolutionary Computation (EC '02), Interlaken, \nSwitzerland, February 11-14, 2002",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-4]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "An application of automaton with variable membership \nfunctions",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 179-182"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Fuzzy cellular automata as a concept of synthesis approach to \nmodelling",
+      "type": "",
+      "publisher": "The International NAISO Congress on Information Science \nInnovation (ISI2001), March 17-21, 2001 at the American University in \nDubai, U.A.E. in co-operation with Dubai Internet City",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-4]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Milenko",
+          "surname": "Al\u010din"
+        }
+      ],
+      "title": "Omre\u017eje Bluetooth pristopnih to\u010dk",
+      "type": "",
+      "publisher": "Zbornik desete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2001, 24. - 26. september 2001, Portoro\u017e, Slovenija",
+      "date": "2001",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 63-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "\u0160vajger"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Vojko",
+          "surname": "Valen\u010di\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Standardizacija meta-podatkov na podro\u010dju e-izobra\u017eevanja in \nve\u010dpredstavitvenih tehnologij",
+      "type": "",
+      "publisher": "Zbornik desete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2001, 24. - 26. september 2001, Portoro\u017e, Slovenija",
+      "date": "2001",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 381-384"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Computer vision based reliability control for electromechanica \ndice gambling ml",
+      "type": "",
+      "publisher": "Proceedings of IEEE international conference on industrial \ntechnology 2000, Goa-India 19-22 January 2000",
+      "date": "2000",
+      "vol": "vol. 1",
+      "num": "",
+      "page": "str. 325-328"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "Bergant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        }
+      ],
+      "title": "Design considerations of an electromechanical dice gambling \nmachine",
+      "type": "",
+      "publisher": "Proceedings of IEEE international conference on industrial \ntechnology 2000, Goa-India 19-22 January 2000",
+      "date": "2000",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 444-447"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Finite automata with continuous fuzzy time",
+      "type": "",
+      "publisher": "Proceedings. Vol. 2",
+      "date": "cop. 2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 1227-1232"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Fuzzy cellular automata: from theory to applications",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 320-323"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Programski vmesnik za zvezno ve\u010dstensko prostorsko projekcijo \nnavideznega prostora na osebnem ra\u010dunalniku",
+      "type": "",
+      "publisher": "Zbornik devete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2000, 21. - 23. september 2000, Portoro\u017e, Slovenija",
+      "date": "2000",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 79-82"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Fuzzy numbers as inputs to fuzzy automata",
+      "type": "",
+      "publisher": "18th International Conference of the North American Fuzzy \nInformation Processing Society - NAFIPS, June 10-12, 1999, New York, \nU.S.A.",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 453-456"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "A model of fuzzy automata with variable input sets",
+      "type": "",
+      "publisher": "Computational intelligence for modelling, control & \nautomation : evolutionary computational & fuzzy logic for intelligent \ncontrol, knowledge acquisition & information retrieval",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 260-264"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Some considerations on possibility of fuzzifying cellular \nautomata",
+      "type": "",
+      "publisher": "IFSA '99 : proceedins of the Eighth International Fuzzy \nSystems Association World Congress, August 17-20, 1999, Taipei, \nTaiwan",
+      "date": "1999]",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 566-569"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Modular application for robot motion planning based on random \nglobal search",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Conference Robotics \nand Applications, October 28-30, 1999, Santa Barbara, California, \nUSA",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 89-92"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        }
+      ],
+      "title": "Batching two materials with a robust fuzzy logic \ncontroller",
+      "type": "",
+      "publisher": "Proceedings. Vol. 2",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 463-466"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Implementation of fuzzy automata in pattern recognition \nproblems",
+      "type": "",
+      "publisher": "Proceedings. Vol. 2",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 519-521"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Fuzzy finite automata as a basis for fuzzy cellular \nautomata",
+      "type": "",
+      "publisher": "Intelligent systems : proceedings of the ISCA 7th \nInternational Conference, Melun, France, July 1-2, 1998",
+      "date": "cop. 1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 128-131"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "From conventional to fuzzy controlled electric kitchen \nstove",
+      "type": "",
+      "publisher": "EUFIT'97 : proceedings. Vol. 3",
+      "date": "cop. 1997",
+      "vol": "vol. 3",
+      "num": "",
+      "page": "str. 2204-2209"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Milan",
+          "surname": "Mare\u0161"
+        }
+      ],
+      "title": "Basics of fuzzy cellular automata",
+      "type": "",
+      "publisher": "IFSA'97 Prague : proceedings : volume IV",
+      "date": "1997",
+      "vol": "vol. IV",
+      "num": "",
+      "page": "str. 228-231"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "The fuzzy logic approach to the car number plate locating \nproblem",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 227-230"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Edge detector: towards the solid ground of an image retrieval \nsystem",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 371-375"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "A fuzzy logic controller for superconductivity \nmeasuring",
+      "type": "",
+      "publisher": "Applications of artificial intelligence : expert systems, \nrobots and vision systems, fuzzy logic and neural networks : proceedings of \nthe workshops of the Seventh Portuguese Conference on Artificial \nIntelligence, held in Funchal, Madeira Island, Portugal, October 95",
+      "date": "cop. 1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 207-215"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Optimisation possibilities in a robust Fuzzy Logic Batching \nController",
+      "type": "",
+      "publisher": "Fourth European Congress on Intelligent Techniques and Soft \nComputing EUFIT '96, Aachen, Germany, September 2-5, 1996 : \nproceedings",
+      "date": "1996",
+      "vol": "vol. 3",
+      "num": "",
+      "page": "str. 1802-1806"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Rogelio",
+          "surname": "Soto"
+        }
+      ],
+      "title": "Predicting wind driven wild land fire shape using fuzzy logic \nin cellular automata",
+      "type": "",
+      "publisher": "Proceedings ISAI/IFIS 1996 : Mexico - USA Collaboration in \nIntelligent System Technologies",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 408-412"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Rogelio",
+          "surname": "Soto"
+        }
+      ],
+      "title": "On fuzzy numbers equality",
+      "type": "",
+      "publisher": "Proceedings ISAI/IFIS 1996 : Mexico - USA Collaboration in \nIntelligent System Technologies",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 463-465"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "M.",
+          "surname": "Kodric"
+        },
+        {
+          "firstname": "Patricia A.S.",
+          "surname": "Ralston"
+        },
+        {
+          "firstname": "Thomas L.",
+          "surname": "Ward"
+        }
+      ],
+      "title": "Batching with a robust fuzzy logic controller",
+      "type": "",
+      "publisher": "Proceedings of the 1996 International fuzzy systems and \nintelligent control conference : intelligent control, soft computing, and \nhumankind",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 167-173"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Fuzzy control approach in the field of thermally stimulated \ncurrent measurement",
+      "type": "",
+      "publisher": "EUFIT'95 : Proceedings",
+      "date": "cop. 1995",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 932-936"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Time dependent fuzzy control of a simple object",
+      "type": "",
+      "publisher": "IFSA'95 : volume I",
+      "date": "1995",
+      "vol": "vol. 1",
+      "num": "",
+      "page": "str. 534-535"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Horst",
+          "surname": "Kremers"
+        },
+        {
+          "firstname": "Werner",
+          "surname": "Pillman"
+        }
+      ],
+      "title": "Computer assisted predicting wind driven wild land fire size \nand shape using fuzzy logic",
+      "type": "",
+      "publisher": "Raum und Zeit in Umweltinformationssysteme. Space and time \nin environmental information systems : 9th international symposium on \ncomputer science for environmental protection CSEP'95 : Teil II/Part \nII",
+      "date": "1995",
+      "vol": "teil II",
+      "num": "",
+      "page": "str. 726-732"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Lidija",
+          "surname": "Bandzo"
+        }
+      ],
+      "title": "Fuzzy classifier of bit map patterns",
+      "type": "",
+      "publisher": "Visual modules : proceedings of 19th \u00d6AGM and 1st SDRV \nworkshop",
+      "date": "cop. 1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 189-196"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Problems of on-line processing and displaying of \nholograms",
+      "type": "",
+      "publisher": "Distributed multimedia systems and applications : \nproceedings of the IASTED/ISMM international conference, Honululu, Hawaii, \nAugust 15-17,1994",
+      "date": "1994",
+      "vol": "",
+      "num": "",
+      "page": "str. 288-292"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Nagode"
+        }
+      ],
+      "title": "Adapting fuzzy controller to the control object",
+      "type": "",
+      "publisher": "Second European congress on intelligent techniques and soft \ncomputing EUFIT `94, Aachen, Germany, September 20-23, 1994 : proceedings. \nVolume 3",
+      "date": "1994",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 763-767"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ema",
+          "surname": "Jenko"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "\u0160neberger"
+        }
+      ],
+      "title": "Zagotavljanje odjema relevantnih senzorsko pridobljenih \npodatkov o stanju uporabnika varovanega stanovanja",
+      "type": "",
+      "publisher": "SPS delavnica EM-zdravje : zbornik 18. mednarodne \nmultikonference Informacijska dru\u017eba - IS 2015, 9. in 12. oktober 2015, \n[Ljubljana, Slovenia] : zvezek G : proceedings of the 18th International \nMulticonference Information Society - IS 2015, October 9th and 12h, 2015, \nLjubljana, Slovenia : volume G",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 59-61"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Telemetrija v kardiologiji: analiza EKG pri motnjah v signalu \n= Telemetry in cardiology: the analysis of EKG with noise in the \nsignal",
+      "type": "",
+      "publisher": "Zbornik predavanj : [interna medicina 2006 : novosti in \naktualnosti]",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 255-262"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Performance analysis of web server : workshop on contemporary \ncommunications",
+      "type": "",
+      "publisher": "Workshop on contemporary communications : SoftCOM 2003 \nevents",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 135-139"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Integracija Bluetooth brez\u017ei\u010dnega omre\u017eja v informacijski \nsistem bolni\u0161nic",
+      "type": "",
+      "publisher": "Zbornik dvanajste mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2003, 25. - 26. september 2003, Ljubljana, Slovenija",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 381-384"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Means and methods of fuzzy memorizing",
+      "type": "",
+      "publisher": "Computers in technical systems and intelligent systems : \nproceedings of the joint conferences : zbornik radova zajedni\u010dkih \nsavjetovanja",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 27-30"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Milenko",
+          "surname": "Al\u010din"
+        }
+      ],
+      "title": "Bluetooth information network",
+      "type": "",
+      "publisher": "SoftCOM 2001",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 1033-1037"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Grm"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Stevanovi\u010d"
+        }
+      ],
+      "title": "Modelling bush-fire spread in Slovenian karst using fuzzy \nlogic and uncertain knowledge",
+      "type": "",
+      "publisher": "Buildings, boats & bushfires : proceedings",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-7]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "Bergant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Precise and reliable electronic read-out of mechanical random \nnumber generator using dices",
+      "type": "",
+      "publisher": "Computers in technical systems, CTS",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 9-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Skrt"
+        }
+      ],
+      "title": "Using fuzzy logic in control of household appliances",
+      "type": "",
+      "publisher": "Computers in technical systems, CTS",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 42-45"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Optimal local chroma-key definition with application to hair \nextraction from digital images of people",
+      "type": "",
+      "publisher": "Proceedings of the International Symposium on Pattern \nRecognition \"In Memoriam Pierre Devijver\", Brussels, February 12, \n1999",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 135-139"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti FLASH datote\u010dnega sistema",
+      "type": "",
+      "publisher": "Zbornik osme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'99, 23. - 25. september 1999, Portoro\u017e, Slovenija",
+      "date": "1999",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 109-112"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Niko",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Iskanje po WWW - priklic in to\u010dnost",
+      "type": "",
+      "publisher": "Zbornik posvetovanja",
+      "date": "1999",
+      "vol": "knj. 1",
+      "num": "",
+      "page": "str. 241-249"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Vsebinsko usmerjeno poizvedovanje po slikovnih podatkovnih \nbazah",
+      "type": "",
+      "publisher": "Zbornik posvetovanja",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 192-200"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Datote\u010dni sistem na osnovi FLASH pomnilne tehnologije",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 19-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Postopek ra\u010dunanja pozicije sprehajalca v prostoru s pomo\u010djo \nvozi\u010dka",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 171-174"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Albin",
+          "surname": "Kurin\u010di\u010d"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Vodenje modela avtomobila s pomo\u010djo ra\u010dunalnika",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 179-182"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Vidmar"
+        }
+      ],
+      "title": "Some statistical characteristics of computer network backbone \n- University of Ljubljana network as a case study",
+      "type": "",
+      "publisher": "ConTEL 97 : proceedings",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 439-443"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Dolo\u010danje optimalnega lokalnega klju\u010da - izlo\u010danje in barvanje \nlas na fotografiji osebe",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 301-304"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Fuzzy arithmetic calculations and the presence of \nerrors",
+      "type": "",
+      "publisher": "Ra\u010dunala u tehni\u010dkim sustavima/RTS : plenarne teme",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 2-20 - 2-24"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Mehki krmilnik v funkciji dozirne tehtnice",
+      "type": "",
+      "publisher": "Zbornik pete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'96, 19. - 21. september 1996, Portoro\u017e, Slovenija",
+      "date": "1996",
+      "vol": "vol. A",
+      "num": "",
+      "page": "str. 231-234"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "\u010casovno pogojeno mehko krmiljenje enostavnega objekta",
+      "type": "",
+      "publisher": "Zbornik pete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'96, 19. - 21. september 1996, Portoro\u017e, Slovenija",
+      "date": "1996",
+      "vol": "vol. A",
+      "num": "",
+      "page": "str. 235-238"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Computer performance test in domain of arithmetic \noperations",
+      "type": "",
+      "publisher": "Zbornik radova savjetovanja Mikrora\u010dunala u tehni\u010dkim \nsustavima MTS, 22.-26. Svibanj/May 1995, Rijeka, Croatia",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 2-78 - 2-80"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Upotreba fuzzy logike u procesu kontrole uz upotrebu historije \nzbivanja = Applying fuzzy logic in process of control with fuzzy history \nclassification approach",
+      "type": "",
+      "publisher": "Mikrora\u010dunala u tehni\u010dkim sustavima : zbornik radova \nsavjetovanja. Ra\u010dunalni sustavi za rad u stvarnom vremenu : zbornik radova \nseminarja",
+      "date": "1994",
+      "vol": "",
+      "num": "",
+      "page": "str. 3-18 - 3-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Ga\u0161per\u0161i\u010d"
+        }
+      ],
+      "title": "Ubrzanje prenosa podataka na disketnu jedinicu = Faster data \ntransfer on floppy disk",
+      "type": "",
+      "publisher": "Mikrora\u010dunala u tehni\u010dkim sustavima : zbornik radova \nsavjetovanja. Ra\u010dunalni sustavi za rad u stvarnom vremenu : zbornik radova \nseminarja",
+      "date": "1994",
+      "vol": "",
+      "num": "",
+      "page": "str. 3-23 - 3-28"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Komac"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational design of synchronised bacterial counters",
+      "type": "",
+      "publisher": "Abstracts",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Constraint-based inference of gene regulatory networks",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 40"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maj",
+          "surname": "Smerkol"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "\u0160teblaj"
+        },
+        {
+          "firstname": "\u017dan",
+          "surname": "Klane\u010dek"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational analysis of parametric variability influence on \nthe dynamics of synchronized cellular populations",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 42"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Grohar - computational tool for the analysis, visualisation \nand alignment of metabolic networks",
+      "type": "",
+      "publisher": "EASyM Europe 2018 : abstracts",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. A3"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Towards a sex-dependet mathematical model of mammalian \ncircadian clock",
+      "type": "",
+      "publisher": "Taste of genomics : abstracts",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Visualisation and analysis of metabolic networks with \nGrohar",
+      "type": "",
+      "publisher": "Taste of genomics : abstracts",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Automatization of fuzzy inference system describing the \ndynamics of MAPK cascade",
+      "type": "",
+      "publisher": "Abstracts",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. [1]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diva",
+          "surname": "Rejc"
+        },
+        {
+          "firstname": "Tilen",
+          "surname": "Tr\u0161eli\u010d"
+        },
+        {
+          "firstname": "Jakob",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "In silico analysis of CHO metabolism in dependence on the \nmedium composition",
+      "type": "",
+      "publisher": "Abstracts",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. [1]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Viable parameter space analysis of dynamic biological \nmodels",
+      "type": "",
+      "publisher": "Abstracts",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. [1]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Evaluating the kinetic parameters for quantitative models in \nsystems biology",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 21"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Design of synchronous transcription based biological \nmemory",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 35"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pu\u0161nik"
+        },
+        {
+          "firstname": "Lidija",
+          "surname": "Magdevska"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Global sensitivity analysis of biological models with \nhigh-dimensional and poorly connected parameter spaces",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 37"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tanja",
+          "surname": "\u0160tular"
+        },
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Tanja",
+          "surname": "Cvitanovi\u0107 Toma\u0161"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational framework for the analysis of biological \noscillators and its application to p53-Mdm2 interaction",
+      "type": "",
+      "publisher": "Everything you always wanted to know about personalised \nmedicine in clinical care",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 158"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "Bizjak"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Explicit modelling of binding site clusters in NF-kB \noscillatory response",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 20"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "A parallel algorithm for stochastic multiscale simulation of \ngene regulatory networks with multiple binding sites",
+      "type": "",
+      "publisher": "Book of abstracts",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 30"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Quantitative modelling of a 3-gene repressilator with \nuncertain kinetic data using fuzzy logic",
+      "type": "",
+      "publisher": "From arrays and sequencing to understanding diseases : book \nof abstracts",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Multiscale stochastic simulation algorithm for complex gene \nregulatory networks",
+      "type": "",
+      "publisher": "From arrays and sequencing to understanding diseases : book \nof abstracts",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Ternary computing with quantum dots",
+      "type": "",
+      "publisher": "Hot nano topics 2008 : incorporating SLONANO 2008, 3 \noverlapping workshops on current hot subjects in nanoscience, 23-30 May, \nPortoro\u017e, Slovenia : abstract book",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 109"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Towards more effective computing : using the nano computing \nplatforms",
+      "type": "",
+      "publisher": "Hot nano topics 2008 : incorporating SLONANO 2008, 3 \noverlapping workshops on current hot subjects in nanoscience, 23-30 May, \nPortoro\u017e, Slovenia : abstract book",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 110"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Evolutionary synthesis of quantum-dot cellular automata \ncircuits",
+      "type": "",
+      "publisher": "Hot nano topics 2008 : incorporating SLONANO 2008, 3 \noverlapping workshops on current hot subjects in nanoscience, 23-30 May, \nPortoro\u017e, Slovenia : abstract book",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 246"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Frank H.",
+          "surname": "Heppner"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Fuzzy model of bird flock foraging behavior",
+      "type": "",
+      "publisher": "EUROSIM 2007 : proceedings of the 6th EUROSIM Congress on \nModelling and Simulation, [9-13 September, 2007, Ljubljana, Slovenia]. Vol. \n1, Book of abstracts",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 266"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Artificial intelligence techniques applied to design of logic \ncircuits based on ternary quantum-dot cellular automata",
+      "type": "",
+      "publisher": "Microprocesses and nanotechnology 2007 : digest of papers : \n2007 International Microprocesses and Nanotechnology Conference, November \n5-8, 2007, Kyoto International Conference Center, Kyoto, Japan",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 138-139"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Krmiljenje robota LEGO Mindstorms NXT",
+      "type": "",
+      "publisher": "Zbornik \u0160estnajste mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2007, 24. -26. september 2007, Portoro\u017e, \nSlovenija",
+      "date": "2007",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 341-342"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Quantum-dot FPGA : enhanced routing",
+      "type": "",
+      "publisher": "COMMAD 2006 : [program and abstracts]",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. WP-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Comparison of two measurements of arterial blood velocity in \nyoung normotensive subjects with familial predisposition to \nhypertension",
+      "type": "",
+      "publisher": "Abstract book",
+      "date": "2004",
+      "vol": "vol. 22",
+      "num": "",
+      "page": "str. 197"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Trunk"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        }
+      ],
+      "title": "Virtual coronary cineangiography",
+      "type": "",
+      "publisher": "Book of abstract[!] with programme",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 102"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Kranjec"
+        },
+        {
+          "firstname": "Pavel",
+          "surname": "Jezer\u0161ek"
+        }
+      ],
+      "title": "Activity of the autonomic nervous system and diastolic \ndisfunction of the left ventricle in hypertensive patients",
+      "type": "",
+      "publisher": "Proceedings of the 10th Nordic-Baltic Conference on \nBiomedical Engineering, June 9-13, 1996, Tampere, Finland",
+      "date": "1996",
+      "vol": "suppl. 1",
+      "num": "",
+      "page": "str. 385-386"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        }
+      ],
+      "title": "Computational approaches in synthetic and systems \nbiology",
+      "type": "",
+      "publisher": "Recent advances in systems biology research",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 131-156"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        }
+      ],
+      "title": "Applied fuzzy intelligence system: fuzzy batching of bulk \nmaterial",
+      "type": "",
+      "publisher": "Intelligent systems : technology and applications",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. II-121-II-142"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Jelena",
+          "surname": "Ficzko"
+        }
+      ],
+      "title": "Fuzzy cellular automata and fuzzy sequential circuits",
+      "type": "",
+      "publisher": "Intelligent systems : technology and applications",
+      "date": "cop. 2003",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. II-211-II-256"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Skrt"
+        }
+      ],
+      "title": "Fuzzy techniques in intelligent household appliances",
+      "type": "",
+      "publisher": "Practical applications of computational intelligence \ntechniques",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 121-145"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Fuzzy sequential circuits and automata",
+      "type": "",
+      "publisher": "Fuzzy theory systems : techniques and applications. Vol. \n4",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 1599-1653"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor multikonferenci Informacijska dru\u017eba 2015 = Foreword \n- Information society 2015",
+      "type": "",
+      "publisher": "Inteligentni sistemi : zbornik 18. mednarodne \nmultikonference Informacijska dru\u017eba - IS 2015, 7. oktober 2015, \n[Ljubljana, Slovenia] : zvezek A : proceedings of the 18th International \nMulticonference Information Society - IS 2015, October 7th, 2015, \nLjubljana, Slovenia : volume A",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. I-II"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor multikonferenci Informacijska dru\u017eba 2015 = Foreword \n- Information society 2015",
+      "type": "",
+      "publisher": "Inteligentni sistemi : zbornik 18. mednarodne \nmultikonference Informacijska dru\u017eba - IS 2015, 7. oktober 2015, \n[Ljubljana, Slovenia] : zvezek A : proceedings of the 18th International \nMulticonference Information Society - IS 2015, October 7th, 2015, \nLjubljana, Slovenia : volume A",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. I-II"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor Multikonferenci Informacijska dru\u017eba 2014 = Foreword \n- Inform",
+      "type": "",
+      "publisher": "Inteligentni sistemi : zbornik 17. mednarodne \nmultikonference - IS 2014, 7-8 oktober 2014, Ljubljana, Slovenija : zvezek \nA : proceedings of the 17th International Multiconference Information \nSociety - IS 2014, October 7th-8th, 2014, Ljubljana, Slovenia : volume \nA",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. I-II"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor multikonferenci Informacijska dru\u017eba 2013 = Foreword \n- Information society 2013",
+      "type": "",
+      "publisher": "Zbornik 16. mednarodne multikonference Informacijska dru\u017eba \n- IS 2013, 7.-11. oktober 2013 [Ljubljana, Slovenija] : zvezek A : volume \nA",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. I-II"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor multikonferenci Informacijska dru\u017eba 2012 = Foreword \n- Informatin society 2012",
+      "type": "",
+      "publisher": "Zbornik 15. mednarodne multikonference Informacijska dru\u017eba \n- IS 2012, 8.-12. oktober 2012, Ljubljana, Slovenia : zvezek A : volume \nA",
+      "date": "2012",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. I-II"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Gams"
+        }
+      ],
+      "title": "Predgovor multikonferenci Informacijska dru\u017eba 2011 = Foreword \n- Information society 2011",
+      "type": "",
+      "publisher": "Zbornik 14. mednarodne multikonference Informacijska dru\u017eba \n- IS 2011, 10.-14. oktober 2011 : zvezek A : volume A",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-2"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Temelji zmogljivosti ra\u010dunalni\u0161kih sistemov",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Logi\u010dno na\u010drtovanje ra\u010dunalni\u0161kih struktur in sistemov",
+      "type": "",
+      "publisher": "",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Stanko",
+          "surname": "Strm\u010dnik"
+        },
+        {
+          "firstname": "Maja",
+          "surname": "Atanasijevi\u0107-Kunc"
+        },
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Mu\u0161i\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "\u0160krjanc"
+        },
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Bla\u017ei\u010d"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Beli\u010d"
+        },
+        {
+          "firstname": "Janko",
+          "surname": "Petrov\u010di\u010d"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Colnari\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Dog\u0161a"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Stanislav",
+          "surname": "Kova\u010di\u010d"
+        },
+        {
+          "firstname": "Rado",
+          "surname": "Lapuh"
+        }
+      ],
+      "title": "\u0160tudijsko gradivo za te\u010daj Usposabljanje na podro\u010dju \nmodernizacije in\u0161trumentacijskih in regulacijskih sistemov",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Spektralna analiza kodiranja DES : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "1990",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Programska podpora za logi\u010dno snovanje na osnovi univerzalnih \npolj SLA : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1984",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Vpeljava mehke logike v proces upravljanja obrambnega sistema \n: zaklju\u010dno poro\u010dilo o rezultatih opravljenega raziskovalnega dela na \nprojektu v okviru ciljnega raziskovalnega programa \"Znanje za varnost in \nmir 2006-2010\"",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Zasnova komunikacijskih protokolov za potrebe medicinskih \naplikacij : zaklju\u010dno poro\u010dilo o rezultatih raziskovalnega projekta v letu \n2006/2007",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolay Stefanov",
+          "surname": "Kolev"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Michael",
+          "surname": "Scopchanov"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Management system for mobile robots collaboration : \nreport",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ayhan",
+          "surname": "Mehmed"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Michael",
+          "surname": "Scopchanov"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Video surveilance with Beagle Board : report",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Miran",
+          "surname": "Koprivec"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Vizec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Tratar"
+        }
+      ],
+      "title": "Analiza zanesljivosti elektronskih komponent in tiskanin : \nanaliza",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        },
+        {
+          "firstname": "Marino",
+          "surname": "Medeot"
+        }
+      ],
+      "title": "Uporaba mehke logike na podro\u010dju obrambe in voja\u0161kih ve\u0161\u010din : \nnovo znanje za stare\u0161ine",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Optimizacija IP BAN na PowerQuicc II in PowerQuicc III \nplatformi : poro\u010dilo zadnje faze projekta",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Mobile medical monitoring : final report",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Postopki za pospe\u0161evanje TCP/IP protokola s poudarkom na WiMAX \nto\u010dkah : zaklju\u010dno poro\u010dilo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Realizacija Bluetooth brez\u017ei\u010dne komunikacije med grelno plo\u0161\u010do \nin posodo v procesu kuhanja hrane : [zaklju\u010dno poro\u010dilo za \nnaro\u010dnika]",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        }
+      ],
+      "title": "Analiza zanesljivosti delovanja programske in strojne opreme \nra\u010dunalni\u0161kega glasovalnega sistema Dr\u017eavnega zbora RS",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lapanja"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u017dvan"
+        }
+      ],
+      "title": "Analiza performans, funkcijske specifikacije IP \nfunkcionalnosti za produkt MG6011 in realizacija IP filtrov za demo projekt \nMG6011 : poro\u010dilo po 1. fazi projekta : [zaklju\u010dno poro\u010dilo za \nnaro\u010dnika]",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Meden"
+        },
+        {
+          "firstname": "Dominik",
+          "surname": "Panger\u0161i\u010d"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Puziga\u010da"
+        }
+      ],
+      "title": "TMG Cloud : dokumentacija",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        }
+      ],
+      "title": "TMG Cloud : dokumentacija prototipa",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "xSTP : dizajn dokument",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "xSTP : funkcijska specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "xSTP : testni scenariji",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Architecture of distributed intelligence in access network : \nproviding high availability : detailed protocol specification on the level \nof network element",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Remote mirroring : dizajn specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Remote mirroring : \u0161tudija izvedljivosti",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Uvedba licenc in licen\u010dne politike na segment dostopa : \npredlog licen\u010dne arhitekture",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Arhitektura distribuirane inteligence v dostopovnem omre\u017eju : \nzagotavljanje visoke razpolo\u017eljivosti : izbira redundan\u010dnega protokola na \nrazli\u010dnih nivojih omre\u017eja",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Arhitektura distribuirane inteligence v dostopovnem omre\u017eju : \nzagotavljanje visoke razpolo\u017eljivosti : rezultati \u0161tudije \nvisoko/redundan\u010dnih protokolov",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Remote mirroring : funkcijska specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Analiza standarda G.8302 Ethernet Ring Protection Switching : \nfunkcijska specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Redundantna priklju\u010ditev perifernih plo\u0161\u010d : design \nspecifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Selective Q-in-Q : design specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "EAPS protokol : funkcijska specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Redundan\u010dna priklju\u010ditev EAPS obro\u010da proti centralnemu obro\u010du \n: design specifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Quick-linkdown funkcionalnost : funkcijska \nspecifikacija",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Sobivanje protokolov v redundan\u010dnih omre\u017ejih : analiza \ndelovanja",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Analiza in izdelava programske opreme za brez\u017ei\u010dno \nkomunikacijo na osnovi \"BlueTooth\" standarda : zaklju\u010dno poro\u010dilo : o \nrezultatih opravljenega dela RR aktivnosti projekta",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Jane\u017e"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Programska oprema \"Ujma\" za re\u0161evanje logisti\u010dnih problemov z \nmehko logiko v slovenski vojski",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Programska oprema za brez\u017ei\u010dno komunikacijo na osnovi \n\"Bluetooth\" standarda",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u010cehovin"
+        }
+      ],
+      "title": "Programska oprema za Bluetooth brez\u017ei\u010dno komunikacijo med \ngrelno plo\u0161\u010do in posodo v procesu kuhanja",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Analiza in siteza rutin v mikrora\u010dunalni\u0161kih operacijskih \nsistemih : delo je pripravljeno v skladu s Pravilnikom o podeljevanju \nPre\u0161ernovih nagrad \u0161tudentom, pod mentorstvom prof. dr. Virant \nJerneja",
+      "type": "",
+      "publisher": "",
+      "date": "1983",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Lakner"
+        },
+        {
+          "firstname": "Marjeta",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Klan\u010dar"
+        }
+      ],
+      "title": "Ni meja : omre\u017ena (ne)varnost : prispevek v Prvem \ndnevniku",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Krivic"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Jogan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "\u0160oberl"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Avtobusna postaja : demonstracija uporabe ra\u010dunalni\u0161kega vida \nv sistemu za mobilno interakcijo z urbanimi objekti",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "Bizjak"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Computational approaches for quantitative modeling of gene \nregulatory networks with multiple transcription factor DNA binding site \nrepeats : Biology meets engineering and computer science, International \nSynthetic & Systems Biology Summer School, SSBSS'15, Taormina, Sicily, \nItaly, July 5-9, 2015",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Fuzzy model for a computer simulation of bird flocking : \ndissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Remic"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Optimizacija komunikacije med krmilnikom in stikali omre\u017eja \nSDN z uporabo razpr\u0161enega oddajanja krmilnih sporo\u010dil : magistrsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Hafnar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Obvladovanje preobremenitev virov ERP pri izvajanju paketnih \nobdelav : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tomo",
+          "surname": "Ceferin"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Modularna programska re\u0161itev mosta za protokol Ethernet : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Perme"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Brodnik"
+        }
+      ],
+      "title": "Simulacija izvajanja poslov na upravljanem porazdeljenem \nsistemu : magistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u017dlender"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Simulacija brez\u017ei\u010dnega omre\u017eja IEEE 802.11b s simulacijskim \norodjem Simprocess : magistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damijan",
+          "surname": "Markovi\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Zajem podatkov o prometu v navideznih omre\u017ejih : magistrska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ki model letenja ptic v jatah : magistrska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "\u0160ekoranja"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Razvr\u0161\u010devalniki procesov v operacijskih sistemih : diplomsko \ndelo : univerzitetni \u0161tudij Ra\u010dunalni\u0161tva in informatike",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Stegel"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sistem za merjenje \u010dasa na atletskih stezah : diplomsko delo \nna univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dunja",
+          "surname": "Rosina"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Merjenje temperature v senzorskih omre\u017ejih : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Prodan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Modeliranje in simulacija toplotnih izgub stavbe : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Bernik"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Obogatena razglednica : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "\u0160kaper"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Simulacija omre\u017eja MPLS : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Pustoslem\u0161ek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Strojna izvedba zajemanja podatkov za gradnjo histograma v \nrealnem \u010dasu : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Jerala"
+        }
+      ],
+      "title": "Gensko regulatorna omre\u017eja v domeni podatkovno pretokovnih \nplatform procesiranja : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017eek",
+          "surname": "Gru\u0161kovnjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Vrednotenje vpliva sodobnih komunikacijskih tehnologij = \n[Assesing the impact of communication technologies] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Samo",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Analiza prenosa podatkov pri prehajanju med dostopnimi to\u010dkami \nv brez\u017ei\u010dnem omre\u017eju = [Analysis of data transfer delays in wireless \nnetworks subject to roaming] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Benjamin",
+          "surname": "Ambro\u017e"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Zmogljivostna analiza stre\u017enika za nudenje storitve video na \nzahtevo = [The performance analyses of the video on demand server] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastijan",
+          "surname": "Pelhan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Opredelitev informacijskega sistema za spremljanje proizvodnje \n= [An information system for production line monitoring] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alen",
+          "surname": "Gri\u017eoni\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Simulacija algoritmov za razvr\u0161\u010danje procesov = The simulation \nof process scheduling algorithms : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ana",
+          "surname": "Kranner"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Testiranje zmogljivosti omre\u017enih stikal = [Analysis of the \nnetwork switch performance] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Milan",
+          "surname": "Pevec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Zmogljivostna analiza spletne PHP aplikacije z uporabo \nrazli\u010dnih tehnik predpomnjenja = [Performance analysis of the PHP system by \nusing different techniques of caching] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Hafnar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Komunikacijski protokol za spletno distribucijo hotelskih \nnamestitev = [Communication protocol for internet distribution of hotel \ncapacities] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Denis",
+          "surname": "Poropat"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "U\u010dinkovito prikazovanje podatkov vodovodnega omre\u017eja : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Begu\u0161"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza varnosti v brez\u017ei\u010dnih omre\u017ejih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gorjan",
+          "surname": "Menkovski"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Neprestana za\u0161\u010dita podatkov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Skube"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Primerjava u\u010dinkovitosti metod za oblikovanje prometa : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Sprogar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Programski modul za prenos podatkov med osebnim ra\u010dunalnikom \nin krmilnimi moduli : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Ko\u0161mrlj"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti navideznih stre\u017enikov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Ostanek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mo\u017enosti uporabe IP telefonije v brez\u017ei\u010dnih omre\u017ejih : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Lovec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Primerjalna analiza zmogljivosti odjemalcev za kontrolo \nindustrijskih procesov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Hribar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Program za izra\u010dun hitrosti pulznega vala : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastjan",
+          "surname": "Jerman"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza mo\u017enosti prehoda z operacijskega sistema Windows na \noperacijski sistem Linux : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damir",
+          "surname": "Lali\u0107"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza mo\u017enosti ugotavljanja napak v okenskih operacijskih \nsistemih (Windows) : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Ivan\u010di\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti spletnega stre\u017enika : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Bone"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Pregled tehnologije celi\u010dnih omre\u017eij : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Jemec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Strojna realizacija transformacije IDCT : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Rudolf"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Primerjava sistemov odjemalec/stre\u017enik : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Zohil"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza za\u0161\u010dite privatnih omre\u017eij z uporabo po\u017earnih zidov : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Hanc"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti trdih diskov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Perme"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "\u017demva"
+        }
+      ],
+      "title": "Realizacija izra\u010duna kotnih funkcij s programirnim vezjem : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "\u017dvan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Realizacija mehkega krmilnika za kontrolo obratov : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Remic"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Algoritmi za stiskanje glave prenosnega protokola pri prenosu \nzvoka : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Jazbec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti spletnega stre\u017enika : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Gra\u0161i\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti tiskalnikov za posebne namene : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Dagarin"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Aplikacija za delo z elektronsko po\u0161to na mobilnem telefonu : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Murn"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mikroprocesorski krmilnik za nadzor temperature v hladilnih \naparatih : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Gazvoda"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Omre\u017eje kabelske televizije v funkciji prenosa telefonskih \nstoritev : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Samo",
+          "surname": "Gaber\u0161\u010dek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Pove\u010danje zanesljivosti delovanja ra\u010dunalni\u0161kega omre\u017eja za \npotrebe prenosa zvoka : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Juvan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Preverjanje pravilnosti delovanja programskega paketa \nSimprocess : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Realizacija ve\u010dkanalnega vmesnika na osnovi programirnih \nintegriranih vezij : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ivica",
+          "surname": "Ru\u017ei\u0107"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza protokola HCI : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti gru\u010dnih stre\u017enikov : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Boris",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Izdelava nadzornega sistema za odpremo cementa v razsutem \nstanju : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Rutar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Nadzorni sistem za spremljanje porabe elektri\u010dne mo\u010di : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u017dlender"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Univerzalni modul za komunikacijo na osnovi protokola \nBluetooth : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mitja",
+          "surname": "Robas"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Kakovost storitev v ra\u010dunalni\u0161kih omre\u017ejih : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Nadzor in upravljanje industrijskih procesov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Stereoskopski prikaz navideznega prostora : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nata\u0161a",
+          "surname": "Ma\u010dek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Program za vodenje knji\u017enice : [diplomska naloga]",
+      "type": "",
+      "publisher": "",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "\u0160imuni\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Vojko",
+          "surname": "Valen\u010di\u010d"
+        }
+      ],
+      "title": "Struktura podatkovne baze in analiza rezultatov \ntenziometrijskega merjenja kontraktilnih lastnosti skeletnih mi\u0161ic : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Drozg"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza zmogljivosti in ugla\u0161evanje poslovno informacijskega \nsistema : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Albin",
+          "surname": "Kurin\u010di\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Vodenje modela avtomobila s pomo\u010djo ra\u010dunalnika : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "\u0160u\u0161tar"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Merjenje prometa v ra\u010dunalni\u0161kih omre\u017ejih : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Jak\u0161a"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Primerjava vmesnikov SCSI na razli\u010dnih ra\u010dunalnikih : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Lenar\u0161i\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Dolo\u010danje polo\u017eaja registrske tablice : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Sonjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Izdelava programskega orodja za procesiranje nad mehkimi \nmno\u017eicami : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Turn\u0161ek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Orodje za vizualizacijo glasbe : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Cimerman"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Raz\u0161iritev programskega paketa Performance CO-PILOT : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Valentin",
+          "surname": "Lisjak"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sistem za spremljanje delovanja ra\u010dunalni\u0161kih omre\u017eij : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Brozovi\u010d"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Zbirka modulov za postavljanje mehkega sistema : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Uporaba stikal v lokalnih omre\u017ejih : zaklju\u010dna naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Ker\u0161evan"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sobivanje protokolov BLE in Wi-Fi : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Rek"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Testiranje zmogljivosti mobilnih omre\u017eij : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Denis",
+          "surname": "Fidel"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        }
+      ],
+      "title": "Implementacija glasovne komunikacije z uporabo WiFi Direct \ntehnologij : diplomsko delo : interdisciplinarni univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "De\u017eman"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Nova funkcionalnost razvojnega okolja Arduino IDE : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mazovec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sobivanje standarda IEEE 802.11ax s starej\u0161imi razli\u010dicami : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Blatnik"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza brez\u017ei\u010dnih usmerjevalnikov : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Lavrinec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza protokolov za priklju\u010devanje v brez\u017ei\u010dna omre\u017eja : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Katanec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Zajemanje podatkovnih paketov med elektroniko gospodinjskega \naparata in WiFi modulom : diplomsko delo : univerzitetni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Plati\u0161e"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sobivanje naprav razli\u010dnih Wi-Fi generacij : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Krebelj"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Interaktivni zemljevid vstopnih to\u010dk : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristjan",
+          "surname": "Antunovi\u0107"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Sistem za lokalizacijo uporabnikov z mobilnimi napravami : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Hlastec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Razvoj orodja za centralni nadzor posodobitev v platformi \nWordPress : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tina",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Tina",
+          "surname": "Lebar"
+        },
+        {
+          "firstname": "Tja\u0161a",
+          "surname": "Sto\u0161icki"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Tom\u0161i\u010d"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Turn\u0161ek"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "\u017dnidari\u010d"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Bordon"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "\u010ce\u0161novar"
+        },
+        {
+          "firstname": "Mattia",
+          "surname": "Petroni"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Pustoslem\u0161ek"
+        },
+        {
+          "firstname": "Jerneja",
+          "surname": "Mori"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Jerala"
+        },
+        {
+          "firstname": "Monika",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Gaber"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Koprivnjak"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Ben\u010dina"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Anderluh"
+        },
+        {
+          "firstname": "Irena",
+          "surname": "Vovk"
+        },
+        {
+          "firstname": "Vesna",
+          "surname": "Glavnik"
+        },
+        {
+          "firstname": "Vesna",
+          "surname": "Hodnik"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Competition team members : DNA coding beyond triplets : [grand \nprize winners at the International Genetically Engineered Machine \ncompetition-iGEM project 2010, Cambridge, Massachussets Institute of \nTechnolog, November 2010]",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        }
+      ],
+      "title": "Mehki nagon hranjenja pri simulaciji letenja ptic v jati : \ndelo je prirpravljeno v skladu s Pravilnikom o podeljevanju Pre\u0161ernovih \nnagrad \u0161tudentom, pod mentorstvom prof. dr. Nikolaja Zimica in \nsomentorstvom as. dr. Iztoka Lebarja Bajca",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "PC-CAVE, Sistem popolne potopitve v navidezno okolje za osebne \nra\u010dunalnike",
+      "type": "",
+      "publisher": "Zbornik devete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2000, 21. - 23. september 2000, Portoro\u017e, Slovenija",
+      "date": "2000",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 391-392"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Virtualne sanje, Uporaba navidezne resni\u010dnosti v moderni \numetnosti",
+      "type": "",
+      "publisher": "Zbornik sedme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'98, 24. - 26. september 1998, Portoro\u017e, Slovenija",
+      "date": "1998",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 465-466"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Krenker"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Be\u0161ter"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mehanizmi detekcije zlorab pri telekomunikacijskih govornih \nstoritvah : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Oseli"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Analiza mo\u017enosti uporabe programabilnih logi\u010dnih vezij za \naparaturno izvedbo univerzalnega mehkega krmilnika : magistrska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Zidar"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Mehka mera, Sugenov mehki integral in mehka topologija : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andreja",
+          "surname": "Jarc"
+        },
+        {
+          "firstname": "Katarina",
+          "surname": "Ker\u0161evan"
+        },
+        {
+          "firstname": "Sergej",
+          "surname": "Petrovi\u0107"
+        },
+        {
+          "firstname": "Urban",
+          "surname": "Praprotnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "\u0160imuni\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Vojko",
+          "surname": "Valen\u010di\u010d"
+        },
+        {
+          "firstname": "Milan",
+          "surname": "\u010coh"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Merjenje in analiza biomehanskih lastnosti skeletnih mi\u0161ic : \ndelo je pripravljeno po razpisu odbora za Pre\u0161ernove nagrade \u0161tudentom za \nleto 1999, pod mentorstvom prof. dr. Vojka Valen\u010di\u010da, somentorstvom prof. \ndr. Milana \u010coha in doc. dr. Nikolaja Zimica",
+      "type": "",
+      "publisher": "",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mo\u0161kon"
+        }
+      ],
+      "title": "Modeliranje ra\u010dunalni\u0161kih omre\u017eij",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Bejek"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "Brade\u0161ko"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        },
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "FRI 20 : 1996-2016 : 20 let Fakultete za ra\u010dunalni\u0161tvo in \ninformatiko Univerze v Ljubljani",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Prof. dr. Jernej Virant, 1932-2008",
+      "type": "",
+      "publisher": "Delo",
+      "date": "2008",
+      "vol": "\u0161t. 235",
+      "num": "",
+      "page": "str. 20"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        }
+      ],
+      "title": "Prof. Jernej Virant, zaslu\u017eni profesor UL (1932-2008)",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2008",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 240-241"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nikolaj",
+          "surname": "Zimic"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Virant"
+        }
+      ],
+      "title": "Matemati\u010dna analiza in mo\u017enosti ra\u010dunalni\u0161kega prikaza \nprostorskih holografskih slik : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "1994",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

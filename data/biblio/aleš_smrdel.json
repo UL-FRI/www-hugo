@@ -1,0 +1,1403 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Marija",
+          "surname": "Skoblar Vidmar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Glioblastoma in patients over 70 years of age",
+      "type": "",
+      "publisher": "Radiology and oncology",
+      "date": "2018",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 167-172"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Development of a framework for dynamic creation of \nweb-interfaces to support data acquisition in clinical settings",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2017",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 76-84"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Separating sets of term and pre-term uterine EMG \nrecords",
+      "type": "",
+      "publisher": "Physiological measurement",
+      "date": "2015",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 341-355"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Automatic classification of long-term ambulatory ECG records \naccording to type of ischemic heart disease",
+      "type": "",
+      "publisher": "BioMedical engineering online",
+      "date": "2011",
+      "vol": "no. 107",
+      "num": "",
+      "page": "str. 1-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "An algorithm to estimate the transient ST segment level during \n24-hour ambulatory monitoring",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2011",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 128-135"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "An algorithm to estimate the ST segment level in 24-hour \nambulatory ECG records",
+      "type": "",
+      "publisher": "Computers in cardiology 2008, September 14 - 17, 2008, \nBologna, Italy",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 701-704"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "An algorithm for classification of ambulatory ECG leads \naccording to type of transient ischemic episodes",
+      "type": "",
+      "publisher": "11th Mediterranean Conference on Medical and Biological \nEnginering and Computing 2007 : [also] MEDICON 2007, 26-30 June, 2007, \nLjubljana, Slovenia",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 34-37"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Diurnal changes of heart rate and sympathovagal activity for \ntemporal patterns of transient ischemic episodes in 24-hour \nelectrocardiograms : research article",
+      "type": "",
+      "publisher": "EURASIP journal on advances in signal processing",
+      "date": "2007",
+      "vol": "no. 14",
+      "num": "",
+      "page": "str. [1]-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Diurnal changes of heart rate and sympatho-vagal activity for \ntemporal patterns of transient ischemia",
+      "type": "",
+      "publisher": "Computers in cardiology 2005, September 25-28, 2005, Lyon, \nFrance",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 857-860"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Automated detection of transient ST-segment episodes in 24h \nelectrocardiograms",
+      "type": "",
+      "publisher": "Medical & biological engineering & computing",
+      "date": "2004",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 303-311"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Dorn"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "Long-term ST database : a reference for the development and \nevaluation of automated ischaemia detectors and for the study of the \ndynamics of myocardial ischaemia",
+      "type": "",
+      "publisher": "Medical & biological engineering & computing",
+      "date": "2003",
+      "vol": "vol. 41",
+      "num": "",
+      "page": "str. 172-182"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Ve\u010dprehodni algoritem za odkrivanje prehodnih sprememb \nsegmenta ST elektrokardiograma",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1998",
+      "vol": "\u0161t. 5",
+      "num": "",
+      "page": "str. 289-295"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Keith",
+          "surname": "Andrews"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Responsive data visualisation",
+      "type": "",
+      "publisher": "EuroVis 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 113-115"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "R. G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "An open-source tool to evaluate performance of transient ST \nsegment episode detection algorithms",
+      "type": "",
+      "publisher": "Computers in cardiology 2004, September 19-22, 2004, \nChicago, Illinois",
+      "date": "cop. 2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 585-588"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Advanced detection of ST segment episodes in 24-hour \nambulatory ECG data by automated tracking of transient ST segment reference \nlevel",
+      "type": "",
+      "publisher": "Computers in cardiology 2002. Vol. 29 : September 22-25, \n2002, Memphis, USA",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 325-328"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Dorn"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Glavi\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "M.",
+          "surname": "Varanini"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Zabukovec"
+        },
+        {
+          "firstname": "Simone",
+          "surname": "Bordigiago"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "The long - term ST database: a research resource for algorithm \ndevelopment and physiologic studies of transient myocardial ischemia",
+      "type": "",
+      "publisher": "Computers in cardiology 2000, September 24-27, 2000, \nCambridge, Massachusetts, USA",
+      "date": "cop. 2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 841-844"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "Relationships among heart rate, patterns of ischemic change \nand time of day",
+      "type": "",
+      "publisher": "Computers in cardiology 1999 : September 26-29, 1999, \nHannover, Germany",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 551-554"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Glavi\u010d"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "A long - term ST database for development and evaluation of \nischemia detectors",
+      "type": "",
+      "publisher": "Computers in cardiology 1998, September 13-16, 1998, \nCleveland, Ohio, USA",
+      "date": "cop. 1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 301-304"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Glavi\u0107"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "Raziskovalni viri za razvoj in vrednotenje detektorjev \nprehodne ishemije = Research resources for development and evaluation of \ntransient ischemia detectors",
+      "type": "",
+      "publisher": "Ra\u010dunalni\u0161ka analiza medicinskih podatkov : zbornik \ndelavnice",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 45-54"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mateja",
+          "surname": "Krajc"
+        },
+        {
+          "firstname": "Erik",
+          "surname": "Teugels"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "\u017dgajnar"
+        },
+        {
+          "firstname": "Nikola",
+          "surname": "Be\u0161i\u0107"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Srdjan",
+          "surname": "Novakovi\u0107"
+        },
+        {
+          "firstname": "Jacques",
+          "surname": "De Gr\u00e8ve"
+        },
+        {
+          "firstname": "Cvetka",
+          "surname": "Bilban-Jakopin"
+        },
+        {
+          "firstname": "Vida",
+          "surname": "Stegel"
+        },
+        {
+          "firstname": "Andreja Cirila",
+          "surname": "\u0160kufca Smrdel"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Miljeva",
+          "surname": "Rener"
+        }
+      ],
+      "title": "BRCA 1/2 mutations in a first cohort of 145 Slovenian \nbreast/ovarian cancer families tested",
+      "type": "",
+      "publisher": "Senologie",
+      "date": "2007",
+      "vol": "hft. 3",
+      "num": "",
+      "page": "str. 212"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "George B.",
+          "surname": "Moody"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger G.",
+          "surname": "Mark"
+        }
+      ],
+      "title": "The long-term ST database : refernece for automated ischaemia \ndetection system and for studies of transient myocardial ischaemia",
+      "type": "",
+      "publisher": "European heart journal",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 116"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Amon"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Zbirka nalog iz na\u010drtovanja uporabni\u0161kih vmesnikov",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Robustno avtomatsko odkrivanje prehodnih epizod segmenta ST v \n24-urnih elektrokardiogramih : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Karakterizacija sr\u010dne frekvence za \u010dasovne vzorce prehodne \nishemije : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        }
+      ],
+      "title": "Razvoj ve\u010dprehodnega algoritma za odkrivanje prehodnih epizod \nsegmenta ST elektrokardiograma : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Dorn"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Gorazd",
+          "surname": "Antoli\u010d"
+        },
+        {
+          "firstname": "Alessandro",
+          "surname": "Taddei"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Emdin"
+        },
+        {
+          "firstname": "Carlo",
+          "surname": "Marchesi"
+        },
+        {
+          "firstname": "Roger",
+          "surname": "Mark"
+        },
+        {
+          "firstname": "George",
+          "surname": "Moody"
+        }
+      ],
+      "title": "Long-Term ST Database",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mihael",
+          "surname": "Podplatnik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije z orodjem Oracle Application Express \n: diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristijan",
+          "surname": "\u0160uler"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za agregiranje spletnih oglasov : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Dolinar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za napovedovanje \u0161portnih izidov : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Turkovic"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne trgovine in priporo\u010dilnega sistema : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Mrvar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletnega portala za lokalno skupnost Warcraft : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u0160pela",
+          "surname": "Zakraj\u0161ek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletnega portala za plesalke in plesalce : diplomsko \ndelo : interdisciplinarni univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Mavko"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletna aplikacija za pomo\u010d otrokom pri u\u010denju angle\u0161\u010dine : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Oskar",
+          "surname": "Semec"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletni portal za u\u010ditelje osnovnih \u0161ol : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "\u0160pacapan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletno mesto za upravljanje z dogodki : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Peterlin"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Mo\u017enosti za uporabo tehnologij semanti\u010dnega spleta v \nproizvodnem podjetju : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Berglez"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Primerjava ogrodij za hkraten navzkri\u017eni razvoj mobilnih \naplikacij za ve\u010d platform : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Kokelj"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletni sistem za upravljanje z viri v pralnici : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Turk"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Grajenje spletnih strani v spletnem brskalniku : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Implementacija spletne trgovine in priporo\u010dilnega sistema : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "\u010cade\u017e"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Izdelava hibridnih mobilnih aplikacij z ogrodjem Ionic : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Hamer\u0161ak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Podporna aplikacija za ornitologe : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nihad",
+          "surname": "Keri\u0107"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za nadzor vnosa hranilnih snovi pri \nbolnikih v enoti intenzivne nege : diplomsko delo : univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nick",
+          "surname": "Joki\u0107"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u0160vigelj"
+        }
+      ],
+      "title": "Realno\u010dasovna vizualizacija distribucijskih elektri\u010dnih \nomre\u017eij v spletnem okolju : diplomsko delo : univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Andrejc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Uporaba JavaEE mikrostoritev pri razvoju celovite re\u0161itve za \nupravljanje s spletnimi oglasi : diplomsko delo : univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aljana",
+          "surname": "Polanc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Aplikacija za pregled tehnologij spletnih projektov na podlagi \navtomatske analize repozitorijev : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Pe\u010dnik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Avtomatiziran sistem za priporo\u010danje receptov iz spleti\u0161\u010d : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gaber",
+          "surname": "\u017dinko"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj sistema za rezervacijo termina v frizerskem salonu : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Zalo\u017enik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za upravljanje odnosov s strankami \nna podro\u010dju nepremi\u010dnin : diplomsko delo : univerzitetni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Zidarn"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za urejanje slik : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Muha"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj ve\u010dplatformne hibridne mobilne aplikacije za iskanje \nponudnikov \u0161tudentske prehrane : diplomsko delo : univerzitetni \u0161tudijski \nprogram prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Urankar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletna aplikacija za osebnostno rast : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Dodi\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletni portal PGD Brezovica pri Borovnici : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Leni\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Podporna aplikacija za strelska dru\u0161tva : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Plevel"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Predelava Magento sistema za spletne trgovine v sistem za \nevidenco dela zaposlenih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Lavri\u010d Palancsai"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj odzivne spletne aplikacije za posredovanje programske \nopreme : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj s certifikati varovane spletne trgovine : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Kerec"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj spletne aplikacije za organizacijo dela v manj\u0161ih \nskupinah : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Grega",
+          "surname": "Tratnik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Razvoj ve\u010dplatformne mobilne aplikacije s Xamarin.Forms : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lovro",
+          "surname": "Podgor\u0161ek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Spletna aplikacija za organizacijo \u0161portnih dogodkov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Smrdel"
+        }
+      ],
+      "title": "Algoritem za ocenjevanje prehodnega nivoja segmenta ST med \nspremljanjem 24-urnih ambulantnih posnetkov",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2011",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 128-135"
+    }
+  ]
+}

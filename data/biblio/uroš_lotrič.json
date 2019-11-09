@@ -1,0 +1,2982 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Ramov\u0161"
+        },
+        {
+          "firstname": "Samo",
+          "surname": "Gerk\u0161i\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Dualna hitra gradientna metoda na grafi\u010dnih procesnih enotah = \nA dual fast gradient method for the graphics processing units",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2019",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 219-224"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Izdelava simulatorja u\u010dnega sistema s prosto dostopnimi \norodji",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2018",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 177-184"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        }
+      ],
+      "title": "Logarithmic arithmetic for low-power adaptive control \nsystems",
+      "type": "",
+      "publisher": "Circuits Systems and Signal Processing",
+      "date": "2017",
+      "vol": "no. 9",
+      "num": "",
+      "page": "str. 3564-3584"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Quadratic mutual information feature selection",
+      "type": "",
+      "publisher": "Entropy",
+      "date": "2017",
+      "vol": "iss. 4",
+      "num": "",
+      "page": "str. 1-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Heterogeneous computing architecture for fast detection of \nSNP-SNP interactions",
+      "type": "",
+      "publisher": "BMC bioinformatics",
+      "date": "2014",
+      "vol": "vol. 15",
+      "num": "",
+      "page": "str. 1-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Generalized information-theoretic measures for feature \nselection",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : \nproceedings",
+      "date": "cop. 2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 189-197"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Cankar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Arta\u010d"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "\u0160terk"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Co-allocation with collective requests in grid systems",
+      "type": "",
+      "publisher": "Journal for universal computer science",
+      "date": "2013",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 282-300"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        }
+      ],
+      "title": "Applicability of approximate multipliers in hardware neural \nnetworks",
+      "type": "",
+      "publisher": "Neurocomputing",
+      "date": "2012",
+      "vol": "vol. 96",
+      "num": "",
+      "page": "str. 57-65"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Acceleration of information-theoretic data analysis with \ngraphics processing units",
+      "type": "",
+      "publisher": "Przegl\u0119ad Elektrotechniczny",
+      "date": "2012",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 136-139"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        }
+      ],
+      "title": "Logarithmic multiplier in hardware implementation of neural \nnetworks",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : 10th \ninternational conference, ICANNGA 2011, Ljubljana, Slovenia, April 14-16, \n2011 : proceedings",
+      "date": "cop. 2011",
+      "vol": "part 1",
+      "num": "",
+      "page": "str. 158-168"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Bernardete",
+          "surname": "Ribeiro"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Distributed text classification with an ensemble kernel-based \nlearning approach",
+      "type": "",
+      "publisher": "IEEE transactions on systems, man and cybernetics. Pt. C, \nApplications and reviews",
+      "date": "2010",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 287-297"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Parallel implementations of recurrent neural network \nlearning",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : 9th \ninternational conference, ICANNGA 2009, Kuopio, Finland, April 23-25, 2009 \n: revised selected papers",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 99-108"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bratina"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Modeliranje \u010dasovnih vrst z metodami teorije informacij = \nTime-series modeling using information-theory techniques",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2009",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 240-245"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Combined application of theoretical modeling and neural \nnetworks in vulcametry",
+      "type": "",
+      "publisher": "Kautschuk-Gummi-Kunststoffe",
+      "date": "2009",
+      "vol": "nr. 6",
+      "num": "",
+      "page": "str. 313-318"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bratina"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Predictive control of rubber mixing process based on neural \nnetwork models",
+      "type": "",
+      "publisher": "Kautschuk-Gummi-Kunststoffe",
+      "date": "2009",
+      "vol": "nr. 7/8",
+      "num": "",
+      "page": "str. 378-382"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Predicting mechanical properties of rubber compounds with \nneural networks and support vector machines",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : 8th \ninternational conference, ICANNGA 2007, Warsaw, Poland, April 11-14, 2007 : \nproceedings",
+      "date": "2007",
+      "vol": "part 2",
+      "num": "",
+      "page": "str. [254]-261"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Predicting mechanical properties of elastomers with neural \nnetworks",
+      "type": "",
+      "publisher": "Polymer",
+      "date": "2007",
+      "vol": "iss. 18",
+      "num": "",
+      "page": "str. 5340-5347"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Predicting time series using neural networks with \nwavelet-based denoising layers",
+      "type": "",
+      "publisher": "Neural computing & applications",
+      "date": "2005",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. [11]-17"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Wavelet based denoising integrated into multilayered \nperceptron",
+      "type": "",
+      "publisher": "Neurocomputing",
+      "date": "2004",
+      "vol": "vol. 62",
+      "num": "",
+      "page": "str. 179-196"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Inteligentni sistem vodenja proizvodne linije gumijevih \nprofilov",
+      "type": "",
+      "publisher": "Organizacija",
+      "date": "2004",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 234-241"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Matrix formulation of the multilayered perceptron with a \ndenoising unit",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2003",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. [221-226]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Uporaba val\u010dne analize in nevronskih mre\u017e pri napovedovanju \n\u010dasovnih vrst",
+      "type": "",
+      "publisher": "Organizacija",
+      "date": "2002",
+      "vol": "\u0161t. 1",
+      "num": "",
+      "page": "str. 33-42"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        }
+      ],
+      "title": "Relating rubber melt's viscosity and molecular weight \ndistribution by neural networks",
+      "type": "",
+      "publisher": "Kautschuk und Gummi, Kunststoffe",
+      "date": "2001",
+      "vol": "nr. 11",
+      "num": "",
+      "page": "str. 599-603"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Inteligentni krmilnik proizvodne linije gumijevih \nprofilov",
+      "type": "",
+      "publisher": "Sava",
+      "date": "2003",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 18-19"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Nevronske mre\u017ee in njihova uporaba v Savi",
+      "type": "",
+      "publisher": "Obzornik",
+      "date": "1996",
+      "vol": "\u0161t. 1/2",
+      "num": "",
+      "page": "str. 30-37"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        },
+        {
+          "firstname": "Metka",
+          "surname": "Kralj-Novak"
+        },
+        {
+          "firstname": "Nastja",
+          "surname": "Tr\u010dek"
+        }
+      ],
+      "title": "Primjer uporabe \u017eiv\u010devih mre\u017ea u fizici polimera",
+      "type": "",
+      "publisher": "Polimeri",
+      "date": "1996",
+      "vol": "br. 5-6",
+      "num": "",
+      "page": "str. 254-257"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "FTsim : a 3D tool for teaching automation concepts",
+      "type": "",
+      "publisher": "Controlo 2018 : proceedings",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 31-36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Gutman"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Implementation of neural network with learning ability using \nFPGA programmable circuits",
+      "type": "",
+      "publisher": "Zbornik devetnajste mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2010, Portoro\u017e, Slovenija, 20.-22. september \n2010",
+      "date": "2010",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 173-176"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Tom",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Primerjava zmogljivosti ra\u010dunanja na gru\u010di ra\u010dunalnikov in na \ngrafi\u010dni procesni enoti",
+      "type": "",
+      "publisher": "Zbornik Osemnajste mednarodne elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference - ERK 2009, 21-23. september 2009, Portoro\u017e, \nSlovenija",
+      "date": "2009",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 15-18"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bratina"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Metode za dolo\u010danje zna\u010dilk na podlagi teorije informacij pri \nmodeliranju procesa me\u0161anja elastomernih zmesi",
+      "type": "",
+      "publisher": "Zbornik Osemnajste mednarodne elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference - ERK 2009, 21-23. september 2009, Portoro\u017e, \nSlovenija",
+      "date": "2009",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 149-152"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Bernardete",
+          "surname": "Ribeiro"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Distributed ensemble learning in text classification",
+      "type": "",
+      "publisher": "ICEIS 2008 : [proceedings]",
+      "date": "2008",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 420-423"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Bernardete",
+          "surname": "Ribeiro"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Fast-decision SVM ensemble text classifier using cluster \ncomputing",
+      "type": "",
+      "publisher": "Proceedings of Neural, Parallel and Scientific Computations. \nVol. 3",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 253-259"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Predictive data mining on rubber compound database",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : proceedings of \nthe International Conference in Coimbra, Portugal, 2005",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 108-111"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Parallel implementations of feed-forward neural network using \nMPI and C# on.NET platform",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : proceedings of \nthe International Conference in Coimbra, Portugal, 2005",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 534-537"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Bernardete",
+          "surname": "Ribeiro"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Speeding-up text categorization in a GRID computing \nenvironment",
+      "type": "",
+      "publisher": "ICMLA 2005 : proceedings, 15-17 December 2005, Los Angeles, \nCA",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 311-316"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Bernardete",
+          "surname": "Ribeiro"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Modeling execution times of data mining problems in grid \nenvironments",
+      "type": "",
+      "publisher": "Zbornik \u0161tirinajste mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2005, 26. - 28. september 2005, Portoro\u017e, \nSlovenija",
+      "date": "2005",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 113-116"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Recurrent neural network with integrated wavelet based \ndenoising unit",
+      "type": "",
+      "publisher": "Artificial neural nets and genetic algorithms : proceedings \nof the International Conference in Roanne, France, 2003",
+      "date": "cop. 2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 38-42"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Raz\u0161iritev popolnoma povezane rekurentne nevronske mre\u017ee z \nenoto za odstranjevanje \u0161uma na osnovi val\u010dne analize",
+      "type": "",
+      "publisher": "Zbornik enajste mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2002, 23.-25. september 2002, Portoro\u017e, Slovenija",
+      "date": "[2002]",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 233-236"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Wavelet based smoothing in time series prediction with neural \nnetworks",
+      "type": "",
+      "publisher": "Artificial neural nets and genetic algorithms : proceedings \nof the International Conference in Prague, Czech Republic, 2001",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 43-46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Glajenje vhodnih vzorcev pri napovedovanju \u010dasovnih \nvrst",
+      "type": "",
+      "publisher": "Zbornik devete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2000, 21. - 23. september 2000, Portoro\u017e, Slovenija",
+      "date": "2000",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 103-106"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Using smoothing splines in time series prediction with neural \nnetworks",
+      "type": "",
+      "publisher": "Artificial neural nets and genetic algorithms : proceedings \nof the International Conference in Portoro\u017e, Slovenia, 1999",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 121-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Uporaba val\u010dne analize in nevronskih mre\u017e za napovedovanje \n\u010dasovnih vrst = Time series prediction with application of wavelet analysis \nand neural networsk",
+      "type": "",
+      "publisher": "Zbornik osme Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'99, 23. - 25. september 1999, Portoro\u017e, Slovenija",
+      "date": "1999",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 19-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Functional neural gas network versus smoothing-spline based \nneural network for time-series prediction",
+      "type": "",
+      "publisher": "EIS 1998. Vol. 2, Neural networks",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 132-135"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        }
+      ],
+      "title": "Determination of rubber melt's initial viscosity from \nmolecular weight distribution by neural networks",
+      "type": "",
+      "publisher": "Progress and trends in rheology V : proceedings of the Fifth \nEuropean Rheology Conference, Portoro\u017e, Slovenia, September 6-11, \n1998",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 365-366"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        },
+        {
+          "firstname": "Metka",
+          "surname": "Kralj-Novak"
+        },
+        {
+          "firstname": "Nastja",
+          "surname": "Tr\u010dek"
+        }
+      ],
+      "title": "Uporaba nevronskih mre\u017e pri dolo\u010danju za\u010detnih viskoznosti \nkav\u010dukov na podlagi merjenih porazdelitev molskih mas",
+      "type": "",
+      "publisher": "Zbornik referatov s posvetovanja",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 478-483"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "\u0160u\u0161teri\u010d"
+        }
+      ],
+      "title": "Feststellung der Beziehung zwischen Kautschukmorphologie und \nViskosit\u00e4t mit neuronalen Netzen = Finding the relationship between rubber \nmorphology and viscosity by neural networks",
+      "type": "",
+      "publisher": "Rubber Symposium of the Countries on the Danube, April, 23 \nto 24, 1999, Vienna : Summaries : Vortr\u00e4ge",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. VIII/1-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Porazdeljeni sistemi za modeliranje, paralelno programiranje \nin procesiranje",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Spoznavanje programiranja in robotike z Lego Mindstorms",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Batagelj"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Vavpoti\u010d"
+        }
+      ],
+      "title": "U\u010denje ra\u010dunalni\u0161tva s pomo\u010djo tekmovanja Bober : skripta \nposodobitvenega programa nadaljnega izobra\u017eevanja u\u010diteljev",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Tom",
+          "surname": "Vodopivec"
+        }
+      ],
+      "title": "Poletna \u0161ola mobilne robotike : robo \u0161ola FRI, 23.-27. avgust \n2010",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Porazdeljeni sistemi in tehnologije : gradivo za \nlaboratorijske vaje",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Logi\u010dne strukture in sistemi 1 : gradivo za laboratorijske \nvaje",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Metode logi\u010dnega snovanja : gradivo za laboratorijske \nvaje",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ilc"
+        },
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Tom",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        }
+      ],
+      "title": "Poletna \u0161ola mobilne robotike : robo \u0161ola FRI, 24.-28. avgust \n2009",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Zbirka re\u0161enih nalog iz teorije informacij in sistemov",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Uporaba val\u010dne analize in nevronskih mre\u017e pri napovedovanju \n\u010dasovnih vrst : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Napovedovanje \u010dasovnih vrst z nevronskimi mre\u017eami na osnovi \nzlepkov : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Intelligent data mining in grid environment : final report \n06/2007 : Portugal - Slovenian bilateral cooperation",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Zupanc"
+        }
+      ],
+      "title": "Razvoj in izvedba sprotnega regulatorja me\u0161alnika na osnovi \nmehkega ra\u010dunanja : drugo delovno poro\u010dilo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Zupanc"
+        }
+      ],
+      "title": "Porazdeljeno podatkovno rudarjenje nad bazo polimernih \nizdelkov : kon\u010dno poro\u010dilo o opravljenem delu na projektu",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Intelligent data mining in grid environment : internal report \n10/2005 : Portugal - Slovenian bilateral cooperation",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Intelligent data mining in grid environment : internal report \n6/2005 : Portugal - Slovenian bilateral cooperation",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Inteligentni sistem vodenja proizvodne linije gumijevih \nprofilov : zaklju\u010dno poro\u010dilo o delu na projektu",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Podatkovno rudarjenje klini\u010dnih poti z metodami mehkega \nra\u010dunanja : kon\u010dno poro\u010dilo o opravljenem delu na projektu",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Povezovanje val\u010dne multiresolucijske analize in metod mehkega \nra\u010dunanja : zaklju\u010dno poro\u010dilo o rezultatih raziskovalnega projekta v letu \n2004",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Zupanc"
+        }
+      ],
+      "title": "Razvoj in izvedba sprotnega regulatorja me\u0161alnika na osnovi \nmehkega ra\u010dunanja : pred\u0161tudija",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Zupanc"
+        }
+      ],
+      "title": "Razvoj in izvedba sprotnega regulatorja me\u0161alnika na osnovi \nmehkega ra\u010dunanja : prvo delovno poro\u010dilo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Zupanc"
+        }
+      ],
+      "title": "Razvoj in izvedba sprotnega regulatorja me\u0161alnika na osnovi \nmehkega ra\u010dunanja : \u0161tudija",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Catarina",
+          "surname": "Silva"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Intelligent data mining in grid environment : internal report \n09/2006 : Portugal - Slovenian bilateral cooperation",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Briketernica tehnonikolj, Rjazan, Ruska federacija : navodila \nza uporabo transportnega sistema, dvigal",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Program iKrmilnik v1.0 : navodila za uporabo",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        }
+      ],
+      "title": "Program MixerController v 1.0 : programska oprema za vodenje \nprocesa me\u0161anja kav\u010dukovih zmesi v Savatech, d.o.o., Kranj",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Programska oprema za vodenje procesa su\u0161enja briketov v \ntovarni kamene volne Rjazan, Ruska federacija",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Mira",
+          "surname": "Trebar"
+        }
+      ],
+      "title": "Program iKrmilnik v 1.0 : programska oprema za vodenje procesa \nbrizganja gumijevih profilov v Savatech, d.o.o., Kranj",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Adaptive and natural computing algorithms : 10th international \nconference, ICANNGA 2011, Ljubljana, Slovenia, April 14-16, 2011 : \nproceedings",
+      "type": "",
+      "publisher": "Lecture notes in computer science",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Cankar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Pove\u010devanje u\u010dinkovitosti izvajanja nalog s so\u010dasnim delnim \ndodeljevanjem virov v rahlo sklopljenih ra\u010dunalni\u0161kih strukturah : \ndoktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Bratina"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Modeliranje nelinearnih dinami\u010dnih sistemov z metodami teorije \ninformacij : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Davor",
+          "surname": "Sluga"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Finding dependencies in data with information-theoretic \nmethods",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Medved"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Optimizacija nabiralnega procesa v ro\u010dnem skladi\u0161\u010du : \nmagistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jani",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Re\u0161\u010di\u010d"
+        }
+      ],
+      "title": "Simulacija fluidov z metodo Monte Carlo na grafi\u010dnih procesnih \nenotah : magistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Dolenc"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Analiza rasti v pametnem hidroponi\u010dnem sistemu : magistrsko \ndelo : \u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Kulovic"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Optimizacija avtomatskih skladi\u0161\u010dnih sistemov : magistrsko \ndelo : \u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Pikl"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Spikol"
+        }
+      ],
+      "title": "Using digital pens and digital notebooks for supporting \nresearch and teaching at university : masters thesis",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "\u017divec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatska regulacija lakirno su\u0161ilne komore : diplomsko delo \nna univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Pristovnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Paket programske opreme za vgrajeni sistem LUX9 : diplomsko \ndelo na univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tine",
+          "surname": "Iler\u0161i\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Naprava za dimenzijsko kontrolo lesenih vezanih lamel : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ro\u017ele",
+          "surname": "Mesec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatizacija vodnega \u010drpali\u0161\u010da : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Medved"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vodenje modelov Lego Mindstorms NXT z industrijskimi krmilniki \nSiemens : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Oton",
+          "surname": "\u017dlindra"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatizacija ogrevanja hi\u0161e : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Tur\u0161i\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Krmiljenje visokonapetostnega generatorja : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Telegrami za komunikacijo med napravami v industrijskih \nomre\u017ejih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Sedej"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Analiza lastnosti plo\u010devine z metodami podatkovnega rudarjenja \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Zahir",
+          "surname": "Mujanovi\u0107"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatska regulacija \u017earilne pe\u010di : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Jeraj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Prepoznavanje prometnih znakov v slikah = [Traffic sign \nrecognition system] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Nagelj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Spletni sistem za usmerjanje po cestnem omre\u017eju z video \nposnetki visoke lo\u010dljivosti : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Gori\u010dki"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Strojna in programska oprema za aktivno sledenje z \nnavigacijskim sistemom GPS : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Skube"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Brez\u017ei\u010dni dostop do naprav z vmesnikom RS-232 preko omre\u017eja \nZigBee : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Urban",
+          "surname": "Rotar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Gonilnik za sistem hi\u0161ne avtomatizacije Adhoco = [Driver for \nthe house automation system Adhoco] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Tom\u0161i\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Izbolj\u0161anje vodenja robotske roke z uporabo elementov \nra\u010dunalni\u0161kega vida = [Improvement of robot arm control using computer \nvision approach] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dare",
+          "surname": "Podgornik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Visoko zmogljivo ra\u010dunanje z Windows HPC Server 2008 : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vlado",
+          "surname": "Dimitrieski"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vzpostavitev vozli\u0161\u010da CANopen na vgrajenem sistemu = \n[Implementation of a CANopen node in an embedded system] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Gutman"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Izvedba nevronske mre\u017ee s programirljivimi vezji FPGA = \n[Implementation of neural network using FPGA programmable circuits] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kun\u0161i\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Uvajanje proizvodnega informacijskega sistema = [Deployment of \nmanufacturing execution system] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jovan",
+          "surname": "Lon\u010dar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Nadzorni sistem in simulator avtomatskega skladi\u0161\u010dnega sistema \n= [Control system and simulator of automated warehouse system] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Stra\u017ei\u0161ar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Sistem za vodenje in nadzor pametne hi\u0161e = [Intelligent house \ncontrol system] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Iztok",
+          "surname": "Ramov\u0161"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Dualna hitra gradienta metoda na grafi\u010dnih procesnih enotah : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jakob",
+          "surname": "Merljak"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Filip\u010di\u010d"
+        }
+      ],
+      "title": "Vmesniki za ogrodje arcControlTower : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "\u0160krlj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vodenje stroja za izdelovanje delov lesene palete : diplomsko \ndelo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "\u0160olar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatizacija perifernih naprav ob brizgalnem stroju : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Lazar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Energijska poraba naprav pri izvajanju programov OpenCL : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Kern"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Internetna naprava za merjenje in analizo porabe elektri\u010dne \nenergije : diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u0160emrov"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Priprava programov OpenCL za u\u010dinkovito izvajanje na razli\u010dnih \narhitekturah : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Ferdin"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatizacija ogrevalnega sistema s toplotno \u010drpalko : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatizacija skladi\u0161\u010da : diplomsko delo : visoko\u0161olski \nstrokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Markovi\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Izbolj\u0161ana hitra Gaussova transformacija v OpenCL : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \nmatematika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017dan",
+          "surname": "Pal\u010di\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Programiranje vezij FPGA z ogrodjem OpenCL : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "\u0160tular"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Sistem za upravljanje z recepti : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Ciglari\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Stiskanje podatkov na grafi\u010dni procesni enoti : diplomsko delo \n: univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mateja",
+          "surname": "Mencin"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vsebinsko zavedno spreminjanje velikosti slik v OpenCL : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jani",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        }
+      ],
+      "title": "Dolo\u010danje soodvisnih sprememb proteinov z uporabo grafi\u010dnih \nprocesnih enot : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "Hribar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Mobilne tehnologije pri razvoju osebnega zdravstvenega kartona \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Tav\u010dar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Modularni sistem za avtomatsko vodenje stavb : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Stanovnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Paralelizacija evolucijskega algoritma za razporejanje opravil \ns kompleksnimi omejitvami : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Vitek"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Porazdeljevanje dela v heterogenih ra\u010dunalni\u0161kih sistemih : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Jur\u0161e"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatsko konstruiranje z orodjem SolidWorks : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Tribu\u0161on"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Numeri\u010dno re\u0161evanje valovne ena\u010dbe z grafi\u010dno procesno enoto : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mark",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Termostat s funkcijami za nadzor na daljavo : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Denis",
+          "surname": "Zajc"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatsko vodenje zunanjih sen\u010dil : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "Zabukovec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Krmiljenje robotske varilne celice : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Mohor\u010di\u010d"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Mehki regulator za avtonomno vo\u017enjo kolesa : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "Selan"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Sistem za nadzor orodij : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Kri\u017eaj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Uporabni\u0161ki vmesnik za nadzorni sistem \u017eelezni\u0161kega prometa : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dejan",
+          "surname": "Ambru\u0161"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Visoko zmogljivo ra\u010dunanje v oblaku Windows Azure : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "\u0160imac"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vmesnik za vodenje sistema Lego Mindstorms v razvojnem okolju \nSiemens Step7 : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Siega"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Avtomatsko vodenje sistema laserjev na konfekcijskem stroju : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Erik",
+          "surname": "Plestenjak"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Krmiljenje stroja za izdelovanje lesnih briketov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "Milavec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Nadzorni sistem na spletnem stre\u017eniku programirljivega \nlogi\u010dnega krmilnika : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Boris",
+          "surname": "\u010ci\u017eman"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ko podprt samostojni fotonapetostni sistem : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Denis",
+          "surname": "\u0160vara"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Upravljanje avtomatiziranega sistema z govornimi ukazi : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Rebec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Vmesniki OPC v industrijskih nadzornih sistemih : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jasna",
+          "surname": "\u0160krbec"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Mraz"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Analiza mo\u017enosti povezovanja ra\u010dunalni\u0161kih omre\u017eij s \nprostozra\u010dnimi opti\u010dnimi povezavami = [Analysis of free space optical \ncomputer networks] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Grabnar"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Drevesno preiskovanje Monte Carlo v porazdeljenem okolju : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Pajni\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        }
+      ],
+      "title": "Implementacija paralelnega algoritma za analizo obogatenosti \nk-terk v genomskih zaporedjih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        }
+      ],
+      "title": "Sistemsko programiranje v Linuxu",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Metka",
+          "surname": "Luzar-Vlachy"
+        }
+      ],
+      "title": "Raziskave ureditve in dinamike veri\u017enih molekul v nemati\u010dnem \nteko\u010dem kristalu : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "1994",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "Koko\u0161ar"
+        },
+        {
+          "firstname": "Vesna",
+          "surname": "Tanko"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Pavlin Gregor",
+          "surname": "Poli\u010dar"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Vilas",
+          "surname": "Menon"
+        },
+        {
+          "firstname": "Andrew",
+          "surname": "Lemire"
+        },
+        {
+          "firstname": "Anup",
+          "surname": "Parikh"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "ScOrange-a tool for hands-on training of concepts from \nsingle-cell data analytics",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2019",
+      "vol": "no. 14",
+      "num": "",
+      "page": "str. 4-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ileni\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Ajda",
+          "surname": "Pretnar"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Hartman"
+        },
+        {
+          "firstname": "Wang",
+          "surname": "Hamilton"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Petrovi\u010d"
+        },
+        {
+          "firstname": "Silvia",
+          "surname": "Garagna"
+        },
+        {
+          "firstname": "Maurizio",
+          "surname": "Zuccotti"
+        },
+        {
+          "firstname": "Dongsu",
+          "surname": "Park"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Democratized image analytics by visual programming through \nintegration of deep models and small-scale machine learning",
+      "type": "",
+      "publisher": "Nature communications",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 4551-1-4551-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "\u010crtomir",
+          "surname": "Gorup"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Polajnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Orange : data mining toolbox in Python",
+      "type": "",
+      "publisher": "Journal of machine learning research",
+      "date": "2013",
+      "vol": "vol. 14",
+      "num": "",
+      "page": "str. 2349-2353"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Francesca",
+          "surname": "Mulas"
+        },
+        {
+          "firstname": "Lucia",
+          "surname": "Sacchi"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Silvia",
+          "surname": "Garagna"
+        },
+        {
+          "firstname": "Maurizio",
+          "surname": "Zuccotti"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        }
+      ],
+      "title": "Knowledge-based bioinformatics for the study of mammalian \noocytes",
+      "type": "",
+      "publisher": "The international journal of developmental biology",
+      "date": "2012",
+      "vol": "nos. 10/11/12",
+      "num": "",
+      "page": "str. 859-866"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Francesca",
+          "surname": "Mulas"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        }
+      ],
+      "title": "Supporting regenerative medicine by integrative dimensionality \nreduction",
+      "type": "",
+      "publisher": "Methods of information in medicine",
+      "date": "2012",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 341-347"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Francesca",
+          "surname": "Mulas"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Ranking and 1-dimensional projection of cell development \ntranscription profiles",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 85-89"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Francesca",
+          "surname": "Mulas"
+        },
+        {
+          "firstname": "Silvia",
+          "surname": "Garagna"
+        },
+        {
+          "firstname": "Maurizio",
+          "surname": "Zuccotti"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Stage prediction of embryonic stem cell differentiation from \ngenome-wide expression data",
+      "type": "",
+      "publisher": "Bioinformatics",
+      "date": "2011",
+      "vol": "no. 18",
+      "num": "",
+      "page": "str. 2546-2553"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anup",
+          "surname": "Parikh"
+        },
+        {
+          "firstname": "Edward Roshan",
+          "surname": "Miranda"
+        },
+        {
+          "firstname": "Mariko",
+          "surname": "Katoh-Kurasawa"
+        },
+        {
+          "firstname": "Danny",
+          "surname": "Fuller"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Richard",
+          "surname": "Sucgang"
+        },
+        {
+          "firstname": "Rui",
+          "surname": "Chen"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "William F.",
+          "surname": "Loomis"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        }
+      ],
+      "title": "Conserved developmental transcriptomes in evolutionarily \ndivergent species",
+      "type": "",
+      "publisher": "Genome biology",
+      "date": "2010",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 3-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ajda",
+          "surname": "Pretnar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Dan",
+          "surname": "Podjed"
+        }
+      ],
+      "title": "Power of algorithms for cultural heritage classification : the \ncase of Slovenian hayracks",
+      "type": "",
+      "publisher": "AIUCD 2018 : patrimoni culturali nell'era digitale : \nmemorie, culture umanistiche e technologie : settimo convegno annuale, \nUniversit\u00e0 di Bari Aldo Moro, 31 gennaio-2 febbraio, 2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 212-215"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Multi-layer networks for visualization of diverse systems \nbiology data and knowledge sets",
+      "type": "",
+      "publisher": "3rd FEBS Advanced Lecture Course on Systems Biology, \nAlpbach, Austria, EU, March 7-13, 2009 : from molecules to function : \n[course book : program and abstracts]",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 133"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "\u010crtomir",
+          "surname": "Gorup"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Orange bioinformatics : towards integrative knowledge-based \nbiomedical data analysis",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Multi-layer networks for visualization of diverse systems \nbiology data and knowledge sets",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 67"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Data representation and mining using multi-layer \nnetworks",
+      "type": "",
+      "publisher": "Intelligent data analysis in biomedicine and pharmacology : \nworkshop notes : AIME 2009, Verona, Italy, July 19, 2009",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 29-30"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "John",
+          "surname": "Shawe-Taylor"
+        }
+      ],
+      "title": "Ranking by multitask learning : doctoral dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Predstavitev podatkov in odkrivanje znanj s tehniko \nve\u010dnivojskih mre\u017e = [Data representation and mining using multi-layered \nnetworks] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

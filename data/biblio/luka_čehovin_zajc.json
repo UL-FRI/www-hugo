@@ -1,0 +1,1737 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Dolores",
+          "surname": "Modic"
+        },
+        {
+          "firstname": "Ana",
+          "surname": "Hafner"
+        },
+        {
+          "firstname": "Nadja",
+          "surname": "Damij"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Innovations in intellectual property rights management : their \npotential benefits and limitations",
+      "type": "",
+      "publisher": "European journal of management and business economics",
+      "date": "2019",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 189-203"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Deformable parts correlation filters for robust visual \ntracking",
+      "type": "",
+      "publisher": "IEEE transactions on cybernetics",
+      "date": "2018",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. 1849-1861"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Discriminative correlation filter tracker with channel and \nspatial reliability",
+      "type": "",
+      "publisher": "International journal of computer vision",
+      "date": "2018",
+      "vol": "no. 7",
+      "num": "",
+      "page": "str. 671-688"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "TraX : the visual Tracking eXchange protocol and \nlibrary",
+      "type": "",
+      "publisher": "Neurocomputing",
+      "date": "2017",
+      "vol": "vol. 260",
+      "num": "",
+      "page": "str. 5-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        }
+      ],
+      "title": "The visual object tracking VOT2016 challenge results",
+      "type": "",
+      "publisher": "Computer vision - ECCV 2016 Workshops : Amsterdam, The \nNetherlands, October 8-10 and 15-16, 2016. Part 2",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 777-823"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Michael",
+          "surname": "Felsberg"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        }
+      ],
+      "title": "The thermal infrared visual object tracking VOT-TIR2016 \nchallenge results",
+      "type": "",
+      "publisher": "Computer vision - ECCV 2016 Workshops : Amsterdam, The \nNetherlands, October 8-10 and 15-16, 2016. Part 2",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 824-849"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Hierarhi\u010dni modeli videza v vizualnem sledenju",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2016",
+      "vol": "\u0161t. 5",
+      "num": "",
+      "page": "str. 217-224"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Visual object tracking performance measures revisited",
+      "type": "",
+      "publisher": "IEEE transactions on image processing",
+      "date": "2016",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 1261-1274"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Pflugfelder"
+        },
+        {
+          "firstname": "Gustavo",
+          "surname": "Fern\u00e1ndez"
+        },
+        {
+          "firstname": "Georg",
+          "surname": "Nebehay"
+        },
+        {
+          "firstname": "Fatih",
+          "surname": "Porikli"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "A novel performance evaluation methodology for single-target \ntrackers",
+      "type": "",
+      "publisher": "IEEE transactions on pattern analysis and machine \nintelligence",
+      "date": "2016",
+      "vol": "no. 11",
+      "num": "",
+      "page": "str. 2137-2155"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Nodewatcher : a substrate for growing your own community \nnetwork",
+      "type": "",
+      "publisher": "Computer networks",
+      "date": "2015",
+      "vol": "part 2",
+      "num": "",
+      "page": "str. 279-296"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Aleksandar",
+          "surname": "Dimitriev"
+        },
+        {
+          "firstname": "Dominik",
+          "surname": "Panger\u0161i\u010d"
+        },
+        {
+          "firstname": "Franci",
+          "surname": "Oven"
+        }
+      ],
+      "title": "The visual object tracking VOT2014 challenge results",
+      "type": "",
+      "publisher": "Computer vision : ECCV 2014 Workshops, Zurich, Switzerland, \nSeptember 6-7 and 12, 2014 : proceedings. Part 2",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 191-217"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Tabernik"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Boben"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "A web service for object detection using hierarchical \nmodels",
+      "type": "",
+      "publisher": "Computer vision systems : proceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 93-102"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Pflugfelder"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Fatih",
+          "surname": "Porikli"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "The visual object tracking VOT2013 challenge results",
+      "type": "",
+      "publisher": "ICCV 2013",
+      "date": "cop. 2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 98-111"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Robust visual tracking using an adaptive coupled-layer visual \nmodel",
+      "type": "",
+      "publisher": "IEEE transactions on pattern analysis and machine \nintelligence",
+      "date": "2012",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 941-953"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        }
+      ],
+      "title": "Empirical evaluation of feature selection methods in \nclassification",
+      "type": "",
+      "publisher": "Intelligent data analysis",
+      "date": "2010",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 265-281"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "FuCoLoT - a fully-correlational long-term tracker",
+      "type": "",
+      "publisher": "Computer vision - ACCV 2018 : revised selected papers. Part \n2",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 595-611"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Muhi\u010d"
+        },
+        {
+          "firstname": "Klemen",
+          "surname": "Grm"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u0160truc"
+        }
+      ],
+      "title": "The sixth Visual Object Tracking VOT2018 challenge \nresults",
+      "type": "",
+      "publisher": "Computer vision - ECCV 2018 Workshops : Munich, Germany, \nSeptember 8-14, 2018 : proceedings. Part 1",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 3-53"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rezelj"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Teaching with open-source robotic manipulator",
+      "type": "",
+      "publisher": "Robotics in education : methods and applications for \nteaching and learning",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 189-198"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rezelj"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Kalibracija nizkocenovnega robotskega manipulatorja",
+      "type": "",
+      "publisher": "Zbornik osemindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2019",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 98-101"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rezelj"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Open-source robotic manipulator and sensory platform",
+      "type": "",
+      "publisher": "Robotics in education : latest results and \ndevelopments",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 250-256"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Nadja",
+          "surname": "Damij"
+        },
+        {
+          "firstname": "Ana",
+          "surname": "Hafner"
+        },
+        {
+          "firstname": "Dolores",
+          "surname": "Modic"
+        },
+        {
+          "firstname": "Yuka",
+          "surname": "Watanabe"
+        }
+      ],
+      "title": "Challenges of information retrieval in first phases of \ntechnology transfer process",
+      "type": "",
+      "publisher": "Zbornik radova",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 35-45"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Fast spatially regularized correlation filter tracker",
+      "type": "",
+      "publisher": "Zbornik sedemindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 372-375"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Discriminative correlation filter with channel and spatial \nreliability",
+      "type": "",
+      "publisher": "CVPR 2017 : proceedings",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 4847-4856"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ajda",
+          "surname": "Lampe"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Mandeljc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Semantic segmentation for room categorization",
+      "type": "",
+      "publisher": "CVWW 17 : proceedings of the 22nd Computer Vision Winter \nWorkshop, Retz, Austria, February 6-8, 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Beyond standard benchmarks : parameterizing performance \nevaluation in visual object tracking",
+      "type": "",
+      "publisher": "ICCV 2017",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 3343-3351"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Muhi\u010d"
+        }
+      ],
+      "title": "The visual object tracking VOT2017 challenge results",
+      "type": "",
+      "publisher": "ICCVW 2017",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 1949-1972"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rezelj"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Razvoj lahkega odprtokodnega robotskega manipulatorja",
+      "type": "",
+      "publisher": "Zbornik \u0161estindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 205-208"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Dobrevski"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Mlakar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Ra\u010di\u010d"
+        },
+        {
+          "firstname": "Bine",
+          "surname": "Rovansek"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Slabanja"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "\u0160temberger"
+        },
+        {
+          "firstname": "Maks",
+          "surname": "Vr\u0161\u010daj"
+        },
+        {
+          "firstname": "Lojze",
+          "surname": "\u017dust"
+        },
+        {
+          "firstname": "Ur\u0161a",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Ur\u0161ka",
+          "surname": "Saletinger"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Vesna",
+          "surname": "\u017dabkar"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ki vid in inteligentna robotika za napredne oblike \nkomuniciranja",
+      "type": "",
+      "publisher": "Zbornik \u0161estindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 461-464"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Robust visual tracking using template anchors",
+      "type": "",
+      "publisher": "2016 IEEE Winter Conference on Applications of Computer \nVision (WACV) : 7-10 March 2016, [Lake Placid, NY]",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Michael",
+          "surname": "Felsberg"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Gustavo",
+          "surname": "Fern\u00e1ndez"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Gustav",
+          "surname": "H\u00e4ger"
+        },
+        {
+          "firstname": "Georg",
+          "surname": "Nebehay"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Pflugfelder"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        }
+      ],
+      "title": "The visual object tracking VOT2015 challenge results",
+      "type": "",
+      "publisher": "2015 IEEE International Conference on Computer Vision \nWorkshops : 11-18 December 2015, Santiago, Chile : proceedings",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 564-586"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Michael",
+          "surname": "Felsberg"
+        },
+        {
+          "firstname": "Amanda",
+          "surname": "Berg"
+        },
+        {
+          "firstname": "Gustav",
+          "surname": "H\u00e4ger"
+        },
+        {
+          "firstname": "J\u00f6rgen",
+          "surname": "Ahlberg"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Gustavo",
+          "surname": "Fern\u00e1ndez"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Georg",
+          "surname": "Nebehay"
+        },
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        }
+      ],
+      "title": "The thermal infrared visual object tracking VOT-TIR2015 \nchallenge results",
+      "type": "",
+      "publisher": "2015 IEEE International Conference on Computer Vision \nWorkshops : 11-18 December 2015, Santiago, Chile : proceedings",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 639-651"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rezelj"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Teaching intelligent robotics with a low-cost mobile robot \nplatform",
+      "type": "",
+      "publisher": "RiE 2015 : conference brochure & abstracts",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-2"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Efficient spring system optimization for part-based visual \ntracking",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 45-48"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Pflugfelder"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Fatih",
+          "surname": "Porikli"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Georg",
+          "surname": "Nebehay"
+        },
+        {
+          "firstname": "Gustavo",
+          "surname": "Fern\u00e1ndez"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        }
+      ],
+      "title": "The VOT2013 challenge : overview and additional results",
+      "type": "",
+      "publisher": "CVWW 2014 : proceedings of the 19th Computer Vision Winter \nWorkshop, February 3-5, 2014, K\u0159tiny, Czech Republic",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 59-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Isteni\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        }
+      ],
+      "title": "Multi-touch surface based on RGBD camera",
+      "type": "",
+      "publisher": "Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : \nzbornik 17. mednarodne multikonference Informacijska dru\u017eba - IS 2014, 8. \noktober 2014, [Ljubljana, Slovenia] : zvezek H : proceedings of the 17th \nInternational Multiconference Information Society - IS 2014, October 8th, \n2014, Ljubljana, Slovenia : volume H",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 6-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Is my new tracker really better than yours?",
+      "type": "",
+      "publisher": "WACV 2014",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "An improved part-based model for visual tracking",
+      "type": "",
+      "publisher": "Zbornik ... Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \n...",
+      "date": "2014",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 84-87"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Ra\u010dki"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Detection of 3D objects with a multiple-view keypoint model \nfrom item images",
+      "type": "",
+      "publisher": "Zbornik ... Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \n...",
+      "date": "2014",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 100-103"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Tabernik"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Boben"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "ViCoS Eye : a web service for visual object \ncategorization",
+      "type": "",
+      "publisher": "Proceedings of the 18th Computer Vision Winter Workshop, \nHernstein, Austria, February 4-6, 2013 : CVWW 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 55-62"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Superpixel segmentation for robust visual tracking",
+      "type": "",
+      "publisher": "Zbornik dvaindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2013, 16.-18. september 2013, Portoro\u017e, \nSlovenija",
+      "date": "2013",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 137-140"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "An adaptive coupled-layer visual model for robust visual \ntracking",
+      "type": "",
+      "publisher": "ICCV 2011",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 1363-1370"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Tracking non-rigid objects by combining local and global \nvisual model",
+      "type": "",
+      "publisher": "CVWW 2009 : proceedings of the 14th Computer Vision Winter \nWorkshop, February 4-6, 2009, Eibiswald, Austria",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 43-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Vizualni spoznavni sistemi",
+      "type": "",
+      "publisher": "Dnevi slovenske informatike",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Mandeljc"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u0160truc"
+        }
+      ],
+      "title": "Message from the program chairs",
+      "type": "",
+      "publisher": "Proceedings of the 21st Computer Vision Winter Workshop, \nRimske Toplice, Slovenia, February 3-5, 2016",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-2"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Bla\u017eica"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Preface : Human-computer interraction in information society = \nPredgovor : Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi",
+      "type": "",
+      "publisher": "Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : \nzbornik 17. mednarodne multikonference Informacijska dru\u017eba - IS 2014, 8. \noktober 2014, [Ljubljana, Slovenia] : zvezek H : proceedings of the 17th \nInternational Multiconference Information Society - IS 2014, October 8th, \n2014, Ljubljana, Slovenia : volume H",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 3"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Bla\u017eica"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Human-computer interaction in information society : preface = \nInterakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : predgovor = Foreword \n- Information society 2013",
+      "type": "",
+      "publisher": "Zbornik 16. mednarodne multikonference Informacijska dru\u017eba \n- IS 2013, 7.-11. oktober 2013 [Ljubljana, Slovenija] : zvezek A : volume \nA",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 199"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Marc",
+          "surname": "Hanheide"
+        }
+      ],
+      "title": "CogX summer school 2010 : course materials",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "A hierarchical adaptive model for robust short-term visual \ntracking : a dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Vizualno sledenje netogim objektom = [Visual tracking of \nnon-rigid objects] : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Kategorizacija predmetov z metodo podpornih vektorjev na \nosnovi hierarhi\u010dnih lokalnih zna\u010dilnic : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Pavlin"
+        }
+      ],
+      "title": "Ocena primerne velikosti QR kod za zajemanje z razli\u010dnimi \npametnimi mobilnimi napravami",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Is my new tracker really better than yours? : lecture at CADIA \nSeminar, Reykjavik University, Reykjavik, 22. 2. 2018",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Short-term visual tracking using hierarchical appearance \nmodels : lecture at Visual Computing Seminar, Institute for Computer \nGraphics & Vision, Graz University of Technology, Graz, 9. 2. \n2016",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Discriminative correlation filter with channel and spatial \nreliability : lecture at CVWW 17, 22nd Computer Vision Winter Workshop, \nFebruary 6-8, 2017, Retz, Austria",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alan",
+          "surname": "Luke\u017ei\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Muhi\u010d"
+        },
+        {
+          "firstname": "Tom\u00e1\u0161",
+          "surname": "Voj\u00ed\u0159"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Ji\u0159\u00ed",
+          "surname": "Matas"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        }
+      ],
+      "title": "Discriminative correlation filter with channel and spatial \nreliability : lecture at VOT2017 workshop, October 28th, 2017, Venice, \nItaly",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Kristan"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "The VOT visual object tracking challenge : an overview and \noutlook : invited lecture at AVSS 2015, 12th IEEE International Conference \non Advanced Video- and Signal-Based Surveillance, Karlsruhe, August \n25-28th, 2015",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "CVWW2016 : workshop booklet",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Proceedings of the 21st Computer Vision Winter Workshop, \nRimske Toplice, Slovenia, February 3-5, 2016",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : zbornik \n17. mednarodne multikonference Informacijska dru\u017eba - IS 2014, 8. oktober \n2014, [Ljubljana, Slovenia] : zvezek H = Human-computer interaction in \ninformation society : proceedings of the 17th International Multiconference \nInformation Society - IS 2014, October 8th, 2014, Ljubljana, Slovenia : \nvolume H",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Zbornik 16. mednarodne multikonference Informacijska dru\u017eba - \nIS 2013, 7.-11. oktober 2013 [Ljubljana, Slovenija] : zvezek A = \nProceedings of the 16th International Multiconference Information Society - \nIS 2013, October 7th-11th, 2013, Ljubljana, Slovenia : volume A",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Zbornik 16. mednarodne multikonference Informacijska dru\u017eba - \nIS 2013, 7.-11. oktober 2013, Ljubljana, Slovenia : zvezek A = Proceedings \nof the 16th International Multiconference Information Society - IS 2013, \nOctober 7th-11th, 2013, [Ljubljana, Slovenia] : volume A",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Proceedings of the 17th Computer Vision Winter Workshop, Mala \nNedelja, Slovenia, February 1-3, 2012",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Ra\u010di\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Kategorizacija uporabe zemeljske povr\u0161ine na podlagi \nmultispektralnih slik : magistrsko delo : magistrski program druge stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Rojc"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Bat"
+        }
+      ],
+      "title": "Porazdeljeno generiranje 3D modelov objektov iz naborov slik : \ndiplomsko delo : interdisciplinarni univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in matematika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Furlan"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Zupan\u010di\u010d"
+        }
+      ],
+      "title": "Spletna aplikacija za vzdr\u017eevanje distribucijskega sistema : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Barbara",
+          "surname": "Alja\u017e"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "U\u010denje konvolucijskih nevronskih mre\u017e iz sinteti\u010dnih podatkov \nna primeru detekcije rok : diplomsko delo : univerzitetni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Cesar"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u010cehovin Zajc"
+        }
+      ],
+      "title": "Uporabniku prijazno krmiljenje pametnih LED trakov : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "Zeleno, ki te ljubim zeleno",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

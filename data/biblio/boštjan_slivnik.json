@@ -1,0 +1,2750 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Bac"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Low-level probe of programs regarding different languages and \ncompilers",
+      "type": "",
+      "publisher": "The IPSI BgD transactions on internet research",
+      "date": "2019",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 1-9"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "O optimalnosti izra\u010duna semanti\u010dnih pravil po strategiji \nod-zgoraj-navzdol",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2018",
+      "vol": "\u0161t. 1/2",
+      "num": "",
+      "page": "str. 49-53"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "On different LL and LR parsers used in LLLR parsing",
+      "type": "",
+      "publisher": "Computer languages, systems & structures",
+      "date": "2017",
+      "vol": "vol. 50",
+      "num": "",
+      "page": "str. 108-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Measuring the complexity of domain-specific languages \ndeveloped using MDD",
+      "type": "",
+      "publisher": "Software quality journal",
+      "date": "2016",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 737-753"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Using reverse engineering to construct the platform \nindependent model of a web application for student information \nsystems",
+      "type": "",
+      "publisher": "Computer science and information systems",
+      "date": "2013",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 1557-1583"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Cankar"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Arta\u010d"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "\u0160terk"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Co-allocation with collective requests in grid systems",
+      "type": "",
+      "publisher": "Journal for universal computer science",
+      "date": "2013",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 282-300"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "LL conflict resolution using the embedded left LR \nparser",
+      "type": "",
+      "publisher": "Computer science and information systems",
+      "date": "2012",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 1105-1124"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Using ant colony optimization for searching in (dynamic) \ndistributed datasets",
+      "type": "",
+      "publisher": "WSEAS transactions on computers",
+      "date": "2007",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 119-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Producing the left parse during bottom-up parsing",
+      "type": "",
+      "publisher": "Information processing letters",
+      "date": "2005",
+      "vol": "no. 6",
+      "num": "",
+      "page": "str. [220]-224"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "The complexity of static data replication in data grids",
+      "type": "",
+      "publisher": "Parallel Computing",
+      "date": "2005",
+      "vol": "no. 8/9",
+      "num": "",
+      "page": "str. [900]-912"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Improved error recovery in generated LR parsers",
+      "type": "",
+      "publisher": "Informatica",
+      "date": "2004",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 257-263"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Gabrijel\u010di\u010d"
+        }
+      ],
+      "title": "Computer simulation and spatial modelling in heart \nsurgery",
+      "type": "",
+      "publisher": "Computers in Biology and Medicine",
+      "date": "1998",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 393-403"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "T.",
+          "surname": "Gabrijel\u010di\u010d"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Temperature distribution in human heart during hypothermic \ncardioplegic arrest",
+      "type": "",
+      "publisher": "Cor Europaeum",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 172-176"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Cray razvija nov vzporedni sistem",
+      "type": "",
+      "publisher": "Quark",
+      "date": "1992",
+      "vol": "",
+      "num": "",
+      "page": "str. 3"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jurij",
+          "surname": "Miheli\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Dobravec"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "On the applicability of high-performance computing platforms : \nan overview",
+      "type": "",
+      "publisher": "1st International Conference on New Research and Development \nin Technical and Natural Science - ICNRDTNS, Radenci, Slovenia, 18.- 20. \nSeptember 2019",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 27-31"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Novosel"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Beyond classical parallel programming frameworks : Chapel vs \nJulia",
+      "type": "",
+      "publisher": "8th Symposium on Languages, Applications and Technologies : \nSLATE 2019, June 27-28, 2019, Coimbra, Portugal",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Bac"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Comparing execution traces of programs written in different \nprogramming languages",
+      "type": "",
+      "publisher": "Zbornik \u0161estindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 411-414"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "LLLR parsing : a combination of LL and LR parsing",
+      "type": "",
+      "publisher": "5th Symposium on Languages, Applications and Technologies : \nSLATE'16, June 20-21, 2016, Maribor, Slovenia",
+      "date": "2016 ",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "JWEB - literate programming for Java",
+      "type": "",
+      "publisher": "Zbornik petindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2016, 19. - 21. september 2016, Portoro\u017e, \nSlovenija",
+      "date": "2016",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 23-26"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Analysis of elective courses selection in post - Bologna \nprogrammes",
+      "type": "",
+      "publisher": "MIPRO 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 862-867"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Poto\u010dnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Linter - a tool for finding bugs and potential problems in \nScala code",
+      "type": "",
+      "publisher": "Proceedings of the 29th Annual ACM Symposium on Applied \nComputing, Gyeongju, Korea, March 24-28, 2014",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1615-1616"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "On the appropriateness of domain-specific languages derived \nfrom different metamodels",
+      "type": "",
+      "publisher": "QUATIC 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 190-195"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Producing the platform independent model of an existing web \napplication",
+      "type": "",
+      "publisher": "Proceedings of the Federated Conference on Computer Science \nand Information Systems, September 9-12, 2012, Wroc\u0142aw, Poland : \nfedCSIS",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 1341-1348"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "The embedded left LR parser",
+      "type": "",
+      "publisher": "FedCSIS : proceedings of the Federated Conference on \nComputer Science and Information Systems, September 18-21, 2011, Szczecin, \nPoland",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 871-878"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ro\u017eanc"
+        }
+      ],
+      "title": "Load-balanced generation of a restricted set of \ncombinations",
+      "type": "",
+      "publisher": "Parallel and distributed computing and networks : \nproceedings of the Tenth IASTED International Conference on Parallel and \nDistributed Computing and Networks, February 15 - 17, 2011, Innsbruck, \nAustria : proceedings of the Tenth IASTED International Conference on \nSoftware Engineering, February 15 - 17, 2011, Innsbruck, Austria",
+      "date": "cop. 2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 124-130"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Load-balanced parallel solver for the minimum k-center and \nrelated problems",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Conference on \nParallel and Distributed Computing and Networks, February 16-18, 2009, \nInnsbruck, Austria : a publication of the International Association of \nScience and Technology for Development",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 133-138"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Miheli\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Distributed web service for geospatial applications",
+      "type": "",
+      "publisher": "Proceedings. [Vol. 1, MEET & GVS]",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 295-299"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Daniel",
+          "surname": "Vladu\u0161i\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Improving job scheduling in GRID environments with use of \nsimple machine learning methods",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 177-182"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Arta\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Ogrodje za zagotavljanje kakovosti odjemalcem v porazdeljenem \nokolju",
+      "type": "",
+      "publisher": "Sodobne tehnologije in storitve : OTS 2009 : zbornik \n\u0161tirinajste konference, Maribor, 10. in 11. junij 2009",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 179-191"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "An incremental algorithm for distributed minimum weight \ntriangulation",
+      "type": "",
+      "publisher": "Parallel and distributed computing and networks : a \npublication of the International Association of Science and Technology for \nDevelopment",
+      "date": "cop. 2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 214-219"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        }
+      ],
+      "title": "Controlling an ant colony optimization based search in \ndistributed datasets",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Conference on \nParallel and Distributed Computing and Networks, February 13-15, 2007, \nInnsbruck, Austria : as part of the 25th IASTED International \nMulti-Conference on Applied Informatics : a publication of the \nInternational Association of Science and Technology Development",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 103-108"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u0107"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "Mo\u010dnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Using ant colony optimization for collaborative (re)search in \ndata grids",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 543-550"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "A peer-to-peer search in data grids based on ant colony \noptimization",
+      "type": "",
+      "publisher": "ICSOFT 2006 : proceedings of the First International \nConference on Software and Data Technologies, Set\u00fabal, Portugal, September \n11-14, 2006",
+      "date": "2006",
+      "vol": "vol. 1",
+      "num": "",
+      "page": "str. 363-366"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "Mo\u010dnik"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Using ant colony optimization for collaborative (re)search in \ndata grids",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-8]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Modeling of data replication in data grids",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 229-236"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "\u0160terk"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ozimek"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        }
+      ],
+      "title": "Setting up an interinstitutional test grid",
+      "type": "",
+      "publisher": "Proceedings, Microelectronics, electronics and electronic \ntechnologies / MEET, Hypermedia and grid systems / HGS",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 245-249"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "NP-completeness of the incremental data replication problem in \ndata grids",
+      "type": "",
+      "publisher": "Zbornik D 7. mednarodne multikonference Informacijska dru\u017eba \nIS 2004, 9. do 15. oktober 2004",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 203-205"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Dejan",
+          "surname": "\u010crnila"
+        }
+      ],
+      "title": "Computing the left parse using LR parsing : an empirical \nstudy",
+      "type": "",
+      "publisher": "Zbornik D 7. mednarodne multikonference Informacijska dru\u017eba \nIS 2004, 9. do 15. oktober 2004",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 220-222"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Zahtevnost izbolj\u0161ave po\u017ere\u0161nega podvajanja podatkov v \npodatkovnih omre\u017ejih",
+      "type": "",
+      "publisher": "Zbornik trinajste mednarodne elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2004, 27. - 29. september 2004, Portoro\u017e, Slovenija",
+      "date": "2004",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 123-126"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Improved error recovery in generated LR parsers",
+      "type": "",
+      "publisher": "Zbornik B 6. mednarodne multi-konference Informacijska \ndru\u017eba IS 2003, 13. do 17. oktober 2003",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 296-299"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "NP-polnost podvajanja podatkov v omre\u017enem ra\u010dunanju",
+      "type": "",
+      "publisher": "Zbornik dvanajste mednarodne Elektrotehni\u0161ke in ra\u010dunalni\u0161ke \nkonference ERK 2003, 25. - 26. september 2003, Ljubljana, Slovenija",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": "str. 421-424"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Optimized construction of the left parse using LR \nparsing",
+      "type": "",
+      "publisher": "Proceedings of the IASTED International Symposia Applied \nInformatics, Innsbruck, Austria, February 19-22, 2001",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 680-685"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Efficient construction of a left parse using LR parsing",
+      "type": "",
+      "publisher": "Zbornik devete Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK 2000, 21. - 23. september 2000, Portoro\u017e, Slovenija",
+      "date": "2000",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 3-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Implicitly parallel programming in human heart cooling \nsimulation",
+      "type": "",
+      "publisher": "Applied informatics : proceedings of the Seventeenth IASTED \nInternational Conference, Innsbruck, Austria, February 15-18, 1999",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 208-211"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Orel"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Coarse-grain parallelisation of multi-implicit Runge-Kutta \nmethods",
+      "type": "",
+      "publisher": "Numerical analysis and its applications : first \ninternational workshop, WNAA '96 : proceedings",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 498-504"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Polonca",
+          "surname": "Blaznik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Vzporedno izvajanje programov v skupinah delovnih \npostaj",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 95-98"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        }
+      ],
+      "title": "Mapping of a virtual computer structure on mesh-connected \ncomputers",
+      "type": "",
+      "publisher": "Parallel Computing: State-of-the-ART and Perspective : \nState-of-the-ART and Perspective",
+      "date": "cop. 1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 239-245"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Orel"
+        }
+      ],
+      "title": "Comparison of 3- and 5-stage multi-implicit Runge-Kutta \nmethods",
+      "type": "",
+      "publisher": "Proceedings of the International Workshop Parallel Numerics \n'96, Gozd Martuljek, Slovenia, September 11 - 13, 1996",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 165-172"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Gabrijel\u010di\u010d"
+        }
+      ],
+      "title": "Computer simulation and spatial modelling in heart \nsurgery",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 519-522"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Gabrijel\u010di\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "The model of topical heart cooling during induced hypothermic \ncardiac arrest in open heart surgery : a parallel computer \nsimulation",
+      "type": "",
+      "publisher": "Computers in cardiology 1995 : September 10-13, 1995, \nWienna, Austria",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "str.597-600"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Viktor",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Simulation and optimisation of data multiplex system",
+      "type": "",
+      "publisher": "Proceedings of the 12th International Conference on Systems \nScience. Vol. III, Computer Systems, Information Systems, Knowledge \nEngineering, Expert Systems Technical & Nontechnical Applications : \n12-15 September 1995, Wroc\u0142aw, Poland",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 138-143"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        }
+      ],
+      "title": "Comparison of FD methods for solving the diffusion \nequation",
+      "type": "",
+      "publisher": "Proceedings of the International Workshop Parallel Numerics \n'95, Sorrento, Italy, September 27-29, 1995",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 221-229"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Orel"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Coarse-grain parallelisation of multi-implicit Runge-Kutta \nmethods",
+      "type": "",
+      "publisher": "Proceedings of the International Workshop Parallel Numerics \n'95, Sorrento, Italy, September 27-29, 1995",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 231-238"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Izidor",
+          "surname": "Jerebic"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        }
+      ],
+      "title": "Library for programming on torus-connected \nmultiprocessors",
+      "type": "",
+      "publisher": "Parallel computing and transputer applications : [papers \npresented at the International Conference on Parallel Computing and \nTransputer Applications, PACTA '92, Barcelona, 21-24 September 1992]",
+      "date": "1992",
+      "vol": "",
+      "num": "",
+      "page": "str. 386-395"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "LLLR parsing",
+      "type": "",
+      "publisher": "Proceedings of the 28th annual ACM Symposium on Applied \nComputing 2013, Coimbra, Portugal, March 18-22",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 1698-1699"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Methods for parallel heat transfer computation : cardiac \ncooling as a case study : [vabljeno predavanje]",
+      "type": "",
+      "publisher": "Abstracts of Invated Lectures and Short Communications \nDelivered at the Sixth International Colloquium on Numerical Analysis and \nComputer Science with Applications : Plovdiv, Bulgaria, August 13-17, \n1997",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 114"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Introduction to parallel computing : from algorithms to \nprogramming on state-of-the-art platforms",
+      "type": "",
+      "publisher": "Undergraduate topics in computer science (Internet)",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Borut",
+          "surname": "Batagelj"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Lotri\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Damjan",
+          "surname": "Vavpoti\u010d"
+        }
+      ],
+      "title": "U\u010denje ra\u010dunalni\u0161tva s pomo\u010djo tekmovanja Bober : skripta \nposodobitvenega programa nadaljnega izobra\u017eevanja u\u010diteljev",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Kombinacija Knuthovega in Lewis-Stearnsovega sintaksnega \nanalizatorja z minimalno uporabo Knuthove analize : doktorska \ndisertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        }
+      ],
+      "title": "Kombinirana LL in LR sintaksna analiza : [magistrska \nnaloga]",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Vilfan"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        }
+      ],
+      "title": "Porazdeljene tabele : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1992",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vojko",
+          "surname": "Valen\u010di\u010d"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Viktor",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Berkopec"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Tone",
+          "surname": "Gabrijel\u010di\u010d"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Ger\u0161ak"
+        },
+        {
+          "firstname": "Maja",
+          "surname": "Ger\u0161i\u010d"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Habinc"
+        },
+        {
+          "firstname": "Du\u0161anka",
+          "surname": "Jane\u017ei\u010d"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Jur\u010di\u010d-Zlobec"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Kra\u0161na"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Logar"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Mencej"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Orel"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Parkelj"
+        },
+        {
+          "firstname": "Nikola",
+          "surname": "Pave\u0161i\u0107"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Paralelizacija ra\u010dunsko intenzivnih metod v elektrotehniki : \nzaklju\u010dno poro\u010dilo o rezultatih opravljenega znanstveno-raziskovalnega dela \nna podro\u010dju temeljnega raziskovanja",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Igor",
+          "surname": "Ozimek"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "\u010cibej"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "\u0160terk"
+        }
+      ],
+      "title": "Postavitev testnega GRID sistema : poro\u010dilo 1. delovnega \nsklopa",
+      "type": "",
+      "publisher": "Tehnologija GRID kot standardna komunikacijsko-ra\u010dunska \ninfrastruktura",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjeta",
+          "surname": "Frey-Pu\u010dko"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Implementacija posplo\u0161enih postopkov prevoda SDL opisa v \nkon\u010dni avtomat : zaklju\u010dno poro\u010dilo 2.faze projekta, Iskratel, april \n1996",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjeta",
+          "surname": "Frey-Pu\u010dko"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Mo\u010dnik"
+        }
+      ],
+      "title": "Prevajalnik SDL opisa v kon\u010dni avtomat : zaklju\u010dno poro\u010dilo 6. \nfaze projekta in dokumentacija prevajalnika, Iskratel, maj",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Pipan"
+        },
+        {
+          "firstname": "Polonca",
+          "surname": "Blaznik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        }
+      ],
+      "title": "Vzporedno izvajanje programov v skupinah delovnih postaj, \nprimerjava razli\u010dnih implementacij MPI standarda",
+      "type": "",
+      "publisher": "IJS delovno poro\u010dilo",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjeta",
+          "surname": "Frey-Pu\u010dko"
+        },
+        {
+          "firstname": "Monika",
+          "surname": "Kapus-Kolar"
+        },
+        {
+          "firstname": "Viktor",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Robert",
+          "surname": "Verli\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Avtomatizacija postopkov generiranja testnih zaporedij za \nSI2000 : Zaklju\u010dni dokument projekta Iskratel, (v arhivu Iskratel, poslovna \nskrivnost)",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Trobec"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "\u0160ilc"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Kolbezen"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "Robi\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Ozimek"
+        },
+        {
+          "firstname": "Viktor",
+          "surname": "Avbelj"
+        },
+        {
+          "firstname": "Du\u0161an",
+          "surname": "Caf"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Homogene vzporedne ra\u010dunalni\u0161ke strukture",
+      "type": "",
+      "publisher": "IJS delovno poro\u010dilo",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjeta",
+          "surname": "Frey-Pu\u010dko"
+        },
+        {
+          "firstname": "Roman",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Implementacija posplo\u0161enih postopkov prevoda SDL opisa v \nmno\u017eico kon\u010dnih avtomatov in povezave kon\u010dnih avtomatov : zaklju\u010dno \nporo\u010dilo 4.faze projekta, Iskratel, marec 1996",
+      "type": "",
+      "publisher": "",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nino",
+          "surname": "Ba\u0161i\u0107"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Gabrijel\u010di\u010d"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Ga\u0161perin"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Grabnar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Horvat"
+        },
+        {
+          "firstname": "Nace",
+          "surname": "Hudobivnik"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "Kodre"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Lasi\u010d"
+        },
+        {
+          "firstname": "Mark",
+          "surname": "Martinec"
+        },
+        {
+          "firstname": "Polona",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Slak"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Trampu\u0161"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Brank"
+        }
+      ],
+      "title": "Bilten",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Porazdeljen algoritem za problem najmanj\u0161ega k-centra = [A \ndistributed algorithm for the minimum k-center problem] : magistrsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Jovanovi\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Urejanje podatkov v porazdeljenih sistemih s pomo\u010djo \noptimizacijskega algoritma kolonije mravelj : magistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Novosel"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Vzporedni programski jeziki namesto vzporednih programskih \nogrodij : magistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Vitek"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prevajanje modela OpenACC na nivoju izvorne kode : magistrsko \ndelo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Mladovan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Paralelizacija Gram-Schmidtovega postopka na sistemu Intel \nXeon Phi : magistrsko delo : \u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Polutnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Skalabilna obla\u010dna storitev za analizo \u0161ahovskih pozicij : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Lamut"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Primerjava dveh strategij dinami\u010dne replikacije : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Me\u017eik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Stiskanje podatkov s pomo\u010djo kontekstno neodvisnih gramatik = \n[Compression using context free grammars] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "An\u017ei\u010dek"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Urejevalnik javanske izvorne kode = [Java source code \nformatter] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Resman"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Program MS Excel kot uporabni\u0161ki grafi\u010dni vmesnik = [MS Excel \nas a graphical user interface for application programs] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Baloh"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Realizacija porazdeljenega algoritma za izra\u010dun dreves \nnajkraj\u0161ih poti = [The implementation of the distributed shortest paths \nalgorithm] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Kani\u017ear"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Vzporedno izvajanje ukazov v lupinah ra\u010dunalnikov sistema \nPlanetLab = [Parallel execution of shell commands on PlanetLab nodes] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "\u0160tangar"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Zgo\u0161\u010devanje redkih (LR) tabel = [Sparse (LR) table \ncompression] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ana",
+          "surname": "Pavli\u0161i\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Porazdeljeni algoritem za problem maksimalnega pokritja grafa \ns trikotniki = [A distributed algorithm for maximum triangle packing] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Jerebic"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prevajalnik za generiranje enotnega uporabni\u0161kega vmesnika = \n[A compiler for generation of a unified user interface] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Lenar\u010di\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Programski transakcijski pomnilnik = [Software transactional \nmemory] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kotar"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Realizacija knji\u017enice regex na specializirani strojni opremi = \n[Implementation of regex library on a special purpose hardware] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Rekonstrukcija poti objekta z uporabo baznih postaj mobilnega \nomre\u017eja = [Uncovering an object's path using cell stations of a cellular \nnetwork] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Vrbinc"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Servisni program za lokalno prikazovalno enoto za\u0161\u010ditnega \nreleja = [Driver for the local display unit of a protection relay] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Egon",
+          "surname": "Kocjan"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Vzporedno podatkovno pretokovno programiranje v jeziku C++ = \n[Parallel dataflow programming in C++] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "\u0160triker"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Avtomatsko spro\u0161\u010danje pomnilnika v programskem jeziku Tiger = \n[Automatic memory reclamation in the Tiger programming language] : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Povezovalnik in dinami\u010dni nalagalnik za procesor HIP = [Linker \nand dynamic loader for the HIP processor] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sergej",
+          "surname": "Beri\u0161aj"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Realizacija porazdeljenega datote\u010dnega sistema na osnovi \nporazdeljene razpr\u0161ene tabele = [The implementation of a distributed file \nsystem based on a distributed hash table] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Hadalin"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Izdelava spletnega portala poslovne aplikacije z upo\u0161tevanjem \nrazlik med spletnimi brskalniki : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Ogrodje za realizacijo porazdeljenih algoritmov v sistemu \nPlanetLab : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Du\u0161an",
+          "surname": "Muki\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prevajalnik iz porabskega nare\u010dja v slovenski knji\u017eni jezik : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kova\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Izdelava igre za prenosni telefon : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anton",
+          "surname": "\u0160ifrer"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Program za izdelavo posodobitvenih paketov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Damjan",
+          "surname": "Cvetko"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Povezava SSH odjemalca z Microsoftovim sistemskim vmesnikom za \nkriptografijo : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Herman",
+          "surname": "Skubic"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Programski stre\u017enik za upravljanje vstopnega sistema tovornega \nterminala : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Nedeljko"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Sistem za podporo sprejemanja in preverjanja \u0161tudentskih \nprogramskih nalog : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Robnik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Sistem za avtomatsko izmenjavo sporo\u010dil o porabi elektri\u010dne \nenergije : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "\u017dos"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Vgraditev programske opreme za podporo standarda DIN 43861-301 \nv trofazni elektri\u010dni \u0161tevec : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jakob",
+          "surname": "Erzar"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prilagoditev LLVM-ja za sistem SIC/XE : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Pintar"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Programski jeziki za vzporedno programiranje : diplomsko delo \n: univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Jesenovec"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Emulator igralne konzole Game Boy : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Gre\u0161ak"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Ocena primernosti jezika Elm za razvoj spletnih aplikacij : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toni",
+          "surname": "Kocjan Turk"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Vgradnja objektno usmerjenih gradnikov v programski jezik PINS \n: diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alja\u017e",
+          "surname": "Ko\u0161ir"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Horizontalno skaliranje spletnih aplikacij : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Jesen\u0161ek"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prenos orodja SYCL-GTX na operacijski sistem Linux in \nkoprocesor Xeon Phi : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Berkovi\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Razpletanje sej spletnega stre\u017enika : diplomsko delo : \nvisoko\u0161olski strokovni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Bac"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Pretvorba PL/SQL izvorne kode v graf prehodov aplikacije : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sven",
+          "surname": "Cerk"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prevajanje funkcijskih \u0161\u010depcev v grafno vmesno kodo za \nMaxelerjevo arhitekturo : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Eler\u0161i\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Prevajanje grafne vmesne kode za Maxelerjeve \npodatkovno-pretokovne enote : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Levstik"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Preverjanje in merjenje hitrosti testne izvedbe prevajalnika \nza MRuby : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "O\u017ebot"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Realizacija potisnega obve\u0161\u010danja z uporabo SignalR in WCF : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "\u0160kof"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Zasnova in izdelava stre\u017enika za u\u010dinkovito obve\u0161\u010danje \nmobilnih aplikacij : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Samo",
+          "surname": "Jelov\u0161ek"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Raz\u0161iritev prevajalnika za Kaleidoscope na osnovi ogrodja LLVM \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Mercina"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Izra\u010dun triangulacije to\u010dk v ravnini : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pavli\u010d"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Izra\u010dun triangulacije to\u010dk v ravnini z uporabo grafi\u010dnega \nprocesorja : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Lek\u0161e"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Generator sintaksnih analizatorjev vrste LALR v programskem \njeziku PHP : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Milan",
+          "surname": "Metelko"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Simulator nedeterministi\u010dnega Turingovega stroja : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "\u017du\u017eek"
+        },
+        {
+          "firstname": "Patricio",
+          "surname": "Buli\u0107"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Implementation of the SYCL heterogeneous computing library : \nmasters thesis : the 2nd cycle masters study programme Computer and \ninformation science",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Gro\u0161elj"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Slivnik"
+        }
+      ],
+      "title": "Optimizacija sestave \u0161portnih obrokov glede na vsebovanost \nhranil : diplomsko delo, visoko\u0161olski strokovni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Branko",
+          "surname": "\u0160ter"
+        }
+      ],
+      "title": "Sistemsko programiranje v Linuxu",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sven",
+          "surname": "Cerk"
+        }
+      ],
+      "title": "On compiling functional programming languages for Maxeler's \ndataflow engines",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 175-176"
+    }
+  ]
+}

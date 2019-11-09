@@ -1,0 +1,2008 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Pe\u010dar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Dolenc"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Kova\u010d"
+        }
+      ],
+      "title": "Automatic detection of pronation type of runners using \ncomputer vision",
+      "type": "",
+      "publisher": "The IPSI BgD transactions on internet research",
+      "date": "2019",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 4-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u0160ajn"
+        }
+      ],
+      "title": "User interface for a better eye contact in \nvideoconferencing",
+      "type": "",
+      "publisher": "Displays",
+      "date": "2017",
+      "vol": "vol. 46",
+      "num": "",
+      "page": "str. 25-36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u0160ajn"
+        },
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Derganc"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        }
+      ],
+      "title": "Automatic digitization of pluviograph strip charts",
+      "type": "",
+      "publisher": "Meteorological applications",
+      "date": "2016",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 57-64"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Miran",
+          "surname": "Eri\u010d"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Mihajlovi\u0107"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Stopin\u0161ek"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Volumetric models from 3D point clouds : the case study of \nsarcophagi cargo from a 2nd/3rd century AD Roman shipwreck near Sutivan on \nisland Bra\u010d, Croatia",
+      "type": "",
+      "publisher": "Journal of archaeological science",
+      "date": "2015",
+      "vol": "vol. 62",
+      "num": "",
+      "page": "str. 143-152"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "\u0160ajn"
+        }
+      ],
+      "title": "A computer vision based system for a rehabilitation of a human \nhand",
+      "type": "",
+      "publisher": "Periodicum biologorum",
+      "date": "2013",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 535-544"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Automatic golf ball trajectory reconstruction and \nvisualization",
+      "type": "",
+      "publisher": "Computer vision/Computer graphics collaboration techniques : \n4th International Conference, Mirage 2009, Rocquencourt, France, May 4-6, \n2009 : proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 150-160"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Moments of superellipsoids and their application to range \nimage registration",
+      "type": "",
+      "publisher": "IEEE transactions on systems, man, and cybernetics. Part B, \nCybernetics",
+      "date": "2003",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 648-657"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Superquadrics for segmenting and modeling range data",
+      "type": "",
+      "publisher": "IEEE transactions on pattern analysis and machine \nintelligence",
+      "date": "1997",
+      "vol": "no. 11",
+      "num": "",
+      "page": "str. 1269-1295"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Separating diffuse and specular component of image irradiance \nby translating a camera",
+      "type": "",
+      "publisher": "Computer analysis of images and patterns : 5th International \nConference, CAIP '93, Budapest, Hungary, September 13-15, 1993 : \nproceedings",
+      "date": "1993",
+      "vol": "",
+      "num": "",
+      "page": "str. 428-435"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Filo"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Problemi dolo\u010danja izoelektri\u010dnega nivoja v \nelektrokardiografskih signalih",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1993",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 251-253"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Analiza odbojnostnih lastnosti predmetov z aktivnim \nvidom",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1992",
+      "vol": "\u0161t. 3/4",
+      "num": "",
+      "page": "str. 149-164"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        }
+      ],
+      "title": "Realizacija sistema za analizo elektrokardiografskih signalov \nna osebnem ra\u010dunalniku IBM PC/AT",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1990",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 127-130"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Volk"
+        },
+        {
+          "firstname": "Michele",
+          "surname": "Leonardi"
+        },
+        {
+          "firstname": "Michael",
+          "surname": "Recce"
+        }
+      ],
+      "title": "Design and performance analysis of a simple mobile \nrobot",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1993",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 233-239"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jurij",
+          "surname": "Slabanja"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Meden"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Segmentation and reconstruction of 3D models from a point \ncloud with deep neural networks",
+      "type": "",
+      "publisher": "ICT convergence powered by smart intelligence : ICTC \n2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 118-123"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tim",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Klemen",
+          "surname": "Grm"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u0160truc"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Recovery of superquadrics from range images using deep \nlearning : a preliminary study",
+      "type": "",
+      "publisher": "IWOBI 2019 : proceedings",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 45-52"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Enej",
+          "surname": "Gu\u010dek Puhar"
+        },
+        {
+          "firstname": "Miran",
+          "surname": "Eri\u010d"
+        },
+        {
+          "firstname": "Katja",
+          "surname": "Kavkler"
+        },
+        {
+          "firstname": "Anja",
+          "surname": "Cramer"
+        },
+        {
+          "firstname": "Kristjan",
+          "surname": "Celec"
+        },
+        {
+          "firstname": "Lidija",
+          "surname": "Korat"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Comparison and deformation analysis of five 3D models of the \nPaleolithic wooden point from the Ljubljanica River",
+      "type": "",
+      "publisher": "MetroArchaeo 2018 : proceedings",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 444-449"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "From IoT devices to drones : a summer school report",
+      "type": "",
+      "publisher": "Zbornik \u0161estindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2017",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 539-542"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Building an IoT device as an introduction to computer \nengineering : a field report",
+      "type": "",
+      "publisher": "Zbornik petindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2016, 19. - 21. september 2016, Portoro\u017e, \nSlovenija",
+      "date": "2016",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 171-174"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Kozjek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Didactic tool : RC servo controller for educational \nrobotics",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 147-150"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Real-time golf ball detection, tracking and short game \ntrajectory display from video source",
+      "type": "",
+      "publisher": "Zbornik \u0160estnajste mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2007, 24. -26. september 2007, Portoro\u017e, \nSlovenija",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 207-210"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Zaznava polo\u017eaja kroglice na ruleti iz video posnetka",
+      "type": "",
+      "publisher": "ROSUS 2006 : ra\u010dunalni\u0161ka obdelava slik in njena uporaba v \nSloveniji 2006 : zbornik strokovne konference, Maribor, 23. marec \n2006",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 34-40"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Vrabec"
+        }
+      ],
+      "title": "Two simple algorithms for document image preprocessing : \nmaking a document scanning application more user-friendly",
+      "type": "",
+      "publisher": "ICEIS 2005 : proceedings of the Seventh International \nConference on Enterprise Information Systems, Miami, USA, May 25-28, 2005. \nVol. 5",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 116-121"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Superellipsoids gaining momentum",
+      "type": "",
+      "publisher": "Computer vision - CVWW'02 : proceedings of the Computer \nVision Winter Workshop, Bad Aussee, Austria, 4-7 February 2002",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 69-83"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Dimitrios",
+          "surname": "Katsoulas"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Fast recovery of piled deformable objects using \nsuperquadrics",
+      "type": "",
+      "publisher": "Pattern recognition : 24th DAGM symposium, Z\u00fcrich, \nSwitzerland, September 16-18, 2002 : proceedings",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 174-181"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "Krape\u017e"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        }
+      ],
+      "title": "Multimedia dictionary and synthesis of sign language",
+      "type": "",
+      "publisher": "Assistive technology - added value to the quality of life : \nAAATE'01",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 472-476"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Kverh"
+        }
+      ],
+      "title": "Reverse engineering by means of range image \ninterpretation",
+      "type": "",
+      "publisher": "Intelligent assembly and disassembly - IAD'98 : a \nproceedings volume from the IFAC Workshop, Bled, Slovenia, 21-23 May \n1998",
+      "date": "cop. 1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 153-158"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Krivic"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "How to control the level of detail in the framework of \nobject-level description",
+      "type": "",
+      "publisher": "Proceedings of the International Workshop on Intelligent \nCommunications and Multimedia Terminals, [Ljubljana, Slovenia, November \n19-21, 1998]",
+      "date": "1998]",
+      "vol": "",
+      "num": "",
+      "page": "str. 35-38"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Testing computer vision algorithms over World Wide Web",
+      "type": "",
+      "publisher": "Pattern recognition 1997 : proceedings of the 21st Workshop \nof the Austrian Association for Pattern Recognition (\u00d6AGM/AAPR), Hallstatt, \nUpper Austria, May 26-27, 1997",
+      "date": "cop. 1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 305-309"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Kverh"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Using recover-and-select paradigm on triangulated data",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 241-244"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Testiranje algoritmov s podro\u010dja ra\u010dunalni\u0161kega vida preko \nsvetovnega spleta",
+      "type": "",
+      "publisher": "Zbornik \u0161este Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'97, 25. - 27. september 1997, Portoro\u017e, Slovenija",
+      "date": "1997",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 313-316"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Kverh"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Simultaneous recovery of surface and superquadric \nmodels",
+      "type": "",
+      "publisher": "Pattern recognition 1996 : proceedings of the 20th workshop \nof the Austrian Association for pattern recognition (\u00d6AGM/AAPR), Schloss \nSeggau, Leibnitz, 9-10 May 1996",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 27-36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Segmentor : an object -oriented framework for image \nsegmentation",
+      "type": "",
+      "publisher": "Speech and image understanding : proceedings of 3rd \nSlovenian-German and 2nd SDRV Workshop, April 24 - 26, 1996, Ljubljana, \nSlovenia",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 331-340"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Colour palette management in ToolBook 1.5 and 3.0",
+      "type": "",
+      "publisher": "Conference proceedings",
+      "date": "cop. 1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 31-36"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Dora",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Gasperi\u010d"
+        }
+      ],
+      "title": "Multimedia learning tools for hearing impaired",
+      "type": "",
+      "publisher": "Educational multimedia and hypermedia, 1995 : proceedings of \nED-MEDIA 95--World Conference on Educational Multimedia and Hypermedia, \nGraz, Austria, June 17-21, 1995",
+      "date": "cop. 1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 354-359"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Dora",
+          "surname": "Vodopivec"
+        },
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        }
+      ],
+      "title": "Learning sign language through multimedia",
+      "type": "",
+      "publisher": "Proceedings of the International Conference on Multimedia \nComputing and Systems, May 15 - 18, 1995, Washington, D. C.",
+      "date": "cop. 1995",
+      "vol": "",
+      "num": "",
+      "page": "str. 282-285"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Iterative construction of CAD models from range images",
+      "type": "",
+      "publisher": "Adaptive methods and emergent techniques for signal \nprocessing and communications",
+      "date": "[1994]",
+      "vol": "",
+      "num": "",
+      "page": "str. 223-227"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Beno",
+          "surname": "Kra\u0161ovec"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Sen\u010denje nedeformiranih superelipsoidov",
+      "type": "",
+      "publisher": "Zbornik tretje Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '94, 26. - 28. september 1994, Portoro\u017e, Slovenija",
+      "date": "1994",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 19-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Object-oriented analysis and design of image segmentation \npackage",
+      "type": "",
+      "publisher": "Zbornik tretje Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '94, 26. - 28. september 1994, Portoro\u017e, Slovenija",
+      "date": "1994",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 23-26"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristina",
+          "surname": "Zovi\u0107"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Razpoznavanje predmetov modeliranih s pomo\u010djo \nsuperelipsoidov",
+      "type": "",
+      "publisher": "Zbornik tretje Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '94, 26. - 28. september 1994, Portoro\u017e, Slovenija",
+      "date": "1994",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 243-246"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Construction of CAD models for reverse engineering",
+      "type": "",
+      "publisher": "Zbornik tretje Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '94, 26. - 28. september 1994, Portoro\u017e, Slovenija",
+      "date": "1994",
+      "vol": "vol. B",
+      "num": "",
+      "page": "str. 251-254"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Extracting reflectance properties of materials by active \nvision",
+      "type": "",
+      "publisher": "Modelling and new methods in image processing and in \ngeographical information systems",
+      "date": "cop. 1992",
+      "vol": "",
+      "num": "",
+      "page": "str. 123-134"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        }
+      ],
+      "title": "Design and implementation of a real-time ECG analyzer on an \nIBM PC/AT personal computer",
+      "type": "",
+      "publisher": "Proceedings of the Seventh Symposium on Microcomputer and \nMicroprocessor Applications, 22-24 April, 1992, House of Technics, \nBudapest, Hungary",
+      "date": "1992",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 349-356"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Jasna",
+          "surname": "Maver"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Pomen ra\u010dunalni\u0161kega vida za tehnolo\u0161ki razvoj",
+      "type": "",
+      "publisher": "Zbornik prve Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference ERK \n'92, 28. - 30. september 1992, Portoro\u017e, Slovenija",
+      "date": "1992",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 181-184"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sang Wook",
+          "surname": "Lee"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ruzena",
+          "surname": "Bajcsy"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Analysis of multiple reflection components",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1991",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 1219-1223"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Jager"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Koren"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        }
+      ],
+      "title": "A real-time personal computer based system for analysis of \nelectrocardiograms",
+      "type": "",
+      "publisher": "Computers in cardiology : proceedings, Jerusalem, Israel, \nSeptember 19-22, 1989",
+      "date": "cop. 1990",
+      "vol": "",
+      "num": "",
+      "page": "str. 497-500"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Simple multichannel RC servo controller for \nsmartphones/tablets",
+      "type": "",
+      "publisher": "GCER 2015",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Zaznava in sledenje golf \u017eogice v video posnetku",
+      "type": "",
+      "publisher": "ROSUS 2007 : ra\u010dunalni\u0161ka obdelava slik in njena uporaba v \nSloveniji 2007 : zbornik 2. strokovne konference, Maribor, 22. marec \n2007",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. 154-159"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Sko\u010daj"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Sharing computer vision algorithms over the World Wide \nWeb",
+      "type": "",
+      "publisher": "Evaluation and validation of computer vision algorithms : \n[Dagstuhl-Seminar 98111, March 15 - March 30, 1998, Schloss Dagstuhl, \nGermany]",
+      "date": "cop. 1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "Krape\u017e"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        }
+      ],
+      "title": "Multimedia dictionary and synthesis of sign language",
+      "type": "",
+      "publisher": "Design and management of multimedia information systems : \nopportunities and challenges",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 268-281"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Graphical language to introduce imaging",
+      "type": "",
+      "publisher": "IEEE multimedia",
+      "date": "1996",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 92-93"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Ra\u010dunalnikarji, zdru\u017eite se!",
+      "type": "",
+      "publisher": "Moj mikro",
+      "date": "1994",
+      "vol": "\u0161t. 5",
+      "num": "",
+      "page": "str. 5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Segmentation and recovery of superquadrics",
+      "type": "",
+      "publisher": "Computational imaging and vision",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Segmentation and recovery of superquadrics",
+      "type": "",
+      "publisher": "Computational imaging and vision",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Aktivnostne mre\u017ee in \u010dasovna analiza aktivnostnih mre\u017e : \ngradivo za vaje 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "\u0160ajn"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Zbirka nalog iz \u010dasovne analize aktivnostnih mre\u017e : gradivo za \nvaje 2013",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Ga\u0161peri\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "Krape\u017e"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Dimitrovski"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ljubica",
+          "surname": "Podbor\u0161ek"
+        }
+      ],
+      "title": "U\u010dbenik slovenskega znakovnega jezika",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vito",
+          "surname": "Komac"
+        },
+        {
+          "firstname": "Ljubica",
+          "surname": "Podgor\u0161ek"
+        },
+        {
+          "firstname": "Marjan",
+          "surname": "Bregar"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Slavko",
+          "surname": "Krape\u017e"
+        },
+        {
+          "firstname": "Igor",
+          "surname": "Dimitrovski"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Dujec"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Aleksander",
+          "surname": "Be\u0161ir"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Cempre"
+        }
+      ],
+      "title": "Slovar slovenskega znakovnega jezika",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Construction of CAD models from range images : a \ndissertation",
+      "type": "",
+      "publisher": "",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Analiza odbojnostnih lastnosti predmetov z aktivnim vidom : \nmagistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1992",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Anton",
+          "surname": "Jegli\u010d"
+        }
+      ],
+      "title": "Analogni modul : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1989",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        }
+      ],
+      "title": "Sistem za monitoring in za analizo spojnice ST \nelektrokardiograma na osebnem ra\u010dunalniku : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "1989",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Peternel"
+        }
+      ],
+      "title": "Izvedensko mnenje o sledeh namestitve skimming naprave v POS \nterminal : izvedensko mnenje v zadevi opr. \u0161t. Kpd 90/2007 : [za Okro\u017eno \nsodi\u0161\u010de v Kranju]",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Zupan\u010di\u010d"
+        }
+      ],
+      "title": "Izvedensko mnenje o zase\u017eenih elektronskih napravah za \nskimming bankomatov : izvedensko mnenje v zadevi opr. \u0161t. Kpd 14/2007 : [za \nOkrajno sodi\u0161\u010de v Lendavi]",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Preliminarno izvedensko mnenje o zase\u017eenih elektronskih \nnapravah za POS skimming",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Preliminarno izvedensko mnenje o zase\u017eenih elektronskih \nnapravah za POS skimming : izvedensko mnenje v zadevi opr. \u0161t. III K \n248/2007 : [za Okrajno sodi\u0161\u010de v Mariboru]",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "An object-oriented framework for range image segmentation with \nsuperquadrics : programska oprema",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Superquadrics recovery and display C++ library : programska \noprema",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Kverh"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Peternel"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Tanki odjemalec za POS v informacijskem sistemu Loterije \nSlovenije d. d., prilagojen za povezavo s tujim sistemom pla\u010dilnega \nposlovanja",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Kverh"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Peternel"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Tanki odjemalec za POS v informacijskem sistemu Loterije \nSlovenije, d.d.",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Ludvik",
+          "surname": "Gyergy\u00e9k"
+        }
+      ],
+      "title": "Realizacija sistema za analizo elektrokardiografskih signalov \nna osebnem ra\u010dunalniku IBM PC/AT : delo je pripravljeno po razpisu odbora \nza Pre\u0161ernove nagrade \u0161tudentom za 1988. leto, \u0161t. teme 1, pod mentorstvom \nakademika prof. dr. Ludvika Gyergyeka",
+      "type": "",
+      "publisher": "",
+      "date": "1988",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Grm"
+        },
+        {
+          "firstname": "Tim",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Vitomir",
+          "surname": "\u0160truc"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        }
+      ],
+      "title": "Recovery of superquadric parameters from range images using \ndeep learning : lecture at BMVA Symposium, Deep learning in 3D, 20th \nFebruary 2019, London, UK",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "\u0160kori\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Iskanje po besedilih v programskem jeziku Java : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Ambro\u017ei\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Razvoj bogatih spletnih aplikacij s pomo\u010djo Eclipse RAP : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Srebrni\u010d"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Neprekinjeno integriranje in testiranje GUI aplikacij : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Ipavec"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Razvoj odjemalskih aplikacij s pomo\u010djo Eclipse RCP ogrodja : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Bol\u010dina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Sistem za upravljanje z dokumenti na osnovi odprtokodne \nprogramske opreme : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Vrabec"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Algoritmi za izrez slik osebnih dokumentov iz sivih slik : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Menard"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Sistem za nadzor oddaljenih naprav preko SMS sporo\u010dil sistema \nGSM : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Roman",
+          "surname": "Frelih"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Sistem za pomo\u010d uporabnikom : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Bevk"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Videospace tridimenzionalni virtualni prostor kot umetni\u0161ki \narhiv : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Ore\u0161nik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Uporaba agilnih metodologij za razvoj programske opreme: \n\u0161tudijski primer \"Projekt Loterija On-Line\" : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastian Alejandro",
+          "surname": "Monta\u00f1ez"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Android aplikacija za prenos glasbe v \u017eivo preko tehnologij \nBluetooth in Wi-Fi Direct : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Danijel",
+          "surname": "Petrovi\u0107"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Masovno po\u0161iljanje marketin\u0161kih sporo\u010dil s sistemom CRM : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Sladi\u010d"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Steganografija - skrivanje podatkov v sliki : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Grega",
+          "surname": "Tav\u010dar"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        }
+      ],
+      "title": "Uporaba na\u010drtovalskih vzorcev za razvoj programske opreme : \ndiplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2003",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Enej",
+          "surname": "Gu\u010dek Puhar"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Miran",
+          "surname": "Eri\u010d"
+        }
+      ],
+      "title": "Primerjava 3D modelov paleolitske lesene konice : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Enej",
+          "surname": "Gu\u010dek Puhar"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Jakli\u010d"
+        },
+        {
+          "firstname": "Miran",
+          "surname": "Eri\u010d"
+        }
+      ],
+      "title": "Primerjava 3D modelov paleolitske lesene konice : delo je \npripravljeno v skladu s Pravilnikom o podeljevanju Pre\u0161ernovih nagrad \n\u0161tudentom, pod mentorstvom prof. dr. Franca Soline in somentorstvom doc. \ndr. Ale\u0161a Jakli\u010da in mag. Mirana Eri\u010da",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maru\u0161a",
+          "surname": "Mazej"
+        },
+        {
+          "firstname": "Darko",
+          "surname": "Osterc"
+        },
+        {
+          "firstname": "Zala",
+          "surname": "Zagor\u0161ek"
+        },
+        {
+          "firstname": "Simona",
+          "surname": "\u017diher"
+        },
+        {
+          "firstname": "\u017diva",
+          "surname": "\u0160kof"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Trontelj"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "Drinovec"
+        }
+      ],
+      "title": "Za odstrtimi okni : interaktivna projekcija : Svetlobna \ngverila - Meje, 13. mednarodni festival svetlobe, 16. maj-15. junij 2019, \nLjubljana",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

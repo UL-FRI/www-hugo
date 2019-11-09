@@ -1,0 +1,6396 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        }
+      ],
+      "title": "Automatic segmentation of ethnomusicological field \nrecordings",
+      "type": "",
+      "publisher": "Applied sciences",
+      "date": "2019",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Unveiling the perceptual differences in mood and color \nperception in non-mainstream music styles",
+      "type": "",
+      "publisher": "The IPSI BgD transactions on internet research",
+      "date": "2019",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 1-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Introducing on-site customers in agile software development \nprojects : an alternative approach to project work in engineering \neducation",
+      "type": "",
+      "publisher": "International journal of engineering education",
+      "date": "2018",
+      "vol": "part A",
+      "num": "",
+      "page": "str. 482-496"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Affective experience of music : emotional and color perception \nof folk and other musical genres",
+      "type": "",
+      "publisher": "Traditiones",
+      "date": "2018",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 67-84"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "\u0160krlj"
+        },
+        {
+          "firstname": "Alja",
+          "surname": "Isakovi\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A usability comparison of input devices for precise and \nintuitive interaction with 3D visualizations = Uporabni\u0161ka primerjava \nvhodnih naprav za natan\u010dno in intuitivno interakcijo v 3D \nvizualizacijah",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2018",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 94-106"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Interaktivno platformno agnosti\u010dno sledenje \u017earkov v realnem \n\u010dasu s spletnimi tehnologijami",
+      "type": "",
+      "publisher": "Uporabna informatika",
+      "date": "2018",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 143-152"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "SymCHM - an unsupervised approach for pattern discovery in \nsymbolic music with a compositional hierarchical model",
+      "type": "",
+      "publisher": "Applied sciences",
+      "date": "2017",
+      "vol": "no. 11",
+      "num": "",
+      "page": "str. 1-21"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "The Moodo dataset : integrating user context with emotional \nand color perception of music for affective music information \nretrieval",
+      "type": "",
+      "publisher": "Journal of new music research",
+      "date": "2017",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 246-260"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Robust real-time music transcription with a compositional \nhierarchical model",
+      "type": "",
+      "publisher": "PloS one",
+      "date": "2017",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 1-21"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Transcription of polyphonic vocal music with a repetitive \nmelodic structure",
+      "type": "",
+      "publisher": "AES",
+      "date": "2016",
+      "vol": "no. 9",
+      "num": "",
+      "page": "str. 664-672"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Probabilistic segmentation of folk music recordings",
+      "type": "",
+      "publisher": "Mathematical problems in engineering",
+      "date": "2016",
+      "vol": "vol. 2016",
+      "num": "",
+      "page": "str. 1-11"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Uporabni\u0161ki vmesniki in metodologija pridobivanja ve\u010dmodalnih \npodatkov o glasbi",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "2015",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 93-101"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ur\u0161ka",
+          "surname": "Stankovi\u010d Elesini"
+        },
+        {
+          "firstname": "\u0160pela",
+          "surname": "Zakraj\u0161ek"
+        },
+        {
+          "firstname": "Estera",
+          "surname": "Cerar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Ra\u0161a",
+          "surname": "Urbas"
+        }
+      ],
+      "title": "Informatizacija slovenskih tekstilnih, obla\u010dilnih in usnjarsko \npredelovalnih podjetij = Information regarding Slovenian textile, clothing \nand leather production companies",
+      "type": "",
+      "publisher": "Tekstilec",
+      "date": "2015",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 281-300"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Novi pristopi : odkrivanje semanti\u010dnih struktur v etnolo\u0161kih \nvsebinah",
+      "type": "",
+      "publisher": "Glasnik Slovenskega etnolo\u0161kega dru\u0161tva",
+      "date": "2014",
+      "vol": "\u0161t. 1/2",
+      "num": "",
+      "page": "str. 17-21"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka folkloristika : semanti\u010dna analiza in \nvizualizacija tematske porazdelitve pesemskih tipov",
+      "type": "",
+      "publisher": "Glasnik Slovenskega etnolo\u0161kega dru\u0161tva",
+      "date": "2014",
+      "vol": "\u0161t. 3",
+      "num": "",
+      "page": "str. 36-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Boosting audio chord estimation using multiple \nclassifiers",
+      "type": "",
+      "publisher": "IWSSIP 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 107-110"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Sodja"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Mitrovi\u0107"
+        },
+        {
+          "firstname": "Franjo",
+          "surname": "Pernu\u0161"
+        }
+      ],
+      "title": "Fast segmentation, conversion and rendering of volumetric data \nusing GPU",
+      "type": "",
+      "publisher": "IWSSIP 2014 : proceedings",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 239-242"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Gathering a dataset of multi-modal mood-dependent perceptual \nresponses to music",
+      "type": "",
+      "publisher": "UMAP 2014 extended proceedings : posters, demos, \nlate-breaking results and workshop proceedings of the 22nd Conference on \nUser Modeling, Adaptation, and Personalization, Aalborg, Denmark, July \n7-11, 2014",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-12"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Kinect web kiosk framework",
+      "type": "",
+      "publisher": "Human factors in computing and informatics : \nproceedings",
+      "date": "cop. 2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 785-790"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Automatic transcription of bell chiming recordings",
+      "type": "",
+      "publisher": "IEEE transactions on audio, speech, and language \nprocessing",
+      "date": "2012",
+      "vol": "no. 3",
+      "num": "",
+      "page": "str. 844-853"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "The EthnoMuse digital library : conceptual representation and \nannotation of ethnomusicological materials",
+      "type": "",
+      "publisher": "International journal on digital libraries",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marieke",
+          "surname": "Lefeber"
+        },
+        {
+          "firstname": "Peter van",
+          "surname": "Kranenburg"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Identificatie van repertoire van achtiende-eeuwse bellen- \nspeelklokken op basis van automatische vergelijking",
+      "type": "",
+      "publisher": "Tijdschrift van de Koninklijke Vereniging voor Nederlandse \nMuziekgeschiedenis",
+      "date": "2011",
+      "vol": "\u0161t. 1/2",
+      "num": "",
+      "page": "str. 147-161"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Etnomuza : digitalni multimedijski arhiv slovenskih ljudskih \npesmi in glasbe",
+      "type": "",
+      "publisher": "Traditiones",
+      "date": "2010",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 149-166"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A mid-level representation for melody-based retrieval in audio \ncollections",
+      "type": "",
+      "publisher": "IEEE transactions on multimedia",
+      "date": "2008",
+      "vol": "no. 8",
+      "num": "",
+      "page": "str. 1617-1625"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Renee",
+          "surname": "Timmers"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Antonio",
+          "surname": "Camurri"
+        },
+        {
+          "firstname": "Gualtiero",
+          "surname": "Volpe"
+        }
+      ],
+      "title": "Listeners' emotional engagement with performances of a \nScriabin \u00e9tude : an explorative case study",
+      "type": "",
+      "publisher": "Psychology of music",
+      "date": "2006",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 481-510"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A connectionist approach to automatic transcription of \npolyphonic piano music",
+      "type": "",
+      "publisher": "IEEE transactions on multimedia",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 439-449"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Networks of adaptive oscillators for partial tracking and \ntranscription of music recordings",
+      "type": "",
+      "publisher": "Journal of new music research",
+      "date": "2004",
+      "vol": "no. 1",
+      "num": "",
+      "page": "str. 49-59"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "CORBA - a framework for development of distributed \napplications",
+      "type": "",
+      "publisher": "Elektrotehni\u0161ki vestnik",
+      "date": "1996",
+      "vol": "\u0161t. 4/5",
+      "num": "",
+      "page": "str. 286-291"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "Lunar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Slovenija iz kock",
+      "type": "",
+      "publisher": "Monitor",
+      "date": "2017",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 64-65"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Lunar"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Porazdeljeno upodabljanje vokseliziranih podatkov LiDAR = \nDistributed rendering of voxelized LiDAR data",
+      "type": "",
+      "publisher": "Geodetski vestnik",
+      "date": "2016",
+      "vol": "\u0161t. 4",
+      "num": "",
+      "page": "str. 615-626"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Performing query-by-melody on audio collections",
+      "type": "",
+      "publisher": "154th Meeting of the Acoustical Society of America, 27-29 \nNovember 2007, New Orleans",
+      "date": "cop. 2007",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-5]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Aleksandrov"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Collaborative web-based merged volumetric and mesh rendering \nframework",
+      "type": "",
+      "publisher": "Augmented reality, virtual reality, and computer graphics : \nproceedings. Part 1",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 36-42"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Tkal\u010di\u010d"
+        },
+        {
+          "firstname": "Nima",
+          "surname": "Maleki"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Mehdi",
+          "surname": "Elahi"
+        },
+        {
+          "firstname": "Francesco",
+          "surname": "Ricci"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Prediction of music pairwise preferences from facial \nexpressions",
+      "type": "",
+      "publisher": "IUI '19",
+      "date": "cop. 2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 150-159"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vulkan abstraction layer for large data remote rendering \nsystem",
+      "type": "",
+      "publisher": "Augmented reality, virtual reality, and computer graphics : \nproceedings",
+      "date": "cop. 2018",
+      "vol": "part 1",
+      "num": "",
+      "page": "str. 480-488"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Web-based vascular flow simulation visualization with lossy \ndata compression for fast transmission",
+      "type": "",
+      "publisher": "Augmented reality, virtual reality, and computer graphics : \nproceedings",
+      "date": "cop. 2018",
+      "vol": "part 2",
+      "num": "",
+      "page": "str. 3-17"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Modeling song similarity with unsupervised learning",
+      "type": "",
+      "publisher": "Folk music analysis : 8th International Workshop, 26-29 June \n2018, Thessaloniki, Greece",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-3"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Going deep with segmentation of field recordings",
+      "type": "",
+      "publisher": "Folk music analysis : 8th International Workshop, 26-29 June \n2018, Thessaloniki, Greece",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Kokelj"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A web-based virtual reality environment for medical \nvisualization",
+      "type": "",
+      "publisher": "MIPRO 2018 : 41st International Convention, May 21 -25, \n2018, Opatija, Croatia : proceedings",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 323-326"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Real-time interactive platform-agnostic volumetric path \ntracing in WebGL 2.0",
+      "type": "",
+      "publisher": "Web3D 2018 : proceedings",
+      "date": "cop. 2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastien",
+          "surname": "Strban"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija trkov osnovnih delcev v fiziki visokih energij \nna spletu",
+      "type": "",
+      "publisher": "Zbornik sedemindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 335-339"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kristijan",
+          "surname": "Mir\u010deta"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Byeong Hak",
+          "surname": "Kim"
+        },
+        {
+          "firstname": "Min Young",
+          "surname": "Kim"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Drone segmentation and tracking in grounded sensor scanned \nLiDAR datasets",
+      "type": "",
+      "publisher": "Zbornik sedemindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2018",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 384-387"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Collaborative view-aligned annotations in web-based 3D medical \ndata visualization",
+      "type": "",
+      "publisher": "MIPRO 2017 : 40th Jubilee International Convention, May \n22-26, 2017, Opatija, Croatia : proceedings",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 276-280"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A platform for supporting learning process of visually \nimpaired children",
+      "type": "",
+      "publisher": "MIPRO 2017 : 40th Jubilee International Convention, May \n22-26, 2017, Opatija, Croatia : proceedings",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 954-958"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Tkal\u010di\u010d"
+        },
+        {
+          "firstname": "Nima",
+          "surname": "Maleki"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Mehdi",
+          "surname": "Elahi"
+        },
+        {
+          "firstname": "Francesco",
+          "surname": "Ricci"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A research tool for user preferences elicitation with facial \nexpressions",
+      "type": "",
+      "publisher": "RecSys '17 : proceedings of the Eleventh ACM Conference on \nRecommender Systems, August 27-31, 2017, Como, Italy",
+      "date": "cop. 2017",
+      "vol": "",
+      "num": "",
+      "page": "str. 353-354"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Segmentation of folk songs with a probabilistic model",
+      "type": "",
+      "publisher": "6th International Workshop Folk Music Analysis, 15 - 17 June \n2016, Dublin",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 96-98"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Med3D - Spletno vizualizacijsko ogrodje volumetri\u010dnih \nmedicinskih podatkov s podporo oddaljenemu sodelovanju",
+      "type": "",
+      "publisher": "Delavnica Elektronsko in mobilno zdravje : zbornik 19. \nmednarodne multikonference Informacijska dru\u017eba - IS 2016, 10.-11. oktober \n2016, [Ljubljana, Slovenija] : zvezek G : proceedings of the 19th \nInternational Multiconference Information Society - IS 2016, 10-11 October \n2016, Ljubljana, Slovenia : volume G",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 14-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Remote interaction in web-based medical visual \napplication",
+      "type": "",
+      "publisher": "Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : \nzbornik 19. mednarodne multikonference Informacijska dru\u017eba - IS 2016, 11. \noktober 2016, [Ljubljana, Slovenija] : zvezek E : proceedings of the 19th \nInternational Multiconference Information Society - IS 2016, 11 October \n2016, Ljubljana, Slovenia : volume E",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 5-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Alja",
+          "surname": "Isakovi\u0107"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Improving the usability of online usability surveys with an \ninteractive Stripe scale",
+      "type": "",
+      "publisher": "Interakcija \u010dlovek-ra\u010dunalnik v informacijski dru\u017ebi : \nzbornik 19. mednarodne multikonference Informacijska dru\u017eba - IS 2016, 11. \noktober 2016, [Ljubljana, Slovenija] : zvezek E : proceedings of the 19th \nInternational Multiconference Information Society - IS 2016, 11 October \n2016, Ljubljana, Slovenia : volume E",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 21-24"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "SymCHMMerge - hypothesis refinement for pattern discovery with \na compositional hierarchical model",
+      "type": "",
+      "publisher": "MML 2016 : proceedings : held in conjunction with the \nEuropean Conference on Machine Learning and Principles and Practice of \nKnowledge Discovery in Databases, (ECML/PKDD 2016)",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 46-50"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spletno vizualizacijsko ogrodje z mo\u017enostjo oddaljenega \nsodelovanja",
+      "type": "",
+      "publisher": "Zbornik petindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2016, 19. - 21. september 2016, Portoro\u017e, \nSlovenija",
+      "date": "2016",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 43-46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Lunar"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Distributed ray tracing for rendering voxelized LIDAR \ngeospatial data",
+      "type": "",
+      "publisher": "Zbornik petindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2016, 19. - 21. september 2016, Portoro\u017e, \nSlovenija",
+      "date": "2016",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 55-58"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Evaluation of angiogram visualization methods for fast and \nreliable aneurysm diagnosis",
+      "type": "",
+      "publisher": "Medical imaging 2015 : image perception, observer \nperformance, and technology assessment : 25-26 February 2015, Orlando, \nFlorida, United States",
+      "date": "cop. 2015",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-8]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Daniel",
+          "surname": "Kuhl"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Baloh"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "ZaznajSpoznaj - a modifiable platform for accessibility and \ninclusion of visually-impaired elementary school children",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 173-179"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sandi",
+          "surname": "Gec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Mittoni"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "EtnoFletno : slovenska ljudska pesem na spletu in mobilnih \naplikacijah = EtnoFletno : Slovenian folk song on the web and in mobile \napplications",
+      "type": "",
+      "publisher": "Vzgoja in izobra\u017eevanje v informacijski dru\u017ebi - VIVID 2015 \n: zbornik referatov : conference proceedings",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 112-118"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sandi",
+          "surname": "Gec"
+        },
+        {
+          "firstname": "Tadej",
+          "surname": "Mittoni"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "EtnoFletno : Slovenian folk songs on the web and mobile \ndevices",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 307-310"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Baloh"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "StreamingLaban - low bandwidth format for dance encoding with \nlabanotation",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 19-22"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Towards pattern discovery in symbolic music representations \nusing a compositional hierarchical model",
+      "type": "",
+      "publisher": "Zbornik \u0161tiriindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2015, 21. - 23. september 2015, Portoro\u017e, \nSlovenija",
+      "date": "2015",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 57-60"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Capturing the mood : evaluation of the moodstripe and \nmoodgraph interfaces",
+      "type": "",
+      "publisher": "ICME 2014",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-5"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Edoo : involving teachers in the development of e-learning \nmaterial",
+      "type": "",
+      "publisher": "Open education for a multicultural world : OCWC Global \nConference, 23-25 April Ljubljana, Slovenia",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A compositional hierarchical model for music information \nretrieval",
+      "type": "",
+      "publisher": "Proceedings of the 15th Conference of the International \nSociety for Music Information Retrieval, ISMIR 2014, October 27-31, 2014, \nTaipei, Taiwan",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 131-136"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Introducing a dataset of emotional and color responses to \nmusic",
+      "type": "",
+      "publisher": "Proceedings of the 15th Conference of the International \nSociety for Music Information Retrieval, ISMIR 2014, October 27-31, 2014, \nTaipei, Taiwan",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 355-360"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "The MoodStripe - an evaluation of a novel visual interface as \nan alternative for online response gathering",
+      "type": "",
+      "publisher": "Proceedings of the 7th International Workshop on Semantic \nAmbient Media Experience (SAME 2014) - Ambient Media Usability, \nInteraction, and Smart Media Technologies : Helsinki, Finland, 26th October \n2014",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "\u0160krlj"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Usability evaluation of input devices for navigation and \ninteraction in 3D visualisation",
+      "type": "",
+      "publisher": "Proceedings of the 7th International Workshop on Semantic \nAmbient Media Experience (SAME 2014) - Ambient Media Usability, \nInteraction, and Smart Media Technologies : Helsinki, Finland, 26th October \n2014",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 19-23"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Uncovering semantic structures within folk song lyrics",
+      "type": "",
+      "publisher": "Proceedings of the Fourth International Workshop on Folk \nMusic Analysis, 12 and 13 June, 2014, Istanbul, Turkey : FMA2014",
+      "date": "cop. 2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 40-43"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ocenjevanje osnovnih frekvenc z uporabo kompozicionalnega \nhierarhi\u010dnega modela",
+      "type": "",
+      "publisher": "Zbornik triindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2014, 22. - 24. september 2014, Portoro\u017e, \nSlovenija",
+      "date": "2014",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 265-268"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "New dataset of emotional and color responses to music",
+      "type": "",
+      "publisher": "Zbornik triindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2014, 22. - 24. september 2014, Portoro\u017e, \nSlovenija",
+      "date": "2014",
+      "vol": "zv. A",
+      "num": "",
+      "page": "str. 309-312"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A preliminary evaluation of robustness to noise using the \ncompositional hierarchical model for music information retrieval",
+      "type": "",
+      "publisher": "Zbornik triindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2014, 22. - 24. september 2014, Portoro\u017e, \nSlovenija",
+      "date": "2014",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 104-107"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Chord estimation using compositional hierarchical model",
+      "type": "",
+      "publisher": "MML 2013 : proceedings : held in conjunction with the \nEuropean Conference on Machine Learning and Principles and Practice of \nKnowledge Discovery in Databases, ECML/PKDD 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "[4] str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Edoo : online match-making portal for educational content \nproduction",
+      "type": "",
+      "publisher": "Proceedings of the 1st Workshop on Defining a European \nResearch Agenda on Information Systems and Management in eMedia Industries, \nBled, Slovenia, 9th-13th June 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 14-16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Mojca",
+          "surname": "Poredo\u0161"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Mood-dependent visual representation of audio recordings for \nmusic recommendation",
+      "type": "",
+      "publisher": "Proceedings of the 4th International Conference World \nUsability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 53-55"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Visualization of a deep architecture using the compositional \nhierarchical model",
+      "type": "",
+      "publisher": "Proceedings of the 4th International Conference World \nUsability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 56-59"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Kinect web kiosk",
+      "type": "",
+      "publisher": "Proceedings of the 4th International Conference World \nUsability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 60-63"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Sodja"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "\u0160krlj"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Mitrovi\u0107"
+        },
+        {
+          "firstname": "Franjo",
+          "surname": "Pernu\u0161"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Neck veins : an interactive 3D visualization of head \nveins",
+      "type": "",
+      "publisher": "Proceedings of the 4th International Conference World \nUsability Day Slovenia 2013, Ljubljana, Slovenia, 25th November 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 64-66"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spletni portal za sodelovanje u\u010diteljev in razvijalcev \nelektronskih u\u010dnih gradiv = Web portal for teacher - developer \ncollaboration in electronic learning materials production",
+      "type": "",
+      "publisher": "Vzgoja in izobra\u017eevanje v informacijski dru\u017ebi : zbornik \nreferatov : conference proceedings",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 92-99"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Kinect Kiosk user experience evaluation",
+      "type": "",
+      "publisher": "Zbornik 16. mednarodne multikonference Informacijska dru\u017eba \n- IS 2013, 7.-11. oktober 2013 [Ljubljana, Slovenija] : zvezek A : volume \nA",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 201-204"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Discovering multi-level structure in folk music",
+      "type": "",
+      "publisher": "Zbornik dvaindvajsete mednarodne Elektrotehni\u0161ke in \nra\u010dunalni\u0161ke konference ERK 2013, 16.-18. september 2013, Portoro\u017e, \nSlovenija",
+      "date": "2013",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 149-152"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Masahiro",
+          "surname": "Niitsuma"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Controlling Mozart's dice music using acceleration \nsensors",
+      "type": "",
+      "publisher": "ICMC 2012 : non-cochlear sound",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 293-296"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Finding repeating stanzas in folk songs",
+      "type": "",
+      "publisher": "ISMIR 2012",
+      "date": "cop. 2012",
+      "vol": "",
+      "num": "",
+      "page": "str. 451-456"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maja",
+          "surname": "Ram\u0161ak"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "Kau\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Influence of file converters on keyword extraction with \nKea",
+      "type": "",
+      "publisher": "ICERI 2011 : conference proceedings",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 3437-3443"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marieke",
+          "surname": "Lefeber"
+        }
+      ],
+      "title": "It's time for a song - transcribing recordings of bell-playing \nclocks",
+      "type": "",
+      "publisher": "ISMIR 2010 : proceedings of the 11th International Society \nfor Music Information Retrieval Conference, August 9-13, 2010, Utrecht, \nNetherlands",
+      "date": "cop. 2010",
+      "vol": "",
+      "num": "",
+      "page": "str. 333-338"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Janez Franc",
+          "surname": "Vratanar"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        }
+      ],
+      "title": "Ethnomuse : archiving folk music and dance culture",
+      "type": "",
+      "publisher": "Eurocon 2009 : proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 340-344"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Probabilistic segmentation and labeling of ethnomusicological \nfield recordings",
+      "type": "",
+      "publisher": "ISMIR 2009 : proceedings of the 10th International Society \nfor Music Information Retrieval Conference, October 26-30, 2009, Kobe, \nJapan",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 75-80"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Calculating similarity of folk song variants with melody-based \nfeatures",
+      "type": "",
+      "publisher": "ISMIR 2009 : proceedings of the 10th International Society \nfor Music Information Retrieval Conference, October 26-30, 2009, Kobe, \nJapan",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 597-601"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Non-negative matrix factorization with selective sparsity \nconstraints for transcription of bell chiming recordings",
+      "type": "",
+      "publisher": "SMC 2009 : proceedings of the 6th Sound and Music Computing \nConference, 23-25 July 2009 Casa da M\u00fasica, Porto - Portugal",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 137-142"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A mid-level melody-based representation for calculating audio \nsimilarity",
+      "type": "",
+      "publisher": "ISMIR 2006 : proceedings",
+      "date": "cop. 2006",
+      "vol": "",
+      "num": "",
+      "page": "str. 280-285"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A connectionist model of finding partial groups in music \nrecordings with application to music trancription",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : proceedings of \nthe International Conference in Coimbra, Portugal, 2005",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 494-497"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Audio melody extraction based on timbral similarity of melodic \nfragments",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 2005",
+      "vol": "",
+      "num": "",
+      "page": "str. 1288-1291"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Gaussian mixture models for extraction of melodic lines from \naudio recordings",
+      "type": "",
+      "publisher": "ISMIR 2004 : proceedings",
+      "date": "cop. 2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 80-83"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "On finding melodic lines in audio recordings",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2004",
+      "vol": "",
+      "num": "",
+      "page": "str. 217-221"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Educational hypermedia : an evaluation study",
+      "type": "",
+      "publisher": "Communications and information technology for development : \nproceedings",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 80-84"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Evolutionary construction of emergent properties in \nmulti-agent systems",
+      "type": "",
+      "publisher": "Communications and information technology for development : \nproceedings",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 327-330"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "On detecting note onsets in piano music",
+      "type": "",
+      "publisher": "Communications and information technology for development : \nproceedings",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 385-389"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "SONIC : transcription of polyphonic piano music with neural \nnetworks",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 217-224"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Flexibility of JavaScript controled simulations",
+      "type": "",
+      "publisher": "Technical Program, Proceedings",
+      "date": "2001",
+      "vol": "vol. 2",
+      "num": "",
+      "page": "str. 404-407"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Transcription of polyphonic piano music with neural \nnetworks",
+      "type": "",
+      "publisher": "Information technology and electrotechnology for the \nMediterranean countries. Vol. 2, Signal and image processing : \nproceedings",
+      "date": "cop. 2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 512-515"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Adaptive oscillator networks for partial tracking and piano \nmusic transcription",
+      "type": "",
+      "publisher": "Proceedings of the 2000 International Computer Music \nConference, 27 August - 1 September 2000, Berlin, Germany",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": "str. 447-450"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "Personalised remote learning",
+      "type": "",
+      "publisher": "Advances in multimedia and distance education",
+      "date": "cop. 1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 145-150"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A comparison of feed forward neural network architectures for \npiano music transcription",
+      "type": "",
+      "publisher": "Proceedings of the 1999 International Computer Music \nConference, October 22-27, 1999, Beijing, China",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 314-316"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Personalised learning assistant",
+      "type": "",
+      "publisher": "Proceedings. Vol. 1, Microelectronics, eletronics and \nelectronic technologies / MEET, Multimedia and hypermedia systems / \nMHS",
+      "date": "1999",
+      "vol": "",
+      "num": "",
+      "page": "str. 152-155"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Visualisation of 3D objects: modelling tools and \ntechiques",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 15-24"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A system for automatic transcription of music based on \nmultiple-agents",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 1998",
+      "vol": "vol. 1",
+      "num": "",
+      "page": "str. 169-172"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "Distance education using a local mass storage device",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "cop. 1998",
+      "vol": "vol. 1",
+      "num": "",
+      "page": "str. 173-177"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Feedforward neural networks for piano music \ntranscription",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 240-243"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "A distance learning application based on a digital library \ncourseware",
+      "type": "",
+      "publisher": "The virtual campus : trends for higher education and \ntraining",
+      "date": "cop. 1998",
+      "vol": "",
+      "num": "",
+      "page": "str. 271-279"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "A music transcription system based on multiple-agents \narchitecture",
+      "type": "",
+      "publisher": "MIPRO '97 : 20th international convention, May 19-23, 1997, \nOpatija, Croatia : proceedings",
+      "date": "1997",
+      "vol": "",
+      "num": "",
+      "page": "str. 151-153"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spatial audio simulation",
+      "type": "",
+      "publisher": "Proceedings of multimedia and hypermedia systems",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 121-125"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "A new approach to HRTF audio spatialization",
+      "type": "",
+      "publisher": "Proceedings of the 1996 International Computer Music \nConference, Hong Kong, August 19 - 24, 1996",
+      "date": "1996",
+      "vol": "",
+      "num": "",
+      "page": "str. 365-367"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Sinteza prostorskegea zvoka",
+      "type": "",
+      "publisher": "Zbornik \u010detrte Elektrotehni\u0161ke in ra\u010dunalni\u0161ke konference \nERK '95, 25. - 27. september 1995, Portoro\u017e, Slovenija",
+      "date": "1995",
+      "vol": "zv. B",
+      "num": "",
+      "page": "str. 119-122"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anja",
+          "surname": "\u0160kerjanc"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Prevc"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Equipping the Ars Viva Institute with Web communication \nchannels",
+      "type": "",
+      "publisher": "Proceedings",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "str. 63-68"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tina",
+          "surname": "Bregant"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Personalized health care record for children : where needs of \nparents, children and health professionals meet",
+      "type": "",
+      "publisher": "SPS delavnica EM-zdravje : zbornik 18. mednarodne \nmultikonference Informacijska dru\u017eba - IS 2015, 9. in 12. oktober 2015, \n[Ljubljana, Slovenia] : zvezek G : proceedings of the 18th International \nMulticonference Information Society - IS 2015, October 9th and 12h, 2015, \nLjubljana, Slovenia : volume G",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. 11-13"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Asta",
+          "surname": "Gregori\u010d"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Drinovec"
+        },
+        {
+          "firstname": "Gri\u0161a",
+          "surname": "Mo\u010dnik"
+        },
+        {
+          "firstname": "Anja",
+          "surname": "Barle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Henigman"
+        },
+        {
+          "firstname": "Borut",
+          "surname": "\u0160u\u0161tar"
+        },
+        {
+          "firstname": "Mitja",
+          "surname": "Ferlan"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Panger\u0161i\u010d"
+        }
+      ],
+      "title": "Efficient traffic regulation based on urban black carbon \nmeasurements and prediction model",
+      "type": "",
+      "publisher": "Atmospheric PM[sub](2.5) in China : change, impact, \nmitigation and global perspective",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": "1 str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Hybrid rendering system for particle collision experimental \ndata visualization",
+      "type": "",
+      "publisher": "WLCG & HSF",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Pattern discovery and music similarity with compositional \nhierarchical model",
+      "type": "",
+      "publisher": "CogMIR : August 12, 2016, Columbia University, New \nYork",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Language technologies in humanities : computational semantic \nanalysis in folkloristics",
+      "type": "",
+      "publisher": "Zbornik konference Jezikovne tehnologije in digitalna \nhumanistika, 29. september - 1. oktober 2016, Filozofska fakulteta, \nUniverza v Ljubljani, Ljubljana, Slovenija",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 227-229"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Luka",
+          "surname": "Zakraj\u0161ek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "WEBCHM : an online tool for music analysis, transcription and \nannotation",
+      "type": "",
+      "publisher": "ISMIR 2015",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-2]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Compositional hierarchical model for pattern discovery in \nmusic",
+      "type": "",
+      "publisher": "EuroMAC 2014 : abstracts : Eight European Music Analysis \nConference, 17-20 September 2014, Leuven",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": "str. 288"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Compositional hierarchical model for music \nunderstanding",
+      "type": "",
+      "publisher": "CogMIR : program schedule : August 7, 2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 9-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "On finding repeated stanzas in folk song recordings",
+      "type": "",
+      "publisher": "Proceedings of the third International Workshop on Folk \nMusic Analysis, 6 and 7 June, 2013, Amsterdam, Netherlands : FMA2013",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 86-87"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Derganc"
+        },
+        {
+          "firstname": "Vesna",
+          "surname": "Arrigler"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Maja",
+          "surname": "Mlinari\u010d"
+        },
+        {
+          "firstname": "Metka",
+          "surname": "Derganc"
+        }
+      ],
+      "title": "Effects of different fatty acids on red blood cell \nmorphology",
+      "type": "",
+      "publisher": "Archives of Disease in Childhood",
+      "date": "2012",
+      "vol": "vol. 97",
+      "num": "",
+      "page": "str. A103"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Finding two-level structure in field recordings of folk \nmusic",
+      "type": "",
+      "publisher": "Algorithms from & for nature and life : collection of \nabstracts",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "str. 24"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maja",
+          "surname": "Ram\u0161ak"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "Kau\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Influence of file converters on keyword extraction with \nKea",
+      "type": "",
+      "publisher": "ICERI 2011 : conference abstracts",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": "1 str."
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Conceptualizing the Ethnomuse : application of CIDOC CRM and \nFRBR",
+      "type": "",
+      "publisher": "CIDOC 2007 : Vienna, August 20-22, 2007",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": "str. [1]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "On detecting repeated notes in piano music",
+      "type": "",
+      "publisher": "ISMIR 2002 : conference proceedings",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 273-274"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Drago",
+          "surname": "\u010cepar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Radalj"
+        },
+        {
+          "firstname": "Marijan",
+          "surname": "Ribari\u010d"
+        }
+      ],
+      "title": "Estimated accuracy of data and intervals of admissible values \nfor parameters of fitting functions",
+      "type": "",
+      "publisher": "Operations Research `92 : extended abstracts of the 17th \nSymposium on Operations Research, held at the Univesit\u00e4t der Bundeswehr \nHamburg at August 25-28, 1992 : with 36 figures",
+      "date": "1993",
+      "vol": "",
+      "num": "",
+      "page": "str. 346-348"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Towards user-aware music information retrieval : emotional and \ncolor perception of music",
+      "type": "",
+      "publisher": "Emotions and personality in personalized services : models, \nevaluation and applications",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 327-353"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Guna"
+        },
+        {
+          "firstname": "Emilija",
+          "surname": "Stojmenova Duh"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Towards a personalised and context-dependent user experience \nin multimedia and information systems",
+      "type": "",
+      "publisher": "Information systems and management in media and \nentertainment industries",
+      "date": "cop. 2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 149-172"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Educational hypermedia system ALICE : an evaluation of \nadaptive features",
+      "type": "",
+      "publisher": "Advances in multimedia, video and signal processing \nsystems",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 71-76"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Construction of cooperative behavior in multi-agent \nsystems",
+      "type": "",
+      "publisher": "Advances in simulation, systems theory and systems \nengineering",
+      "date": "cop. 2002",
+      "vol": "",
+      "num": "",
+      "page": "str. 160-162"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "SONIC : a system for transcription of piano music",
+      "type": "",
+      "publisher": "Advances in automation, multimedia and video systems and \nmodern computer science",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 236-239"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "The development of emergent properties in massive multi-agent \nsystems",
+      "type": "",
+      "publisher": "Advances in automation, multimedia and video systems and \nmodern computer science",
+      "date": "cop. 2001",
+      "vol": "",
+      "num": "",
+      "page": "str. 240-242"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "SymCHMMerge : an extension to the compositional hierarchical \nmodel for pattern discovery in symbolic music representations",
+      "type": "",
+      "publisher": "MIREX",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": "str. 1-2"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ur\u0161a",
+          "surname": "Medve\u0161ek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "SYMCHM : a compositional hierarchical model for pattern \ndiscovery in symbolic music representations",
+      "type": "",
+      "publisher": "MIREX",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": "str. [1-3]"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Programiranje in algoritmi skozi primere",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ki te\u010daji",
+      "type": "",
+      "publisher": "",
+      "date": "2002",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ka grafika",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        }
+      ],
+      "title": "Uvod v programski jezik Java",
+      "type": "",
+      "publisher": "",
+      "date": "2000",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Dobnikar"
+        }
+      ],
+      "title": "Avtomatska transkripcija glasbe s pomo\u010djo umetnih nevronskih \nmre\u017e : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Helena",
+          "surname": "Gabrijel\u010di\u010d Tomc"
+        },
+        {
+          "firstname": "Tanja Nu\u0161a",
+          "surname": "Ko\u010devar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ur\u0161a",
+          "surname": "Teli\u010d Miler"
+        },
+        {
+          "firstname": "Benjamin",
+          "surname": "\u017dnidar\u0161i\u010d"
+        }
+      ],
+      "title": "Opremljanje Zavoda Ars Viva s ciljnimi komunikacijskimi kanali \nnovih-medijev : javni razpis projektno delo z negospodarskim in neprofitnim \nsektorjem - \u0160tudentski inovativni projekti za dru\u017ebeno korist 2016 - 2018 : \nkon\u010dno poro\u010dilo o dose\u017eenih ciljih",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Ksenija",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Jernej",
+          "surname": "Vi\u010di\u010d"
+        },
+        {
+          "firstname": "Branko",
+          "surname": "Kav\u0161ek"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Kljun"
+        },
+        {
+          "firstname": "Andreja",
+          "surname": "Isteni\u010d Star\u010di\u010d"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Pisanski"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "Bauer"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Lokar"
+        },
+        {
+          "firstname": "Boris",
+          "surname": "Horvat"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Luk\u0161i\u010d"
+        }
+      ],
+      "title": "e-VIZUS : informatizacija izobra\u017eevanja in usposabljanja v \nSlovenski vojski : zaklju\u010dno poro\u010dilo o rezultatih opravljenega \nraziskovalnega dela na projektu v okviru ciljnega raziskovalnega programa \n(CRP) \"Znanje za varnost in mir 2006-2010\"",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Turk"
+        },
+        {
+          "firstname": "Vlado",
+          "surname": "Stankovski"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Dolenc"
+        }
+      ],
+      "title": "AgentGrid : na\u010drtovanje ve\u010dagentnih sistemov s pomo\u010djo okolja \nGRID",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vlado",
+          "surname": "Stankovski"
+        },
+        {
+          "firstname": "Etiel",
+          "surname": "Petrinja"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Dolenc"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "\u017diga",
+          "surname": "Turk"
+        }
+      ],
+      "title": "GRIDFORUM.SI : Grid infrastruktura za virtualne organizacije : \nzaklju\u010dno poro\u010dilo o rezultatih opravljenega raziskovalnega dela na \nprojektu v okviru ciljnega raziskovalnega programa (CRP) \"Konkuren\u010dnost \nSlovenije 2001-2006\" : zaklju\u010dno poro\u010dilo velja za obdobje od 1.10.2003 do \n30.09.2005",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Moodo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Probabilistic segmentation of folk music recordings - dataset \n(MPiE)",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Transcription of folk music - dataset (JAES)",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Klik v domovino : Slovenija, spleti\u0161\u010de kulturne dedi\u0161\u010dine \nslovenskih izseljencev",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Strle"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "EthnoMuse : digital archive of Slovenian folk songs and \nmusic",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Sinteza prostorskega zvoka : delo je pripravljeno po razpisu \nodbora za Pre\u0161ernove nagrade \u0161tudentom za leto 1995, pod mentorstvom prof. \ndr. Sa\u0161e Divjaka",
+      "type": "",
+      "publisher": "",
+      "date": "1995",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Dostopnost spletnih in mobilnih vsebin : vabljeno predavanje \nna tematski konferenci Programskega sveta RTV Slovenija, Ljubljana, 26. 9. \n2016",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "\"Anzel, are you alive or dead?\" : or why folk music is \ninteresting (for computers) : invited talk at the Austrian Research \nInstitute for Artificial Intelligence on the 18th of January 2017",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Music information retrieval for folk music archives : invited \nguest lecture at SoundTracer Workshop, 6th December 2017, Oslo",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Peer"
+        },
+        {
+          "firstname": "Bojan",
+          "surname": "Klemenc"
+        },
+        {
+          "firstname": "Matej",
+          "surname": "Jan"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Games at the Faculty of Computer and Information Science, \nUniversity of Ljubljana : invited talk at SGC 2016, Slovenian Games \nConference, 24 September 2016, Ljubljana",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Compositional hierarchical model for pattern discovery in \nmusic : EuroMAC 2014, Eighth European Music Analysis Conference, 17-20 \nSeptember 2014, Leuven",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [],
+      "title": "ICMC 2012 : non-cochlear sound",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Compositional hierarchical model for music information \nretrieval",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatska transkripcija in segmentacija za iskanje najbolj \nreprezentativnega dela v vokalnih ljudskih pesmih : doktorska \ndisertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Ga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Porazdeljeno procesiranje, analiza in vizualizacija podatkov z \nmehanizmi visoke skalabilnosti : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Ju\u017ena"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Vlado",
+          "surname": "Stankovski"
+        }
+      ],
+      "title": "Prenos in\u017eenirskih aplikacij v oblak s platformo mOSAIC : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Maja",
+          "surname": "Ram\u0161ak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatizirano opremljanje u\u010dnih gradiv z metapodatki : \nmagistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Segmentacija terenskih posnetkov slovenske ljudske pesmi : \nmagistrska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u0160pela",
+          "surname": "Medve\u0161ek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Anja",
+          "surname": "Podlesek"
+        }
+      ],
+      "title": "Kognitivni vidiki modeliranja glasbenih lastnosti z \neksplicitnimi globokimi arhitekturami : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Volumetric path-tracing using the Vulkan API : master's thesis \n: the 2nd cycle master's study programme Computer and Information \nScience",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Sledenje poti za neposredno upodabljanje volumetri\u010dnih \npodatkov s spletnimi tehnologijami : magistrsko delo : magistrski program \ndruge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Odkrivanje vzorcev v ve\u010dglasni glasbi z nenadzorovanim u\u010denjem \n: magistrsko delo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Web-based simulation and visualization of cardiovascular blood \nflow : master's thesis : the 2nd cycle master's study programme Computer \nand Information Science",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ur\u0161a",
+          "surname": "Juvan"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Iskanje ponavljajo\u010dih tem in vzorcev v glasbi s pomo\u010djo \nkompozicionalnega hierarhi\u010dnega modela : magistrsko delo : \u0161tudijski \nprogram druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Samo",
+          "surname": "Kralj"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Poravnava zvo\u010dnih in notnih zapisov ljudske glasbe : \nmagistrsko delo : \u0161tudijski program druge stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andra\u017e",
+          "surname": "Kra\u0161\u010dek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Jaka",
+          "surname": "Sodnik"
+        }
+      ],
+      "title": "Vizualizacija in analiza izhodnih podatkov opti\u010dnega sistema \nza sledenje gibanja : magistrsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Lunar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Porazdeljeno sledenje \u017earkov za upodabljanje lasersko zajetih \nprostorskih podatkov : diplomsko delo na univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jani",
+          "surname": "Je\u017e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spletno orodje za primerjavo algoritmov za transkripcijo \nglasbe : diplomsko delo : univerzitetni \u0161tudijski program Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Pa\u0161\u010dinski"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomati\u010dna transkripcija ve\u010dglasnega petja : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Markelj"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Modularni stre\u017enik syslog z vhodnim filtrom : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksander",
+          "surname": "Berus"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Analiza ogrodja MonoGame za medplatformni razvoj iger na \nmobilnih platformah : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Drame"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Fizikalno osnovano sen\u010denje : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ernest",
+          "surname": "Ivnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Indeksiranje in iskanje po simboli\u010dnih glasbenih zbirkah : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Toma\u017ei\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Orodje za testiranje implementacij standarda OpenCL : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Oder"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatsko prilagajanje tempa spremljave solistu : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jerneja",
+          "surname": "Writzl"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Informacijska podpora za izra\u010dun kapitalske zahteve za tr\u017ena \ntveganja v skladu z direktivo Solventnost II : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Tati\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Odlo\u017eeno upodabljanje : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez Jaka",
+          "surname": "Cerar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Pametni telefon kot periferna naprava za krmiljenje v treh \noseh : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Cindro"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Simulacija in upodabljanje oblakov v realnem \u010dasu : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Ma\u0161ke"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Simulacija in vizualizacija erozije terena z uporabo GPE : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Robert",
+          "surname": "Jakomin"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Domen",
+          "surname": "Marin\u010di\u010d"
+        }
+      ],
+      "title": "Algoritem za analizo kratke povedi v sloven\u0161\u010dini : diplomsko \ndelo na univerzitetnem \u0161tudiju",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Rehar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Implementacija protokola HTTP Live Streaming v programskem \njeziku Java : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Leonardis"
+        }
+      ],
+      "title": "Prepoznavanje akordov s hierarhi\u010dnim kompozicionalnim modelom \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Breskvar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Sinhronizacija podatkovnih virov z uporabo sinhronizacijskega \nogrodja Microsoft Sync Framework : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Kuder"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Iskanje prevladujo\u010de melodije v glasbenih posnetkih = \n[Extraction of predominant melody from audio recordings] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Strupeh"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Klasifikacija vokalnih posnetkov ljudske glasbe = \n[Classification of vocal folk music recordings] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Bukovinski"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Naravni uporabni\u0161ki vmesniki za ve\u010ddoti\u010dne naprave = [Natural \nuser interfaces for multitouch devices] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Elvis",
+          "surname": "\u017dlender"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Sledenje laserskemu kazalniku za upravljanje z ra\u010dunalnikom : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Kaja",
+          "surname": "Vidmar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija konceptualnega prostora besedilnih zbirk = \n[Visualisation of text documents based on conceptual spaces] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Per\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualno okolje za u\u010denje programskega jezika C = [A visual \nenvironment for learning C] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2010",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Kr\u0161manc"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Analiza homofonije s pomo\u010djo markovskih verig vi\u0161jih redov = \n[Analysis of homophony with higher order markov chains] : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Edvard",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Simulacija in vizualizacija fizikalnih pojavov = [Simulation \nand visualisation of physical phenomena] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Domen",
+          "surname": "Konda"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Primerjava algoritmov za zaznavanje za\u010detkov, sledenje udarcem \nin dolo\u010danje tempa : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jo\u017ee",
+          "surname": "Matko"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Primerjava Windows Communication Foundation s sorodnimi \nogrodji za gradnjo porazdeljenih aplikacij tipa odjemalec-stre\u017enik = [A \ncomparison of Windows Communication Foundation with similar frameworks for \nbuilding client-server applications] : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marjan",
+          "surname": "Pape\u017e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Animacija osebkov na podlagi krivulj gibanja : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bojan",
+          "surname": "Bratu\u017e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Detekcija in klasifikacija zvokov bobnov v realnem \u010dasu : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Bastardi"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Samopodobnost in segmentacija glasbenih posnetkov : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Uporaba kretenj za interakcijo z ra\u010dunalnikom : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez Franc",
+          "surname": "Vratanar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Detekcija in klasifikacija \u0161umnih dogodkov v glasbenih \nposnetkih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "Ka\u0161nik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Iskanje po glasbenih zbirkah na podlagi podane melodije : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Klemen",
+          "surname": "Andreuzi"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Nivoji podrobnosti in gradnja terenov pri geografskih \ninformacijskih sistemih : diplomska naloga",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Jemec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Prepoznavanje glasbenih posnetkov na podlagi prstnih odtisov \nzvoka : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastjan",
+          "surname": "Videc"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatsko razvr\u0161\u010danje zvo\u010dnih u\u010dinkov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vida",
+          "surname": "Tr\u010dek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Decentralizirani razpredeni ra\u010dunalni\u0161ki sistemi : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Perpar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Virtualizacija operacijskih sistemov na platformi Intel IA-32 \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Filip",
+          "surname": "Bo\u017ei\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        }
+      ],
+      "title": "Zaznavanje vizualnih iluzij v navideznih prostorih : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2005",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Aleksandrov"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Integracija sistema za upodabljanje na podlagi sledenja potem \nv ogrodje Med3D : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Pajni\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Izdelava realisti\u010dnih prostorov za vizualizacijo v navidezni \nresni\u010dnosti : diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Darian",
+          "surname": "Toma\u0161evi\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Pesek"
+        }
+      ],
+      "title": "Izdelava spletnega orodja za anotacijo glasbenih vzorcev : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Pevec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Nadgradnja spletnega orodja za analizo besedilnih zbirk \nTextExplore : diplomsko delo : visoko\u0161olski strokovni \u0161tudijski program \nprve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lana",
+          "surname": "Be\u0161evi\u010d"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Strojno pospe\u0161eno sledenje poti za upodabljanje v realnem \u010dasu \n: diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Kokelj"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Implementacija navidezne resni\u010dnosti v spletno vizualizacijsko \nogrodje Med3D : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Timotej",
+          "surname": "Fartek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Implementacija vti\u010dnika Vamp za segmentacijo zvo\u010dnih posnetkov \n: diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jaka",
+          "surname": "Korde\u017e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Vizualizacija podatkov LiDAR na spletu : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sebastien",
+          "surname": "Strban"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Ciril",
+          "surname": "Bohak"
+        }
+      ],
+      "title": "Vizualizacija trkov delcev v hadronskih trkalnikih : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Lampret"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatska analiza in klasifikacija glasbenih besedil na \npodlagi \u010dustev : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nejc",
+          "surname": "Smrkolj Ko\u017eelj"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Interaktivna vizualizacija prostorskih podatkov v Unity3D : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Jelov\u0161ek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Navidezna kabina za pomerjanje oblek na spletu : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Simon\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Obogatitev interaktivnih eksperimentov z uporabo naprave \nGoogle Tango : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Guli\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ogrodje za navidezno resni\u010dnost z uporabo mobilnih naprav in \nsenzorja Kinect : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Pirih"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "3D vizualizacija velikih glasbenih zbirk : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Mrak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Aplikacija za dihalno vadbo na mobilnem telefonu : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Pe\u0161i\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Avtomatska transkripcija zvo\u010dnih posnetkov tolkal : diplomsko \ndelo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bine",
+          "surname": "Rep\u0161e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Identifikacija glasbe v videoposnetkih s pomo\u010djo zvo\u010dnih \nprstnih odtisov : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Jeras"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Interaktiven spletni sistem za vizualizacijo glasbe : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tilen",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ogrodje za zaznavanje dihanja in predvajanje video posnetkov v \nokolju Unity : diplomsko delo : univerzitetni \u0161tudijski program prve \nstopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Lavri\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spletno ogrodje za vizualizacijo volumetri\u010dnih podatkov z \nmo\u017enostjo oddaljenega sodelovanja : diplomsko delo : visoko\u0161olski strokovni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matic",
+          "surname": "Kladnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ve\u010dnivojska spletna vizualizacija zbirk zvo\u010dnih posnetkov : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Veronika",
+          "surname": "Bla\u017ei\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Aplikacija za u\u010denje tipkanja za slepe in slabovidne : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vanja",
+          "surname": "Mileski"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Evalvacija algoritmov za diarizacijo govorcev v zvo\u010dnih \nposnetkih : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Kolenko"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Orodje za ro\u010dno poravnavo 2D in 3D medicinskih posnetkov : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jure",
+          "surname": "Malovrh"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Prenos podatkov z ultrazvokom : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jan",
+          "surname": "Jug"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Transkripcija klavirske glasbe z globokim u\u010denjem : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleksandar",
+          "surname": "Bobi\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija 3D medicinskih posnetkov na spletu z uporabo \ntehnologije WebCL : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Nika",
+          "surname": "Bric"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija besedil ljudskih pesmi : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Zupan\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija zvokov na podlagi podobnosti : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Andrej",
+          "surname": "\u010cernivec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Brezdoti\u010dno upravljanje aplikacij s senzorjem Kinect : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "\u0160krlj"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Evalvacija vhodnih naprav za upravljanje pogleda v 3D prostoru \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Pavlica"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Implementacija dinami\u010dnega izena\u010devalnika v okolju \nSuperCollider : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Manca",
+          "surname": "\u017derovnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Kompozicionalni hierarhi\u010dni model za ocenjevanje osnovnih \nfrekvenc : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Nova podatkovna zbirka in evalvacija algoritmov za ocenjevanje \nrazpolo\u017eenja v glasbi : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Milo\u0161",
+          "surname": "Luki\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Primerjava algoritmov za rekonstrukcijo 3D modelov iz \nvolumetri\u010dnih podatkov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "Ozebek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Razvoj interaktivne izobra\u017eevalne aplikacije za otroke : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Oblak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Simulacija mno\u017eic heterogenih agentov v realnem \u010dasu : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Deni",
+          "surname": "Ba\u010di\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Mavri"
+        }
+      ],
+      "title": "Simulacija molekulske dinamike na platformi iOS : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "An\u017ei\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Spletna aplikacija za pregled zbirke slovenske ljudske glasbe \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Kogov\u0161ek"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Tehnike proceduralnega modeliranja v ra\u010dunalni\u0161ki grafiki : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija medicinskih volumetri\u010dnih podatkov v realnem \n\u010dasu : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Vrtovec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija zvo\u010dnih zbirk : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Mikec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Odkrivanje melodije v zvo\u010dnih zapisih slovenskih ljudskih \npesmi : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161o",
+          "surname": "Brus"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Prepoznavanje akordov s skritim markovskim modelom : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Martin",
+          "surname": "Plaznik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Primerjava odprtokodnih javanskih fizikalnih pogonov = A \ncomparison of open-source java physics engines : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "Kolenc"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Razvoj, izdaja in tr\u017eenje iOS aplikacije za Apple App Store : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Luk\u0161i\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Realisti\u010dno zdru\u017eevanje videa z ra\u010dunalni\u0161ko generiranimi \npredmeti : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Ropret"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Realno\u010dasovna simulacija indirektne osvetlitve : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Sodja"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Segmentacija prostorskih medicinskih podatkov na GPE : \ndiplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "An\u017ee",
+          "surname": "Marinko"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "U\u010denje klavirja za najmlaj\u0161e : Android aplikacija : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Ga\u0161per",
+          "surname": "\u017dgajnar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Uporaba senzorja Kinect za u\u010denje konceptov glasbe : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Grega",
+          "surname": "Ga\u0161per\u0161i\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Zajem gibanja s senzorjem Kinect : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Vitja",
+          "surname": "Klun"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Detekcija harmonike v posnetkih ljudske pesmi : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Poro\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Implementacija izrisa B\u00e9zierovih krivulj in B-zlepkov v HTML5 \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Aleks",
+          "surname": "Hu\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Izdelava in uporaba sen\u010dilnikov v sodobni ra\u010dunalni\u0161ki grafiki \n: diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Jer\u0161an"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Primerjava pogonov za igre : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Baloh"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Razvoj aplikacije za u\u010denje klavirja : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tanja",
+          "surname": "Mali\u0107"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ustvarjanje modela za animacijo - postavljanje obraznih in \ntelesnih kontrol : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Ve\u010duporabni\u0161ke aplikacije na ve\u010ddoti\u010dnih napravah : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Simon",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija \u017eil tilnika z OpenGL-om : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "David",
+          "surname": "Novak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Zajem 3D predmetov s Kinectom : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2012",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Miha",
+          "surname": "Kra\u0161ovec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Prepoznavanje sestavov v posnetkih ljudske glasbe : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2011",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "\u017diga",
+          "surname": "Lesar"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija medicinskih volumetri\u010dnih podatkov v realnem \n\u010dasu : delo je pripravljeno v skladu s Pravilnikom o podeljevanju \nPre\u0161ernovih nagrad \u0161tudentom, pod mentorstvom doc. dr. Matije \nMarolta",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Jernej",
+          "surname": "Drobe\u017e"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Jurij",
+          "surname": "\u017deleznik"
+        }
+      ],
+      "title": "Primerjava kodekov za kodiranje videoposnetkov : raziskovalna \nnaloga : podro\u010dje ra\u010dunalni\u0161tvo",
+      "type": "",
+      "publisher": "",
+      "date": "2006",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Kogov\u0161ek"
+        },
+        {
+          "firstname": "Denis",
+          "surname": "Kalkofen"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Coherent label placement for 3D exploded view : master's \nthesis : the 2nd cycle master's study programme Computer and Information \nScience",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Adelina",
+          "surname": "Pervanje"
+        },
+        {
+          "firstname": "Petra",
+          "surname": "\u010cerne Oven"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Visoko\u0161olski informacijski sistemi pri nas : uporabni\u0161ka \nizku\u0161nja in digitalizacija javnih storitev : magistrsko delo C",
+      "type": "",
+      "publisher": "",
+      "date": "2018",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rok",
+          "surname": "Rupnik"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Interaktivni 3D prikaz terena Slovenije na spletu : magistrsko \ndelo : magistrski program druge stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Rosvita",
+          "surname": "Cvikl \u010cerneli\u010d"
+        },
+        {
+          "firstname": "Matev\u017e",
+          "surname": "Poga\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Interaktivna igra za odpravljanje hiperkineti\u010dne motnje pri \notrocih : diplomsko delo univerzitetnega \u0161tudija",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Strahil",
+          "surname": "Georgiev"
+        },
+        {
+          "firstname": "Franc",
+          "surname": "Solina"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Dolo\u010danje vi\u0161ine tonov v polifonski glasbi : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Benko"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Simulacija pretoka krvi po vratnih \u017eilah : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2017",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Tadej",
+          "surname": "Mittoni"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Iskanje po zbirkah ljudske glasbe na podlagi mrmranja : \ndiplomsko delo : visoko\u0161olski strokovni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Ku\u017enik"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Mobilna aplikacija za navigacijo prilagojena slepim in \nslabovidnim : diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Hrlec"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Navidezno potovanje s pomo\u010djo panoramskih slik in Oculus Rifta \n: diplomsko delo : univerzitetni \u0161tudijski program prve stopnje \nRa\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gal",
+          "surname": "Kos"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "3D vizualizacija dogajanja na boji\u0161\u010du v okolju Unity : \ndiplomsko delo : univerzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo \nin informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Lo\u010dni\u0161kar"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vadba streljanja v navideznem okolju : diplomsko delo : \nuniverzitetni \u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in \ninformatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Luka",
+          "surname": "Zakraj\u0161ek"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Vizualizacija in analiza glasbenih posnetkov s \nkompozicionalnim hierarhi\u010dnim modelom : diplomsko delo : univerzitetni \n\u0161tudijski program prve stopnje Ra\u010dunalni\u0161tvo in informatika",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Peter",
+          "surname": "Gabrov\u0161ek"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Proceduralno generiranje terena s Perlinovim \u0161umom : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2015",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Bo\u0161tjan",
+          "surname": "\u010cotar"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Adaptivna segmentacija 3D volumnov : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Anej",
+          "surname": "Placer"
+        },
+        {
+          "firstname": "Iztok",
+          "surname": "Lebar Bajec"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Generiranje glasbenih sekvenc z uporabo modela umetnega \n\u017eivljenja : diplomsko delo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matej",
+          "surname": "Zrim\u0161ek"
+        },
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        }
+      ],
+      "title": "Izdelava fizikalnega pogona za ra\u010dunalni\u0161ke igre : diplomsko \ndelo",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matija",
+          "surname": "K\u00f6nig"
+        },
+        {
+          "firstname": "Vlado",
+          "surname": "Stankovski"
+        },
+        {
+          "firstname": "Jana",
+          "surname": "\u0160elih"
+        }
+      ],
+      "title": "Sistem delotokov kot informacijska podpora podjetjem, dejavnim \nna podro\u010dju trajnostne gradnje : doktorska disertacija = A workflow system \nas an information support to companies operating in the area of sustainable \nconstruction : doctoral dissertation",
+      "type": "",
+      "publisher": "",
+      "date": "2014",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        }
+      ],
+      "title": "Ra\u010dunalni\u0161ki te\u010daji",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Sa\u0161a",
+          "surname": "Divjak"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Marolt"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Privo\u0161nik"
+        },
+        {
+          "firstname": "Alenka",
+          "surname": "Kav\u010di\u010d"
+        }
+      ],
+      "title": "3D ra\u010dunalni\u0161ka grafika",
+      "type": "",
+      "publisher": "",
+      "date": "2001",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}

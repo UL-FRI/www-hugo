@@ -1,0 +1,961 @@
+{
+  "entries": [
+    {
+      "authors": [
+        {
+          "firstname": "Primo\u017e",
+          "surname": "Godec"
+        },
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Pan\u010dur"
+        },
+        {
+          "firstname": "Nejc",
+          "surname": "Ileni\u010d"
+        },
+        {
+          "firstname": "Andrej",
+          "surname": "\u010copar"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Stra\u017ear"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Ajda",
+          "surname": "Pretnar"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jan",
+          "surname": "Hartman"
+        },
+        {
+          "firstname": "Wang",
+          "surname": "Hamilton"
+        },
+        {
+          "firstname": "Riccardo",
+          "surname": "Bellazzi"
+        },
+        {
+          "firstname": "Uro\u0161",
+          "surname": "Petrovi\u010d"
+        },
+        {
+          "firstname": "Silvia",
+          "surname": "Garagna"
+        },
+        {
+          "firstname": "Maurizio",
+          "surname": "Zuccotti"
+        },
+        {
+          "firstname": "Dongsu",
+          "surname": "Park"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Democratized image analytics by visual programming through \nintegration of deep models and small-scale machine learning",
+      "type": "",
+      "publisher": "Nature communications",
+      "date": "2019",
+      "vol": "",
+      "num": "",
+      "page": "str. 4551-1-4551-7"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Giovanni",
+          "surname": "Birarda"
+        },
+        {
+          "firstname": "Stuart",
+          "surname": "Read"
+        },
+        {
+          "firstname": "Christophe",
+          "surname": "Sandt"
+        },
+        {
+          "firstname": "Scott M.",
+          "surname": "Rosendahl"
+        },
+        {
+          "firstname": "Lisa",
+          "surname": "Vaccari"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Ferenc",
+          "surname": "Borondics"
+        }
+      ],
+      "title": "Infrared Orange : connecting hyperspectral data with machine \nlearning",
+      "type": "",
+      "publisher": "Synchrotron radiation news",
+      "date": "2017",
+      "vol": "no. 4",
+      "num": "",
+      "page": "str. 40-45"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Rok",
+          "surname": "Mo\u010dnik"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Polajnar"
+        },
+        {
+          "firstname": "Zoran",
+          "surname": "Bosni\u0107"
+        },
+        {
+          "firstname": "Lars",
+          "surname": "Carlsson"
+        },
+        {
+          "firstname": "Catrin",
+          "surname": "Hasselgren"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Scott",
+          "surname": "Boyer"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Jonna",
+          "surname": "St\u00e5lring"
+        }
+      ],
+      "title": "Assessment of machine learning reliability methods for \nquantifying the applicability domain of QSAR regression models",
+      "type": "",
+      "publisher": "Journal of chemical information and modeling",
+      "date": "2014",
+      "vol": "no. 2",
+      "num": "",
+      "page": "str. 431-441"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "\u010crtomir",
+          "surname": "Gorup"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Ho\u010devar"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "Martin",
+          "surname": "Mo\u017eina"
+        },
+        {
+          "firstname": "Matija",
+          "surname": "Polajnar"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "An\u017ee",
+          "surname": "Stari\u010d"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Jure",
+          "surname": "\u017dbontar"
+        },
+        {
+          "firstname": "Marinka",
+          "surname": "\u017ditnik"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Orange : data mining toolbox in Python",
+      "type": "",
+      "publisher": "Journal of machine learning research",
+      "date": "2013",
+      "vol": "vol. 14",
+      "num": "",
+      "page": "str. 2349-2353"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Edward Roshan",
+          "surname": "Miranda"
+        },
+        {
+          "firstname": "Olga",
+          "surname": "Zhuchenko"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Balaji",
+          "surname": "Santhanam"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Adam",
+          "surname": "Kuspa"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        }
+      ],
+      "title": "ABC transporters in Dictyostelium discoideum \ndevelopment",
+      "type": "",
+      "publisher": "PloS one",
+      "date": "2013",
+      "vol": "no. 8",
+      "num": "",
+      "page": "str. 1-11"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Similarity of transcription profiles for genes in gene \nsets",
+      "type": "",
+      "publisher": "Adaptive and natural computing algorithms : 10th \ninternational conference, ICANNGA 2011, Ljubljana, Slovenia, April 14-16, \n2011 : proceedings",
+      "date": "cop. 2011",
+      "vol": "part 2",
+      "num": "",
+      "page": "str. 393-399"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Does replication groups scoring reduce false positive rate in \nSNP interaction discovery?",
+      "type": "",
+      "publisher": "BMC genomics",
+      "date": "2010",
+      "vol": "vol. 11",
+      "num": "",
+      "page": "str. 1-6"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Annie",
+          "surname": "Morin"
+        },
+        {
+          "firstname": "Jean-Hugues",
+          "surname": "Chauchat"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Makovec"
+        },
+        {
+          "firstname": "Dragica",
+          "surname": "Smrke"
+        }
+      ],
+      "title": "Subgroup discovery in data sets with multi-dimensional \nresponses : a method and a case study in traumatology",
+      "type": "",
+      "publisher": "Artificial intelligence in medicine : proceedings",
+      "date": "cop. 2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 265-274"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Uporaba skupin genov pri analizi podatkov o izra\u017eenosti genov \npri raku = Utility of gene-sets in the analysis of cancer gene expression \ndata",
+      "type": "",
+      "publisher": "Informatica medica slovenica",
+      "date": "2008",
+      "vol": "\u0161t. 2",
+      "num": "",
+      "page": "str. 1-10"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Simon\u010di\u010d"
+        },
+        {
+          "firstname": "Ana",
+          "surname": "Jakopi\u010d"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Salobir"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Tadeja",
+          "surname": "Re\u017een"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Horvat"
+        }
+      ],
+      "title": "Beneficial obesity-resistant effect of water soluble Coenzyme \nQ10 in the polygenic mouse model of obesity",
+      "type": "",
+      "publisher": "[Book of abstracts]",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 24-29, L4"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Does replication groups scoring reduce false positive rate in \nSNP interaction discovery?",
+      "type": "",
+      "publisher": "Intelligent data analysis in biomedicine and pharmacology : \nworkshop notes : AIME 2009, Verona, Italy, July 19, 2009",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 3-8"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "On utility of gene set signatures in gene expression-based \ncancer class prediction",
+      "type": "",
+      "publisher": "Machine learning in systems biology : proceedings of the \nThird International Workshop, September 5-6, 2009, Ljubljana, \nSlovenia",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 65-73"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "The utility of gene sets for the analysis of cancer gene \nexpression data",
+      "type": "",
+      "publisher": "3rd FEBS Advanced Lecture Course on Systems Biology, \nAlpbach, Austria, EU, March 7-13, 2009 : from molecules to function : \n[course book : program and abstracts]",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 96"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Search heuristics for SNP-SNP interaction discovery",
+      "type": "",
+      "publisher": "3rd FEBS Advanced Lecture Course on Systems Biology, \nAlpbach, Austria, EU, March 7-13, 2009 : from molecules to function : \n[course book : program and abstracts]",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 177"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Simon\u010di\u010d"
+        },
+        {
+          "firstname": "Ana",
+          "surname": "Jakopi\u010d"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Salobir"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Tadeja",
+          "surname": "Re\u017een"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Horvat"
+        }
+      ],
+      "title": "Water soluble CoQ10 alters gene expression in liver and \nameliorates metabolic syndrome in polygenic mouse model of obesity",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 40"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Miha",
+          "surname": "\u0160tajdohar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "\u017dagar"
+        },
+        {
+          "firstname": "Mitar",
+          "surname": "Milutinovi\u0107"
+        },
+        {
+          "firstname": "\u010crtomir",
+          "surname": "Gorup"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Orange bioinformatics : towards integrative knowledge-based \nbiomedical data analysis",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 46"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Mateja",
+          "surname": "Hafner"
+        },
+        {
+          "firstname": "Tadeja",
+          "surname": "Re\u017een"
+        },
+        {
+          "firstname": "Juan Antonio",
+          "surname": "Contreras"
+        },
+        {
+          "firstname": "Katalin",
+          "surname": "Monostory"
+        },
+        {
+          "firstname": "Jean-Marc",
+          "surname": "Pascussi"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Juvan"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        }
+      ],
+      "title": "Microarray analysis of statin-treated human primary \nhepatocytes",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 51"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Peter",
+          "surname": "Juvan"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Tadeja",
+          "surname": "Re\u017een"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Steroltalk express : a web-based explorative microarray data \nanalysis application",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2009",
+      "vol": "",
+      "num": "",
+      "page": "str. 64"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Matja\u017e",
+          "surname": "Simon\u010di\u010d"
+        },
+        {
+          "firstname": "Ana",
+          "surname": "Jakopi\u010d"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Salobir"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        },
+        {
+          "firstname": "Tadeja",
+          "surname": "Re\u017een"
+        },
+        {
+          "firstname": "Damjana",
+          "surname": "Rozman"
+        },
+        {
+          "firstname": "Simon",
+          "surname": "Horvat"
+        }
+      ],
+      "title": "Water soluble coenzyme Q10 exhibited obesity-resistant effect \nin polygenic mouse model of obesity",
+      "type": "",
+      "publisher": "NuGOweek 2009",
+      "date": "[2009?]",
+      "vol": "",
+      "num": "",
+      "page": "str. 123"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Minca",
+          "surname": "Mramor"
+        },
+        {
+          "firstname": "Janez",
+          "surname": "Dem\u0161ar"
+        },
+        {
+          "firstname": "Lan",
+          "surname": "Umek"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Ale\u0161",
+          "surname": "Erjavec"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Leban"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Integrative and interactive data mining approaches to \nbioinformatics and systems biology",
+      "type": "",
+      "publisher": "From arrays to understanding diseases",
+      "date": "2008",
+      "vol": "",
+      "num": "",
+      "page": "str. 16"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Edward Roshan",
+          "surname": "Miranda"
+        },
+        {
+          "firstname": "Gregor",
+          "surname": "Rot"
+        },
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Balaji",
+          "surname": "Santhanam"
+        },
+        {
+          "firstname": "Toma\u017e",
+          "surname": "Curk"
+        },
+        {
+          "firstname": "Gad",
+          "surname": "Shaulsky"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Transcriptional profiling of dictyostelium with RNA \nsequencing",
+      "type": "",
+      "publisher": "Dictyostelium discoideum protocols",
+      "date": "2013",
+      "vol": "",
+      "num": "",
+      "page": "str. 139-171"
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Uporaba predznanja o povezanosti zna\u010dilk pri gradnji \nnapovednih modelov : doktorska disertacija",
+      "type": "",
+      "publisher": "",
+      "date": "2016",
+      "vol": "",
+      "num": "",
+      "page": ""
+    },
+    {
+      "authors": [
+        {
+          "firstname": "Marko",
+          "surname": "Toplak"
+        },
+        {
+          "firstname": "Bla\u017e",
+          "surname": "Zupan"
+        }
+      ],
+      "title": "Odkrivanje interakcij z naklju\u010dnimi gozdovi : diplomska \nnaloga",
+      "type": "",
+      "publisher": "",
+      "date": "2007",
+      "vol": "",
+      "num": "",
+      "page": ""
+    }
+  ]
+}
