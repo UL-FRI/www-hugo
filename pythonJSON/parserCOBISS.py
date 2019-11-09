@@ -5,6 +5,7 @@ from os import listdir
 from os.path import isfile, join
 import io
 import frontmatter
+import json
 
 
 def get_sicris_numbers(_files):
@@ -48,27 +49,46 @@ def wait_for_resource_available(_response, _time, _url):
 
 def format_bib(_bib):
     authors = _bib.find_all('Author')
-    citation = ""
-    i = 0
+    entry = {
+        "authors": [],
+        "title": '',
+        "type": '',
+        "publisher": '',
+        "date": '',
+        "vol": '',
+        "num": '',
+        "page": '',
+    }
     for author in authors:
-        if i != 0:
-            citation += ', '
-        citation += str(author.find('SurName').string).upper() + ", " + author.find('FirstName').string
-        i += 1
-    citation += '. '
+        if author.find('FirstName') is not None and author.find('SurName') is not None:
+            author = {
+                "firstname": author.find('FirstName').string,
+                "surname": author.find('SurName').string
+            }
+            entry['authors'].append(author)
     titles = _bib.find_all('Title')
-    citation += titles[0].string + '. '
+    entry['title'] = titles[0].string
     if len(titles) > 1:
-        citation += titles[1].string + ', '
-    citation += _bib.find('PubDate').string
-    print(citation)
+        entry['publisher'] = titles[1].string
+    if _bib.find('PubDate') is not None:
+        entry['date'] = _bib.find('PubDate').string
+    if _bib.find('IssueNum') is not None:
+        entry['vol'] = _bib.find('IssueNum').string
+    if _bib.find('ArtPageNums') is not None:
+        entry['page'] = _bib.find('ArtPageNums').string
+    print(entry)
+    return entry
 
 
 def export_biblio(xml):
     soup = BeautifulSoup(xml, 'xml')
     entries = soup.find_all('BiblioEntry')
+    exported_bio = {
+        "entries": []
+    }
     for bio_entry in entries:
-        format_bib(bio_entry)
+        exported_bio['entries'].append(format_bib(bio_entry))
+    return exported_bio
 
 
 '''
@@ -135,5 +155,8 @@ for person in ref:
 '''
 for person in ref:
     with io.open('./biblioXML/'+person['fname']+'.xml', 'r', encoding='utf8') as f:
-        export_biblio(f.read())
-        break
+        toWrite = export_biblio(f.read())
+        fname = './data/osebje/biblio/' + person['fname'] + '.json'
+
+        with io.open(fname, 'w+', encoding='utf8') as to:
+            json.dump(toWrite, to)
