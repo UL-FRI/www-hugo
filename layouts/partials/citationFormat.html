@@ -1,6 +1,14 @@
-<p class="rtejustify">
-    {{range .authors}}
-        {{ .surname }} {{ substr .firstname 0 1 }},
+{{ $len := len .authors }}
+<p class="ltejustify" style="font-size: 80%">
+    {{if in (printf "%T" .authors) "interface"}}
+        {{range $index, $element := (.authors)}}
+            {{ .surname }} {{ substr .firstname 0 1 }}{{ if not (eq (add $index 1) $len)}},{{else}}{{end}}
+        {{end}}
+    {{else}}
+        {{.authors}}
     {{end}}
-    ({{.date}}) {{.title}}, <em>{{.publisher}},</em> {{if not (eq .num "") }}{{.num}},{{end}} {{.page}}
+    ({{.date}}) {{.title}}, <em>{{.publisher}},</em> {{if not (eq .num "") }}{{.num}},{{end}} {{.page}}.
+    {{if or (isset . "pdf") (isset . "slides") (isset . "video")}}
+    [{{with .pdf}}<a href="{{.}}">PDF</a>{{end}}{{if isset . "slides"}}{{if (isset . "pdf")}} | {{end}}<a href="{{.slides}}">Slides</a>{{end}}{{if isset . "video"}}{{if or (isset . "slides") (isset . "pdf")}} | {{end}}<a href="{{.video}}">Video</a>{{end}}]
+    {{end}}
 </p>
