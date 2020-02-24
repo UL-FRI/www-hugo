@@ -3,7 +3,7 @@ DefaultContentLanguage = "sl"
 [languages]
   [languages.sl]
     languageName = "Slovenščina"
-    baseURL = "https://www-hugo.netlify.com/sl"
+    baseURL = "https://www-hugo.netlify.com/hugo/sl"
     contentDir = "content/sl"
     title = "Hugo FRI spletna stran"
     weight = 0
@@ -22,7 +22,7 @@ DefaultContentLanguage = "sl"
 
   [languages.en]
     languageName = "English"
-    baseURL = "https://www-hugo.netlify.com/en"
+    baseURL = "https://www-hugo.netlify.com/hugo/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
     languageCode = "en-US"
