@@ -5,7 +5,28 @@ import io
 from os import path
 from shutil import copyfile
 
-
+lab_shorts = {
+    "biolab":"bioinformatiko",
+    "lalg":"algoritmiko",
+    "laps":"arhitekturo in procesiranje signalov",
+    "laspp":"adaptivne sisteme in paralelno procesiranje",
+    "lbrso":"biomedicinske računalniške sisteme in oslikave",
+    "lem":"e-medije",
+    "lgm":"računalniško grafiko in multimedije",
+    "li":"informatiko",
+    "liis":"integracijo informacijskih sistemov",
+    "lkm":"kognitivno modeliranje",
+    "lkrv":"kriptografijo in računalniško varnost",
+    "lmmri":"matematične metode v računalništvu in informatiki",
+    "lpt":"podatkovne tehnologije",
+    "lrk":"računalniške komunikacije",
+    "lrss":"računalniške strukture in sisteme",
+    "lrv":"računalniški vid",
+    "ltpo":"tehnologijo programske opreme",
+    "lui":"umetno inteligenco",
+    "lusy":"vseprisotne sisteme",
+    "luvss":"umetne vizualne spoznavne sisteme"
+}
 def compare_names(name1, name2):
     split1 = name2.split()
     split2 = name1.split()
@@ -32,6 +53,11 @@ def compare_names(name1, name2):
         return True
     else:
         return False
+
+def get_lab_url(title):
+    for key in lab_shorts:
+        if lab_shorts[key].lower() in title.lower():
+            return key
 
 
 def json_to_md(persons, staff_desc, indexes, names):
@@ -98,6 +124,8 @@ def json_to_md(persons, staff_desc, indexes, names):
                         post_md_en['lab'] = lab['title']['en']
                         post_md_sl['labPos'] = lab['function_in_lab']['sl']
                         post_md_en['labPos'] = lab['function_in_lab']['en']
+                        post_md_sl['labURL'] = get_lab_url(lab['title']['sl'])
+                        post_md_en['labURL'] = get_lab_url(lab['title']['sl'])
 
                 if 'subjects' in person_json:
                     course_codes = []
