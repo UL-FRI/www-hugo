@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jure_leskovec
-location: null
+imgURL: ''
+location: ''
 mailInfo: jure@cs.stanford.edu
 officeHours: null
 profName: doc. dr. Jure Leskovec
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Jure Leskovec
+telephoneInfo: ''
+title: ''
 ---

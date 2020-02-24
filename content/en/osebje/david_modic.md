@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: david_modic
+imgURL: ''
 lab: Computer Communications Laboratory
 labPos: Laboratory Member
-location: null
+labURL: lrk
+location: ''
 mailInfo: david.modic@fri.uni-lj.si
 officeHours: null
 profName: David Modic, PhD
 profTitle: Researcher
-telephoneInfo: null
-title: David Modic
+telephoneInfo: ''
+title: ''
 ---

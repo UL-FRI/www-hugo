@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: matej_dobrevski
+imgURL: ''
 lab: Visual Cognitive Systems Laboratory
 labPos: Laboratory Member
-location: null
+labURL: luvss
+location: ''
 mailInfo: matej.dobrevski@fri.uni-lj.si
 officeHours: null
 profName: Matej Dobrevski
 profTitle: Collaborator
-telephoneInfo: null
-title: Matej Dobrevski
+telephoneInfo: ''
+title: ''
 ---

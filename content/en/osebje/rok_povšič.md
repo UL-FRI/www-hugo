@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: rok_povšič
-location: null
+imgURL: ''
+location: ''
 mailInfo: rok.povsic@fri.uni-lj.si
 officeHours: null
 profName: Rok Povšič
 profTitle: Collaborator
-telephoneInfo: null
-title: Rok Povšič
+telephoneInfo: ''
+title: ''
 ---

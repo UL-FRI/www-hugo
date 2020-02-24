@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jure_lokovšek
+imgURL: ''
 lab: Laboratory for Data Technologies
 labPos: Laboratory Member
-location: null
+labURL: lpt
+location: ''
 mailInfo: jure.lokovsek@fri.uni-lj.si
 officeHours: null
 profName: Jure Lokovšek
 profTitle: Collaborator
-telephoneInfo: null
-title: Jure Lokovšek
+telephoneInfo: ''
+title: ''
 ---

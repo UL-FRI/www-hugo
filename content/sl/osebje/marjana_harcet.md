@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: marjana_harcet
-location: null
+imgURL: ''
+location: ''
 mailInfo: marjana.harcet@fri.uni-lj.si
 officeHours: null
 profName: dr. Marjana Harcet
 profTitle: Dekanat
-telephoneInfo: null
-title: Marjana Harcet
+telephoneInfo: ''
+title: ''
 ---

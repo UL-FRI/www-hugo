@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: mojca_vilfan
-location: null
+imgURL: ''
+location: ''
 mailInfo: mojca.vilfan@ijs.si
 officeHours: null
 profName: Mojca  Vilfan
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Mojca Vilfan
+telephoneInfo: ''
+title: ''
 ---

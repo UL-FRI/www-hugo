@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: matjaž_ličen
-location: null
-mailInfo: null
+imgURL: ''
+location: ''
+mailInfo: ''
 officeHours: null
 profName: Matjaž Ličen
 profTitle: Collaborator
-telephoneInfo: null
-title: Matjaž Ličen
+telephoneInfo: ''
+title: ''
 ---

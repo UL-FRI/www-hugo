@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jure_tuta
+imgURL: ''
 lab: Laboratorij za integracijo informacijskih sistemov
 labPos: Član laboratorija
-location: null
+labURL: liis
+location: ''
 mailInfo: jure.tuta@fri.uni-lj.si
 officeHours: null
 profName: asist. Jure Tuta
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Jure Tuta
+telephoneInfo: ''
+title: ''
 ---

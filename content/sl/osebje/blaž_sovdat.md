@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: blaž_sovdat
+imgURL: ''
 lab: Laboratorij za algoritmiko
 labPos: Član laboratorija
-location: null
+labURL: lalg
+location: ''
 mailInfo: blaz.sovdat@fri.uni-lj.si
 officeHours: null
 profName: asist. Blaž Sovdat
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Blaž Sovdat
+telephoneInfo: ''
+title: ''
 ---

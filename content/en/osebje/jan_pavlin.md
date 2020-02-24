@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jan_pavlin
+imgURL: ''
 lab: Laboratory for Cognitive Modeling
 labPos: Laboratory Member
-location: null
+labURL: lkm
+location: ''
 mailInfo: jan.pavlin@fri.uni-lj.si
 officeHours: null
 profName: Jan Pavlin
 profTitle: Laboratory Technician
-telephoneInfo: null
-title: Jan Pavlin
+telephoneInfo: ''
+title: ''
 ---

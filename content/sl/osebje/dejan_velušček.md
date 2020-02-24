@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: dejan_velušček
-location: null
-mailInfo: null
+imgURL: ''
+location: ''
+mailInfo: ''
 officeHours: null
 profName: doc. Dejan Velušček
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Dejan Velušček
+telephoneInfo: ''
+title: ''
 ---

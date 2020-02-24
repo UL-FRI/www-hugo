@@ -1,17 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '35522'
 draft: false
 fixName: miha_nagelj
+imgURL: ''
 lab: Laboratory for Integration of Information Systems
 labPos: Laboratory Member
+labURL: liis
 location: R2.20 - Laboratorij LIIS
 mailInfo: miha.nagelj@fri.uni-lj.si
 officeHours: null
-profName: Assist. Miha Nagelj
+profName: Assist. Miha Nagelj, PhD
 profTitle: Researcher
-telephoneInfo: null
-title: Miha Nagelj
+telephoneInfo: ''
+title: ''
 ---
-
-
-Miha Nagelj is a research assistant at University of Ljubljana, Faculty of Computer and Information Science. He is also a PhD student in Computer and Information Science in the Laboratory for Integration of Information Systems under the supervision of prof. Matjaž B. Jurič.

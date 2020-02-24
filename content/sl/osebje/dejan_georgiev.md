@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: dejan_georgiev
+imgURL: ''
 lab: Laboratorij za umetno inteligenco
 labPos: Član laboratorija
-location: null
+labURL: lui
+location: ''
 mailInfo: dejan.georgiev@fri.uni-lj.si
 officeHours: null
 profName: dr. Dejan Georgiev
 profTitle: Raziskovalec
-telephoneInfo: null
-title: Dejan Georgiev
+telephoneInfo: ''
+title: ''
 ---

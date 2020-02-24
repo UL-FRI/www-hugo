@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jan_ravnik
-location: null
+imgURL: ''
+location: ''
 mailInfo: jan.ravnik@fmf.uni-lj.si
 officeHours: null
 profName: Jan Ravnik
 profTitle: Collaborator
-telephoneInfo: null
-title: Jan Ravnik
+telephoneInfo: ''
+title: ''
 ---

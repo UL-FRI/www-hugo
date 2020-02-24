@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: matej_ulčar
+imgURL: ''
 lab: Laboratory for Cognitive Modeling
 labPos: Laboratory Member
-location: null
+labURL: lkm
+location: ''
 mailInfo: matej.ulcar@fri.uni-lj.si
 officeHours: null
 profName: Matej Ulčar
 profTitle: Researcher
-telephoneInfo: null
-title: Matej Ulčar
+telephoneInfo: ''
+title: ''
 ---

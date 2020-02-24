@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: katarina_bebar
+imgURL: ''
 lab: Laboratorij za vseprisotne sisteme
 labPos: Član laboratorija
-location: null
+labURL: lusy
+location: ''
 mailInfo: katarina.bebar@fri.uni-lj.si
 officeHours: null
 profName: Katarina Bebar
 profTitle: Raziskovalec
-telephoneInfo: null
-title: Katarina Bebar
+telephoneInfo: ''
+title: ''
 ---

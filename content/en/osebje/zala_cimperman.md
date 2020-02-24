@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: zala_cimperman
-location: null
+imgURL: ''
+location: ''
 mailInfo: zala.cimperman@fri.uni-lj.si
 officeHours: null
 profName: Zala Cimperman
 profTitle: Dean's office
-telephoneInfo: null
-title: Zala Cimperman
+telephoneInfo: ''
+title: ''
 ---

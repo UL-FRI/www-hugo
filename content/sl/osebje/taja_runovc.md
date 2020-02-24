@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: taja_runovc
-location: null
+imgURL: ''
+location: ''
 mailInfo: taja.runovc@fri.uni-lj.si
 officeHours: null
 profName: Taja Runovc
 profTitle: Študentski referat
-telephoneInfo: null
-title: Taja Runovc
+telephoneInfo: ''
+title: ''
 ---

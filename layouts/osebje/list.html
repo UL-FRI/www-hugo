@@ -3,7 +3,7 @@
 <ul>
 	{{ range .Pages }}
 	<li>
-		<a href="{{.Permalink}}">{{.Params.profName}}</a>
+		<a href="{{.Permalink | relURL}}">{{.Params.profName}}</a>
 	</li>
 	{{ end }}
 </ul>

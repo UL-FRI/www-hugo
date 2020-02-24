@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '39226'
 draft: false
 fixName: gregor_pirš
+imgURL: ''
 lab: Laboratory for Cognitive Modeling
 labPos: Laboratory Member
+labURL: lkm
 location: R2.26 - Laboratorij LKM
 mailInfo: gregor.pirs@fri.uni-lj.si
 officeHours: null
-profName: Gregor Pirš
+profName: Assist. Gregor Pirš
 profTitle: Young Researcher
-telephoneInfo: null
-title: Gregor Pirš
+telephoneInfo: ''
+title: ''
 ---

@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: tadej_škvorc
+imgURL: ''
 lab: Laboratorij za kognitivno modeliranje
 labPos: Član laboratorija
-location: null
+labURL: lkm
+location: ''
 mailInfo: tadej.skvorc@fri.uni-lj.si
 officeHours: null
 profName: Tadej Škvorc
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Tadej Škvorc
+telephoneInfo: ''
+title: ''
 ---

@@ -15,13 +15,13 @@
                     <div class="content">
                         <div id="banner-header" class="container">
                             <div class="breadcrumbs">
-                                <a href="/">{{ i18n "home" }}</a>
+                                <a href="{{ "/" | relURL }}">{{ i18n "home" }}</a>
 
                                 <span>></span>
-                                <a href="/{{ .Language.Lang }}/poslanstvo-vizija"> {{ i18n "about" }}</a>
+                                <a href="{{ "/poslanstvo-vizija" | relURL}}"> {{ i18n "about" }}</a>
 
                                 <span>></span>
-                                <a href="/{{ .Language.Lang }}/o-fakulteti/osebje"> {{ i18n "employees" }}</a>
+                                <a href="{{ "/o-fakulteti/osebje" | relURL}}"> {{ i18n "employees" }}</a>
 
                                 <span>></span>
 
@@ -97,7 +97,7 @@
                                     <div class="aboutMainSectionLi">
                                         <ul class="customList">
                                             <li>
-                                                <a href='/sl/laboratorij/lkm' target='_blank'><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
+                                                <a href="{{ with .Params.labURL }}{{ (printf "/laboratorij/%s" .) | relURL}}{{end}}"><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
                                             </li>
                                         </ul>
                                     </div>

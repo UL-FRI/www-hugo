@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: janez_bindas
+imgURL: ''
 lab: Laboratorij za podatkovne tehnologije
 labPos: Član laboratorija
-location: null
+labURL: lpt
+location: ''
 mailInfo: janez.bindas@fri.uni-lj.si
 officeHours: null
 profName: asist.-raz. Janez Bindas
 profTitle: Tehniški sodelavec
-telephoneInfo: null
-title: Janez Bindas
+telephoneInfo: ''
+title: ''
 ---

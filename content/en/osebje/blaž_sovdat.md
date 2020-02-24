@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: blaž_sovdat
+imgURL: ''
 lab: null
 labPos: Laboratory Member
-location: null
+labURL: lalg
+location: ''
 mailInfo: blaz.sovdat@fri.uni-lj.si
 officeHours: null
 profName: Assist. Blaž Sovdat
 profTitle: Collaborator
-telephoneInfo: null
-title: Blaž Sovdat
+telephoneInfo: ''
+title: ''
 ---

@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: ivan_majhen
+imgURL: ''
 lab: Laboratorij za računalniške komunikacije
 labPos: Član laboratorija
-location: null
+labURL: lrk
+location: ''
 mailInfo: ivan.majhen@fri.uni-lj.si
 officeHours: null
 profName: Ivan Majhen
 profTitle: Tehniški sodelavec
-telephoneInfo: null
-title: Ivan Majhen
+telephoneInfo: ''
+title: ''
 ---

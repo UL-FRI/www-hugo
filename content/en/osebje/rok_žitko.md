@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: rok_žitko
-location: null
+imgURL: ''
+location: ''
 mailInfo: rok.zitko@ijs.si
 officeHours: null
 profName: Assist. Prof. Rok Žitko, PhD
 profTitle: Collaborator
-telephoneInfo: null
-title: Rok Žitko
+telephoneInfo: ''
+title: ''
 ---

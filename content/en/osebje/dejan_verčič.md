@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: dejan_verčič
-location: null
+imgURL: ''
+location: ''
 mailInfo: dejan.vercic@fdv.uni-lj.si
 officeHours: null
 profName: Prof. Dejan Verčič, PhD
 profTitle: Collaborator
-telephoneInfo: null
-title: Dejan Verčič
+telephoneInfo: ''
+title: ''
 ---

@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jernej_cvek
+imgURL: ''
 lab: Laboratorij za podatkovne tehnologije
 labPos: Član laboratorija
-location: null
+labURL: lpt
+location: ''
 mailInfo: jernej.cvek@fri.uni-lj.si
 officeHours: null
 profName: Jernej Cvek
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Jernej Cvek
+telephoneInfo: ''
+title: ''
 ---

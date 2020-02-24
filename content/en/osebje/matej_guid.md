@@ -1,18 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '28365'
 draft: false
 fixName: matej_guid
+imgURL: ''
 lab: null
 labPos: Laboratory Member
+labURL: lalg
 location: R3.69 - Kabinet
 mailInfo: matej.guid@fri.uni-lj.si
 officeHours: null
 profName: Assist. Prof. Matej Guid, PhD
 profTitle: Assistant
-telephoneInfo: null
-title: Matej Guid
+telephoneInfo: ''
+title: ''
 ---
-
-
-
-Matej Guid works as a researcher at the Laboratory of Algorithmics. His research interest include heuristic search, intelligent tutoring systems, computer game-playing, and argument-based machine learning.

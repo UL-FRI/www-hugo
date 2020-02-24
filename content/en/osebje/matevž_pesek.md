@@ -1,23 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '35071'
 draft: false
 fixName: matevž_pesek
+imgURL: ''
 lab: 'Laboratory of Computer Graphics and Multimedia '
 labPos: Laboratory Member
+labURL: lgm
 location: R2.29 - Laboratorij LGM
 mailInfo: matevz.pesek@fri.uni-lj.si
 officeHours: null
 profName: Assist. Matevž Pesek, PhD
 profTitle: Assistant
-telephoneInfo: null
-title: Matevž Pesek
+telephoneInfo: ''
+title: ''
 ---
-
-
-Teaching assistant for the following courses:
-
-E-learning (masters)
-Multimedia technologies
-
-http://www.musiclab.si
-http://www.naspletu.org

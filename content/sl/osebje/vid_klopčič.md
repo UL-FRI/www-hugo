@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: vid_klopčič
+imgURL: ''
 lab: Laboratorij za računalniško grafiko in multimedije
 labPos: Član laboratorija
-location: null
+labURL: lgm
+location: ''
 mailInfo: vid.klopcic@fri.uni-lj.si
 officeHours: null
 profName: Vid Klopčič
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Vid Klopčič
+telephoneInfo: ''
+title: ''
 ---

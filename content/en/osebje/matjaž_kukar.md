@@ -1,17 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '14565'
 draft: false
 fixName: matjaž_kukar
+imgURL: ''
 lab: Laboratory for Cognitive Modeling
 labPos: Laboratory Member
+labURL: lkm
 location: R2.04 - Kabinet
 mailInfo: matjaz.kukar@fri.uni-lj.si
 officeHours: null
 profName: Assoc. Prof. Matjaž Kukar, PhD
 profTitle: Associate Professor
-telephoneInfo: null
-title: Matjaž Kukar
+telephoneInfo: ''
+title: ''
 ---
-
-
-I am assistant professor at Faculty of computer and information science, in the  Cognitive modelling laboratory.

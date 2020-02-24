@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: darja_peljhan
-location: null
+imgURL: ''
+location: ''
 mailInfo: darja.peljhan@ef.uni-lj.si
 officeHours: null
 profName: Darja Peljhan
 profTitle: Collaborator
-telephoneInfo: null
-title: Darja Peljhan
+telephoneInfo: ''
+title: ''
 ---

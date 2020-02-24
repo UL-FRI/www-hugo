@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: žiga_lesar
+imgURL: ''
 lab: Laboratorij za računalniško grafiko in multimedije
 labPos: Član laboratorija
-location: null
+labURL: lgm
+location: ''
 mailInfo: ziga.lesar@fri.uni-lj.si
 officeHours: null
 profName: asist. Žiga Lesar
 profTitle: Asistent
-telephoneInfo: null
-title: Žiga Lesar
+telephoneInfo: ''
+title: ''
 ---

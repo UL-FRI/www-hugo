@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: amra_omanović
+imgURL: ''
 lab: Laboratorij za bioinformatiko
 labPos: Član laboratorija
-location: null
+labURL: biolab
+location: ''
 mailInfo: amra.omanovic@fri.uni-lj.si
 officeHours: null
 profName: Amra Omanović
 profTitle: Mladi raziskovalec
-telephoneInfo: null
-title: Amra Omanović
+telephoneInfo: ''
+title: ''
 ---

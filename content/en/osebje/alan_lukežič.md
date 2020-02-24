@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '39227'
 draft: false
 fixName: alan_lukežič
+imgURL: ''
 lab: Visual Cognitive Systems Laboratory
 labPos: Laboratory Member
+labURL: luvss
 location: R2.37 - Laboratorij LUVSS
 mailInfo: alan.lukezic@fri.uni-lj.si
 officeHours: null
-profName: Alan Lukežič
+profName: Assist. Alan Lukežič
 profTitle: Young Researcher
-telephoneInfo: null
-title: Alan Lukežič
+telephoneInfo: ''
+title: ''
 ---

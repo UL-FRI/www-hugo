@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: barbara_torkar
-location: null
+imgURL: ''
+location: ''
 mailInfo: barbara.torkar@fri.uni-lj.si
 officeHours: null
 profName: Barbara Torkar
 profTitle: Library
-telephoneInfo: null
-title: Barbara Torkar
+telephoneInfo: ''
+title: ''
 ---

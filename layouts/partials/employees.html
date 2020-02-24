@@ -1,9 +1,11 @@
 {{- $file := printf "%s" (lower .Params.abbreviation) -}}
+
 <div class="list-katedra">
 	<ul>
 		{{ range (index $.Site.Data.laboratorij.members $file)}}
+		{{- $url := printf "/osebje/%s_%s" (lower .name) (lower .surname)}}
 
-		<li><a href="/{{ $.Site.Language.Lang }}/osebje/{{ lower .name }}_{{ lower .surname}}">
+		<li><a href={{ $url | relURL}}>
 			{{ .name }} {{ .surname }}
 			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ i18n "labHead" }} {{ end }}
 		</a></li>

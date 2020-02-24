@@ -1,17 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: '35424'
 draft: false
 fixName: tomaž_hočevar
+imgURL: ''
 lab: Bioinformatics Laboratory
 labPos: Laboratory Member
+labURL: biolab
 location: R3.20 - Laboratorij LB
 mailInfo: tomaz.hocevar@fri.uni-lj.si
 officeHours: null
-profName: Assist. Tomaž Hočevar
+profName: Assist. Prof. Tomaž Hočevar, PhD
 profTitle: Assistant
-telephoneInfo: null
-title: Tomaž Hočevar
+telephoneInfo: ''
+title: ''
 ---
-
-
-PhD student in Computer Science in the Bioinformatics Laboratory under the supervision of Assoc. Prof. Janez Demšar. My area of research includes analysis of networks and their local structure.

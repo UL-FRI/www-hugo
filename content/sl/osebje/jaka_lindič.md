@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: jaka_lindič
-location: null
+imgURL: ''
+location: ''
 mailInfo: jaka.lindic@ef.uni-lj.si
 officeHours: null
 profName: doc. dr. Jaka Lindič
 profTitle: Zunanji sodelavec
-telephoneInfo: null
-title: Jaka Lindič
+telephoneInfo: ''
+title: ''
 ---

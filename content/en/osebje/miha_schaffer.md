@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: miha_schaffer
-location: null
+imgURL: ''
+location: ''
 mailInfo: miha.schaffer@fri.uni-lj.si
 officeHours: null
 profName: Miha Schaffer
 profTitle: IT Support Services
-telephoneInfo: null
-title: Miha Schaffer
+telephoneInfo: ''
+title: ''
 ---

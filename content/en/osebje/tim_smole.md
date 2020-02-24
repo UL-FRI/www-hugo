@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: tim_smole
+imgURL: ''
 lab: Laboratory for Cognitive Modeling
 labPos: Laboratory Member
-location: null
+labURL: lkm
+location: ''
 mailInfo: tim.smole@fri.uni-lj.si
 officeHours: null
 profName: Tim Smole
 profTitle: Laboratory Technician
-telephoneInfo: null
-title: Tim Smole
+telephoneInfo: ''
+title: ''
 ---

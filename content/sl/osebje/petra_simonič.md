@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: petra_simonič
-location: null
+imgURL: ''
+location: ''
 mailInfo: petra.simonic@fri.uni-lj.si
 officeHours: null
 profName: Petra Simonič
 profTitle: Knjižnica
-telephoneInfo: null
-title: Petra Simonič
+telephoneInfo: ''
+title: ''
 ---

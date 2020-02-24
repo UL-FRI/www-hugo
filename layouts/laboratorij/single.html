@@ -31,7 +31,7 @@
 
                                 <div class="info-lab">
                                     <span style="color: #999999">{{ i18n "_link" 0 }}:</span>
-                                    <span style="padding-left: 12px"><a href="{{ .Params.url }}">{{ .Params.acronym }}</a></span>
+                                    <span style="padding-left: 12px"><a href="{{ .Params.url | relURL }}">{{ .Params.acronym }}</a></span>
                                 </div>
 
                             </div>

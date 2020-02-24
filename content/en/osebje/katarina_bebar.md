@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: katarina_bebar
+imgURL: ''
 lab: Laboratory for Ubiquitous systems
 labPos: Laboratory Member
-location: null
+labURL: lusy
+location: ''
 mailInfo: katarina.bebar@fri.uni-lj.si
 officeHours: null
 profName: Katarina Bebar
 profTitle: Researcher
-telephoneInfo: null
-title: Katarina Bebar
+telephoneInfo: ''
+title: ''
 ---

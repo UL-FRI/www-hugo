@@ -1,14 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: žiga_pušnik
+imgURL: ''
 lab: Computer Structures and Systems Laboratory
 labPos: Laboratory Member
-location: null
+labURL: lrss
+location: ''
 mailInfo: ziga.pusnik@fri.uni-lj.si
 officeHours: null
 profName: Assist. Žiga Pušnik
 profTitle: Assistant
-telephoneInfo: null
-title: Žiga Pušnik
+telephoneInfo: ''
+title: ''
 ---

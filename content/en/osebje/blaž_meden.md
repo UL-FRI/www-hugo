@@ -1,16 +1,16 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: blaž_meden
+imgURL: ''
 lab: Computer Vision Laboratory
 labPos: Laboratory Member
-location: null
+labURL: lrv
+location: ''
 mailInfo: blaz.meden@fri.uni-lj.si
 officeHours: null
 profName: Blaž Meden
 profTitle: Collaborator
-telephoneInfo: null
-title: Blaž Meden
+telephoneInfo: ''
+title: ''
 ---
-
-None

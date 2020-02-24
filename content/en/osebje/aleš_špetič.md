@@ -1,12 +1,13 @@
 ---
-SICRIS: 15295
+SICRIS: ''
 draft: false
 fixName: aleš_špetič
-location: null
+imgURL: ''
+location: ''
 mailInfo: ales@spetic.si
 officeHours: null
 profName: Lect. Aleš Špetič
 profTitle: Collaborator
-telephoneInfo: null
-title: Aleš Špetič
+telephoneInfo: ''
+title: ''
 ---
