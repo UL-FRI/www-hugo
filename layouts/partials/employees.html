@@ -3,7 +3,7 @@
 <div class="list-katedra">
 	<ul>
 		{{ range (index $.Site.Data.laboratorij.members $file)}}
-		{{- $url := printf "/osebje/%s_%s" (lower .name) (lower .surname)}}
+		{{- $url := replace (printf "/osebje/%s_%s" (lower .name) (lower .surname)) " " "_" }}
 
 		<li><a href={{ $url | relURL}}>
 			{{ .name }} {{ .surname }}
