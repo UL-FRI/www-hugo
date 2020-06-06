@@ -1,5 +1,12 @@
 ﻿# www-hugo
-The source code for Hugo version of certain websites at fri.uni-lj.si.
+The source code for Hugo version of selected website at fri.uni-lj.si that includes personal and lab pages.
+
+## important folders
+Pages in Slovene language:
+
+[content/sl/osebje](https://github.com/UL-FRI/www-hugo/tree/master/content/sl/osebje) - headers for personal pages
+
+## Previews
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e748765-0673-4633-a764-8a2ed70340f1/deploy-status)](https://app.netlify.com/sites/www-hugo/deploys)
 
