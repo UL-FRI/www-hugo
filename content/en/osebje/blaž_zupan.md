@@ -9,8 +9,9 @@ labURL: biolab
 location: R3.17 - Kabinet
 mailInfo: blaz.zupan@fri.uni-lj.si
 officeHours: null
-profName: Prof. Blaž Zupan, PhD
-profTitle: Full Professor
+profName: Blaž Zupan, PhD
+profTitle: Professor
 telephoneInfo: ''
 title: ''
 ---
+Some text here
