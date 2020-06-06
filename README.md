@@ -1,10 +1,11 @@
 ﻿# www-hugo
 The source code for Hugo version of selected website at fri.uni-lj.si that includes personal and lab pages.
 
-## important folders
+## Important folders
 Pages in Slovene language:
 
-[content/sl/osebje](https://github.com/UL-FRI/www-hugo/tree/master/content/sl/osebje) - headers for personal pages
+* [content/sl/osebje](https://github.com/UL-FRI/www-hugo/tree/master/content/sl/osebje) - headers for personal pages
+* [data/osebje/project](https://github.com/UL-FRI/www-hugo/tree/master/content/sl/data/osebje/projects) - list of projects, updated automatically, IDs of projects displayed on the personal page are listed in [personal page headers](https://github.com/UL-FRI/www-hugo/tree/master/content/sl/osebje)
 
 ## Previews
 
