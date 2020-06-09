@@ -1,13 +1,17 @@
 ---
-title: ""
+SICRIS: ''
 draft: false
-SICRIS: ""
-imgURL: ""
-profName: ""
-profTitle: ""
-telephoneInfo: ""
-mailInfo: ""
-officeHours: ""
-location: ""
-fixName: ""
+fileName: ''
+lab: ''
+labPos: ''
+labURL: ''
+location: ''
+mailInfo: ''
+officeHours: ''
+profName: ''
+profTitle: ''
+telephoneInfo: ''
+projects: []
+courses: []
+slug: ''
 ---

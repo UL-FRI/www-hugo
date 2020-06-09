@@ -1,9 +1,11 @@
 import json
 import frontmatter
 import re
+from PIL import Image
 import io
 from os import path
 from shutil import copyfile
+import base64
 
 lab_shorts = {
     "biolab":"bioinformatiko",
@@ -41,7 +43,7 @@ def compare_names(name1, name2):
             fixed_name2 += ' ' + a
 
     if fixed_name1.replace(" ","").lower() == fixed_name2.replace(" ", "").lower():
-        fname = re.sub(r'\s+', '_', fixed_name1.lstrip(' ').lower())
+        fname = get_file_name(fixed_name1)
         fname_sl = './content/sl/osebje/' + fname + '.md'
         fname_en = './content/en/osebje/' + fname + '.md'
 
@@ -59,6 +61,39 @@ def get_lab_url(title):
         if lab_shorts[key].lower() in title.lower():
             return key
 
+def get_file_name(string):
+    string = string.lstrip(' ').lower()
+    split = string.split(' ')
+    if len(split) == 2:
+        filename = str(split[1]) + "_" + str(split[0])
+    else:
+        filename = str(split[2]) + "_" + str(split[1]) + "_" + str(split[0])
+
+    c1 = 'č'.encode()
+    c2 = 'ć'.encode()
+    z = 'ž'.encode()
+    s = 'š'.encode()
+    dz = 'đ'.encode()
+
+    string = filename.encode()
+    string = string.replace(c1, b'c')
+    string = string.replace(c2, b'c')
+    string = string.replace(z, b'z')
+    string = string.replace(s, b's')
+    string = string.replace(dz, b'dz')
+    string = string.decode('utf-8')
+
+    return string
+
+
+def save_image(filename, imgsrc):
+    imgsrc = str(imgsrc)
+    imgname = './photos/' + filename + '.jpeg'
+    imgsrc = imgsrc.replace("data:image/png;base64,", "")
+
+    im = Image.open(io.BytesIO(base64.b64decode(imgsrc)))
+    im.save(imgname, 'JPEG')
+
 
 def json_to_md(persons, staff_desc, indexes, names):
 
@@ -68,7 +103,7 @@ def json_to_md(persons, staff_desc, indexes, names):
 
         # persons[a] is same person as c
         if m != -1:
-            fix_name = re.sub(r'\s+', '_', b.lstrip(' ').lower())
+            fix_name = get_file_name(b)
             fname_sl = './content/sl/osebje/' + fix_name + '.md'
             fname_en = './content/en/osebje/' + fix_name + '.md'
 
@@ -76,12 +111,14 @@ def json_to_md(persons, staff_desc, indexes, names):
                 person_json = persons[m]
                 desc_json = staff_desc[desc_ind]
 
+
                 # Open file's frontmatter
                 post_md_sl = frontmatter.load(f, encoding='utf8')
                 post_md_en = frontmatter.load(f_en, encoding='utf8')
 
-                if post_md_sl.get('fixName') is '':
-                    post_md_sl['fixName'] = fix_name
+
+                if post_md_sl.get('fileName') is '':
+                    post_md_sl['fileName'] = fix_name
                 if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
                 if post_md_sl.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
@@ -99,8 +136,8 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if post_md_sl.get('body') is '' and desc_json['descSl'] is not None:
                     post_md_sl.content = desc_json['descSl']
 
-                if post_md_en.get('fixName') is '':
-                    post_md_en['fixName'] = fix_name
+                if post_md_en.get('fileName') is '':
+                    post_md_en['fileName'] = fix_name
                 if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_en['profName'] = person_json['fullname_and_title']['en']
                 if post_md_en.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
@@ -132,14 +169,20 @@ def json_to_md(persons, staff_desc, indexes, names):
                     for subject in person_json['subjects']:
                         if 'course_code' in subject:
                             course_codes.append(subject['course_code'])
-                    sname = './data/osebje/subjects_and_img/' + fix_name + '_sub_img.json'
 
-                    with io.open(sname, 'w+', encoding='utf8') as to:
-                        from_insert = {
-                            "subjects": course_codes,
-                            "img": person_json['picture']
-                        }
-                        json.dump(from_insert, to)
+                    post_md_en['courses'] = course_codes
+                    post_md_sl['courses'] = course_codes
+
+                if person_json['picture'] is not None:
+                    save_image(fix_name, person_json['picture'])
+
+                print(person_json)
+                print(desc_json)
+                if 'linkSl' in desc_json:
+                    link = str(desc_json['linkSl'])
+                    link = link.split('/')[-1]
+                    post_md_en['slug'] = link
+                    post_md_sl['slug'] = link
 
             # Save the file
             new = io.open(fname_sl, 'wb')
@@ -158,6 +201,8 @@ with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons,
 
     arrPersons = []
     arrDesc = []
+    # dva priimka Špela Arhar Holdt
+    # dve imeni
     reference = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
                  "Aljoša Besednjak ", "Jasna Bevk ", "Janez Bindas ", "Neli Blagus ", "Marko Boben ", "Ciril Bohak ",
                  "Alenka Bone ", "Zoran Bosnić ", "Narvika Bovcon ", "Borja Bovcon ", "Ivan Bratko ", "Andrej Brodnik ",
@@ -205,6 +250,7 @@ with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons,
         arrPersons.append(p['fullname_and_title']['sl'])
         i += 1
     k = 0
+
     for p in desc:
         split = str(p['name']).split()
         name = ""
@@ -215,6 +261,7 @@ with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons,
         k += 1
 
     print(str(len(arrPersons)) + ' ' + str(len(arrDesc)))
+    neObstaja = 0
     for a in arrDesc:
         index = 0
         exist = 0
@@ -226,6 +273,7 @@ with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons,
             index += 1
 
         if exist == 0:
+            neObstaja += 1
             fixed_indexes.append(-1)
 
     json_to_md(data['persons'], desc, fixed_indexes, arrDesc)
