@@ -8,13 +8,15 @@ from shutil import copyfile
 def json_to_md(loaded_json):
 
     for p in loaded_json:
+        print(p)
         fname = './content/sl/laboratorij/' + p['abbreviation'].lower() + '.md'
         fname_en = './content/en/laboratorij/' + p['abbreviation'].lower() + '.md'
 
         if not path.isfile(fname):
-            copyfile('./sampleJSON/template_lab.md', fname)
+            copyfile('./structJSON/template_lab.md', fname)
         if not path.isfile(fname_en):
-            copyfile('./sampleJSON/template_lab.md', fname_en)
+            copyfile('./structJSON/template_lab.md', fname_en)
+
 
         with io.open(fname, 'r', encoding='utf8') as md, io.open(fname_en, 'r', encoding='utf8') as md_en:
 
@@ -26,10 +28,12 @@ def json_to_md(loaded_json):
                 post_md['abbreviation'] = p['abbreviation']
             if post_md.get('title') is '' and p['title'] is not None:
                 post_md['title'] = p['title']['sl']
-            if post_md.get('location') is '' and p['location'] is not None:
-                post_md['location'] = p['location']
+            if post_md.get('location') is '' and 'location' in p:
+                if p['location'] != "Some Random Location":
+                    post_md['location'] = p['location']
             if post_md.get('body') is '' and p['description'] is not None:
-                post_md.content = p['description']['sl']
+                if p['description']['sl'] != "Nek random opis":
+                    post_md.content = p['description']['sl']
             if post_md.get('id') is '' and 'id' in p:
                 post_md['id'] = p['id']
 
@@ -37,10 +41,12 @@ def json_to_md(loaded_json):
                 post_md_en['abbreviation'] = p['abbreviation']
             if post_md_en.get('title') is '' and p['title'] is not None:
                 post_md_en['title'] = p['title']['en']
-            if post_md_en.get('location') is '' and p['location'] is not None:
-                post_md_en['location'] = p['location']
+            if post_md_en.get('location') is '' and 'location' in p:
+                if p['location'] != "Some Random Location":
+                    post_md_en['location'] = p['location']
             if post_md_en.get('body') is '' and p['description'] is not None:
-                post_md_en.content = p['description']['en']
+                if p['description']['en'] != "Some Random Description":
+                    post_md_en.content = p['description']['en']
             if post_md_en.get('id') is '' and 'id' in p:
                 post_md_en['id'] = p['id']
 

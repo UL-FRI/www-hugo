@@ -1,8 +1,11 @@
 ---
-abbreviation: ""
-title: ""
-location: "" 
+abbreviation: ''
+title: ''
+location: ''
 draft: false
-bannerText: ""
-bannerImg: ""
+bannerText: ''
+bannerImg: ''
+externalLink: ''
+id: ''
+summary: ''
 ---

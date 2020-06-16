@@ -119,6 +119,8 @@ def json_to_md(persons, staff_desc, indexes, names):
 
                 if post_md_sl.get('fileName') is '':
                     post_md_sl['fileName'] = fix_name
+                if post_md_sl.get('pageTitle'):
+                    post_md_sl['pageTitle'] = b.lstrip(' ')
                 if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
                 if post_md_sl.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
@@ -129,7 +131,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                     post_md_sl['telephoneInfo'] = person_json['phone']
                 if post_md_sl.get('mailInfo') is '' and person_json['email'] is not None:
                     post_md_sl['mailInfo'] = person_json['email']
-                if post_md_sl.get('officeHours') is '' and person_json['office_hours'] is not None:
+                if post_md_sl.get('officeHours') is '' and person_json['office_hours']['sl'] is not None:
                     post_md_sl['officeHours'] = person_json['office_hours']['sl']
                 if post_md_sl.get('location') is '' and person_json['location'] is not None:
                     post_md_sl['location'] = person_json['location']
@@ -138,6 +140,8 @@ def json_to_md(persons, staff_desc, indexes, names):
 
                 if post_md_en.get('fileName') is '':
                     post_md_en['fileName'] = fix_name
+                if post_md_en.get('pageTitle'):
+                    post_md_en['pageTitle'] = b.lstrip(' ')
                 if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_en['profName'] = person_json['fullname_and_title']['en']
                 if post_md_en.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
@@ -148,7 +152,7 @@ def json_to_md(persons, staff_desc, indexes, names):
                     post_md_en['telephoneInfo'] = person_json['phone']
                 if post_md_en.get('mailInfo') is '' and person_json['email'] is not None:
                     post_md_en['mailInfo'] = person_json['email']
-                if post_md_en.get('officeHours') is '' and person_json['office_hours'] is not None:
+                if post_md_en.get('officeHours') is '' and person_json['office_hours']['en'] is not None:
                     post_md_en['officeHours'] = person_json['office_hours']['en']
                 if post_md_en.get('location') is '' and person_json['location'] is not None:
                     post_md_en['location'] = person_json['location']
@@ -176,8 +180,6 @@ def json_to_md(persons, staff_desc, indexes, names):
                 if person_json['picture'] is not None:
                     save_image(fix_name, person_json['picture'])
 
-                print(person_json)
-                print(desc_json)
                 if 'linkSl' in desc_json:
                     link = str(desc_json['linkSl'])
                     link = link.split('/')[-1]
