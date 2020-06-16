@@ -13,6 +13,7 @@ profTitle: ''
 telephoneInfo: ''
 projects: []
 courses: []
+publications: []
 slug: ''
 pageTitle: ''
 ---

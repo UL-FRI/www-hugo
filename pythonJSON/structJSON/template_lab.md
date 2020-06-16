@@ -7,5 +7,6 @@ bannerText: ''
 bannerImg: ''
 externalLink: ''
 id: ''
+projects: []
 summary: ''
 ---

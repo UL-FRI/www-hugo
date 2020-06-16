@@ -2,9 +2,34 @@ import json
 import re
 import io
 import os
+
+import frontmatter
 import requests
 from datetime import datetime
 
+def get_file_name(string):
+    string = string.lstrip(' ').lower()
+    split = string.split(' ')
+    if len(split) == 2:
+        filename = str(split[1]) + "_" + str(split[0])
+    else:
+        filename = str(split[2]) + "_" + str(split[1]) + "_" + str(split[0])
+
+    c1 = 'č'.encode()
+    c2 = 'ć'.encode()
+    z = 'ž'.encode()
+    s = 'š'.encode()
+    dz = 'đ'.encode()
+
+    string = filename.encode()
+    string = string.replace(c1, b'c')
+    string = string.replace(c2, b'c')
+    string = string.replace(z, b'z')
+    string = string.replace(s, b's')
+    string = string.replace(dz, b'dz')
+    string = string.decode('utf-8')
+
+    return string
 
 def match_id(data_json, refrence_json):
     persons = []
@@ -18,7 +43,7 @@ def match_id(data_json, refrence_json):
         for a in persons:
             fullname = a['ime']+' '+a['priimek']+' '
             if fullname == ref:
-                fname = re.sub(r'\s+', '_', ref.lstrip(' ').rstrip(' ').lower())
+                fname = get_file_name(fullname.rstrip(' '))
                 ids.append(
                     {
                         "id": a['id'],
@@ -38,18 +63,67 @@ def match_lab(ref_lab, ref_people):
                 load = json.load(labs)
                 for mem in load:
                     for person in ref_people:
-                        mem_fname = re.sub(r'\s+', '_', (mem['name']+' '+mem['surname']).lower())
+                        mem_fname = get_file_name(mem['name']+' '+mem['surname'])
                         if mem_fname == person['fullname']:
                             complete_ref.append(
                                 {
                                     "id": person['id'],
-                                    "fullname": person['fullname'] + '_projects',
+                                    "fullname": person['fullname'],
                                     "lab": a
                                 }
                             )
                             person['fullname'] = 'blank'
 
     return complete_ref
+
+
+def save_id_to_md_personal(id, filename):
+    en = './content/en/osebje/' + filename + '.md'
+    sl = './content/sl/osebje/' + filename + '.md'
+
+    with io.open(en, 'r', encoding='utf8') as md_en, io.open(sl, 'r', encoding='utf8') as md_sl:
+
+        post_en = frontmatter.load(md_en, encoding='utf8')
+        post_sl = frontmatter.load(md_sl, encoding='utf8')
+
+        post_en['projects'].append(id)
+        post_sl['projects'].append(id)
+
+
+        # Save the file
+        new = io.open(sl, 'wb')
+        new_en = io.open(en, 'wb')
+        frontmatter.dump(post_en, new_en)
+        frontmatter.dump(post_sl, new)
+        new.close()
+        new_en.close()
+
+
+def save_id_to_md_lab(id, filename):
+    en = './content/en/laboratorij/' + filename + '.md'
+    sl = './content/sl/laboratorij/' + filename + '.md'
+    with io.open(en, 'r', encoding='utf8') as md_en, io.open(sl, 'r', encoding='utf8') as md_sl:
+
+        post_en = frontmatter.load(md_en, encoding='utf8')
+        post_sl = frontmatter.load(md_sl, encoding='utf8')
+
+        if id not in post_en['projects']:
+            post_en['projects'].append(id)
+
+        if id not in post_sl['projects']:
+            post_sl['projects'].append(id)
+
+
+        # Save the file
+        new = io.open(sl, 'wb')
+        new_en = io.open(en, 'wb')
+        frontmatter.dump(post_en, new_en)
+        frontmatter.dump(post_sl, new)
+        new.close()
+        new_en.close()
+
+
+
 
 
 def check_if_project_exist(proj_id, fname):
@@ -115,16 +189,14 @@ def json_to_md(data_json, ref_ids):
                     fname = './data/osebje/projects/' + ref['fullname'] + '.json'
                     fname_lab = './data/laboratorij/projects/' + ref['lab'] + '.json'
 
-                    if datetime_str is not None:
-                        datetime_obj = datetime.strptime(datetime_str, '%Y-%m-%d %H:%M:%S')
-                        current_date_time = datetime.today()
-                        if current_date_time > datetime_obj:
-                            fname = './data/osebje/projects/' + ref['fullname'] + '_end.json'
-                            fname_lab = './data/laboratorij/projects/' + ref['lab'] + '_end.json'
-
                     if not check_if_project_exist(p['id'], fname_lab):
                         append_json(fname_lab, p)
-                    append_json(fname, p)
+                    save_id_to_md_lab(p['id'], ref['lab'])
+
+                    if os.path.isfile('./content/en/osebje/' + ref['fullname'] + '.md'):
+                        append_json(fname, p)
+                        save_id_to_md_personal(p['id'], ref['fullname'])
+
 
 
 def get_xml():
@@ -194,6 +266,7 @@ with io.open('./sampleJSON/projekti.json', 'r', encoding='utf8') as projekti:
     }
     idList = match_id(data['projects'], referencePeople)
     reference = match_lab(referenceLabs, idList)
+    print(reference)
     json_to_md(data['projects'], reference)
 
 
