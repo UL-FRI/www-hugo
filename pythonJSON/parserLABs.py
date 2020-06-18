@@ -5,6 +5,26 @@ from os import path
 from shutil import copyfile
 
 
+def get_slug(string):
+    string = string.lstrip(' ').lower()
+    string = string.replace(' ', '-')
+
+    c1 = 'č'.encode()
+    c2 = 'ć'.encode()
+    z = 'ž'.encode()
+    s = 'š'.encode()
+    dz = 'đ'.encode()
+
+    string = string.encode()
+    string = string.replace(c1, b'c')
+    string = string.replace(c2, b'c')
+    string = string.replace(z, b'z')
+    string = string.replace(s, b's')
+    string = string.replace(dz, b'dz')
+    string = string.decode('utf-8')
+
+    return string
+
 def json_to_md(loaded_json):
 
     for p in loaded_json:
@@ -60,6 +80,12 @@ def json_to_md(loaded_json):
 
         if 'members' in p:
             jname = './data/laboratorij/members/' + str(p['abbreviation']).lower() + '.json'
+            members = p['members']
+
+            for member in members:
+                member['slug'] = get_slug(member['name']+'-'+member['surname'])
+                print(member)
+
 
             with io.open(jname, 'w+', encoding='utf8') as to:
                 from_insert = p['members']

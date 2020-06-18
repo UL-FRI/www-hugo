@@ -119,7 +119,7 @@ def json_to_md(persons, staff_desc, indexes, names):
 
                 if post_md_sl.get('fileName') is '':
                     post_md_sl['fileName'] = fix_name
-                if post_md_sl.get('pageTitle'):
+                if post_md_sl.get('pageTitle') is '':
                     post_md_sl['pageTitle'] = b.lstrip(' ')
                 if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
@@ -140,7 +140,7 @@ def json_to_md(persons, staff_desc, indexes, names):
 
                 if post_md_en.get('fileName') is '':
                     post_md_en['fileName'] = fix_name
-                if post_md_en.get('pageTitle'):
+                if post_md_en.get('pageTitle') is '':
                     post_md_en['pageTitle'] = b.lstrip(' ')
                 if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
                     post_md_en['profName'] = person_json['fullname_and_title']['en']
