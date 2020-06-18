@@ -61,7 +61,6 @@ def format_bib(_bib):
         }
     }
 
-    print(authors)
     i = 0
     for author in authors:
         if author.find('FirstName') is not None and author.find('SurName') is not None:
@@ -73,30 +72,52 @@ def format_bib(_bib):
         i += 1
 
 
-
     titles = _bib.find_all('Title')
-    print(titles)
     entry['title'] = titles[0].string
 
     if len(titles) > 1:
         entry['publication'] = titles[1].string
-    if _bib.find('Numbering') is not None:
-        numbering = _bib.find('Numbering')
-        print()
-        print(numbering)
-        if numbering.find('IssueNum') is not None:
-            issue = numbering.find('IssueNum').string
-            issue = re.search(r"\",)
-        print()
-    if _bib.find('PubDate') is not None:
-        entry['publication'] += ", " + _bib.find('PubDate').string
+        if _bib.find('Numbering') is not None:
+            numbering = _bib.find('Numbering')
+            pubNum = ""
+
+            print(entry['publication'])
+            print(numbering)
+            if numbering.find('VolumeNum') is not None and numbering.find('IssueNum') is not None:
+                vol = numbering.find('VolumeNum').string
+                vol = re.search(r"\b[\d]+\b", vol)
+                issue = numbering.find('IssueNum').string
+                issue = re.search(r"\b[\d]+\b", issue)
+                if vol is not None and issue is not None:
+                    pubNum += str.format(", {}({})", vol.group(), issue.group())
+            elif numbering.find('VolumeNum') is not None:
+                vol = numbering.find('VolumeNum').string
+                vol = re.search(r"\b[\d]+\b", vol)
+                if vol is not None:
+                    pubNum += ", " + vol.group()
+            elif numbering.find('IssueNum') is not None:
+                issue = numbering.find('IssueNum').string
+                issue = re.search(r"\b[\d]+\b", issue)
+                if issue is not None:
+                    pubNum += str.format(", {}", issue.group())
+
+            if numbering.find('ArtPageNums') is not None:
+                pages = numbering.find('ArtPageNums').string
+                pages = pages.split(' ')[-1]
+                pubNum += ":" + pages
+
+            if numbering.find('Year') is not None:
+                year = numbering.find('Year').string
+                year = re.search(r"\b[\d]+\b", year)
+                if year is not None:
+                    pubNum += ", " + year.group()
+
+            print(entry['publication'] + pubNum)
+            entry['publication'] += pubNum
+
     if _bib.find('DOI') is not None:
-        print(_bib.find('DOI'))
         entry['links']['doi'] = 'https://dx.doi.org/' + _bib.find('DOI').string
 
-    print('---------')
-    print(_bib.find('Link'))
-    print('---------')
     print(entry)
     return entry
 
