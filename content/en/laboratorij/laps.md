@@ -3,10 +3,10 @@ abbreviation: LAPS
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 3
-location: Some Random Location
+location: ''
+projects: []
+summary: ''
 title: Laboratory for Architecture and Signal Processing
-url: null
 ---
-
-None

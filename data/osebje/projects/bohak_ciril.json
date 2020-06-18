@@ -1,0 +1,134 @@
+[
+    {
+        "end_date": "2011-01-31 00:00:00",
+        "id": 23,
+        "ref_project_type": 5,
+        "start_date": "2008-02-01 00:00:00",
+        "title": {
+            "en": "EtnoKatalog: retrieval of semantic data from folk song and music, based on melodic and metro-rhythmic analysis",
+            "si": "EtnoKatalog: pridobivanje semanti\u010dnih opisov ljudske pesmi in glasbe na podlagi melodi\u010dne in metro-ritmi\u010dne analize"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnokatalog-pridobivanje-semanticnih-opisov-ljudske-pesmi-glasbe-na-podlagi-melodicne-metro"
+    },
+    {
+        "end_date": "2010-08-31 00:00:00",
+        "id": 49,
+        "ref_project_type": 5,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "DIDIKTA - analysis and development of didactics in ICT supported teaching and learning",
+            "si": "DIDIKTA - analiza in razvoj didaktike uporabe IKT pri prou\u010devanju in u\u010denju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/didikta-analiza-razvoj-didaktike-uporabe-ikt-pri-proucevanju-ucenju"
+    },
+    {
+        "end_date": "2011-02-28 00:00:00",
+        "id": 69,
+        "ref_project_type": 1,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "ASPECT - Adopting standards and specifications for educational content",
+            "si": "ASPECT - Adopting standards and specifications for educational content"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/aspect-adopting-standards-and-specifications-educational-content"
+    },
+    {
+        "end_date": "2017-04-30 00:00:00",
+        "id": 81,
+        "ref_project_type": 1,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "CREA - Network of summer academies for the improvement of entrepreneurship in innovative sectors",
+            "si": "CREA - Mre\u017ea poletnih akademij za izbolj\u0161anje inovativnega podjetni\u0161kega sektorja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/crea-mreza-poletnih-akademij-za-izboljsanje-inovativnega-podjetniskega-sektorja"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 121,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "EtnoFletno - EtnoFletno: Slovenian folk song and music on mobile devices",
+            "si": "EtnoFletno - Slovenska ljudska pesem in glasba na mobilnih napravah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnofletno-slovenska-ljudska-pesem-glasba-na-mobilnih-napravah"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 122,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "ZaznajSpoznaj - PerceiveConceive: an application for ICT-supported inclusion of blind and visually impaired youth in society",
+            "si": "ZaznajSpoznaj - Aplikacija za IKT-podprto vklju\u010ditev slepe in slabovidne mladine v dru\u017ebo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zaznajspoznaj-aplikacija-za-ikt-podprto-vkljucitev-slepe-slabovidne-mladine-v-druzbo"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 123,
+        "ref_project_type": 6,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "eEksperimenti - eExperiments - Modern teaching of natural sciences using flexible open source measuring system",
+            "si": "eEksperimenti - Moderno pou\u010devanje naravoslovja z uporaba fleksibilnega merilnega sistema z odprtokodnim programjem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/eeksperimenti-moderno-poucevanje-naravoslovja-z-uporaba-fleksibilnega-merilnega-sistema-z"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 394,
+        "ref_project_type": 6,
+        "start_date": "2016-11-04 00:00:00",
+        "title": {
+            "en": "NA-MA POTI - NA-MA POTI - Natural Science and Mathematical Literacy: Promoting Critical Thinking and Problem Solving",
+            "si": "NA-MA POTI - NAravoslovno MAtemati\u010dna Pismenost, Opolnomo\u010denje, Tehnologija in Interaktivnost"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/na-ma-poti-naravoslovno-matematicna-pismenost-opolnomocenje-tehnologija-interaktivnost"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 395,
+        "ref_project_type": 6,
+        "start_date": "2016-11-04 00:00:00",
+        "title": {
+            "en": "OBJEM - OBJEM: Reading Literacy and Development of Slovenian Language",
+            "si": "OBJEM - Bralna pismenost in razvoj sloven\u0161\u010dine"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/objem-bralna-pismenost-razvoj-slovenscine"
+    },
+    {
+        "end_date": "2020-08-31 00:00:00",
+        "id": 539,
+        "ref_project_type": 2,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "Augmented Reality and Drones in Archaeology: Smart Fruition and Geo-localized Multimedia Contents",
+            "si": "Obogatena resni\u010dnost in droni v arheologiji: u\u010dinkovita izraba geo-lociranih multimedijskih vsebin "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/obogatena-resnicnost-droni-v-arheologiji-ucinkovita-izraba-geo-lociranih-multimedijskih"
+    },
+    {
+        "end_date": "2021-12-31 00:00:00",
+        "id": 543,
+        "ref_project_type": 1,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "MiCREATE - Migrant Children and Communities in a Transforming Europe",
+            "si": "MiCREATE - Migracijski otroci in skupnosti v preoblikujo\u010di se Evropi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/micreate-migracijski-otroci-skupnosti-v-preoblikujoci-se-evropi"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 562,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "Thinking folklore: dialect and supra-dialect of folclore as folkloristic, ethnological, semantic and computational problem",
+            "si": "Misliti folkloro: folkloristi\u010dne, etnolo\u0161ke in ra\u010dunske perspektive in pristopi k nare\u010dju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/misliti-folkloro-folkloristicne-etnoloske-racunske-perspektive-pristopi-k-narecju-0"
+    }
+]

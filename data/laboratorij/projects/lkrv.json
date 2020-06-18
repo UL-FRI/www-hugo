@@ -1,1 +1,79 @@
-[{"id": 394, "title": {"si": "NA-MA POTI - NAravoslovno MAtemati\u010dna Pismenost, Opolnomo\u010denje, Tehnologija in Interaktivnost", "en": "NA-MA POTI - NA-MA POTI - Natural Science and Mathematical Literacy: Promoting Critical Thinking and Problem Solving"}, "ref_project_type": 6, "url": "https://fri.uni-lj.si/sl/projekti/na-ma-poti-naravoslovno-matematicna-pismenost-opolnomocenje-tehnologija-interaktivnost", "start_date": "2016-11-04 00:00:00", "end_date": "2022-06-30 00:00:00"}]
+[
+    {
+        "end_date": "2014-09-30 00:00:00",
+        "id": 113,
+        "ref_project_type": 6,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "PKP 1 - E-content in education",
+            "si": "PKP 1 - Varnost in statistika e-vsebin"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-varnost-statistika-e-vsebin"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 128,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - E-content in education",
+            "si": "PKP 2 - E-vsebine v izobra\u017eevanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-e-vsebine-v-izobrazevanju"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 394,
+        "ref_project_type": 6,
+        "start_date": "2016-11-04 00:00:00",
+        "title": {
+            "en": "NA-MA POTI - NA-MA POTI - Natural Science and Mathematical Literacy: Promoting Critical Thinking and Problem Solving",
+            "si": "NA-MA POTI - NAravoslovno MAtemati\u010dna Pismenost, Opolnomo\u010denje, Tehnologija in Interaktivnost"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/na-ma-poti-naravoslovno-matematicna-pismenost-opolnomocenje-tehnologija-interaktivnost"
+    },
+    {
+        "end_date": "2017-09-30 00:00:00",
+        "id": 415,
+        "ref_project_type": 6,
+        "start_date": "2017-06-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 1 - Cryptogram - a portal for cryptography and computer security",
+            "si": "\u0160IPK 1 - Kriptogram - portal za kriptografijo in ra\u010dunalni\u0161ko varnost"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-1-kriptogram-portal-za-kriptografijo-racunalnisko-varnost"
+    },
+    {
+        "end_date": "2018-08-31 00:00:00",
+        "id": 520,
+        "ref_project_type": 6,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "PKP 4 - eQuiz",
+            "si": "PKP 4 - Razvoj pilotske aplikacije eQuiz"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-razvoj-pilotske-aplikacije-equiz"
+    },
+    {
+        "end_date": "2018-09-15 00:00:00",
+        "id": 537,
+        "ref_project_type": 6,
+        "start_date": "2018-06-15 00:00:00",
+        "title": {
+            "en": "\u0160IPK 3 - Portal for Cryptography and Computer Security",
+            "si": "\u0160IPK 3 - Portal za kriptografijo in ra\u010dunalni\u0161ko varnost"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-3-portal-za-kriptografijo-racunalnisko-varnost"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 1578,
+        "ref_project_type": 6,
+        "start_date": "2019-03-01 00:00:00",
+        "title": {
+            "en": "PKP 5 - Razvoj pilota mQuiz",
+            "si": "PKP 5 - Razvoj pilota mQuiz"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-5-razvoj-pilota-mquiz"
+    }
+]

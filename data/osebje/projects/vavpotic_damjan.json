@@ -1,0 +1,57 @@
+[
+    {
+        "end_date": "2016-09-30 00:00:00",
+        "id": 77,
+        "ref_project_type": 1,
+        "start_date": "2014-03-01 00:00:00",
+        "title": {
+            "en": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform",
+            "si": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/agroit-increasing-efficiency-farming-through-open-standards-based-agroit-platform"
+    },
+    {
+        "end_date": "2014-06-20 00:00:00",
+        "id": 84,
+        "ref_project_type": 6,
+        "start_date": "2012-10-23 00:00:00",
+        "title": {
+            "en": "MAK - Mobile applications for farms",
+            "si": "MAK - Mobilne aplikacije za kmetijsko gospodarstvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/mak-mobilne-aplikacije-za-kmetijsko-gospodarstvo"
+    },
+    {
+        "end_date": "2019-09-30 00:00:00",
+        "id": 523,
+        "ref_project_type": 5,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "Guidelines for destination management based on carryng capacity and tourism flows models",
+            "si": "Smernice za management turisti\u010dnih destinacij na podlagi modelov nosilnih zmogljivosti in turisti\u010dnih tokov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/smernice-za-management-turisticnih-destinacij-na-podlagi-modelov-nosilnih-zmogljivosti-0"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    },
+    {
+        "end_date": "2021-08-31 00:00:00",
+        "id": 551,
+        "ref_project_type": 6,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "TURIZEM 4.0 - Tourism 4.0 \u2013 Enriched Tourist Experience",
+            "si": "TURIZEM 4.0 - Obogatene turisti\u010dne izku\u0161nje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/turizem-40-obogatene-turisticne-izkusnje"
+    }
+]

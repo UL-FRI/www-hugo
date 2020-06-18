@@ -3,10 +3,32 @@ abbreviation: LeM
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 6
-location: Some Random Location
+location: ''
+projects:
+- 15
+- 24
+- 32
+- 50
+- 54
+- 64
+- 66
+- 70
+- 76
+- 136
+- 137
+- 138
+- 141
+- 201
+- 371
+- 494
+- 496
+- 497
+- 498
+- 499
+- 524
+- 525
+summary: ''
 title: Laboratory of e-media
-url: null
 ---
-
-The laboratory focuses on advanced (lightweight) communications (e.g. the Internet of Things), security, privacy, e-business, and human factor modelling. Our research devotes particular attention to the analysis and design of advanced systems (from PKI to critical infrastructures), cryptographic protocols, advanced security and privacy analytics (e.g., big data methods for searching for precursory signals), and the quantitative treatment of the human factor. We have patented lightweight cryptographic protocols and developed practical (industry relevant) food supply chain management solutions based on RFIDs.

@@ -1,0 +1,57 @@
+[
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 97,
+        "ref_project_type": 6,
+        "start_date": "2013-07-26 00:00:00",
+        "title": {
+            "en": "Internacionalizacija UL",
+            "si": "Internacionalizacija UL"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+    },
+    {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 233,
+        "ref_project_type": 1,
+        "start_date": "2016-07-01 00:00:00",
+        "title": {
+            "en": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange",
+            "si": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ricercando-monroe-rapid-interpretation-and-cross-experiment-root-cause-analysis-network"
+    },
+    {
+        "end_date": "2020-09-20 00:00:00",
+        "id": 495,
+        "ref_project_type": 3,
+        "start_date": "2016-09-21 00:00:00",
+        "title": {
+            "en": "Citizen science to promote creativity, scientific literacy and innovation throughout Europe (COST Action CA15212)",
+            "si": "Javna znanost za spodbujanje ustvarjalnosti, znanstvene pismenost in inovacije v Evropi (COST Action CA15212)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/javna-znanost-za-spodbujanje-ustvarjalnosti-znanstvene-pismenost-inovacije-v-evropi-cost"
+    },
+    {
+        "end_date": "2018-02-28 00:00:00",
+        "id": 508,
+        "ref_project_type": null,
+        "start_date": "2017-10-26 00:00:00",
+        "title": {
+            "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
+            "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

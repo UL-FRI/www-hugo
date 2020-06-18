@@ -3,10 +3,41 @@ abbreviation: LPT
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 12
-location: Some Random Location
+location: ''
+projects:
+- 15
+- 50
+- 59
+- 66
+- 80
+- 86
+- 87
+- 96
+- 121
+- 132
+- 167
+- 168
+- 198
+- 207
+- 230
+- 235
+- 237
+- 238
+- 245
+- 359
+- 364
+- 376
+- 449
+- 491
+- 500
+- 510
+- 525
+- 551
+- 1568
+- 1592
+- 1604
+summary: ''
 title: Laboratory for Data Technologies
-url: null
 ---
-
-Areas of interest include data acquisition, management, integration, analysis and visualisation, all within the framework of information system development, management and governance. Special interest is devoted to internet of things, big data, real-time data management, the analysis of large networks, data streams, information extraction, etc. We work closely with industry partners in developing and testing new technologies and approaches.

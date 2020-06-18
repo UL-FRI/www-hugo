@@ -1,8 +1,9 @@
 {{ define "main" }}
 
 <ul>
-	<li><a href="{{ "/laboratorij" | relURL}}">Laboratoriji</a></li>
-	<li><a href="{{ "/osebje" | relURL}}">Osebne</a></li>
+	{{range .Site.Sections }}
+		<li><a href="{{ .Permalink | relURL}}">{{.Permalink}}</a></li>
+	{{end}}
 </ul>
 
 {{ end }}

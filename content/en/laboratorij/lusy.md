@@ -3,10 +3,30 @@ abbreviation: LUSY
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 103
-location: Some Random Location
+location: ''
+projects:
+- 15
+- 81
+- 97
+- 133
+- 134
+- 146
+- 156
+- 228
+- 230
+- 252
+- 253
+- 254
+- 255
+- 410
+- 525
+- 553
+- 554
+- 556
+- 557
+- 565
+summary: ''
 title: Laboratory for Ubiquitous systems
-url: null
 ---
-
-The prime area of research interest is efficient data handling in distributed pervasive environments, which store terabytes of data that present a challenge in at least two areas: the efficient storage and handling of the data. The distributed environment is inherently capable of parallel processing and requires a proper data and work distribution. Our research is concentrated on three areas: unstructured text handling, data deduplication and on-line streaming data processing. We are also active in the area of Computer Science Education.

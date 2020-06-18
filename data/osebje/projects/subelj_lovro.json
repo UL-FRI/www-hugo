@@ -1,0 +1,68 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 59,
+        "ref_project_type": 2,
+        "start_date": "2012-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent ontology-based information retreival",
+            "si": "Inteligentno pridobivanje podatkov s pomo\u010djo ontologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-pridobivanje-podatkov-s-pomocjo-ontologij"
+    },
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 96,
+        "ref_project_type": 6,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Development of algorithms for network analysis in large company",
+            "si": "Razvoj algoritmov za analizo omre\u017eij v velikem podjetju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-algoritmov-za-analizo-omrezij-v-velikem-podjetju"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 198,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Open Information Extraction for Slovene and Serbian Languages",
+            "si": "Odprta ekstrakcija podatkov za slovenski in srbski jezik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/odprta-ekstrakcija-podatkov-za-slovenski-srbski-jezik"
+    },
+    {
+        "end_date": "2020-05-10 00:00:00",
+        "id": 500,
+        "ref_project_type": 3,
+        "start_date": "2016-05-11 00:00:00",
+        "title": {
+            "en": "COSTNET - European Cooperation for Statistics of Network Data Science (COST Action CA15109)",
+            "si": "COSTNET - European Cooperation for Statistics of Network Data Science (COST Action CA15109)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/costnet-european-cooperation-statistics-network-data-science-cost-action-ca15109"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

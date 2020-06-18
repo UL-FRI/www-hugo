@@ -1,0 +1,21 @@
+<div class="aboutMainSectionContainer">
+    <div class="aboutMainSectionTitle">{{ i18n "class" 0 }}</div>
+    <div class="aboutMainSectionLi">
+        <ul class="customList">
+            {{ range $code := (index .Params.courses) }}
+            {{ range $.Site.Data.courses}}
+                {{ if eq $code .course_code }}
+                <li>
+                    {{ if eq $.Site.Language.Lang "en" }}
+                        <a href='{{printf "https://www.fri.uni-lj.si/en/predmet/%s" $code}}' >{{ .title.en }}</a>
+                    {{ else }}
+                        <a href='{{printf "https://www.fri.uni-lj.si/sl/predmet/%s" $code}}' >{{ .title.sl }}</a>
+                    {{ end }}
+                </li>
+                {{ end }}
+            {{ end }}
+            {{ end }}
+        </ul>
+    </div>
+</div>
+

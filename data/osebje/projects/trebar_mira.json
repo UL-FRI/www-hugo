@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 54,
+        "ref_project_type": 2,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Automatic annotation of medical video sequences",
+            "si": "Samodejno ozna\u010devanje medicinskih video zapisov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/samodejno-oznacevanje-medicinskih-video-zapisov"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 66,
+        "ref_project_type": 1,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "RFID F2F - RFID from Farm to Fork",
+            "si": "RFID F2F - RFID from Farm to Fork"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 201,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Medical Images Compression",
+            "si": "Kompresija medicinskih slik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kompresija-medicinskih-slik"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 371,
+        "ref_project_type": 2,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Advanced sensing technologies and modelling for sulfur compounds in food cold chain traceability",
+            "si": "Napredne senzorske tehnologije in modeliranje za sledljivost \u017eveplovih spojin v hladni verigi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/napredne-senzorske-tehnologije-modeliranje-za-sledljivost-zveplovih-spojin-v-hladni-verigi"
+    },
+    {
+        "end_date": "2019-04-07 00:00:00",
+        "id": 496,
+        "ref_project_type": 3,
+        "start_date": "2015-04-08 00:00:00",
+        "title": {
+            "en": " cHiPSet - High-Performance Modelling and Simulation for Big Data Applications (COST Action IC1406)",
+            "si": " cHiPSet - Visoko-performan\u010dni modeli in simulacije za obse\u017ene podatke (COST Action IC1406)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/chipset-visoko-performancni-modeli-simulacije-za-obsezne-podatke-cost-action-ic1406"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

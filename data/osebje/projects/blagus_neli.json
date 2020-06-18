@@ -1,0 +1,57 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 59,
+        "ref_project_type": 2,
+        "start_date": "2012-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent ontology-based information retreival",
+            "si": "Inteligentno pridobivanje podatkov s pomo\u010djo ontologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-pridobivanje-podatkov-s-pomocjo-ontologij"
+    },
+    {
+        "end_date": "2020-05-31 00:00:00",
+        "id": 449,
+        "ref_project_type": 6,
+        "start_date": "2017-06-01 00:00:00",
+        "title": {
+            "en": "SocioPower - SocioPower",
+            "si": "SocioPower - SocioPower - opolnomo\u010denje skupnosti z vklju\u010devanjem dru\u017ebenih omre\u017eij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sociopower-sociopower-opolnomocenje-skupnosti-z-vkljucevanjem-druzbenih-omrezij"
+    },
+    {
+        "end_date": "2019-12-31 00:00:00",
+        "id": 510,
+        "ref_project_type": 2,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Web-based eBooks with activities: internationalization of Natural Language Processing",
+            "si": "Spletne e-knjige z aktivnostmi:internacionalizacija procesiranja naravnega jezika"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/spletne-e-knjige-z-aktivnostmiinternacionalizacija-procesiranja-naravnega-jezika"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 1592,
+        "ref_project_type": null,
+        "start_date": "2019-02-11 00:00:00",
+        "title": {
+            "en": "Platforma za spremljanje du\u017ebenega stanja in razvoja-COMMON",
+            "si": "Platforma za spremljanje du\u017ebenega stanja in razvoja-COMMON"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/platforma-za-spremljanje-duzbenega-stanja-razvoja-common"
+    }
+]

@@ -3,10 +3,27 @@ abbreviation: LUI
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 20
-location: Some Random Location
+location: ''
+projects:
+- 3
+- 6
+- 26
+- 40
+- 41
+- 58
+- 60
+- 68
+- 88
+- 114
+- 124
+- 230
+- 502
+- 529
+- 1575
+- 1582
+- 1583
+summary: ''
 title: Artificial Intelligence Laboratory
-url: null
 ---
-
-The laboratory carries out research in machine learning (particularly argument based machine learning, inductive logic programming, robot learning), qualitative reasoning with robotics applications, intelligent robotics (planning, learning for planning), machine learning in medicine, and intelligent tutoring systems (ITS for programming and game playing, automated hint generation and the automatic assessment of the level of difficulty of problems for humans).

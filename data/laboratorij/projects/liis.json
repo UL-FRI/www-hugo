@@ -1,5 +1,148 @@
 [
     {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 33,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Semantically Advanced Service Oriented Portal for Information and Knowledge Management",
+            "si": "Semanti\u010dno napreden storitveno usmerjen portal za upravljanje informacij in znanja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/semanticno-napreden-storitveno-usmerjen-portal-za-upravljanje-informacij-znanja"
+    },
+    {
+        "end_date": "2016-07-31 00:00:00",
+        "id": 44,
+        "ref_project_type": 5,
+        "start_date": "2013-08-01 00:00:00",
+        "title": {
+            "en": "Model for Domain-Specific Trend Prediction based on Semantic Enrichment of Unstructured Patterns",
+            "si": "Model za domensko specifi\u010dno napovedovanje trendov na osnovi semanti\u010dne bogatitve nestrukturiranih vzorcev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/model-za-domensko-specificno-napovedovanje-trendov-na-osnovi-semanticne-bogatitve"
+    },
+    {
+        "end_date": "2016-09-30 00:00:00",
+        "id": 77,
+        "ref_project_type": 1,
+        "start_date": "2014-03-01 00:00:00",
+        "title": {
+            "en": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform",
+            "si": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/agroit-increasing-efficiency-farming-through-open-standards-based-agroit-platform"
+    },
+    {
+        "end_date": "2019-01-31 00:00:00",
+        "id": 83,
+        "ref_project_type": 1,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "FLEXICIENCY - Energy services demonstrations of demand response, FLEXibility and energy effICIENCY based on metering data",
+            "si": "FLEXICIENCY - Energy services demonstrations of demand response, FLEXibility and energy effICIENCY based on metering data"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/flexiciency-energy-services-demonstrations-demand-response-flexibility-and-energy"
+    },
+    {
+        "end_date": "2014-06-20 00:00:00",
+        "id": 84,
+        "ref_project_type": 6,
+        "start_date": "2012-10-23 00:00:00",
+        "title": {
+            "en": "MAK - Mobile applications for farms",
+            "si": "MAK - Mobilne aplikacije za kmetijsko gospodarstvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/mak-mobilne-aplikacije-za-kmetijsko-gospodarstvo"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 86,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC CLASS - Cloud Assisted Services",
+            "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 87,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC OPCOMM - Open Communication Platform for Service Integration",
+            "si": "KC OPCOMM - Odprta komunikacijska platforma za integracijo storitev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-opcomm-odprta-komunikacijska-platforma-za-integracijo-storitev"
+    },
+    {
+        "end_date": "2013-08-31 00:00:00",
+        "id": 89,
+        "ref_project_type": 6,
+        "start_date": "2012-08-21 00:00:00",
+        "title": {
+            "en": "SINTESIS - E-storitev in mobilna aplikacija za klasifikacijo, vrednotenje, integracijo, migracijo in varovanje SAAS aplikacij",
+            "si": "SINTESIS - E-storitev in mobilna aplikacija za klasifikacijo, vrednotenje, integracijo, migracijo in varovanje SAAS aplikacij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sintesis-e-storitev-mobilna-aplikacija-za-klasifikacijo-vrednotenje-integracijo-migracijo"
+    },
+    {
+        "end_date": "2014-09-30 00:00:00",
+        "id": 111,
+        "ref_project_type": 6,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "PKP 1 - Integration of IoT devices and SaaS applications",
+            "si": "PKP 1 - Integracija storitev SaaS"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-integracija-storitev-saas"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 127,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Integration of IoT devices and SaaS applications",
+            "si": "PKP 2 - Integracija naprav IoT in aplikacij SaaS"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-integracija-naprav-iot-aplikacij-saas"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 383,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Razvoj in vzpostavitev vmesnikov API za potrebe digitalne preobrazbe in API ekonomije",
+            "si": "PKP 3 - Razvoj in vzpostavitev vmesnikov API za potrebe digitalne preobrazbe in API ekonomije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-razvoj-vzpostavitev-vmesnikov-api-za-potrebe-digitalne-preobrazbe-api-ekonomije"
+    },
+    {
+        "end_date": "2019-06-30 00:00:00",
+        "id": 390,
+        "ref_project_type": null,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "DIGITRANS - Digital Transformation in the Danube Region",
+            "si": "DIGITRANS - Digital Transformation in the Danube Region"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/digitrans-digital-transformation-danube-region-0"
+    },
+    {
         "end_date": "2022-06-30 00:00:00",
         "id": 391,
         "ref_project_type": 6,
@@ -31,6 +174,17 @@
             "si": "Krovna pogodba o poslovenem sodelovanju"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+    },
+    {
+        "end_date": "2018-08-31 00:00:00",
+        "id": 519,
+        "ref_project_type": 6,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "PKP 4 - The Development of Microservices with Support for Blockchain Technology and Its Application to the Domain of CRM Systems",
+            "si": "PKP 4 - Razvoj mikrostoritev za podporo tehnologijam veri\u017eenja blokov (blockchain) in aplikacija na domeno CRM sistemov "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-razvoj-mikrostoritev-za-podporo-tehnologijam-verizenja-blokov-blockchain-aplikacija"
     },
     {
         "end_date": "2023-12-31 00:00:00",

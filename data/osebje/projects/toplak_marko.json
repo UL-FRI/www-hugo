@@ -1,0 +1,156 @@
+[
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi-0"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 26,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Qualitative modeling from data",
+            "si": "Kvalitativno modeliranje na osnovi podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kvalitativno-modeliranje-na-osnovi-podatkov"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 27,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Data and knowledge integration methods for network systems biology",
+            "si": "Metode za povezovanje podatkov in znanja v sistemski biologiji mre\u017e"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/metode-za-povezovanje-podatkov-znanja-v-sistemski-biologiji-mrez"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 34,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Growth and defense trade-offs in multitrophic interaction between potato and its two major pests",
+            "si": "Kompromisi obrambe in razvoja v ve\u010dtrofi\u010dni interakciji med krompirjem in dvema glavnima \u0161kodljivcema"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kompromisi-obrambe-razvoja-v-vectroficni-interakciji-med-krompirjem-dvema-glavnima"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 35,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Functional genomics of potato-PVY interactions",
+            "si": "Funkcijska genomika interakcije med krompirjem in PVY"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/funkcijska-genomika-interakcije-med-krompirjem-pvy"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 37,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Combination of next generation sequencing and metagenomic analysis in the diagnostics of severe hop stunting",
+            "si": "Uporaba kombinacije tehnike naslednje generacije dolo\u010devanja nukleotidnih zaporedij in metagenomske analize v diagnostiki pojava hmeljeve zakrnelosti"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/uporaba-kombinacije-tehnike-naslednje-generacije-dolocevanja-nukleotidnih-zaporedij"
+    },
+    {
+        "end_date": "2016-07-31 00:00:00",
+        "id": 42,
+        "ref_project_type": 5,
+        "start_date": "2013-08-01 00:00:00",
+        "title": {
+            "en": "Conquering the Curse of Dimensionality by Using Background Knowledge",
+            "si": "Premagovanje prekletstva dimenzionalnosti z uporabo predznanja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/premagovanje-prekletstva-dimenzionalnosti-z-uporabo-predznanja"
+    },
+    {
+        "end_date": "2012-12-31 00:00:00",
+        "id": 51,
+        "ref_project_type": 2,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "A next-generation analytics toolbox for integrated high-throughput genomic data analysis",
+            "si": "Analiti\u010dna orodja nove generacije za integrirano analizo podatkov v sodobni genomiki"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/analiticna-orodja-nove-generacije-za-integrirano-analizo-podatkov-v-sodobni-genomiki"
+    },
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 52,
+        "ref_project_type": 2,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Computational approaches for identification of bacterial resistance pathways in Dictyostelium ",
+            "si": "Ra\u010dunski pristopi za odkrivanje mehanizmov baterijske rezistence v Dictyosteliumu"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunski-pristopi-za-odkrivanje-mehanizmov-baterijske-rezistence-v-dictyosteliumu"
+    },
+    {
+        "end_date": "2016-12-31 00:00:00",
+        "id": 65,
+        "ref_project_type": 2,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Data Fusion in Systems Biology of a Social Amoeba Dictyostelium",
+            "si": "Zlivanje podatkov v sistemski biologiji socialne amebe Dictyostelium"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zlivanje-podatkov-v-sistemski-biologiji-socialne-amebe-dictyostelium"
+    },
+    {
+        "end_date": "2020-06-30 00:00:00",
+        "id": 231,
+        "ref_project_type": 6,
+        "start_date": "2016-07-07 00:00:00",
+        "title": {
+            "en": "BioPharm.si - BioPharm.SI:Next Generation of Biologics",
+            "si": "BioPharm.si - Razvoj naprednih farmacevtskih in biotehnolo\u0161ko - farmacevtskih oblik in novih dostavnih sistemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/biopharmsi-razvoj-naprednih-farmacevtskih-biotehnolosko-farmacevtskih-oblik-novih-dostavnih"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 372,
+        "ref_project_type": 2,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Development of an open-source platform for multivariate analysis of FTIR data ",
+            "si": "Razvoj odprtokodneprogramske opreme za multivariantno analizo podatkov FTIR"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-odprtokodneprogramske-opreme-za-multivariantno-analizo-podatkov-ftir"
+    },
+    {
+        "end_date": "2018-09-26 00:00:00",
+        "id": 489,
+        "ref_project_type": null,
+        "start_date": "2017-09-26 00:00:00",
+        "title": {
+            "en": "Izdelava gradiva in izvedba usposabljanj",
+            "si": "Izdelava gradiva in izvedba usposabljanj"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-gradiva-izvedba-usposabljanj"
+    },
+    {
+        "end_date": "2020-08-31 00:00:00",
+        "id": 538,
+        "ref_project_type": 2,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "Computational and data visualisation approaches to mining of large-scale data in single-cell genomics",
+            "si": "Metode za rudarjenje obse\u017enih genomskih podatkov posami\u010dnih celic z ra\u010dunskimi in vizualizacijskimi pristopi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/metode-za-rudarjenje-obseznih-genomskih-podatkov-posamicnih-celic-z-racunskimi"
+    }
+]

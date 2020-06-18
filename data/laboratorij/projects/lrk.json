@@ -1,5 +1,137 @@
 [
     {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 86,
+        "ref_project_type": 6,
+        "start_date": "2011-01-01 00:00:00",
+        "title": {
+            "en": "KC CLASS - Cloud Assisted Services",
+            "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+    },
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 97,
+        "ref_project_type": 6,
+        "start_date": "2013-07-26 00:00:00",
+        "title": {
+            "en": "Internacionalizacija UL",
+            "si": "Internacionalizacija UL"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+    },
+    {
+        "end_date": "2013-08-31 00:00:00",
+        "id": 145,
+        "ref_project_type": 1,
+        "start_date": "2010-09-01 00:00:00",
+        "title": {
+            "en": "EPSIAE - Green IT: Entering Sustainability within academic ICT studies",
+            "si": "EPSIAE - Zelene informacijske tehnologije: vklju\u010devanje trajnostnega razmi\u0161ljanja v akademski \u0161tudij informacijsko-komunikacijskih tehnologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/epsiae-zelene-informacijske-tehnologije-vkljucevanje-trajnostnega-razmisljanja-v-akademski"
+    },
+    {
+        "end_date": "2014-08-31 00:00:00",
+        "id": 146,
+        "ref_project_type": 1,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "HESUDI - HEalthcare Support Using Domotics and IT",
+            "si": "HESUDI - HEalthcare Support Using Domotics and IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/hesudi-healthcare-support-using-domotics-and-it"
+    },
+    {
+        "end_date": "2016-07-14 00:00:00",
+        "id": 169,
+        "ref_project_type": null,
+        "start_date": "2014-08-26 00:00:00",
+        "title": {
+            "en": "Izvedba delavnic",
+            "si": "Izvedba delavnic"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izvedba-delavnic"
+    },
+    {
+        "end_date": "2015-07-09 00:00:00",
+        "id": 170,
+        "ref_project_type": null,
+        "start_date": "2015-01-30 00:00:00",
+        "title": {
+            "en": "Integracija avtentikacije STORK v \u0161tudijski informacijski sistem",
+            "si": "Integracija avtentikacije STORK v \u0161tudijski informacijski sistem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/integracija-avtentikacije-stork-v-studijski-informacijski-sistem"
+    },
+    {
+        "end_date": "2015-11-12 00:00:00",
+        "id": 175,
+        "ref_project_type": null,
+        "start_date": "2015-10-12 00:00:00",
+        "title": {
+            "en": "Razvoj te\u010dajev in priprava materialov",
+            "si": "Razvoj te\u010dajev in priprava materialov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-tecajev-priprava-materialov"
+    },
+    {
+        "end_date": "2015-07-09 00:00:00",
+        "id": 205,
+        "ref_project_type": null,
+        "start_date": "2014-12-22 00:00:00",
+        "title": {
+            "en": "Razvoj programske opreme Stacklabs",
+            "si": "Razvoj programske opreme Stacklabs"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-programske-opreme-stacklabs"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 213,
+        "ref_project_type": null,
+        "start_date": "2016-02-01 00:00:00",
+        "title": {
+            "en": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju",
+            "si": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/arhitekturni-vidiki-uporabe-openstacka-kontejnerjev-v-tk-okolju"
+    },
+    {
+        "end_date": "2014-10-21 00:00:00",
+        "id": 217,
+        "ref_project_type": null,
+        "start_date": "2014-09-30 00:00:00",
+        "title": {
+            "en": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT",
+            "si": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/analiza-okoljevarstvenih-regulativnih-iniciativ-na-podrocju-zelenega-it"
+    },
+    {
+        "end_date": "2015-04-05 00:00:00",
+        "id": 222,
+        "ref_project_type": null,
+        "start_date": "2015-03-06 00:00:00",
+        "title": {
+            "en": "Posodobitveni program Internet pod drobnogledom",
+            "si": "Posodobitveni program Internet pod drobnogledom"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/posodobitveni-program-internet-pod-drobnogledom"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
         "end_date": "2020-06-30 00:00:00",
         "id": 231,
         "ref_project_type": 6,
@@ -11,6 +143,127 @@
         "url": "https://fri.uni-lj.si/sl/projekti/biopharmsi-razvoj-naprednih-farmacevtskih-biotehnolosko-farmacevtskih-oblik-novih-dostavnih"
     },
     {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 233,
+        "ref_project_type": 1,
+        "start_date": "2016-07-01 00:00:00",
+        "title": {
+            "en": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange",
+            "si": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ricercando-monroe-rapid-interpretation-and-cross-experiment-root-cause-analysis-network"
+    },
+    {
+        "end_date": "2014-11-18 00:00:00",
+        "id": 253,
+        "ref_project_type": null,
+        "start_date": "2013-05-09 00:00:00",
+        "title": {
+            "en": "Razvojne storitve",
+            "si": "Razvojne storitve"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvojne-storitve"
+    },
+    {
+        "end_date": "2014-04-18 00:00:00",
+        "id": 256,
+        "ref_project_type": null,
+        "start_date": "2013-12-17 00:00:00",
+        "title": {
+            "en": "Izvedensko mnenje",
+            "si": "Izvedensko mnenje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izvedensko-mnenje"
+    },
+    {
+        "end_date": "2013-12-19 00:00:00",
+        "id": 257,
+        "ref_project_type": null,
+        "start_date": "2013-12-19 00:00:00",
+        "title": {
+            "en": "Izobra\u017eevalna delavnica",
+            "si": "Izobra\u017eevalna delavnica"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izobrazevalna-delavnica"
+    },
+    {
+        "end_date": "2013-12-19 00:00:00",
+        "id": 258,
+        "ref_project_type": null,
+        "start_date": "2013-12-19 00:00:00",
+        "title": {
+            "en": "Izobra\u017eevalna delavnica",
+            "si": "Izobra\u017eevalna delavnica"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izobrazevalna-delavnica-0"
+    },
+    {
+        "end_date": "2012-09-11 00:00:00",
+        "id": 259,
+        "ref_project_type": null,
+        "start_date": "2012-06-15 00:00:00",
+        "title": {
+            "en": "Oblaki v telekomunikacijskem okolju",
+            "si": "Oblaki v telekomunikacijskem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/oblaki-v-telekomunikacijskem-okolju"
+    },
+    {
+        "end_date": "2013-07-17 00:00:00",
+        "id": 260,
+        "ref_project_type": null,
+        "start_date": "2013-05-30 00:00:00",
+        "title": {
+            "en": "Izvedba raziskave na podro\u010dju virtualnih laboratorijev",
+            "si": "Izvedba raziskave na podro\u010dju virtualnih laboratorijev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izvedba-raziskave-na-podrocju-virtualnih-laboratorijev"
+    },
+    {
+        "end_date": "2012-12-31 00:00:00",
+        "id": 262,
+        "ref_project_type": null,
+        "start_date": "2010-12-01 00:00:00",
+        "title": {
+            "en": "Vzdr\u017eevalna in razvojna dela",
+            "si": "Vzdr\u017eevalna in razvojna dela"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vzdrzevalna-razvojna-dela"
+    },
+    {
+        "end_date": "2011-08-23 00:00:00",
+        "id": 263,
+        "ref_project_type": null,
+        "start_date": "2011-03-23 00:00:00",
+        "title": {
+            "en": "Izdelava strokovnega mnenja glede anonimizacije",
+            "si": "Izdelava strokovnega mnenja glede anonimizacije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-strokovnega-mnenja-glede-anonimizacije"
+    },
+    {
+        "end_date": "2011-08-23 00:00:00",
+        "id": 264,
+        "ref_project_type": null,
+        "start_date": "2011-03-23 00:00:00",
+        "title": {
+            "en": "Izdelava varnostne presoje re\u0161itve CRSA",
+            "si": "Izdelava varnostne presoje re\u0161itve CRSA"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-varnostne-presoje-resitve-crsa"
+    },
+    {
+        "end_date": "2016-12-31 00:00:00",
+        "id": 355,
+        "ref_project_type": null,
+        "start_date": "2016-07-25 00:00:00",
+        "title": {
+            "en": "Dokumentiranje in vzdr\u017eevanje na podro\u010dju virtualnih laboratorijev Stacklabs",
+            "si": "Dokumentiranje in vzdr\u017eevanje na podro\u010dju virtualnih laboratorijev Stacklabs"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/dokumentiranje-vzdrzevanje-na-podrocju-virtualnih-laboratorijev-stacklabs"
+    },
+    {
         "end_date": "2019-12-31 00:00:00",
         "id": 360,
         "ref_project_type": 1,
@@ -20,6 +273,17 @@
             "si": "HUBLINKED - Krepitev evropskih zmogljivosti za inovativnost programske opreme"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/hublinked-krepitev-evropskih-zmogljivosti-za-inovativnost-programske-opreme"
+    },
+    {
+        "end_date": "2016-12-22 00:00:00",
+        "id": 367,
+        "ref_project_type": null,
+        "start_date": "2016-12-14 00:00:00",
+        "title": {
+            "en": "Razvoj te\u010daja \"STORAGE\"",
+            "si": "Razvoj te\u010daja \"STORAGE\""
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-tecaja-storage"
     },
     {
         "end_date": null,
@@ -44,6 +308,17 @@
         "url": "https://fri.uni-lj.si/sl/projekti/javna-znanost-za-spodbujanje-ustvarjalnosti-znanstvene-pismenost-inovacije-v-evropi-cost"
     },
     {
+        "end_date": "2018-02-28 00:00:00",
+        "id": 508,
+        "ref_project_type": null,
+        "start_date": "2017-10-26 00:00:00",
+        "title": {
+            "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
+            "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+    },
+    {
         "end_date": "2023-12-31 00:00:00",
         "id": 525,
         "ref_project_type": 4,
@@ -64,5 +339,16 @@
             "si": "NIO8 - Digitalna UL - z inovativno uporabo IKT do odli\u010dnosti"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/nio8-digitalna-ul-z-inovativno-uporabo-ikt-do-odlicnosti"
+    },
+    {
+        "end_date": "2018-09-06 00:00:00",
+        "id": 1566,
+        "ref_project_type": null,
+        "start_date": "2018-09-06 00:00:00",
+        "title": {
+            "en": "Workshop \"Kubernetes deployment and arhitecture deep dive\"",
+            "si": "Izvedba delavnice \"Kubernetes deployment and arhitecture deep dive\""
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izvedba-delavnice-kubernetes-deployment-and-arhitecture-deep-dive"
     }
 ]

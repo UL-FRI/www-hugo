@@ -1,0 +1,112 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2011-09-30 00:00:00",
+        "id": 50,
+        "ref_project_type": 5,
+        "start_date": "2010-10-01 00:00:00",
+        "title": {
+            "en": "Managing technical, business and social implications of Internet of things\u2002in Slovene environment",
+            "si": "OTGDV-Ist - Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/otgdv-ist-obvladovanje-tehnicnih-gospodarsko-druzbenih-vidikov-interneta-stvari-v"
+    },
+    {
+        "end_date": "2013-12-31 00:00:00",
+        "id": 59,
+        "ref_project_type": 2,
+        "start_date": "2012-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent ontology-based information retreival",
+            "si": "Inteligentno pridobivanje podatkov s pomo\u010djo ontologij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-pridobivanje-podatkov-s-pomocjo-ontologij"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 207,
+        "ref_project_type": 2,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Intelligent Agile Method Framework (iAMF)",
+            "si": "Inteligentno ogrodje za konstruiranje agilnih metod"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-ogrodje-za-konstruiranje-agilnih-metod"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
+        "end_date": "2013-08-30 00:00:00",
+        "id": 235,
+        "ref_project_type": null,
+        "start_date": "2012-11-29 00:00:00",
+        "title": {
+            "en": "Strate\u0161ko in razvojno sodelovanje",
+            "si": "Strate\u0161ko in razvojno sodelovanje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/stratesko-razvojno-sodelovanje"
+    },
+    {
+        "end_date": "2016-04-25 00:00:00",
+        "id": 245,
+        "ref_project_type": null,
+        "start_date": "2013-05-31 00:00:00",
+        "title": {
+            "en": "Unifrom highly available and robust application platform for telecommunications",
+            "si": "Zasnova uniformne visoko-razpolo\u017eljive aplikacijske platforme za telekomunikacijske storitve"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zasnova-uniformne-visoko-razpolozljive-aplikacijske-platforme-za-telekomunikacijske"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    },
+    {
+        "end_date": "2021-08-31 00:00:00",
+        "id": 551,
+        "ref_project_type": 6,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "TURIZEM 4.0 - Tourism 4.0 \u2013 Enriched Tourist Experience",
+            "si": "TURIZEM 4.0 - Obogatene turisti\u010dne izku\u0161nje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/turizem-40-obogatene-turisticne-izkusnje"
+    },
+    {
+        "end_date": "2021-11-30 00:00:00",
+        "id": 1604,
+        "ref_project_type": null,
+        "start_date": "2019-06-03 00:00:00",
+        "title": {
+            "en": "Pogodba o sodelovanju",
+            "si": "Pogodba o sodelovanju"
+        },
+        "url": ""
+    }
+]

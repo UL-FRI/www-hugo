@@ -1,0 +1,101 @@
+[
+    {
+        "end_date": "2014-08-31 00:00:00",
+        "id": 146,
+        "ref_project_type": 1,
+        "start_date": "2013-09-01 00:00:00",
+        "title": {
+            "en": "HESUDI - HEalthcare Support Using Domotics and IT",
+            "si": "HESUDI - HEalthcare Support Using Domotics and IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/hesudi-healthcare-support-using-domotics-and-it"
+    },
+    {
+        "end_date": "2016-07-14 00:00:00",
+        "id": 169,
+        "ref_project_type": null,
+        "start_date": "2014-08-26 00:00:00",
+        "title": {
+            "en": "Izvedba delavnic",
+            "si": "Izvedba delavnic"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izvedba-delavnic"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 213,
+        "ref_project_type": null,
+        "start_date": "2016-02-01 00:00:00",
+        "title": {
+            "en": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju",
+            "si": "Arhitekturni vidiki uporabe Openstacka in kontejnerjev v TK okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/arhitekturni-vidiki-uporabe-openstacka-kontejnerjev-v-tk-okolju"
+    },
+    {
+        "end_date": "2014-10-21 00:00:00",
+        "id": 217,
+        "ref_project_type": null,
+        "start_date": "2014-09-30 00:00:00",
+        "title": {
+            "en": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT",
+            "si": "Analiza okoljevarstvenih in regulativnih iniciativ na podro\u010dju zelenega IT"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/analiza-okoljevarstvenih-regulativnih-iniciativ-na-podrocju-zelenega-it"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
+        "end_date": "2013-12-19 00:00:00",
+        "id": 258,
+        "ref_project_type": null,
+        "start_date": "2013-12-19 00:00:00",
+        "title": {
+            "en": "Izobra\u017eevalna delavnica",
+            "si": "Izobra\u017eevalna delavnica"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izobrazevalna-delavnica-0"
+    },
+    {
+        "end_date": "2019-12-31 00:00:00",
+        "id": 360,
+        "ref_project_type": 1,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "HUBLINKED - Strengthening Europe's Software Innovation Capacity",
+            "si": "HUBLINKED - Krepitev evropskih zmogljivosti za inovativnost programske opreme"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/hublinked-krepitev-evropskih-zmogljivosti-za-inovativnost-programske-opreme"
+    },
+    {
+        "end_date": "2018-02-28 00:00:00",
+        "id": 508,
+        "ref_project_type": null,
+        "start_date": "2017-10-26 00:00:00",
+        "title": {
+            "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
+            "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+    },
+    {
+        "end_date": "2020-09-30 00:00:00",
+        "id": 548,
+        "ref_project_type": 6,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "NIO8 - Digital UL - with innovative use of ICT towards excellence",
+            "si": "NIO8 - Digitalna UL - z inovativno uporabo IKT do odli\u010dnosti"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nio8-digitalna-ul-z-inovativno-uporabo-ikt-do-odlicnosti"
+    }
+]

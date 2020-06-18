@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2020-06-30 00:00:00",
+        "id": 231,
+        "ref_project_type": 6,
+        "start_date": "2016-07-07 00:00:00",
+        "title": {
+            "en": "BioPharm.si - BioPharm.SI:Next Generation of Biologics",
+            "si": "BioPharm.si - Razvoj naprednih farmacevtskih in biotehnolo\u0161ko - farmacevtskih oblik in novih dostavnih sistemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/biopharmsi-razvoj-naprednih-farmacevtskih-biotehnolosko-farmacevtskih-oblik-novih-dostavnih"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 372,
+        "ref_project_type": 2,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Development of an open-source platform for multivariate analysis of FTIR data ",
+            "si": "Razvoj odprtokodneprogramske opreme za multivariantno analizo podatkov FTIR"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-odprtokodneprogramske-opreme-za-multivariantno-analizo-podatkov-ftir"
+    }
+]

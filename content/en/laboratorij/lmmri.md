@@ -3,10 +3,24 @@ abbreviation: LMMRI
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 11
-location: Some Random Location
+location: ''
+projects:
+- 29
+- 31
+- 42
+- 91
+- 118
+- 128
+- 202
+- 345
+- 394
+- 415
+- 537
+- 544
+- 1578
+- 1581
+summary: ''
 title: Laboratory for Mathematical Methods in Computer and Information Science
-url: null
 ---
-
-We are involved in research in various spheres of continuous and discrete mathematics. On the one hand our research topics include commutative algebra, linear algebra, nonlinear dynamical systems, Brownian motion, martingales, algebraic topology, computational topology, topological data analysis and scientific computing. On the discrete side of the mathematical spectrum, however, we deal with problems in graph theory, particular the structural and colouring problems of graphs, which are also connected with problems in computational geometry.

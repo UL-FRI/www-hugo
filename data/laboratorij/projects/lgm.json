@@ -1,5 +1,93 @@
 [
     {
+        "end_date": "2011-01-31 00:00:00",
+        "id": 23,
+        "ref_project_type": 5,
+        "start_date": "2008-02-01 00:00:00",
+        "title": {
+            "en": "EtnoKatalog: retrieval of semantic data from folk song and music, based on melodic and metro-rhythmic analysis",
+            "si": "EtnoKatalog: pridobivanje semanti\u010dnih opisov ljudske pesmi in glasbe na podlagi melodi\u010dne in metro-ritmi\u010dne analize"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnokatalog-pridobivanje-semanticnih-opisov-ljudske-pesmi-glasbe-na-podlagi-melodicne-metro"
+    },
+    {
+        "end_date": "2012-09-30 00:00:00",
+        "id": 48,
+        "ref_project_type": 5,
+        "start_date": "2010-10-01 00:00:00",
+        "title": {
+            "en": "Click to Homeland: A multimedia presentation of Slovenian emigrants' cultural heritage on the Web",
+            "si": "Klik v domovino: Multimedijska predstavitev kulturne dedi\u0161\u010dine slovenskih izseljencev na spletu"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/klik-v-domovino-multimedijska-predstavitev-kulturne-dediscine-slovenskih-izseljencev-na"
+    },
+    {
+        "end_date": "2010-08-31 00:00:00",
+        "id": 49,
+        "ref_project_type": 5,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "DIDIKTA - analysis and development of didactics in ICT supported teaching and learning",
+            "si": "DIDIKTA - analiza in razvoj didaktike uporabe IKT pri prou\u010devanju in u\u010denju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/didikta-analiza-razvoj-didaktike-uporabe-ikt-pri-proucevanju-ucenju"
+    },
+    {
+        "end_date": "2011-02-28 00:00:00",
+        "id": 69,
+        "ref_project_type": 1,
+        "start_date": "2008-09-01 00:00:00",
+        "title": {
+            "en": "ASPECT - Adopting standards and specifications for educational content",
+            "si": "ASPECT - Adopting standards and specifications for educational content"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/aspect-adopting-standards-and-specifications-educational-content"
+    },
+    {
+        "end_date": "2017-04-30 00:00:00",
+        "id": 81,
+        "ref_project_type": 1,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "CREA - Network of summer academies for the improvement of entrepreneurship in innovative sectors",
+            "si": "CREA - Mre\u017ea poletnih akademij za izbolj\u0161anje inovativnega podjetni\u0161kega sektorja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/crea-mreza-poletnih-akademij-za-izboljsanje-inovativnega-podjetniskega-sektorja"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 121,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "EtnoFletno - EtnoFletno: Slovenian folk song and music on mobile devices",
+            "si": "EtnoFletno - Slovenska ljudska pesem in glasba na mobilnih napravah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/etnofletno-slovenska-ljudska-pesem-glasba-na-mobilnih-napravah"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 122,
+        "ref_project_type": 6,
+        "start_date": "2014-10-21 00:00:00",
+        "title": {
+            "en": "ZaznajSpoznaj - PerceiveConceive: an application for ICT-supported inclusion of blind and visually impaired youth in society",
+            "si": "ZaznajSpoznaj - Aplikacija za IKT-podprto vklju\u010ditev slepe in slabovidne mladine v dru\u017ebo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/zaznajspoznaj-aplikacija-za-ikt-podprto-vkljucitev-slepe-slabovidne-mladine-v-druzbo"
+    },
+    {
+        "end_date": "2015-09-30 00:00:00",
+        "id": 123,
+        "ref_project_type": 6,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "eEksperimenti - eExperiments - Modern teaching of natural sciences using flexible open source measuring system",
+            "si": "eEksperimenti - Moderno pou\u010devanje naravoslovja z uporaba fleksibilnega merilnega sistema z odprtokodnim programjem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/eeksperimenti-moderno-poucevanje-naravoslovja-z-uporaba-fleksibilnega-merilnega-sistema-z"
+    },
+    {
         "end_date": "2019-12-31 00:00:00",
         "id": 192,
         "ref_project_type": 4,
@@ -75,5 +163,16 @@
             "si": "U\u010dinkovitost razli\u010dnih vrst u\u010dnih opor pri samoregulaciji e-u\u010denja"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/ucinkovitost-razlicnih-vrst-ucnih-opor-pri-samoregulaciji-e-ucenja-0"
+    },
+    {
+        "end_date": "2019-05-30 00:00:00",
+        "id": 1601,
+        "ref_project_type": null,
+        "start_date": "2019-02-05 00:00:00",
+        "title": {
+            "en": "Postavitev storitve Klinker znotraj Arnes oblaka",
+            "si": "Postavitev storitve Klinker znotraj Arnes oblaka"
+        },
+        "url": ""
     }
 ]

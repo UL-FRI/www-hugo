@@ -19,6 +19,9 @@ DefaultContentLanguage = "sl"
         "Ostali nacionalni projekti",
         "Tržni projekti"
       ]
+    [languages.sl.permalinks]
+        osebje = "/osebje/:slug"
+        laboratorij = "/laboratorij/:filename"
 
   [languages.en]
     languageName = "English"
@@ -38,3 +41,6 @@ DefaultContentLanguage = "sl"
               "Ostali nacionalni projekti",
               "Tržni projekti"
             ]
+    [languages.en.permalinks]
+        osebje = "/employees/:slug"
+        laboratorij = "/laboratory/:filename"

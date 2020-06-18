@@ -1,0 +1,46 @@
+[
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 54,
+        "ref_project_type": 2,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Automatic annotation of medical video sequences",
+            "si": "Samodejno ozna\u010devanje medicinskih video zapisov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/samodejno-oznacevanje-medicinskih-video-zapisov"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 203,
+        "ref_project_type": 2,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Signal and information processing systems in sensor networks",
+            "si": "Sistemi za obdelavo signalov in informacij v senzorskih omre\u017ejih"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sistemi-za-obdelavo-signalov-informacij-v-senzorskih-omrezjih"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 564,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "Decomposing cognition: Working memory mechanism and representations",
+            "si": "Razstavljanje kognicije: Mehanizmi in reprezentacije delovnega spomina"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razstavljanje-kognicije-mehanizmi-reprezentacije-delovnega-spomina"
+    },
+    {
+        "end_date": "2019-07-25 00:00:00",
+        "id": 1597,
+        "ref_project_type": null,
+        "start_date": "2019-03-25 00:00:00",
+        "title": {
+            "en": "Hypercomputing for Critical Path Parkinsons Consortium",
+            "si": "Raziskovalno delo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalno-delo"
+    }
+]

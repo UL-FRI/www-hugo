@@ -1,0 +1,57 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 66,
+        "ref_project_type": 1,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "RFID F2F - RFID from Farm to Fork",
+            "si": "RFID F2F - RFID from Farm to Fork"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+    },
+    {
+        "end_date": "2014-09-30 00:00:00",
+        "id": 120,
+        "ref_project_type": 6,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "PKP 1 - Development of advanced analytical tools for improvement of building systems operational efficiency",
+            "si": "PKP 1 - Razvoj naprednih analitskih orodij za optimizacijo delovanja stavbnih sistemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-razvoj-naprednih-analitskih-orodij-za-optimizacijo-delovanja-stavbnih-sistemov"
+    },
+    {
+        "end_date": "2008-07-10 00:00:00",
+        "id": 345,
+        "ref_project_type": null,
+        "start_date": "2008-02-04 00:00:00",
+        "title": {
+            "en": "Izdelava \u0161tudije",
+            "si": "Izdelava \u0161tudije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-studije"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    }
+]

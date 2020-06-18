@@ -1,0 +1,79 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2017-06-30 00:00:00",
+        "id": 47,
+        "ref_project_type": 5,
+        "start_date": "2014-07-01 00:00:00",
+        "title": {
+            "en": "Designed cellular logic",
+            "si": "Na\u010drtovana celi\u010dna logi\u010dna vezja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nacrtovana-celicna-logicna-vezja"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 66,
+        "ref_project_type": 1,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "RFID F2F - RFID from Farm to Fork",
+            "si": "RFID F2F - RFID from Farm to Fork"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+    },
+    {
+        "end_date": "2008-07-10 00:00:00",
+        "id": 345,
+        "ref_project_type": null,
+        "start_date": "2008-02-04 00:00:00",
+        "title": {
+            "en": "Izdelava \u0161tudije",
+            "si": "Izdelava \u0161tudije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-studije"
+    },
+    {
+        "end_date": "2011-05-25 00:00:00",
+        "id": 348,
+        "ref_project_type": null,
+        "start_date": "2010-09-22 00:00:00",
+        "title": {
+            "en": "Razvoj algoritma in analiza signalov",
+            "si": "Razvoj algoritma in analiza signalov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-algoritma-analiza-signalov"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 558,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "ClolesteROR in metabilic liver disease",
+            "si": "HolesteROR pri presnovnih boleznih jeter"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/holesteror-pri-presnovnih-boleznih-jeter"
+    }
+]

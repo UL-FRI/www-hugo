@@ -1,5 +1,126 @@
 [
     {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 9,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 11,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 28,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Computer vision for mobile computing and interaction",
+            "si": "Ra\u010dunalni\u0161ki vid za mobilno procesiranje in interakcijo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-za-mobilno-procesiranje-interakcijo"
+    },
+    {
+        "end_date": "2013-04-30 00:00:00",
+        "id": 31,
+        "ref_project_type": 5,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "Learning a large number of visual object categories for content-based retrieval in image and video databases",
+            "si": "U\u010denje velikega \u0161tevila vizualnih kategorij objektov za poizvedovanje v slikovnih in video podatkovnih zbirkah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-velikega-stevila-vizualnih-kategorij-objektov-za-poizvedovanje-v-slikovnih-video"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 39,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Learning, analysis, and detection of motion in the framework of a hierarchical compositional visual architecture",
+            "si": "U\u010denje, analiza in detekcija gibanja v okviru hierarhi\u010dne kompozicionalne vizualne arhitekture"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-analiza-detekcija-gibanja-v-okviru-hierarhicne-kompozicionalne-vizualne-arhitekture"
+    },
+    {
+        "end_date": "2017-06-30 00:00:00",
+        "id": 46,
+        "ref_project_type": 5,
+        "start_date": "2014-07-01 00:00:00",
+        "title": {
+            "en": "VILLarD - Maintenance of large databases based on visual information using incremental learning",
+            "si": "VILLarD - Vzdr\u017eevanje velikih podatkovnih baz na podlagi vizualne informacije z inkrementalnim u\u010denjem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/villard-vzdrzevanje-velikih-podatkovnih-baz-na-podlagi-vizualne-informacije-z"
+    },
+    {
+        "end_date": "2010-12-31 00:00:00",
+        "id": 67,
+        "ref_project_type": 1,
+        "start_date": "2008-01-01 00:00:00",
+        "title": {
+            "en": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents",
+            "si": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/poeticon-poetics-everyday-life-grounding-resources-and-mechanisms-artificial-agents"
+    },
+    {
+        "end_date": "2012-06-30 00:00:00",
+        "id": 71,
+        "ref_project_type": 1,
+        "start_date": "2008-05-01 00:00:00",
+        "title": {
+            "en": "CogX - Cognitive Systems that Self-Understand and Self-Extend",
+            "si": "CogX - Cognitive Systems that Self-Understand and Self-Extend"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/cogx-cognitive-systems-self-understand-and-self-extend"
+    },
+    {
+        "end_date": "2015-06-30 00:00:00",
+        "id": 97,
+        "ref_project_type": 6,
+        "start_date": "2013-07-26 00:00:00",
+        "title": {
+            "en": "Internacionalizacija UL",
+            "si": "Internacionalizacija UL"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+    },
+    {
+        "end_date": "2014-09-30 00:00:00",
+        "id": 119,
+        "ref_project_type": 6,
+        "start_date": "2014-04-01 00:00:00",
+        "title": {
+            "en": "PKP 1 - \u0160tudija in primerjava naprednih metod ra\u010dunalni\u0161kega vida za modeliranje stopal v realnem okolju",
+            "si": "PKP 1 - \u0160tudija in primerjava naprednih metod ra\u010dunalni\u0161kega vida za modeliranje stopal v realnem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-studija-primerjava-naprednih-metod-racunalniskega-vida-za-modeliranje-stopal-v"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+    },
+    {
         "end_date": "2020-03-31 00:00:00",
         "id": 232,
         "ref_project_type": 6,
@@ -9,6 +130,28 @@
             "si": "GOSTOP - Gradniki, orodja in sistemi za tovarne prihodnosti"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/gostop-gradniki-orodja-sistemi-za-tovarne-prihodnosti"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 387,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Ra\u010dunalni\u0161ki vid in inteligenta robotika za napredne oblike komuniciranja",
+            "si": "PKP 3 - Ra\u010dunalni\u0161ki vid in inteligenta robotika za napredne oblike komuniciranja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-racunalniski-vid-inteligenta-robotika-za-napredne-oblike-komuniciranja"
+    },
+    {
+        "end_date": "2017-09-30 00:00:00",
+        "id": 409,
+        "ref_project_type": 6,
+        "start_date": "2017-06-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 1 - Computer vision on smart phone for augmenting tourist and educational content in local environment",
+            "si": "\u0160IPK 1 - Ra\u010dunalni\u0161ki vid na pametnih telefonih za obogatitev turisti\u010dnih in izobra\u017eevalnih vsebin v lokalnem okolju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-1-racunalniski-vid-na-pametnih-telefonih-za-obogatitev-turisticnih-izobrazevalnih"
     },
     {
         "end_date": null,
@@ -33,6 +176,28 @@
         "url": "https://fri.uni-lj.si/sl/projekti/robustne-metode-racunalniskega-vida-za-avtonomna-robotska-plovila"
     },
     {
+        "end_date": "2018-08-31 00:00:00",
+        "id": 522,
+        "ref_project_type": 6,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "PKP 4 - TraPri - Tradition Meets the Future - Computer Vision and Augmented Reality for the Preservation and Promotion of Natural and Cultural Heritage",
+            "si": "PKP 4 - Tradicija sre\u010da prihodnost \u2013 ra\u010dunalni\u0161ki vid in obogatena resni\u010dnost za ohranjanje ter promocijo naravne in kulturne dedi\u0161\u010dine"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-tradicija-sreca-prihodnost-racunalniski-vid-obogatena-resnicnost-za-ohranjanje-ter"
+    },
+    {
+        "end_date": "2018-10-31 00:00:00",
+        "id": 540,
+        "ref_project_type": null,
+        "start_date": "2018-07-06 00:00:00",
+        "title": {
+            "en": "Razvoj programske opreme za klasifikacijo desk",
+            "si": "Razvoj programske opreme za klasifikacijo desk"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-programske-opreme-za-klasifikacijo-desk"
+    },
+    {
         "end_date": "2021-06-30 00:00:00",
         "id": 560,
         "ref_project_type": 5,
@@ -42,5 +207,27 @@
             "si": "Iskanje nekonsistentnosti v kompleksnih slikovnih podatkih z globokim u\u010denjem"
         },
         "url": "https://fri.uni-lj.si/sl/projekti/iskanje-nekonsistentnosti-v-kompleksnih-slikovnih-podatkih-z-globokim-ucenjem"
+    },
+    {
+        "end_date": "2019-06-14 00:00:00",
+        "id": 1572,
+        "ref_project_type": null,
+        "start_date": "2018-06-14 00:00:00",
+        "title": {
+            "en": "Development of shoe size recommendation algorithms ",
+            "si": "Razvoj algoritmov priporo\u010dil velikosti \u010devljev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-algoritmov-priporocil-velikosti-cevljev"
+    },
+    {
+        "end_date": "2009-04-30 00:00:00",
+        "id": 1576,
+        "ref_project_type": null,
+        "start_date": "2005-05-01 00:00:00",
+        "title": {
+            "en": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network",
+            "si": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/visiontrain-computational-and-cognitive-vision-systems-training-european-network"
     }
 ]

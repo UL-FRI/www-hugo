@@ -1,11 +1,12 @@
 ---
 abbreviation: LAPS
-bannerImg: null
-bannerText: null
+bannerImg: ''
+bannerText: ''
 draft: false
+externalLink: ''
 id: 3
-location: Some Random Location
+location: ''
+projects: []
+summary: ''
 title: Laboratorij za arhitekturo in procesiranje signalov
 ---
-
-None

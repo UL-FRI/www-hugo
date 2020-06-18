@@ -1,0 +1,101 @@
+[
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 9,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+    },
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 11,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 28,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Computer vision for mobile computing and interaction",
+            "si": "Ra\u010dunalni\u0161ki vid za mobilno procesiranje in interakcijo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-za-mobilno-procesiranje-interakcijo"
+    },
+    {
+        "end_date": "2013-04-30 00:00:00",
+        "id": 31,
+        "ref_project_type": 5,
+        "start_date": "2010-05-01 00:00:00",
+        "title": {
+            "en": "Learning a large number of visual object categories for content-based retrieval in image and video databases",
+            "si": "U\u010denje velikega \u0161tevila vizualnih kategorij objektov za poizvedovanje v slikovnih in video podatkovnih zbirkah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-velikega-stevila-vizualnih-kategorij-objektov-za-poizvedovanje-v-slikovnih-video"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 39,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Learning, analysis, and detection of motion in the framework of a hierarchical compositional visual architecture",
+            "si": "U\u010denje, analiza in detekcija gibanja v okviru hierarhi\u010dne kompozicionalne vizualne arhitekture"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-analiza-detekcija-gibanja-v-okviru-hierarhicne-kompozicionalne-vizualne-arhitekture"
+    },
+    {
+        "end_date": "2010-12-31 00:00:00",
+        "id": 67,
+        "ref_project_type": 1,
+        "start_date": "2008-01-01 00:00:00",
+        "title": {
+            "en": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents",
+            "si": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/poeticon-poetics-everyday-life-grounding-resources-and-mechanisms-artificial-agents"
+    },
+    {
+        "end_date": "2012-06-30 00:00:00",
+        "id": 71,
+        "ref_project_type": 1,
+        "start_date": "2008-05-01 00:00:00",
+        "title": {
+            "en": "CogX - Cognitive Systems that Self-Understand and Self-Extend",
+            "si": "CogX - Cognitive Systems that Self-Understand and Self-Extend"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/cogx-cognitive-systems-self-understand-and-self-extend"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 560,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "Detection of inconsistencies in complex visual data using deep learning",
+            "si": "Iskanje nekonsistentnosti v kompleksnih slikovnih podatkih z globokim u\u010denjem"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/iskanje-nekonsistentnosti-v-kompleksnih-slikovnih-podatkih-z-globokim-ucenjem"
+    },
+    {
+        "end_date": "2009-04-30 00:00:00",
+        "id": 1576,
+        "ref_project_type": null,
+        "start_date": "2005-05-01 00:00:00",
+        "title": {
+            "en": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network",
+            "si": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/visiontrain-computational-and-cognitive-vision-systems-training-european-network"
+    }
+]

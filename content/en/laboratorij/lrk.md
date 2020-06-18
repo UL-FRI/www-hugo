@@ -3,10 +3,42 @@ abbreviation: LRK
 bannerImg: ''
 bannerText: ''
 draft: false
+externalLink: ''
 id: 13
-location: Some Random Location
+location: ''
+projects:
+- 86
+- 97
+- 145
+- 146
+- 169
+- 170
+- 175
+- 205
+- 213
+- 217
+- 222
+- 230
+- 231
+- 233
+- 253
+- 256
+- 257
+- 258
+- 259
+- 260
+- 262
+- 263
+- 264
+- 355
+- 360
+- 367
+- 491
+- 495
+- 508
+- 525
+- 548
+- 1566
+summary: ''
 title: Computer Communications Laboratory
-url: null
 ---
-
-Our research is focused on communication networks and protocols, cloud architectures and services, cloud and network security, virtualization, ICT sustainability, computer supported learning systems and the use of agile methodologies. We have researched the orchestration of complex virtual environments, container orchestration, examined SDN and NFV and their use in cloud environments, and developed our own virtual cloud laboratory. Our latest project focuses on carrier-grade cloud solutions for large telco providers.

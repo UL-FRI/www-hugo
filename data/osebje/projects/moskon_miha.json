@@ -1,0 +1,101 @@
+[
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 15,
+        "ref_project_type": 4,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Pervasive Computing",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+    },
+    {
+        "end_date": "2012-04-30 00:00:00",
+        "id": 28,
+        "ref_project_type": 5,
+        "start_date": "2009-05-01 00:00:00",
+        "title": {
+            "en": "Computer vision for mobile computing and interaction",
+            "si": "Ra\u010dunalni\u0161ki vid za mobilno procesiranje in interakcijo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-za-mobilno-procesiranje-interakcijo"
+    },
+    {
+        "end_date": "2017-06-30 00:00:00",
+        "id": 47,
+        "ref_project_type": 5,
+        "start_date": "2014-07-01 00:00:00",
+        "title": {
+            "en": "Designed cellular logic",
+            "si": "Na\u010drtovana celi\u010dna logi\u010dna vezja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nacrtovana-celicna-logicna-vezja"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 201,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Medical Images Compression",
+            "si": "Kompresija medicinskih slik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/kompresija-medicinskih-slik"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 386,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Razvoj INFOrmacijskega sistema za sledenje, analizo in vodenje vzorcev na podro\u010dju funkcijske GENomike",
+            "si": "PKP 3 - Razvoj INFOrmacijskega sistema za sledenje, analizo in vodenje vzorcev na podro\u010dju funkcijske GENomike"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-razvoj-informacijskega-sistema-za-sledenje-analizo-vodenje-vzorcev-na-podrocju"
+    },
+    {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 517,
+        "ref_project_type": 6,
+        "start_date": "2018-03-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 2 - InfoZdrav: Information System for the Management of Samples, Material and Chemicals in Health Care",
+            "si": "\u0160IPK 2 - Informacijski sistem za sledenje vzorcev, materiala in kemikalij v zdravstvu"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-2-informacijski-sistem-za-sledenje-vzorcev-materiala-kemikalij-v-zdravstvu"
+    },
+    {
+        "end_date": "2018-08-31 00:00:00",
+        "id": 521,
+        "ref_project_type": 6,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "PKP 4 - IdentGen: Computational Support for Identification of Genetic Predispositions and Diagnosis of Complex Diseases",
+            "si": "PKP 4 - Ra\u010dunalni\u0161ka podpora za identifikacijo genskih predispozicij in diagnostiko kompleksnih bolezni"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-racunalniska-podpora-za-identifikacijo-genskih-predispozicij-diagnostiko-kompleksnih"
+    },
+    {
+        "end_date": "2023-12-31 00:00:00",
+        "id": 525,
+        "ref_project_type": 4,
+        "start_date": "2018-01-01 00:00:00",
+        "title": {
+            "en": "Vseprisotno ra\u010dunalni\u0161tvo",
+            "si": "Vseprisotno ra\u010dunalni\u0161tvo"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 558,
+        "ref_project_type": 5,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "ClolesteROR in metabilic liver disease",
+            "si": "HolesteROR pri presnovnih boleznih jeter"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/holesteror-pri-presnovnih-boleznih-jeter"
+    }
+]

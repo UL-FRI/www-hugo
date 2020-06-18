@@ -3,9 +3,8 @@
 <div class="list-katedra">
 	<ul>
 		{{ range (index $.Site.Data.laboratorij.members $file)}}
-		{{- $url := replace (printf "/osebje/%s_%s" (lower .name) (lower .surname)) " " "_" }}
 
-		<li><a href={{ $url | relURL}}>
+		<li><a href="{{if eq $.Site.Language.Lang "en" }}{{ printf "/employees/%s" .slug | relURL }}{{else}}{{ printf "/osebje/%s" .slug | relURL}}{{ end }}">
 			{{ .name }} {{ .surname }}
 			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ i18n "labHead" }} {{ end }}
 		</a></li>

@@ -1,0 +1,156 @@
+[
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi-0"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 53,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Integration of data mining and high-performance computer modeling for coronary artery disease",
+            "si": "Integracija odkrivanja zakonitosti v podatkih in visoko-zmogljivega ra\u010dunalni\u0161kega modeliranja sr\u010dno-\u017eilnih bolezni"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/integracija-odkrivanja-zakonitosti-v-podatkih-visoko-zmogljivega-racunalniskega-modeliranja"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 55,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Electricity load forecasting supported by prediction explanation and prediction reliability estimates",
+            "si": "Napovedovanje porabe elektri\u010dne energije, podprto z razlago in oceno zanesljivosti napovedi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/napovedovanje-porabe-elektricne-energije-podprto-z-razlago-oceno-zanesljivosti-napovedi"
+    },
+    {
+        "end_date": "2011-12-31 00:00:00",
+        "id": 56,
+        "ref_project_type": 2,
+        "start_date": "2010-01-01 00:00:00",
+        "title": {
+            "en": "Machine learning of imbalanced data",
+            "si": "Strojno u\u010denje neuravnote\u017eenih podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-neuravnotezenih-podatkov"
+    },
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 61,
+        "ref_project_type": 2,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Computer based modeling in bioinformatics for gene based cancer classification focused on reliability and machine learning",
+            "si": "Ra\u010dunalni\u0161ko modeliranje v bioinformatiki za gensko klasifikacijo raka s poudarkom na zanesljivosti in strojnem u\u010denju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/racunalnisko-modeliranje-v-bioinformatiki-za-gensko-klasifikacijo-raka-s-poudarkom-na"
+    },
+    {
+        "end_date": "2015-12-31 00:00:00",
+        "id": 63,
+        "ref_project_type": 2,
+        "start_date": "2014-05-01 00:00:00",
+        "title": {
+            "en": "Supervised and unsupervised learning from imbalanced datasets for assistance in movement of persons with low vision",
+            "si": "Nadzorovano in nenadzorovano u\u010denje iz neuravnove\u0161enih podatkov za pomo\u010d pri gibanju slabovidnim osebam"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/nadzorovano-nenadzorovano-ucenje-iz-neuravnovesenih-podatkov-za-pomoc-pri-gibanju"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 125,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Tourist guide on the basis of a treasure hunting game",
+            "si": "PKP 2 - Turisti\u010dni vodi\u010d na podlagi igre \"Lov za skritim zakladom\""
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-turisticni-vodic-na-podlagi-igre-lov-za-skritim-zakladom"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 199,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Intelligent computer techniques for improving medical detection, analysis and explanation of human cognition and behavior disorders",
+            "si": "Inteligentne ra\u010dunalni\u0161ke metode za izbolj\u0161anje zaznavanja, analize in razlage kognitivnih motenj obna\u0161anja pri \u010dloveku"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/inteligentne-racunalniske-metode-za-izboljsanje-zaznavanja-analize-razlage-kognitivnih"
+    },
+    {
+        "end_date": "2017-12-31 00:00:00",
+        "id": 200,
+        "ref_project_type": 2,
+        "start_date": "2016-02-04 00:00:00",
+        "title": {
+            "en": "Automatic detection and localization of ischemia by the use of data mining algorithms",
+            "si": "Avtomatsko zaznavanje in lokalizacija ishemij z uporabo algoritmov podatkovnega rudarjenja"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/avtomatsko-zaznavanje-lokalizacija-ishemij-z-uporabo-algoritmov-podatkovnega-rudarjenja"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 384,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Lo\u010devanje odpadkov na mobilni napravi",
+            "si": "PKP 3 - Lo\u010devanje odpadkov na mobilni napravi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-locevanje-odpadkov-na-mobilni-napravi"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 385,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov",
+            "si": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-video-meritve-dolzin-smucarskih-skokov"
+    },
+    {
+        "end_date": null,
+        "id": 491,
+        "ref_project_type": null,
+        "start_date": "2017-08-23 00:00:00",
+        "title": {
+            "en": "Krovna pogodba o poslovenem sodelovanju",
+            "si": "Krovna pogodba o poslovenem sodelovanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+    },
+    {
+        "end_date": "2019-03-31 00:00:00",
+        "id": 531,
+        "ref_project_type": null,
+        "start_date": "2018-04-06 00:00:00",
+        "title": {
+            "en": "Research agreement: Scalable Machine Learning in the Cloud",
+            "si": "Raziskovalna pogodba: U\u010dinkovito strojno u\u010denje v oblaku"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalna-pogodba-ucinkovito-strojno-ucenje-v-oblaku"
+    },
+    {
+        "end_date": "2018-09-15 00:00:00",
+        "id": 534,
+        "ref_project_type": 6,
+        "start_date": "2018-06-15 00:00:00",
+        "title": {
+            "en": "\u0160IPK 3 - An Introduction to the Video Distance Measuring of Ski Jumps in Menge\u0161 Ski Jumping Club ",
+            "si": "\u0160IPK 3 - Vzor\u010dna vpeljava video meritev dol\u017ein smu\u010darskih skokov v Smu\u010darsko skakalnem klubu Menge\u0161"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/sipk-3-vzorcna-vpeljava-video-meritev-dolzin-smucarskih-skokov-v-smucarsko-skakalnem-klubu"
+    }
+]
