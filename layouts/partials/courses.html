@@ -1,3 +1,4 @@
+{{ if gt (len .Params.courses) 0 }}
 <div class="aboutMainSectionContainer">
     <div class="aboutMainSectionTitle">{{ i18n "class" 0 }}</div>
     <div class="aboutMainSectionLi">
@@ -18,4 +19,5 @@
         </ul>
     </div>
 </div>
+{{ end }}
 

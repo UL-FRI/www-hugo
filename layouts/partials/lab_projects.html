@@ -1,3 +1,4 @@
+{{ if gt (len .Params.projects) 0 }}
 {{- $file := printf "%s" (lower .Params.abbreviation) -}}
 {{- $projects := .Params.projects }}
 {{- $indexes := slice }}
@@ -46,3 +47,4 @@
         {{ end }}
     </ul>
 </div>
+{{ end }}
