@@ -15,18 +15,21 @@
                     <div class="content">
                         <div id="banner-header" class="container">
                             <div class="breadcrumbs">
+                                {{if eq $.Site.Language.Lang "sl"}}
                                 <a href="{{ "/" | relURL }}">{{ i18n "home" }}</a>
-
                                 <span>></span>
-                                <a href="{{ "/poslanstvo-vizija" | relURL}}"> {{ i18n "about" }}</a>
-
+                                <a href="{{ "/poslanstvo-vizija" | relURL}}"> {{ humanize (i18n "about") }}</a>
                                 <span>></span>
                                 <a href="{{ "/o-fakulteti/osebje" | relURL}}"> {{ i18n "employees" }}</a>
-
                                 <span>></span>
-
-
-
+                                {{else}}
+                                <a href="{{ "/" | relURL }}">{{ i18n "home" }}</a>
+                                <span>></span>
+                                <a href="{{ "/about" | relURL}}"> {{ humanize (i18n "about") }}</a>
+                                <span>></span>
+                                <a href="{{ "/about-faculty/employees" | relURL}}"> {{ i18n "employees" }}</a>
+                                <span>></span>
+                                {{end}}
 
                             </div>	<div class="left-container-text">
                             <div class="wrap-text flex-space-between">
@@ -105,7 +108,7 @@
                                     <div class="aboutMainSectionLi">
                                         <ul class="customList">
                                             <li>
-                                                {{ if eq $.Site.Language.Lang "en" }}
+                                                {{ if eq $.Site.Language.Lang "sl" }}
                                                 <a href="{{ with .Params.labURL }}{{ (printf "/laboratorij/%s" .) | relURL}}{{end}}"><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
                                                 {{ else }}
                                                 <a href="{{ with .Params.labURL }}{{ (printf "/laboratory/%s" .) | relURL}}{{end}}"><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
