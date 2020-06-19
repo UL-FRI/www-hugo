@@ -4,8 +4,11 @@
 <div style="position: relative">
     <div id="mobile-menu-backgroud-dark"></div>
 
-    {{ partial "header.html" .}}
-
+    {{ if eq $.Site.Language.Lang "en" }}
+    {{ partial "header-en.html" .}}
+    {{else}}
+    {{ partial "header-sl.html" .}}
+    {{end}}
     <div class="region region-content">
         <div id="block-system-main" class="block block-system">
             <div class="content">
@@ -24,15 +27,16 @@
 
                             <div class="contactInfo">
 
-                                <div class="info-lab">
+                                {{with .Params.location }}<div class="info-lab">
                                     <span style="color: #999999">{{ i18n "_location" }}:</span>
-                                    <span style="padding-left: 12px">{{ .Params.location }}</span>
-                                </div>
+                                    <span style="padding-left: 12px">{{ . }}</span>
+                                </div>{{ end }}
 
+                                {{if .Params.externalLink}}
                                 <div class="info-lab">
                                     <span style="color: #999999">{{ i18n "_link" 0 }}:</span>
-                                    <span style="padding-left: 12px"><a href="{{ .Params.url | relURL }}">{{ .Params.acronym }}</a></span>
-                                </div>
+                                    <span style="padding-left: 12px"><a href="{{ .Params.externalLink | relURL }}">{{ .Params.acronym }}</a></span>
+                                </div>{{end}}
 
                             </div>
 
@@ -42,8 +46,8 @@
 
                                 <div class="katedra-item">
                                     <div class="laboratorijOpis">
-                                        <div id="katedre-quote">{{ .Content }}</div>
-                                        <div>&nbsp;</div>
+                                        {{with .Params.summary }}<p><div id="katedre-quote">{{ . }}</div></p><p>&nbsp;</p>{{end}}
+                                        <div>{{ .Content }}</div>
                                     </div>
                                 </div>
 
@@ -72,12 +76,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        {{ if eq .Site.Language.Lang "sl"}}
-                            {{ partial "side_lab.sl.html" . }}
-                        {{else}}
-                            {{ partial "side_lab.en.html" . }}
-                        {{end}}
 
                     </div>
                 </div>

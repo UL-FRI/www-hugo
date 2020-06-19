@@ -1,4 +1,6 @@
 DefaultContentLanguage = "sl"
+[markup.goldmark.renderer]
+unsafe= true
 
 [languages]
   [languages.sl]
