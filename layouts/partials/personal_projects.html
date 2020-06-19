@@ -1,12 +1,20 @@
-{{- $file_now := printf "%s" (lower .Params.fixName) -}}
-{{- $file_end := printf "%s_end" (lower .Params.fixName) -}}
-
+{{- $file := printf "%s" (lower .Params.fileName) -}}
+{{- $projects := .Params.projects }}
+{{- $indexes := slice }}
+{{ range (index $.Site.Data.osebje.projects $file) }}
+    {{- $tempID := .id -}}
+    {{ range $projects}}
+        {{ if eq (int $tempID) (int .) }}
+            {{$indexes = $indexes | append (slice $tempID)}}
+        {{ end }}
+    {{ end }}
+{{ end }}
 <div class="aboutMainSectionLi">
     <div class="aboutMainSectionTitle">{{ i18n "_project" 0 }}</div>
     <div class="title-small-gray"></div>
     <ul class="customList">
-
-        {{ range (index $.Site.Data.osebje.projects $file_now)}}
+        {{ range (index $.Site.Data.osebje.projects $file) }}
+        {{ if and (in $indexes .id) (gt (time .end_date) now) }}
         <li>
             <a href="{{ with .url }}{{.}}{{end}}">
                 <span>{{ if eq .Site.Language.Lang "en"}}{{with .title.en}}{{.}}{{end}}{{else}}{{.title.si}}{{end}}</span>
@@ -15,12 +23,13 @@
             {{with .start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
-
+        {{ end }}
     </ul>
-    <div class="title-small-gray">{{ i18n "past"}} {{ i18n "_project" 0 }}</div>
+    <div class="title-small-gray" style="margin-top: 10px">{{ i18n "past"}} {{ i18n "_project" 0 }}</div>
     <ul class="customList">
 
-        {{ range (index $.Site.Data.osebje.projects $file_end)}}
+        {{ range (index $.Site.Data.osebje.projects $file) }}
+        {{ if and (in $indexes .id) (lt (time .end_date) now) }}
         <li>
             <a href="{{ with .url }}{{.}}{{end}}">
                 <span>{{ if eq .Site.Language.Lang "en"}}{{with .title.en}}{{.}}{{end}}{{else}}{{.title.si}}{{end}}</span>
@@ -29,6 +38,6 @@
             {{with .start_date}}<span style='font-size: 12px; cursor:default; color:black;'>{{ partial "dateReformat.html" . }}{{end}} - {{with .end_date}}{{ partial "dateReformat.html" . }}{{end}}</span>
         </li>
         {{ end }}
-
+        {{ end }}
     </ul>
 </div>

@@ -7202,5 +7202,14 @@
     },
     "url": "https://fri.uni-lj.si/sl/predmet/uvod-v-odkrivanje-znanj-iz-podatkov",
     "programmes": []
+  },
+  {
+    "course_code": "63566",
+    "title": {
+      "sl": "Strojno u\u010denje za podatkovne vede 1",
+      "en": "Machine Learning for Data Science 1"
+    },
+    "url": "",
+    "programmes": []
   }
 ]

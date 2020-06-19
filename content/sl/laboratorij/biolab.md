@@ -5,7 +5,7 @@ bannerText: ''
 draft: false
 externalLink: ''
 id: 4
-location: ''
+location: 'R3.20, R3.21 in R3.22'
 projects:
 - 3
 - 6

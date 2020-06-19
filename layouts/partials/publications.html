@@ -1,9 +1,9 @@
-{{- $file_now := printf "%s" (lower .Params.fixName) -}}
-{{- $check := printf "./data/osebje/biblio/%s.json" (lower .Params.fixName) -}}
+{{- $file := .Params.fileName -}}
+{{- $check := printf "./data/osebje/publ/%s.json" .Params.fileName -}}
 {{ if (fileExists $check) }}
 <div class="aboutMainSectionTitle">{{ i18n "publications" }}</div>
 <div class="description-stuff publications">
-    {{ range first 10 (index $.Site.Data.osebje.biblio $file_now).entries }}
+    {{ range (index $.Site.Data.osebje.publ $file).entries }}
         {{ partial "citationFormat.html" . }}
     {{ end }}
     <p>&nbsp;</p>

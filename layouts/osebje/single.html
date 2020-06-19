@@ -62,24 +62,32 @@
                                 <div id="profTitle">{{ .Params.profTitle }}<br/></div>
                                 <div class="grayDots"></div>
                                 <div class="contactInfo">
+                                    {{ if .Params.telephoneInfo }}
                                     <div id="telephoneInfo">
                                         <span style="color: #999999">T:</span>
                                         <span style="padding-left: 12px">{{ .Params.telephoneInfo }}</span>
                                     </div>
+                                    {{ end }}
+                                    {{ if .Params.mailInfo }}
                                     <div id="mailInfo">
                                         <span style="color: #999999">E:</span>
                                         <span style="padding-left: 12px">{{ .Params.mailInfo }}</span>
                                     </div>
+                                    {{ end }}
                                 </div>
                                 <div class="contactInfo2">
+                                    {{if .Params.officeHours }}
                                     <div id="telephoneInfo">
                                         <span style="color: #999999">{{ i18n "officeHours" }}:</span>
                                         <span style="padding-left: 12px">{{ .Params.officeHours }}</span>
                                     </div>
+                                    {{ end }}
+                                    {{ if .Params.location}}
                                     <div id="mailInfo">
                                         <span style="color: #999999">{{ i18n "room" }}:</span>
                                         <span style="padding-left: 12px">{{ .Params.location }}</span>
                                     </div>
+                                    {{ end }}
                                 </div>
 
                                 <div class="grayDots"></div>
@@ -97,7 +105,11 @@
                                     <div class="aboutMainSectionLi">
                                         <ul class="customList">
                                             <li>
+                                                {{ if eq $.Site.Language.Lang "en" }}
                                                 <a href="{{ with .Params.labURL }}{{ (printf "/laboratorij/%s" .) | relURL}}{{end}}"><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
+                                                {{ else }}
+                                                <a href="{{ with .Params.labURL }}{{ (printf "/laboratory/%s" .) | relURL}}{{end}}"><b>{{ .Params.lab }}</b>, {{ .Params.labPos }}</a>
+                                                {{ end }}
                                             </li>
                                         </ul>
                                     </div>
