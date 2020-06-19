@@ -53,13 +53,17 @@ Our aim is to design intuitive, useful, and visually appealing approaches for bo
 * anthropology, psychology
 * spectroscopy,
 * image and network analytics,
-* business analytics.
+* business analytics. 
 
+<br>
+<br>
 Our partners come from renowned institutions, such as Baylor College of Medicine in Houston, Harvard University from Boston, SOLEIL from Paris, University of Pavia, Higher School of Economics in Moscow, and Francis Crick Institute from London. With a range of computational servers, GPUs, and disk arrays, the group is well-equipped for data- and computation-intensive tasks.
-
+<br>
+<br>
 The lab develops Orange (GitHub repository), a comprehensive machine learning and data visualization suite that also offers most of the methods we have invented in an easy-to-use visual programming environment. With over several thousand weekly users, Orange has a vibrant user base, and is one of the largest open source visualization-driven data science environments. (Check out Orange videos for tutorials and overview!) We also collaborate in the development of cool interactive web-based data exploration platforms like dictyExpress. Recently, the lab has set up a database and analytics infrastructure for COVID-19 research.
-
+<br>
+<br>
 We take pride in teaching excellence. We regularly teach courses from introductory data mining to deeper and more advanced topics, at our home faculty and at prestigious institutions like Baylor College of Medicine, Houston, and Higher School of Economics, Moscow. We also offer seminars and workshops to diverse groups from education for state institutions to in-company training. We are active in the promotion of general computer science to the lay public, and participate in all kinds of activities, from science festivals to summer schools and code weeks.
-
-
+<br>
+<br>
 {{< labImg src="/lab_images/biolab/telco_tsne_boxplot.png" >}}
