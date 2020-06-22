@@ -16,6 +16,6 @@
     {{ range $all }}
         {{ $k := index . 0 }}
         {{ $v := index . 1 }}
-        {{if eq $index 0}} [{{end}}<a href="{{$v}}">{{$k}}</a>{{ $index = add $index 1 }}{{if lt $index $len}}|{{else}}]{{end}}
+        {{if eq $index 0}} [{{end}}<a href="{{$v}}">{{$k}}</a>{{ $index = add $index 1 }}{{if lt $index $len}} |{{else}}]{{end}}
     {{ end }}
 </p>
