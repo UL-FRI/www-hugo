@@ -22,7 +22,7 @@ unsafe= true
         "Tržni projekti"
       ]
     [languages.sl.permalinks]
-        osebje = "/osebje/:slug"
+        osebje = "/o-fakulteti/osebje/:slug"
         laboratorij = "/laboratorij/:filename"
 
   [languages.en]

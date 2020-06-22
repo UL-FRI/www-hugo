@@ -1,7 +1,8 @@
 {{ $len := len .authors }}
 <p class="ltejustify">
-    {{ .authors }}
-    {{ .title }}. {{ .publication }}.
+    <strong>{{ .title }}</strong><br>
+    {{ .authors }}<br>
+    {{ .publication }}<br>
 
     {{ $all := slice }}
     {{ range $k, $v := .links}}

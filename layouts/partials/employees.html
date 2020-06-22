@@ -4,7 +4,7 @@
 	<ul>
 		{{ range (index $.Site.Data.laboratorij.members $file)}}
 
-		<li><a href="{{if eq $.Site.Language.Lang "en" }}{{ printf "/employees/%s" .slug | relURL }}{{else}}{{ printf "/osebje/%s" .slug | relURL}}{{ end }}">
+		<li><a href="{{if eq $.Site.Language.Lang "en" }}{{ printf "/employees/%s" .slug | relURL }}{{else}}{{ printf "/o-fakulteti/osebje/%s" .slug | relURL}}{{ end }}">
 			{{ .name }} {{ .surname }}
 			{{ if eq "Predstojnik laboratorija" .position.sl}}, {{ i18n "labHead" }} {{ end }}
 		</a></li>
