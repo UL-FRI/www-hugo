@@ -27,7 +27,7 @@ unsafe= true
 
   [languages.en]
     languageName = "English"
-    baseURL = "https://hugo.fri.uni-lj.si"
+    baseURL = "https://hugo.fri.uni-lj.si/en"
     contentDir = "content/en"
     title = "Hugo FRI website"
     languageCode = "en-US"
