@@ -5,7 +5,7 @@ unsafe= true
 [languages]
   [languages.sl]
     languageName = "Slovenščina"
-    baseURL = "https://www-hugo.netlify.com/hugo/sl"
+    baseURL = "https://hugo.fri.uni-lj.si"
     contentDir = "content/sl"
     title = "Hugo FRI spletna stran"
     weight = 0
@@ -27,7 +27,7 @@ unsafe= true
 
   [languages.en]
     languageName = "English"
-    baseURL = "https://www-hugo.netlify.com/hugo/en"
+    baseURL = "https://hugo.fri.uni-lj.si"
     contentDir = "content/en"
     title = "Hugo FRI website"
     languageCode = "en-US"
