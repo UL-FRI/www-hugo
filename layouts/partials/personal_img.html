@@ -1,4 +1,4 @@
-{{- $url := printf "/photos/%s.jpeg" .Params.fileName -}}
+{{- $url := printf "%sphotos/%s.jpeg" (.Permalink | relURL) .Params.fileName -}}
 <div>
-    <div style='background-image:url({{ $url | relURL }})' class="os-image"></div>
+    <div style='background-image:url({{ $url }})' class="os-image"></div>
 </div>

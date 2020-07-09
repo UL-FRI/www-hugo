@@ -1,3 +1,4 @@
 {{ if .Get "src"}}
-<img alt="" height="522" src="{{.Get "src" | relURL}}" width="600">
+{{- $url := printf "%simages/%s" ( .Page.Permalink | relURL) (.Get "src") -}}
+<img alt="" height="522" src="{{ $url }}" width="600">
 {{ end }}

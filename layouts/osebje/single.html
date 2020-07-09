@@ -107,6 +107,8 @@
 
                                 {{ partial "courses.html" . }}
 
+
+                                {{ if .Params.lab }}
                                 <div class="aboutMainSectionContainer">
                                     <div class="aboutMainSectionTitle">{{ i18n "laboratory" 1 }}</div>
                                     <div class="aboutMainSectionLi">
@@ -121,6 +123,7 @@
                                         </ul>
                                     </div>
                                 </div>
+                                {{ end }}
 
                                 <div class="aboutMainSectionContainer">
 
