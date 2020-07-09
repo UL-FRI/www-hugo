@@ -1,6 +1,6 @@
 import json
 import frontmatter
-import re
+import os
 from PIL import Image
 import io
 from os import path
@@ -44,12 +44,32 @@ def compare_names(name1, name2):
 
     if fixed_name1.replace(" ","").lower() == fixed_name2.replace(" ", "").lower():
         fname = get_file_name(fixed_name1)
-        fname_sl = './content/sl/osebje/' + fname + '.md'
-        fname_en = './content/en/osebje/' + fname + '.md'
+
+        folderName_sl = './content/sl/osebje/' + fname
+        folderName_en = './content/en/osebje/' + fname
+
+
+
+        fname_sl = folderName_sl + '/index.md'
+        fname_en = folderName_en + '/index.md'
 
         if not path.isfile(fname_sl):
+            try:
+                os.mkdir(folderName_sl)
+            except OSError:
+                print("Creation of the directory %s failed" % folderName_sl)
+            else:
+                print("Successfully created the directory %s " % folderName_sl)
             copyfile('./structJSON/template_personal.md', fname_sl)
+
         if not path.isfile(fname_en):
+            try:
+                os.mkdir(folderName_en)
+            except OSError:
+                print("Creation of the directory %s failed" % folderName_en)
+            else:
+                print("Successfully created the directory %s " % folderName_en)
+
             copyfile('./structJSON/template_personal.md', fname_en)
 
         return True
@@ -88,11 +108,28 @@ def get_file_name(string):
 
 def save_image(filename, imgsrc):
     imgsrc = str(imgsrc)
-    imgname = './photos/' + filename + '.jpeg'
+    imgnameSl = './content/sl/osebje/' + filename + '/photos/'
+    imgnameEn = './content/en/osebje/' + filename + '/photos/'
+
+    try:
+        os.mkdir(imgnameSl)
+    except OSError:
+        print("Creation of the directory %s failed" % imgnameSl)
+    else:
+        print("Successfully created the directory %s " % imgnameSl)
+
+    try:
+        os.mkdir(imgnameEn)
+    except OSError:
+        print("Creation of the directory %s failed" % imgnameEn)
+    else:
+        print("Successfully created the directory %s " % imgnameEn)
+
     imgsrc = imgsrc.replace("data:image/png;base64,", "")
 
     im = Image.open(io.BytesIO(base64.b64decode(imgsrc)))
-    im.save(imgname, 'JPEG')
+    im.save(imgnameSl + filename + '.jpeg', 'JPEG')
+    im.save(imgnameEn + filename + '.jpeg', 'JPEG')
 
 
 def json_to_md(persons, staff_desc, indexes, names):
@@ -104,8 +141,8 @@ def json_to_md(persons, staff_desc, indexes, names):
         # persons[a] is same person as c
         if m != -1:
             fix_name = get_file_name(b)
-            fname_sl = './content/sl/osebje/' + fix_name + '.md'
-            fname_en = './content/en/osebje/' + fix_name + '.md'
+            fname_sl = './content/sl/osebje/' + fix_name + '/index.md'
+            fname_en = './content/en/osebje/' + fix_name + '/index.md'
 
             with io.open(fname_sl, 'r', encoding='utf8') as f, io.open(fname_en, 'r', encoding='utf8') as f_en:
                 person_json = persons[m]
@@ -179,6 +216,20 @@ def json_to_md(persons, staff_desc, indexes, names):
 
                 if person_json['picture'] is not None:
                     save_image(fix_name, person_json['picture'])
+
+                    post_md_en['resources'] = [
+                        {
+                            "src": "photos/" + fix_name + '.jpeg',
+                            "name": "Personal photo"
+                        }
+                    ]
+
+                    post_md_sl['resources'] = [
+                        {
+                            "src": "photos/" + fix_name + '.jpeg',
+                            "name": "Osebna fotografija"
+                        }
+                    ]
 
                 if 'linkSl' in desc_json:
                     link = str(desc_json['linkSl'])

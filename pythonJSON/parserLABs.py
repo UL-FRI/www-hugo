@@ -2,6 +2,7 @@ import json
 import frontmatter
 import io
 from os import path
+import os
 from shutil import copyfile
 
 
@@ -29,8 +30,26 @@ def json_to_md(loaded_json):
 
     for p in loaded_json:
         print(p)
-        fname = './content/sl/laboratorij/' + p['abbreviation'].lower() + '.md'
-        fname_en = './content/en/laboratorij/' + p['abbreviation'].lower() + '.md'
+
+        folderName = './content/sl/laboratorij/' + p['abbreviation'].lower()
+        folderNameEn = './content/en/laboratorij/' + p['abbreviation'].lower()
+
+        try:
+            os.mkdir(folderName)
+        except OSError:
+            print("Creation of the directory %s failed" % folderName)
+        else:
+            print("Successfully created the directory %s " % folderName)
+
+        try:
+            os.mkdir(folderNameEn)
+        except OSError:
+            print("Creation of the directory %s failed" % folderNameEn)
+        else:
+            print("Successfully created the directory %s " % folderNameEn)
+
+        fname = folderName + '/index.md'
+        fname_en = folderNameEn + '/index.md'
 
         if not path.isfile(fname):
             copyfile('./structJSON/template_lab.md', fname)

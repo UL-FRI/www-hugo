@@ -78,8 +78,8 @@ def match_lab(ref_lab, ref_people):
 
 
 def save_id_to_md_personal(id, filename):
-    en = './content/en/osebje/' + filename + '.md'
-    sl = './content/sl/osebje/' + filename + '.md'
+    en = './content/en/osebje/' + filename + '/index.md'
+    sl = './content/sl/osebje/' + filename + '/index.md'
 
     with io.open(en, 'r', encoding='utf8') as md_en, io.open(sl, 'r', encoding='utf8') as md_sl:
 
@@ -100,8 +100,8 @@ def save_id_to_md_personal(id, filename):
 
 
 def save_id_to_md_lab(id, filename):
-    en = './content/en/laboratorij/' + filename + '.md'
-    sl = './content/sl/laboratorij/' + filename + '.md'
+    en = './content/en/laboratorij/' + filename + '/index.md'
+    sl = './content/sl/laboratorij/' + filename + '/index.md'
     with io.open(en, 'r', encoding='utf8') as md_en, io.open(sl, 'r', encoding='utf8') as md_sl:
 
         post_en = frontmatter.load(md_en, encoding='utf8')
@@ -193,7 +193,7 @@ def json_to_md(data_json, ref_ids):
                         append_json(fname_lab, p)
                     save_id_to_md_lab(p['id'], ref['lab'])
 
-                    if os.path.isfile('./content/en/osebje/' + ref['fullname'] + '.md'):
+                    if os.path.isfile('./content/en/osebje/' + ref['fullname'] + '/index.md'):
                         append_json(fname, p)
                         save_id_to_md_personal(p['id'], ref['fullname'])
 
