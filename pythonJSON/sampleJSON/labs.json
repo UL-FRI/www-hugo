@@ -45,6 +45,14 @@
           }
         },
         {
+          "name": "Ratko",
+          "surname": "Pilipovi\u0107",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
           "name": "Matija",
           "surname": "Rezar",
           "position": {
@@ -71,10 +79,10 @@
       ]
     },
     {
-      "abbreviation": "LALG",
+      "abbreviation": "LA",
       "title": {
         "sl": "Laboratorij za algoritmiko",
-        "en": null
+        "en": "Laboratory of Algorithmics"
       },
       "location": "Some Random Location",
       "description": {
@@ -93,14 +101,6 @@
         {
           "name": "Toma\u017e",
           "surname": "Dobravec",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Peter",
-          "surname": "Gabrov\u0161ek",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -190,14 +190,6 @@
           }
         },
         {
-          "name": "Andrej",
-          "surname": "\u010copar",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Janez",
           "surname": "Dem\u0161ar",
           "position": {
@@ -254,14 +246,6 @@
           }
         },
         {
-          "name": "Martin",
-          "surname": "Stra\u017ear",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Vesna",
           "surname": "Tanko",
           "position": {
@@ -288,14 +272,6 @@
         {
           "name": "Lan",
           "surname": "\u017dagar",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Marinka",
-          "surname": "\u017ditnik",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -354,6 +330,14 @@
       },
       "members": [
         {
+          "name": "Fatime",
+          "surname": "Gashi",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
           "name": "Aleks",
           "surname": "Hu\u010d",
           "position": {
@@ -399,6 +383,14 @@
         "en": "Some Random Description"
       },
       "members": [
+        {
+          "name": "Damjan",
+          "surname": "Fujs",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
         {
           "name": "Toma\u017e",
           "surname": "Hovelja",
@@ -524,8 +516,8 @@
       },
       "members": [
         {
-          "name": "\u0160PELA",
-          "surname": "ARHAR HOLDT",
+          "name": "\u0160pela",
+          "surname": "Arhar Holdt",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -564,8 +556,16 @@
           }
         },
         {
-          "name": "Martin",
-          "surname": "Jakomin",
+          "name": "Marjana",
+          "surname": "Harcet",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Enja",
+          "surname": "Kokalj",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -577,14 +577,6 @@
           "position": {
             "sl": "Predstojnik laboratorija",
             "en": "Head of Laboratory"
-          }
-        },
-        {
-          "name": "Domen",
-          "surname": "Ko\u0161ir",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
           }
         },
         {
@@ -604,14 +596,6 @@
           }
         },
         {
-          "name": "Matej",
-          "surname": "Martinc",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Kristian",
           "surname": "Miok",
           "position": {
@@ -620,8 +604,8 @@
           }
         },
         {
-          "name": "Jan",
-          "surname": "Pavlin",
+          "name": "Ale\u0161",
+          "surname": "Papi\u010d",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -685,11 +669,31 @@
         },
         {
           "name": "Anita",
-          "surname": "Valmarska"
+          "surname": "Valmarska",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
         },
         {
           "name": "Petar",
           "surname": "Vra\u010dar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Ale\u0161",
+          "surname": "\u017dagar",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Bojan",
+          "surname": "\u017dunkovi\u010d",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -710,14 +714,6 @@
       },
       "members": [
         {
-          "name": "Mia",
-          "surname": "Fili\u0107",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Aleksandar",
           "surname": "Juri\u0161i\u0107",
           "position": {
@@ -726,8 +722,16 @@
           }
         },
         {
-          "name": "Jano\u0161",
-          "surname": "Vidali",
+          "name": "Klemen",
+          "surname": "Klanj\u0161\u010dek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Kristina",
+          "surname": "Veljkovi\u0107",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -812,16 +816,16 @@
           }
         },
         {
-          "name": "Bojan",
-          "surname": "Orel",
+          "name": "Martin",
+          "surname": "Rai\u010d",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
           }
         },
         {
-          "name": "Martin",
-          "surname": "Rai\u010d",
+          "name": "Ksenija",
+          "surname": "Rozman",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -875,15 +879,7 @@
         },
         {
           "name": "Janez",
-          "surname": "Bindas",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Neli",
-          "surname": "Blagus",
+          "surname": "Bre\u017enik",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -938,24 +934,32 @@
           }
         },
         {
+          "name": "Uro\u0161",
+          "surname": "Pa\u0161\u010dinski",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Mitja",
+          "surname": "Rizvi\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Vlado",
+          "surname": "Stankovski",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
           "name": "Lovro",
           "surname": "\u0160ubelj",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Aleksander",
-          "surname": "Tomi\u0107",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Gregor",
-          "surname": "Weiss",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1008,8 +1012,16 @@
           }
         },
         {
-          "name": "Ivan",
-          "surname": "Majhen",
+          "name": "Amol Arjun",
+          "surname": "Jawale",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Octavian-Mihai",
+          "surname": "Machidon",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1086,6 +1098,14 @@
           }
         },
         {
+          "name": "Lidija",
+          "surname": "Magdevska",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
           "name": "Miha",
           "surname": "Mo\u0161kon",
           "position": {
@@ -1096,14 +1116,6 @@
         {
           "name": "Miha",
           "surname": "Mraz",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
-          "name": "Mattia",
-          "surname": "Petroni",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1156,8 +1168,24 @@
           }
         },
         {
+          "name": "Tea",
+          "surname": "Bra\u0161anac",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
           "name": "\u017diga",
           "surname": "Emer\u0161i\u010d",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Niko",
+          "surname": "Gamulin",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1191,6 +1219,14 @@
           "name": "Peter",
           "surname": "Peer",
           "position": {
+            "sl": "Predstojnik laboratorija",
+            "en": "Head of Laboratory"
+          }
+        },
+        {
+          "name": "Peter",
+          "surname": "Rot",
+          "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
           }
@@ -1199,13 +1235,21 @@
           "name": "Franc",
           "surname": "Solina",
           "position": {
-            "sl": "Predstojnik laboratorija",
-            "en": "Head of Laboratory"
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
           }
         },
         {
           "name": "Luka",
           "surname": "\u0160ajn",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Jaka",
+          "surname": "\u0160ircelj",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1284,6 +1328,14 @@
         {
           "name": "Matev\u017e",
           "surname": "Pesek",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Manca",
+          "surname": "\u017derovnik Meku\u010d",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1398,14 +1450,6 @@
           }
         },
         {
-          "name": "An\u017ee",
-          "surname": "Rezelj",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Danijel",
           "surname": "Sko\u010daj",
           "position": {
@@ -1416,6 +1460,14 @@
         {
           "name": "Domen",
           "surname": "Tabernik",
+          "position": {
+            "sl": "\u010clan laboratorija",
+            "en": "Laboratory Member"
+          }
+        },
+        {
+          "name": "Vitjan",
+          "surname": "Zavrtanik",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1468,14 +1520,6 @@
           }
         },
         {
-          "name": "Timotej",
-          "surname": "Lazar",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
-        {
           "name": "Teodora",
           "surname": "Mati\u0107",
           "position": {
@@ -1500,8 +1544,8 @@
           }
         },
         {
-          "name": "Andrej",
-          "surname": "Zupanc",
+          "name": "Domen",
+          "surname": "\u0160oberl",
           "position": {
             "sl": "\u010clan laboratorija",
             "en": "Laboratory Member"
@@ -1529,14 +1573,6 @@
         "en": "Some Random Description"
       },
       "members": [
-        {
-          "name": "Katarina",
-          "surname": "Bebar",
-          "position": {
-            "sl": "\u010clan laboratorija",
-            "en": "Laboratory Member"
-          }
-        },
         {
           "name": "Andrej",
           "surname": "Brodnik",

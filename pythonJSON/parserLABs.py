@@ -63,30 +63,32 @@ def json_to_md(loaded_json):
             post_md = frontmatter.load(md, encoding='utf-8')
             post_md_en = frontmatter.load(md_en, encoding='utf-8')
 
-            if post_md.get('abbreviation') is '' and p['abbreviation'] is not None:
+            #Overwrite data
+            overwrite = 1
+            if (post_md.get('abbreviation') is '' or overwrite) and p['abbreviation'] is not None:
                 post_md['abbreviation'] = p['abbreviation']
-            if post_md.get('title') is '' and p['title'] is not None:
+            if (post_md.get('title') is '' or overwrite) and p['title'] is not None:
                 post_md['title'] = p['title']['sl']
-            if post_md.get('location') is '' and 'location' in p:
+            if (post_md.get('location') is '' or overwrite) and 'location' in p:
                 if p['location'] != "Some Random Location":
                     post_md['location'] = p['location']
-            if post_md.get('body') is '' and p['description'] is not None:
+            if (post_md.get('body') is '' or overwrite) and p['description'] is not None:
                 if p['description']['sl'] != "Nek random opis":
                     post_md.content = p['description']['sl']
-            if post_md.get('id') is '' and 'id' in p:
+            if (post_md.get('id') is '' or overwrite) and 'id' in p:
                 post_md['id'] = p['id']
 
-            if post_md_en.get('abbreviation') is '' and p['abbreviation'] is not None:
+            if (post_md_en.get('abbreviation') is '' or overwrite) and p['abbreviation'] is not None:
                 post_md_en['abbreviation'] = p['abbreviation']
-            if post_md_en.get('title') is '' and p['title'] is not None:
+            if (post_md_en.get('title') is '' or overwrite) and p['title'] is not None:
                 post_md_en['title'] = p['title']['en']
-            if post_md_en.get('location') is '' and 'location' in p:
+            if (post_md_en.get('location') is '' or overwrite) and 'location' in p:
                 if p['location'] != "Some Random Location":
                     post_md_en['location'] = p['location']
-            if post_md_en.get('body') is '' and p['description'] is not None:
+            if (post_md_en.get('body') is '' or overwrite) and p['description'] is not None:
                 if p['description']['en'] != "Some Random Description":
                     post_md_en.content = p['description']['en']
-            if post_md_en.get('id') is '' and 'id' in p:
+            if (post_md_en.get('id') is '' or overwrite) and 'id' in p:
                 post_md_en['id'] = p['id']
 
             # Save the file

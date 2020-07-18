@@ -4,7 +4,7 @@ import io
 import os
 import requests
 
-with io.open('./sampleJSON/subjects.json', 'r') as srcOne, io.open('./sampleJSON/persons.json', 'r') as srcTwo:
+with io.open('./sampleJSON/subjects.json', 'r') as srcOne, io.open('./sampleJSON/employees.json', 'r') as srcTwo:
     loadSrc = json.load(srcOne)
     loadPersons = json.load(srcTwo)
 

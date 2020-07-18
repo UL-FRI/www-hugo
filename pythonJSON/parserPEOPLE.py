@@ -9,7 +9,7 @@ import base64
 
 lab_shorts = {
     "biolab":"bioinformatiko",
-    "lalg":"algoritmiko",
+    "la":"algoritmiko",
     "laps":"arhitekturo in procesiranje signalov",
     "laspp":"adaptivne sisteme in paralelno procesiranje",
     "lbrso":"biomedicinske računalniške sisteme in oslikave",
@@ -29,6 +29,7 @@ lab_shorts = {
     "lusy":"vseprisotne sisteme",
     "luvss":"umetne vizualne spoznavne sisteme"
 }
+
 def compare_names(name1, name2):
     split1 = name2.split()
     split2 = name1.split()
@@ -37,44 +38,44 @@ def compare_names(name1, name2):
 
     for a in split2:
         if a[-1] != '.':
-            fixed_name1 += ' ' + a
+            fixed_name1 += a
     for a in split1:
         if a[-1] != '.':
-            fixed_name2 += ' ' + a
+            fixed_name2 += a
 
-    if fixed_name1.replace(" ","").lower() == fixed_name2.replace(" ", "").lower():
-        fname = get_file_name(fixed_name1)
-
-        folderName_sl = './content/sl/osebje/' + fname
-        folderName_en = './content/en/osebje/' + fname
-
-
-
-        fname_sl = folderName_sl + '/index.md'
-        fname_en = folderName_en + '/index.md'
-
-        if not path.isfile(fname_sl):
-            try:
-                os.mkdir(folderName_sl)
-            except OSError:
-                print("Creation of the directory %s failed" % folderName_sl)
-            else:
-                print("Successfully created the directory %s " % folderName_sl)
-            copyfile('./structJSON/template_personal.md', fname_sl)
-
-        if not path.isfile(fname_en):
-            try:
-                os.mkdir(folderName_en)
-            except OSError:
-                print("Creation of the directory %s failed" % folderName_en)
-            else:
-                print("Successfully created the directory %s " % folderName_en)
-
-            copyfile('./structJSON/template_personal.md', fname_en)
-
+    if fixed_name1.replace(" ","") == fixed_name2.replace(" ",""):
         return True
     else:
         return False
+
+
+def createFolderAndMarkdown(fname):
+    folderName_sl = './content/sl/osebje/' + fname
+    folderName_en = './content/en/osebje/' + fname
+
+    fname_sl = folderName_sl + '/index.md'
+    fname_en = folderName_en + '/index.md'
+
+    if not path.isfile(fname_sl):
+        try:
+            os.mkdir(folderName_sl)
+        except OSError:
+            print("Creation of the directory %s failed" % folderName_sl)
+        else:
+            print("Successfully created the directory %s " % folderName_sl)
+
+        copyfile('./structJSON/template_personal.md', fname_sl)
+
+    if not path.isfile(fname_en):
+        try:
+            os.mkdir(folderName_en)
+        except OSError:
+            print("Creation of the directory %s failed" % folderName_en)
+        else:
+            print("Successfully created the directory %s " % folderName_en)
+
+        copyfile('./structJSON/template_personal.md', fname_en)
+
 
 def get_lab_url(title):
     for key in lab_shorts:
@@ -103,13 +104,14 @@ def get_file_name(string):
     string = string.replace(dz, b'dz')
     string = string.decode('utf-8')
 
+    print(string)
     return string
 
 
-def save_image(filename, imgsrc):
+def save_image(dirName, fileName, imgsrc):
     imgsrc = str(imgsrc)
-    imgnameSl = './content/sl/osebje/' + filename + '/photos/'
-    imgnameEn = './content/en/osebje/' + filename + '/photos/'
+    imgnameSl = './content/sl/osebje/' + dirName + '/photos/'
+    imgnameEn = './content/en/osebje/' + dirName + '/photos/'
 
     try:
         os.mkdir(imgnameSl)
@@ -128,73 +130,70 @@ def save_image(filename, imgsrc):
     imgsrc = imgsrc.replace("data:image/png;base64,", "")
 
     im = Image.open(io.BytesIO(base64.b64decode(imgsrc)))
-    im.save(imgnameSl + filename + '.jpeg', 'JPEG')
-    im.save(imgnameEn + filename + '.jpeg', 'JPEG')
+    im.save(imgnameSl + fileName + '.jpeg', 'JPEG')
+    im.save(imgnameEn + fileName + '.jpeg', 'JPEG')
 
 
-def json_to_md(persons, staff_desc, indexes, names):
+def json_to_md(persons, personlinks, persons_link_indexes, names):
 
-    desc_ind = 0
+    link_ind = 0
+    brezSlike = []
 
-    for (m, b) in zip(indexes, names):
-
-        # persons[a] is same person as c
+    for (m, b) in zip(persons_link_indexes, names):
         if m != -1:
-            fix_name = get_file_name(b)
+            person_json = persons[m]
+            link_json = personlinks[link_ind]
+            fix_name = str(link_json['url_sl']).split('/')[-1]
+
+            createFolderAndMarkdown(fix_name)
+
             fname_sl = './content/sl/osebje/' + fix_name + '/index.md'
             fname_en = './content/en/osebje/' + fix_name + '/index.md'
-
             with io.open(fname_sl, 'r', encoding='utf8') as f, io.open(fname_en, 'r', encoding='utf8') as f_en:
-                person_json = persons[m]
-                desc_json = staff_desc[desc_ind]
-
-
                 # Open file's frontmatter
                 post_md_sl = frontmatter.load(f, encoding='utf8')
                 post_md_en = frontmatter.load(f_en, encoding='utf8')
 
+                #Overwrite current data
+                overwrite = 1
 
-                if post_md_sl.get('fileName') is '':
-                    post_md_sl['fileName'] = fix_name
-                if post_md_sl.get('pageTitle') is '':
+                if post_md_sl.get('fileName') is '' or overwrite:
+                    post_md_sl['fileName'] = get_file_name(b)
+                if post_md_sl.get('pageTitle') is '' or overwrite:
                     post_md_sl['pageTitle'] = b.lstrip(' ')
-                if post_md_sl.get('profName') is '' and person_json['fullname_and_title'] is not None:
+                if (post_md_sl.get('profName') is '' or overwrite) and person_json['fullname_and_title'] is not None:
                     post_md_sl['profName'] = person_json['fullname_and_title']['sl']
-                if post_md_sl.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
+                if (post_md_sl.get('SICRIS') is '' or overwrite) and person_json['sicris_researcher_number'] is not None:
                     post_md_sl['SICRIS'] = person_json['sicris_researcher_number']
-                if post_md_sl.get('profTitle') is '' and person_json['web_category'] is not None:
+                if (post_md_sl.get('profTitle') is '' or overwrite) and person_json['web_category'] is not None:
                     post_md_sl['profTitle'] = person_json['web_category']['sl']
-                if post_md_sl.get('telephoneInfo') is '' and person_json['phone'] is not None:
+                if (post_md_sl.get('telephoneInfo') is '' or overwrite) and person_json['phone'] is not None:
                     post_md_sl['telephoneInfo'] = person_json['phone']
-                if post_md_sl.get('mailInfo') is '' and person_json['email'] is not None:
+                if (post_md_sl.get('mailInfo') is '' or overwrite) and person_json['email'] is not None:
                     post_md_sl['mailInfo'] = person_json['email']
-                if post_md_sl.get('officeHours') is '' and person_json['office_hours']['sl'] is not None:
+                if (post_md_sl.get('officeHours') is '' or overwrite) and person_json['office_hours']['sl'] is not None:
                     post_md_sl['officeHours'] = person_json['office_hours']['sl']
-                if post_md_sl.get('location') is '' and person_json['location'] is not None:
+                if (post_md_sl.get('location') is '' or overwrite) and person_json['location'] is not None:
                     post_md_sl['location'] = person_json['location']
-                if post_md_sl.get('body') is '' and desc_json['descSl'] is not None:
-                    post_md_sl.content = desc_json['descSl']
 
-                if post_md_en.get('fileName') is '':
-                    post_md_en['fileName'] = fix_name
-                if post_md_en.get('pageTitle') is '':
+                if post_md_en.get('fileName') is '' or overwrite:
+                    post_md_en['fileName'] = get_file_name(b)
+                if post_md_en.get('pageTitle') is '' or overwrite:
                     post_md_en['pageTitle'] = b.lstrip(' ')
-                if post_md_en.get('profName') is '' and person_json['fullname_and_title'] is not None:
+                if (post_md_en.get('profName') is '' or overwrite) and person_json['fullname_and_title'] is not None:
                     post_md_en['profName'] = person_json['fullname_and_title']['en']
-                if post_md_en.get('SICRIS') is '' and person_json['sicris_researcher_number'] is not None:
+                if (post_md_en.get('SICRIS') is '' or overwrite) and person_json['sicris_researcher_number'] is not None:
                     post_md_en['SICRIS'] = person_json['sicris_researcher_number']
-                if post_md_en.get('profTitle') is '' and person_json['web_category'] is not None:
+                if (post_md_en.get('profTitle') is '' or overwrite) and person_json['web_category'] is not None:
                     post_md_en['profTitle'] = person_json['web_category']['en']
-                if post_md_en.get('telephoneInfo') is '' and person_json['phone'] is not None:
+                if (post_md_en.get('telephoneInfo') is '' or overwrite) and person_json['phone'] is not None:
                     post_md_en['telephoneInfo'] = person_json['phone']
-                if post_md_en.get('mailInfo') is '' and person_json['email'] is not None:
+                if (post_md_en.get('mailInfo') is '' or overwrite) and person_json['email'] is not None:
                     post_md_en['mailInfo'] = person_json['email']
-                if post_md_en.get('officeHours') is '' and person_json['office_hours']['en'] is not None:
+                if (post_md_en.get('officeHours') is '' or overwrite) and person_json['office_hours']['en'] is not None:
                     post_md_en['officeHours'] = person_json['office_hours']['en']
-                if post_md_en.get('location') is '' and person_json['location'] is not None:
+                if (post_md_en.get('location') is '' or overwrite) and person_json['location'] is not None:
                     post_md_en['location'] = person_json['location']
-                if post_md_en.get('body') is '' and desc_json['descEn'] is not None:
-                    post_md_en.content = desc_json['descEn']
 
                 if len(person_json['labs']) != 0:
                     for lab in person_json['labs']:
@@ -215,11 +214,11 @@ def json_to_md(persons, staff_desc, indexes, names):
                     post_md_sl['courses'] = course_codes
 
                 if person_json['picture'] is not None:
-                    save_image(fix_name, person_json['picture'])
+                    save_image(fix_name, get_file_name(b), person_json['picture'])
 
                     post_md_en['resources'] = [
                         {
-                            "src": "photos/" + fix_name + '.jpeg',
+                            "src": "photos/" + get_file_name(b) + '.jpeg',
                             "name": "Personal photo"
                         }
                     ]
@@ -230,12 +229,11 @@ def json_to_md(persons, staff_desc, indexes, names):
                             "name": "Osebna fotografija"
                         }
                     ]
+                else:
+                    brezSlike.append(fix_name)
 
-                if 'linkSl' in desc_json:
-                    link = str(desc_json['linkSl'])
-                    link = link.split('/')[-1]
-                    post_md_en['slug'] = link
-                    post_md_sl['slug'] = link
+                post_md_en['slug'] = fix_name
+                post_md_sl['slug'] = fix_name
 
             # Save the file
             new = io.open(fname_sl, 'wb')
@@ -244,91 +242,81 @@ def json_to_md(persons, staff_desc, indexes, names):
             frontmatter.dump(post_md_sl, new)
             new.close()
             new_en.close()
-        desc_ind += 1
+        link_ind += 1
+    print(brezSlike)
+    print(len(brezSlike))
 
 
-with io.open('./sampleJSON/persons.json', 'r', encoding='utf8') as json_persons, \
-        io.open('./sampleJSON/staffDescriptions.json', 'r', encoding='utf8') as desc_persons:
+with io.open('./sampleJSON/employees.json', 'r', encoding='utf8') as json_persons, \
+        io.open('./sampleJSON/employees-links.json', 'r', encoding='utf8') as link_persons:
     data = json.load(json_persons)
-    desc = json.load(desc_persons)
+    links = json.load(link_persons)
 
     arrPersons = []
-    arrDesc = []
-    # dva priimka Špela Arhar Holdt
-    # dve imeni
-    reference = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
-                 "Aljoša Besednjak ", "Jasna Bevk ", "Janez Bindas ", "Neli Blagus ", "Marko Boben ", "Ciril Bohak ",
-                 "Alenka Bone ", "Zoran Bosnić ", "Narvika Bovcon ", "Borja Bovcon ", "Ivan Bratko ", "Andrej Brodnik ",
-                 "Patricio Bulić ", "Mojca Ciglarič ", "Jaka Cijan ", "Zala Cimperman ", "Tomaž Curk ", "Jernej Cvek ",
-                 "Luka Čehovin Zajc ", "Rok Češnovar ", "Jaka Čibej ", "Uroš Čibej ", "Andrej Čopar ", "Janez Demšar ",
-                 "Saša Divjak ", "Andrej Dobnikar ", "Tomaž Dobravec ", "Matej Dobrevski ", "Roman Dorn ",
-                 "Miha Drole ", "Žiga Emeršič ", "Aleš Erjavec ", "Jana Faganeli Pucer ", "Gašper Fele Žorž ",
-                 "Gašper Fijavž ", "Aleksandra Franc ", "Damir Franetič ", "Luka Fürst ", "Peter Gabrovšek ",
-                 "Anton Zvonko Gazvoda ", "Sandi Gec ", "Dejan Georgiev ", "Primož Godec ", "Teja Goli ",
-                 "Rok Gomišček ", "Vesna Gračner ", "Miha Grohar ", "Vida Groznik ", "Matej Guid ", "Veselko Guštin ",
-                 "dr. Marjana Harcet ", "Bojan Heric ", "Ana Herzog ", "Tomaž Hočevar ", "Alen Horvat ",
-                 "Tomaž Hovelja ", "Aleks Huč ", "Nejc Ilc ", "Franc Jager ", "Aleš Jaklič ", "Martin Jakomin ",
-                 "Miha Janež ", "Marko Janković ", "David Jelenc ", "Peter Jenko ", "Gregor Jerše ",
-                 "Matjaž Branko Jurič ", "Aleksandar Jurišić ", "Maher Kaddoura ", "Benjamin Kastelic ",
-                 "Alenka Kavčič ", "Silvana Kavčič ", "Maja Kerkez ", "Peter Marijan Kink ", "Bojan Klemenc ",
-                 "Jelena Klisara ", "Vid Klopčič ", "Petar Kochovski ", "Dušan Kodek ", "Igor Kononenko ",
-                 "Miran Koprivec ", "Domen Košir ", "Jan Kralj ", "Marjan Krisper ", "Matej Kristan ", "Matjaž Kukar ",
-                 "Dejan Lavbič ", "Timotej Lazar ", "Iztok Lebar Bajec ", "Aleš Leonardis ", "Žiga Lesar ",
-                 "Jure Leskovec ", "Matjaž Ličen ", "Jaka Lindič ", "Nikola Ljubešić ", "Sonja Lojk ", "Jure Lokovšek ",
-                 "Uroš Lotrič ", "Alan Lukežič ", "Nives Macerl ", "Viljan Mahnič ", "Ivan Majhen ", "Matija Marolt ",
-                 "Teodora Matić ", "Blaž Meden ", "Jan Meznarič ", "Miran Mihelčič ", "Jurij Mihelič ", "Iztok Mihevc ",
-                 "David Modic ", "Miha Moškon ", "Martin Možina ", "Nežka Mramor Kosta ", "Miha Mraz ",
-                 "Jon Natanael Muhovič ", "Miha Nagelj ", "Polona Oblak ", "Tanja Oblak Črnič ", "Amra Omanović ",
-                 "Bojan Orel ", "Radko Osredkar ", "Matjaž Pančur ", "Jan Pavlin ", "Peter Peer ", "Veljko Pejović ",
-                 "Darja Peljhan ", "Matevž Pesek ", "Irena Pestotnik ", "Zvonimir Petkovšek ", "Matej Pičulin ",
-                 "Ratko Pilipović ", "Ljubo Pipan ", "Žiga Pirnar ", "Gregor Pirš ", "Matevž Pogačnik ", "Rok Povšič ",
-                 "Marko Poženel ", "Ajda Pretnar ", "Matej Prijatelj ", "Žiga Pušnik ", "Martin Raič ",
-                 "Vladislav Rajkovič ", "Jan Ravnik ", "Mateja Ravnik ", "Andreja Retelj ", "Matija Rezar ",
-                 "Anže Rezelj ", "Borut Robič ", "Marko Robnik Šikonja ", "Igor Rožanc ", "Robert Rozman ",
-                 "Ksenija Rozman ", "Taja Runovc ", "Rok Rupnik ", "Aleksander Sadikov ", "Miha Schaffer ",
-                 "Petra Simonič ", "Danijel Skočaj ", "Boštjan Slivnik ", "Davor Sluga ", "Tim Smole ",
-                 "Aleš Smonig Grnjak ", "Aleš Smrdel ", "Franc Solina ", "Blaž Sovdat ", "Martin Stražar ",
-                 "Luka Šajn ", "Luka Šarc ", "Gregor Šega ", "Andrej Šeruga ", "Igor Škraba ", "Aleš Špetič ",
-                 "Branko Šter ", "Marina Štros-Bračko ", "Erik Štrumbelj ", "Lovro Šubelj ", "Domen Tabernik ",
-                 "Vesna Tanko ", "Marko Toplak ", "Barbara Torkar ", "Denis Trček ", "Mira Trebar ", "Jure Tuta ",
-                 "Matej Ulčar ", "Damjan Vavpotič ", "Luka Vavtar ", "Zdenka Velikonja ", "Dejan Velušček ",
-                 "Dejan Verčič ", "Janoš Vidali ", "Tone Vidmar ", "Boštjan Vilfan ", "Mojca Vilfan ", "Zvonko Virant ",
-                 "Žiga Virk ", "Matej Vitek ", "Petar Vračar ", "Simon Vrhovec ", "Martin Vuk ", "Aleš Watzak ",
-                 "Aljaž Zalar ", "Nikolaj Zimic ", "Aljaž Zrnec ", "Helena Marija Zupan ", "Blaž Zupan ",
-                 "Jure Žabkar ", "Lan Žagar ", "Manca Žerovnik Mekuč ", "Rok Žitko ", "Marinka Žitnik ",
-                 "Slavko Žitnik ", "Urška Žnidarič"}
+    arrLinks = []
+    '''reference = ["Špela Arhar Holdt","Nina Arko Krmelj","Marko Bajec","Borut Batagelj","Andrej Bauer",
+    "Miha Bejek","Aljoša Besednjak","Jasna Bevk","Marko Boben","Ciril Bohak","Alenka Bone","Tadej Borovšak",
+    "Zoran Bosnić","Borja Bovcon","Narvika Bovcon","Tea Brašanac","Ivan Bratko","Janez Brežnik","Andrej Brodnik",
+    "Patricio Bulić","Mojca Ciglarič","Zala Cimperman","Tomaž Curk","Jernej Cvek","Luka Čehovin Zajc","Rok Češnovar",
+    "Jaka Čibej","Uroš Čibej","Janez Demšar","Jure Demšar","Tomaž Dobravec","Matej Dobrevski","Rebeka Drnovšek",
+    "Žiga Emeršič","Aleš Erjavec","Jana Faganeli Pucer","Gašper Fele Žorž","Gašper Fijavž","Marko Firm","Aleksandra 
+    Franc","Damir Franetič","Damjan Fujs","Luka Fürst","Niko Gamulin","Fatime Gashi","Anton Zvonko Gazvoda",
+    "Sandi Gec","Dejan Georgiev","Martin Gjoreski","Primož Godec","Teja Goli","Rok Gomišček","Vesna Gračner",
+    "Miha Grohar","Vida Groznik","Matej Guid","Marjana Harcet","Bojan Heric","Ana Herzog","Tomaž Hočevar",
+    "Suzana Hostnik","Tomaž Hovelja","Aleks Huč","Nejc Ilc","Franc Jager","Aleš Jaklič","Miha Janež",
+    "Marko Janković","Amol Arjun Jawale","David Jelenc","Peter Jenko","Gregor Jerše","Matjaž Branko Jurič",
+    "Aleksandar Jurišić","Maher Kaddoura","Benjamin Kastelic","Alenka Kavčič","Silvana Kavčič","Maja Kerkez",
+    "Borut Paul Kerševan","Peter Marijan Kink","Klemen Klanjšček","Bojan Klemenc","Jelena Klisara","Vid Klopčič",
+    "Petar Kochovski","Enja Kokalj","Igor Kononenko","Miran Koprivec","Domen Košir","Simon Krek","Matej Kristan",
+    "Matjaž Kukar","Leon Lampret","Iztok Lapanja","Dejan Lavbič","Iztok Lebar Bajec","Aleš Leonardis","Žiga Lesar",
+    "Jure Leskovec","Nikola Ljubešić","Sonja Lojk","Jure Lokovšek","Uroš Lotrič","Alan Lukežič","Nives Macerl",
+    "Octavian-Mihai Machidon","Lidija Magdevska","Matija Marolt","Teodora Matić","Blaž Meden","Jan Meznarič",
+    "Jurij Mihelič","Iztok Mihevc","Kristian Miok","David Modic","Miha Moškon","Martin Možina","Nežka Mramor Kosta",
+    "Miha Mraz","Jon Muhovič","Miha Nagelj","Mimoza Naseka","Jakob Novak","Polona Oblak","Amra Omanović",
+    "Bojan Orel","Matjaž Pančur","Aleš Papič","Uroš Paščinski","Peter Peer","Veljko Pejović","Špela Perner",
+    "Matevž Pesek","Irena Pestotnik","Andrej Petelin","Mattia Petroni","Matej Pičulin","Ratko Pilipović",
+    "Žiga Pirnar","Gregor Pirš","Marko Poženel","Ajda Pretnar","Žiga Pušnik","Mateja Ravnik","Andreja Retelj",
+    "Matija Rezar","Mitja Rizvič","Borut Robič","Marko Robnik Šikonja","Peter Rot","Igor Rožanc","Ksenija Rozman",
+    "Robert Rozman","Taja Runovc","Rok Rupnik","Aleksander Sadikov","Miha Schaffer","Petra Simonič","Arne Simonič",
+    "Danijel Skočaj","Boštjan Slivnik","Davor Sluga","Tim Smole","Aleš Smonig Grnjak","Aleš Smrdel","Franc Solina",
+    "Vlado Stankovski","Luka Šajn","Luka Šarc","Andrej Šeruga","Jaka Šircelj","Blaž Škrlj","Domen Šoberl",
+    "Branko Šter","Erik Štrumbelj","Lovro Šubelj","Domen Tabernik","Vesna Tanko","Marko Toplak","Barbara Torkar",
+    "Denis Trček","Mira Trebar","Jure Tuta","Matej Ulčar","Anita Valmarska","Damjan Vavpotič","Zdenka Velikonja",
+    "Kristina Veljković","Janoš Vidali","Žiga Virk","Matej Vitek","Jaka Vodeb","Petar Vračar","Simon Vrhovec",
+    "Martin Vuk","Aleš Watzak","Aljaž Zalar","Vitjan Zavrtanik","Nikolaj Zimic","Aljaž Zrnec","Helena Marija Zupan",
+    "Blaž Zupan","Jure Žabkar","Aleš Žagar","Lan Žagar","Manca Žerovnik Mekuč","Rok Žitko","Slavko Žitnik",
+    "Urška Žnidarič","Bojan Žunkovič"] tocno 211 oseb'''
     i = 0
-    fixed_indexes = []
+    link_indexes = []
     for p in data['persons']:
         arrPersons.append(p['fullname_and_title']['sl'])
         i += 1
     k = 0
 
-    for p in desc:
-        split = str(p['name']).split()
-        name = ""
-        for a in split:
-            if a[-1] != '.':
-                name += ' ' + a
-        arrDesc.append(name)
+    for p in links:
+        split = str(p['ime']).split()
+        split.extend(str(p['priimek']).split())
+        name = " ".join(split)
+        arrLinks.append(name)
+        print(name)
         k += 1
 
-    print(str(len(arrPersons)) + ' ' + str(len(arrDesc)))
+    print(str(len(arrPersons)) + ' ' + str(len(arrLinks)))
     neObstaja = 0
-    for a in arrDesc:
+    for a in arrLinks:
         index = 0
         exist = 0
         for p in arrPersons:
             if compare_names(p, a):
                 exist = 1
-                fixed_indexes.append(index)
+                link_indexes.append(index)
                 break
             index += 1
-
         if exist == 0:
             neObstaja += 1
-            fixed_indexes.append(-1)
+            link_indexes.append(-1)
 
-    json_to_md(data['persons'], desc, fixed_indexes, arrDesc)
+    print(neObstaja)
+    json_to_md(data['persons'], links, link_indexes, arrLinks)
 
 

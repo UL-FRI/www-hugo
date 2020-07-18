@@ -10,9 +10,8 @@ import re
 
 def get_sicris_numbers(_files):
     sicris_list = []
-    ref_path = './content/sl/osebje/'
     for fname in _files:
-        with io.open(ref_path + fname, 'r', encoding='utf8') as md:
+        with io.open(fname, 'r', encoding='utf8') as md:
             load = frontmatter.load(md)
             if load['SICRIS'] != '':
                 sicris_list.append({
@@ -27,10 +26,13 @@ def get_bibliography(sicris, lang):
     req = requests.get(url)
     soup = BeautifulSoup(req.content, 'lxml')
     metas = soup.find_all('meta')
-    url = (metas[1].attrs['content']).split('=')[1]
-    response = requests.get(url)
-    response = wait_for_resource_available(response, time.time(), url)
-    return response.content
+    print(metas)
+    if len(metas) > 1:
+        url = (metas[1].attrs['content']).split('=')[1]
+        response = requests.get(url)
+        response = wait_for_resource_available(response, time.time(), url)
+        return response.content
+    return str.encode("")
 
 
 def wait_for_resource_available(_response, _time, _url):
@@ -139,22 +141,27 @@ def export_biblio(xml):
 '''
 # ('http://splet02.izum.si/cobiss/bibliography?code=18199&langbib=slv&format=11&formatbib=1', allow_redirects=True)
 path = './content/sl/osebje'
-files = [f for f in listdir(path) if f != '_index.md' and isfile(join(path, f))]
+files = [f for f in listdir(path) if f != '_index.md' and isfile(join(join(path, f), "/index.md"))]
+for f in listdir(path):
+    if f != '_index.md' and isfile(path + '/' + f + "/index.md"):
+        files.append(path + '/' + f + "/index.md")
+print(files)
 reference_people = get_sicris_numbers(files)
 ref = reference_people
-'''
+
 #TO DOWNLOAD BIBLIOGRAPHY
 for person in ref:
     print(person)
     biblio = get_bibliography(person['sicris'], 'slv')
     with io.open('./biblioXML/'+person['fname']+'.xml', 'wb') as file:
         file.write(biblio)
-'''
+
 for person in ref:
     with io.open('./biblioXML/'+person['fname']+'.xml', 'r', encoding='utf8') as f:
         print(person['fname'])
-        toWrite = export_biblio(f.read())
-        fname = './data/osebje/publ/' + person['fname'] + '.json'
+        if len(f.read()) > 1:
+            toWrite = export_biblio(f.read())
+            fname = './data/osebje/publ/' + person['fname'] + '.json'
 
-        with io.open(fname, 'w+', encoding='utf8') as to:
-            json.dump(toWrite, to)
+            with io.open(fname, 'w+', encoding='utf8') as to:
+                json.dump(toWrite, to)

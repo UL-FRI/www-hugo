@@ -1,11 +1,12 @@
 import json
-import re
 import io
 import os
+import sys
 
 import frontmatter
 import requests
 from datetime import datetime
+
 
 def get_file_name(string):
     string = string.lstrip(' ').lower()
@@ -20,6 +21,7 @@ def get_file_name(string):
     z = 'ž'.encode()
     s = 'š'.encode()
     dz = 'đ'.encode()
+    umlaut = 'ü'.encode()
 
     string = filename.encode()
     string = string.replace(c1, b'c')
@@ -27,9 +29,11 @@ def get_file_name(string):
     string = string.replace(z, b'z')
     string = string.replace(s, b's')
     string = string.replace(dz, b'dz')
+    string = string.replace(umlaut, b'u')
     string = string.decode('utf-8')
 
     return string
+
 
 def match_id(data_json, refrence_json):
     persons = []
@@ -42,7 +46,7 @@ def match_id(data_json, refrence_json):
     for ref in refrence_json:
         for a in persons:
             fullname = a['ime']+' '+a['priimek']+' '
-            if fullname == ref:
+            if fullname.rstrip(" ") == ref.rstrip():
                 fname = get_file_name(fullname.rstrip(' '))
                 ids.append(
                     {
@@ -86,8 +90,10 @@ def save_id_to_md_personal(id, filename):
         post_en = frontmatter.load(md_en, encoding='utf8')
         post_sl = frontmatter.load(md_sl, encoding='utf8')
 
-        post_en['projects'].append(id)
-        post_sl['projects'].append(id)
+        if id not in post_en['projects']:
+            post_en['projects'].append(id)
+        if id not in post_sl['projects']:
+            post_sl['projects'].append(id)
 
 
         # Save the file
@@ -123,9 +129,6 @@ def save_id_to_md_lab(id, filename):
         new_en.close()
 
 
-
-
-
 def check_if_project_exist(proj_id, fname):
     if os.path.isfile(fname) and os.stat(fname).st_size != 0:
         with io.open(fname, 'r', encoding='utf8') as ref:
@@ -155,12 +158,29 @@ def format_project(p):
 
 
 def get_project_url(p):
-    with io.open('./sampleJSON/projects.json', 'r') as reference_projects:
+    with io.open('./sampleJSON/projects.json', 'r', encoding='utf8') as reference_projects:
         load = json.load(reference_projects)
         for i in load:
             if str(p['id']) == i['project_id']:
                 return i['url']
     return ''
+
+
+def get_folder_name(p):
+    for name in os.listdir('./content/sl/osebje/'):
+        if compare_names(name, p):
+            return name
+
+
+def compare_names(folderName, name):
+    folderSplit = folderName.split('-')
+    split = name.split('_')
+
+    if set(split).issubset(set(folderSplit)):
+        print(split)
+        return True
+    else:
+        return False
 
 
 def append_json(file, p):
@@ -193,10 +213,13 @@ def json_to_md(data_json, ref_ids):
                         append_json(fname_lab, p)
                     save_id_to_md_lab(p['id'], ref['lab'])
 
-                    if os.path.isfile('./content/en/osebje/' + ref['fullname'] + '/index.md'):
-                        append_json(fname, p)
-                        save_id_to_md_personal(p['id'], ref['fullname'])
+                    personFolder = get_folder_name(ref['fullname'])
+                    if personFolder is None:
+                        print(ref['fullname'])
 
+                    if os.path.isfile('./content/en/osebje/' + personFolder + '/index.md'):
+                        append_json(fname, p)
+                        save_id_to_md_personal(p['id'], personFolder)
 
 
 def get_xml():
@@ -214,62 +237,59 @@ def get_xml():
         file.write(response.content)
 
 
-# get_xml() -- Uncomment to get xml files from projektiweb.fri.uni-lj.si
+# get_xml() # -- Uncomment to get xml files from projektiweb.fri.uni-lj.si
 
 with io.open('./sampleJSON/projekti.json', 'r', encoding='utf8') as projekti:
     data = json.load(projekti)
-    referencePeople = {"Špela Arhar Holdt ", "Marko Bajec ", "Borut Batagelj ", "Katarina Bebar ", "Miha Bejek ",
-                 "Aljoša Besednjak ", "Jasna Bevk ", "Janez Bindas ", "Neli Blagus ", "Marko Boben ", "Ciril Bohak ",
-                 "Alenka Bone ", "Zoran Bosnić ", "Narvika Bovcon ", "Borja Bovcon ", "Ivan Bratko ", "Andrej Brodnik ",
-                 "Patricio Bulić ", "Mojca Ciglarič ", "Jaka Cijan ", "Zala Cimperman ", "Tomaž Curk ", "Jernej Cvek ",
-                 "Luka Čehovin Zajc ", "Rok Češnovar ", "Jaka Čibej ", "Uroš Čibej ", "Andrej Čopar ", "Janez Demšar ",
-                 "Saša Divjak ", "Andrej Dobnikar ", "Tomaž Dobravec ", "Matej Dobrevski ", "Roman Dorn ",
-                 "Miha Drole ", "Žiga Emeršič ", "Aleš Erjavec ", "Jana Faganeli Pucer ", "Gašper Fele Žorž ",
-                 "Gašper Fijavž ", "Aleksandra Franc ", "Damir Franetič ", "Luka Fürst ", "Peter Gabrovšek ",
-                 "Anton Zvonko Gazvoda ", "Sandi Gec ", "Dejan Georgiev ", "Primož Godec ", "Teja Goli ",
-                 "Rok Gomišček ", "Vesna Gračner ", "Miha Grohar ", "Vida Groznik ", "Matej Guid ", "Veselko Guštin ",
-                 "dr. Marjana Harcet ", "Bojan Heric ", "Ana Herzog ", "Tomaž Hočevar ", "Alen Horvat ",
-                 "Tomaž Hovelja ", "Aleks Huč ", "Nejc Ilc ", "Franc Jager ", "Aleš Jaklič ", "Martin Jakomin ",
-                 "Miha Janež ", "Marko Janković ", "David Jelenc ", "Peter Jenko ", "Gregor Jerše ",
-                 "Matjaž Branko Jurič ", "Aleksandar Jurišić ", "Maher Kaddoura ", "Benjamin Kastelic ",
-                 "Alenka Kavčič ", "Silvana Kavčič ", "Maja Kerkez ", "Peter Marijan Kink ", "Bojan Klemenc ",
-                 "Jelena Klisara ", "Vid Klopčič ", "Petar Kochovski ", "Dušan Kodek ", "Igor Kononenko ",
-                 "Miran Koprivec ", "Domen Košir ", "Jan Kralj ", "Marjan Krisper ", "Matej Kristan ", "Matjaž Kukar ",
-                 "Dejan Lavbič ", "Timotej Lazar ", "Iztok Lebar Bajec ", "Aleš Leonardis ", "Žiga Lesar ",
-                 "Jure Leskovec ", "Matjaž Ličen ", "Jaka Lindič ", "Nikola Ljubešić ", "Sonja Lojk ", "Jure Lokovšek ",
-                 "Uroš Lotrič ", "Alan Lukežič ", "Nives Macerl ", "Viljan Mahnič ", "Ivan Majhen ", "Matija Marolt ",
-                 "Teodora Matić ", "Blaž Meden ", "Jan Meznarič ", "Miran Mihelčič ", "Jurij Mihelič ", "Iztok Mihevc ",
-                 "David Modic ", "Miha Moškon ", "Martin Možina ", "Nežka Mramor Kosta ", "Miha Mraz ",
-                 "Jon Natanael Muhovič ", "Miha Nagelj ", "Polona Oblak ", "Tanja Oblak Črnič ", "Amra Omanović ",
-                 "Bojan Orel ", "Radko Osredkar ", "Matjaž Pančur ", "Jan Pavlin ", "Peter Peer ", "Veljko Pejović ",
-                 "Darja Peljhan ", "Matevž Pesek ", "Irena Pestotnik ", "Zvonimir Petkovšek ", "Matej Pičulin ",
-                 "Ratko Pilipović ", "Ljubo Pipan ", "Žiga Pirnar ", "Gregor Pirš ", "Matevž Pogačnik ", "Rok Povšič ",
-                 "Marko Poženel ", "Ajda Pretnar ", "Matej Prijatelj ", "Žiga Pušnik ", "Martin Raič ",
-                 "Vladislav Rajkovič ", "Jan Ravnik ", "Mateja Ravnik ", "Andreja Retelj ", "Matija Rezar ",
-                 "Anže Rezelj ", "Borut Robič ", "Marko Robnik Šikonja ", "Igor Rožanc ", "Robert Rozman ",
-                 "Ksenija Rozman ", "Taja Runovc ", "Rok Rupnik ", "Aleksander Sadikov ", "Miha Schaffer ",
-                 "Petra Simonič ", "Danijel Skočaj ", "Boštjan Slivnik ", "Davor Sluga ", "Tim Smole ",
-                 "Aleš Smonig Grnjak ", "Aleš Smrdel ", "Franc Solina ", "Blaž Sovdat ", "Martin Stražar ",
-                 "Luka Šajn ", "Luka Šarc ", "Gregor Šega ", "Andrej Šeruga ", "Igor Škraba ", "Aleš Špetič ",
-                 "Branko Šter ", "Marina Štros-Bračko ", "Erik Štrumbelj ", "Lovro Šubelj ", "Domen Tabernik ",
-                 "Vesna Tanko ", "Marko Toplak ", "Barbara Torkar ", "Denis Trček ", "Mira Trebar ", "Jure Tuta ",
-                 "Matej Ulčar ", "Damjan Vavpotič ", "Luka Vavtar ", "Zdenka Velikonja ", "Dejan Velušček ",
-                 "Dejan Verčič ", "Janoš Vidali ", "Tone Vidmar ", "Boštjan Vilfan ", "Mojca Vilfan ", "Zvonko Virant ",
-                 "Žiga Virk ", "Matej Vitek ", "Petar Vračar ", "Simon Vrhovec ", "Martin Vuk ", "Aleš Watzak ",
-                 "Aljaž Zalar ", "Nikolaj Zimic ", "Aljaž Zrnec ", "Helena Marija Zupan ", "Blaž Zupan ",
-                 "Jure Žabkar ", "Lan Žagar ", "Manca Žerovnik Mekuč ", "Rok Žitko ", "Marinka Žitnik ",
-                 "Slavko Žitnik ", "Urška Žnidarič"}
+    referencePeople = ["Špela Arhar Holdt", "Nina Arko Krmelj", "Marko Bajec", "Borut Batagelj", "Andrej Bauer",
+     "Miha Bejek", "Aljoša Besednjak", "Jasna Bevk", "Marko Boben", "Ciril Bohak", "Alenka Bone", "Tadej Borovšak",
+     "Zoran Bosnić", "Borja Bovcon", "Narvika Bovcon", "Tea Brašanac", "Ivan Bratko", "Janez Brežnik", "Andrej Brodnik",
+     "Patricio Bulić", "Mojca Ciglarič", "Zala Cimperman", "Tomaž Curk", "Jernej Cvek", "Luka Čehovin Zajc",
+     "Rok Češnovar",
+     "Jaka Čibej", "Uroš Čibej", "Janez Demšar", "Jure Demšar", "Tomaž Dobravec", "Matej Dobrevski", "Rebeka Drnovšek",
+     "Žiga Emeršič", "Aleš Erjavec", "Jana Faganeli Pucer", "Gašper Fele Žorž", "Gašper Fijavž", "Marko Firm",
+     "Aleksandra Franc","Damir Franetič","Damjan Fujs","Luka Fürst","Niko Gamulin","Fatime Gashi","Anton Zvonko Gazvoda", "Sandi Gec",
+     "Dejan Georgiev", "Martin Gjoreski", "Primož Godec", "Teja Goli", "Rok Gomišček", "Vesna Gračner",
+     "Miha Grohar", "Vida Groznik", "Matej Guid", "Marjana Harcet", "Bojan Heric", "Ana Herzog", "Tomaž Hočevar",
+     "Suzana Hostnik", "Tomaž Hovelja", "Aleks Huč", "Nejc Ilc", "Franc Jager", "Aleš Jaklič", "Miha Janež",
+     "Marko Janković", "Amol Arjun Jawale", "David Jelenc", "Peter Jenko", "Gregor Jerše", "Matjaž Branko Jurič",
+     "Aleksandar Jurišić", "Maher Kaddoura", "Benjamin Kastelic", "Alenka Kavčič", "Silvana Kavčič", "Maja Kerkez",
+     "Borut Paul Kerševan", "Peter Marijan Kink", "Klemen Klanjšček", "Bojan Klemenc", "Jelena Klisara", "Vid Klopčič",
+     "Petar Kochovski", "Enja Kokalj", "Igor Kononenko", "Miran Koprivec", "Domen Košir", "Simon Krek", "Matej Kristan",
+     "Matjaž Kukar", "Leon Lampret", "Iztok Lapanja", "Dejan Lavbič", "Iztok Lebar Bajec", "Aleš Leonardis",
+     "Žiga Lesar",
+     "Jure Leskovec", "Nikola Ljubešić", "Sonja Lojk", "Jure Lokovšek", "Uroš Lotrič", "Alan Lukežič", "Nives Macerl",
+     "Octavian-Mihai Machidon", "Lidija Magdevska", "Matija Marolt", "Teodora Matić", "Blaž Meden", "Jan Meznarič",
+     "Jurij Mihelič", "Iztok Mihevc", "Kristian Miok", "David Modic", "Miha Moškon", "Martin Možina",
+     "Nežka Mramor Kosta",
+     "Miha Mraz", "Jon Muhovič", "Miha Nagelj", "Mimoza Naseka", "Jakob Novak", "Polona Oblak", "Amra Omanović",
+     "Bojan Orel", "Matjaž Pančur", "Aleš Papič", "Uroš Paščinski", "Peter Peer", "Veljko Pejović", "Špela Perner",
+     "Matevž Pesek", "Irena Pestotnik", "Andrej Petelin", "Mattia Petroni", "Matej Pičulin", "Ratko Pilipović",
+     "Žiga Pirnar", "Gregor Pirš", "Marko Poženel", "Ajda Pretnar", "Žiga Pušnik", "Mateja Ravnik", "Andreja Retelj",
+     "Matija Rezar", "Mitja Rizvič", "Borut Robič", "Marko Robnik Šikonja", "Peter Rot", "Igor Rožanc",
+     "Ksenija Rozman",
+     "Robert Rozman", "Taja Runovc", "Rok Rupnik", "Aleksander Sadikov", "Miha Schaffer", "Petra Simonič",
+     "Arne Simonič",
+     "Danijel Skočaj", "Boštjan Slivnik", "Davor Sluga", "Tim Smole", "Aleš Smonig Grnjak", "Aleš Smrdel",
+     "Franc Solina",
+     "Vlado Stankovski", "Luka Šajn", "Luka Šarc", "Andrej Šeruga", "Jaka Šircelj", "Blaž Škrlj", "Domen Šoberl",
+     "Branko Šter", "Erik Štrumbelj", "Lovro Šubelj", "Domen Tabernik", "Vesna Tanko", "Marko Toplak", "Barbara Torkar",
+     "Denis Trček", "Mira Trebar", "Jure Tuta", "Matej Ulčar", "Anita Valmarska", "Damjan Vavpotič", "Zdenka Velikonja",
+     "Kristina Veljković", "Janoš Vidali", "Žiga Virk", "Matej Vitek", "Jaka Vodeb", "Petar Vračar", "Simon Vrhovec",
+     "Martin Vuk", "Aleš Watzak", "Aljaž Zalar", "Vitjan Zavrtanik", "Nikolaj Zimic", "Aljaž Zrnec",
+     "Helena Marija Zupan",
+     "Blaž Zupan", "Jure Žabkar", "Aleš Žagar", "Lan Žagar", "Manca Žerovnik Mekuč", "Rok Žitko", "Slavko Žitnik",
+     "Urška Žnidarič", "Bojan Žunkovič"]
 
     referenceLabs = {
-        "biolab", "lalg", "laps", "laspp", "lbrso", "lem", "lgm", "li", "liis", "lkm", "lkrv", "lmmri", "lpt", "lrk",
+        "biolab", "la", "laps", "laspp", "lbrso", "lem", "lgm", "li", "liis", "lkm", "lkrv", "lmmri", "lpt", "lrk",
         "lrss", "lrv", "ltpo", "lui", "lusy", "luvss"
     }
     idList = match_id(data['projects'], referencePeople)
+    print(idList)
     reference = match_lab(referenceLabs, idList)
     print(reference)
     json_to_md(data['projects'], reference)
-
-
 
 
 
