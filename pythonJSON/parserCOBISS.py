@@ -148,19 +148,20 @@ for f in listdir(path):
 print(files)
 reference_people = get_sicris_numbers(files)
 ref = reference_people
-
+'''
 #TO DOWNLOAD BIBLIOGRAPHY
 for person in ref:
     print(person)
     biblio = get_bibliography(person['sicris'], 'slv')
     with io.open('./biblioXML/'+person['fname']+'.xml', 'wb') as file:
         file.write(biblio)
-
+'''
 for person in ref:
     with io.open('./biblioXML/'+person['fname']+'.xml', 'r', encoding='utf8') as f:
         print(person['fname'])
-        if len(f.read()) > 1:
-            toWrite = export_biblio(f.read())
+        file_data = f.read()
+        if len(file_data) > 1:
+            toWrite = export_biblio(file_data)
             fname = './data/osebje/publ/' + person['fname'] + '.json'
 
             with io.open(fname, 'w+', encoding='utf8') as to:
