@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2013-04-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Learning a large number of visual object categories for content-based retrieval in image and video databases",
             "si": "U\u010denje velikega \u0161tevila vizualnih kategorij objektov za poizvedovanje v slikovnih in video podatkovnih zbirkah"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-velikega-stevila-vizualnih-kategorij-objektov-za-poizvedovanje-v-slikovnih-video"
+        "url": "https://fri.uni-lj.si/sl/projekti/31"
     },
     {
         "end_date": "2014-06-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Learning, analysis, and detection of motion in the framework of a hierarchical compositional visual architecture",
             "si": "U\u010denje, analiza in detekcija gibanja v okviru hierarhi\u010dne kompozicionalne vizualne arhitekture"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-analiza-detekcija-gibanja-v-okviru-hierarhicne-kompozicionalne-vizualne-arhitekture"
+        "url": "https://fri.uni-lj.si/sl/projekti/39"
     },
     {
         "end_date": "2017-06-30 00:00:00",
@@ -41,7 +41,7 @@
             "en": "VILLarD - Maintenance of large databases based on visual information using incremental learning",
             "si": "VILLarD - Vzdr\u017eevanje velikih podatkovnih baz na podlagi vizualne informacije z inkrementalnim u\u010denjem"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/villard-vzdrzevanje-velikih-podatkovnih-baz-na-podlagi-vizualne-informacije-z"
+        "url": "https://fri.uni-lj.si/sl/projekti/46"
     },
     {
         "end_date": "2012-06-30 00:00:00",
@@ -52,7 +52,7 @@
             "en": "CogX - Cognitive Systems that Self-Understand and Self-Extend",
             "si": "CogX - Cognitive Systems that Self-Understand and Self-Extend"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/cogx-cognitive-systems-self-understand-and-self-extend"
+        "url": "https://fri.uni-lj.si/sl/projekti/71"
     },
     {
         "end_date": "2014-09-30 00:00:00",
@@ -63,7 +63,7 @@
             "en": "PKP 1 - \u0160tudija in primerjava naprednih metod ra\u010dunalni\u0161kega vida za modeliranje stopal v realnem okolju",
             "si": "PKP 1 - \u0160tudija in primerjava naprednih metod ra\u010dunalni\u0161kega vida za modeliranje stopal v realnem okolju"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-studija-primerjava-naprednih-metod-racunalniskega-vida-za-modeliranje-stopal-v"
+        "url": "https://fri.uni-lj.si/sl/projekti/119"
     },
     {
         "end_date": "2017-07-31 00:00:00",
@@ -74,7 +74,18 @@
             "en": "PKP 3 - Ra\u010dunalni\u0161ki vid in inteligenta robotika za napredne oblike komuniciranja",
             "si": "PKP 3 - Ra\u010dunalni\u0161ki vid in inteligenta robotika za napredne oblike komuniciranja"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-racunalniski-vid-inteligenta-robotika-za-napredne-oblike-komuniciranja"
+        "url": "https://fri.uni-lj.si/sl/projekti/387"
+    },
+    {
+        "end_date": "2020-09-30 00:00:00",
+        "id": 486,
+        "ref_project_type": 5,
+        "start_date": "2016-10-01 00:00:00",
+        "title": {
+            "en": "LUKE\u017dI\u010c ALAN - ALAN LUKE\u017dI\u010c - Young Researcher",
+            "si": "LUKE\u017dI\u010c ALAN - ALAN LUKE\u017dI\u010c - mladi raziskovalec"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/486"
     },
     {
         "end_date": "2020-04-30 00:00:00",
@@ -85,7 +96,7 @@
             "en": "Robust computer vision methods for autonomous boats",
             "si": "Robustne metode ra\u010dunalni\u0161kega vida za avtonomna robotska plovila "
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/robustne-metode-racunalniskega-vida-za-avtonomna-robotska-plovila"
+        "url": "https://fri.uni-lj.si/sl/projekti/504"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -96,6 +107,17 @@
             "en": "Detection of inconsistencies in complex visual data using deep learning",
             "si": "Iskanje nekonsistentnosti v kompleksnih slikovnih podatkih z globokim u\u010denjem"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/iskanje-nekonsistentnosti-v-kompleksnih-slikovnih-podatkih-z-globokim-ucenjem"
+        "url": "https://fri.uni-lj.si/sl/projekti/560"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
     }
 ]

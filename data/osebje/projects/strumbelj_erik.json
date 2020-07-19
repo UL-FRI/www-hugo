@@ -8,7 +8,29 @@
             "en": "Artificial intelligence and inteligent systems",
             "si": "Umetna inteligenca in inteligentni sistemi"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
     },
     {
         "end_date": "2011-12-31 00:00:00",
@@ -19,7 +41,7 @@
             "en": "Integration of data mining and high-performance computer modeling for coronary artery disease",
             "si": "Integracija odkrivanja zakonitosti v podatkih in visoko-zmogljivega ra\u010dunalni\u0161kega modeliranja sr\u010dno-\u017eilnih bolezni"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/integracija-odkrivanja-zakonitosti-v-podatkih-visoko-zmogljivega-racunalniskega-modeliranja"
+        "url": "https://fri.uni-lj.si/sl/projekti/53"
     },
     {
         "end_date": "2011-12-31 00:00:00",
@@ -30,7 +52,7 @@
             "en": "Electricity load forecasting supported by prediction explanation and prediction reliability estimates",
             "si": "Napovedovanje porabe elektri\u010dne energije, podprto z razlago in oceno zanesljivosti napovedi"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/napovedovanje-porabe-elektricne-energije-podprto-z-razlago-oceno-zanesljivosti-napovedi"
+        "url": "https://fri.uni-lj.si/sl/projekti/55"
     },
     {
         "end_date": "2011-12-31 00:00:00",
@@ -41,7 +63,7 @@
             "en": "Machine learning of imbalanced data",
             "si": "Strojno u\u010denje neuravnote\u017eenih podatkov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-neuravnotezenih-podatkov"
+        "url": "https://fri.uni-lj.si/sl/projekti/56"
     },
     {
         "end_date": "2017-12-31 00:00:00",
@@ -52,7 +74,7 @@
             "en": "Automatic detection and localization of ischemia by the use of data mining algorithms",
             "si": "Avtomatsko zaznavanje in lokalizacija ishemij z uporabo algoritmov podatkovnega rudarjenja"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/avtomatsko-zaznavanje-lokalizacija-ishemij-z-uporabo-algoritmov-podatkovnega-rudarjenja"
+        "url": "https://fri.uni-lj.si/sl/projekti/200"
     },
     {
         "end_date": "2019-02-28 00:00:00",
@@ -63,7 +85,18 @@
             "en": "Sofinanciranje aplikativnega projekta L1-7542",
             "si": "Sofinanciranje aplikativnega projekta L1-7542"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sofinanciranje-aplikativnega-projekta-l1-7542"
+        "url": "https://fri.uni-lj.si/sl/projekti/206"
+    },
+    {
+        "end_date": "2020-09-30 00:00:00",
+        "id": 366,
+        "ref_project_type": null,
+        "start_date": "2017-01-01 00:00:00",
+        "title": {
+            "en": "Cellular Wireless Positioning",
+            "si": "Cellular Wireless Positioning"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/366"
     },
     {
         "end_date": "2017-07-31 00:00:00",
@@ -74,7 +107,18 @@
             "en": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov",
             "si": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-video-meritve-dolzin-smucarskih-skokov"
+        "url": "https://fri.uni-lj.si/sl/projekti/385"
+    },
+    {
+        "end_date": "2020-10-31 00:00:00",
+        "id": 487,
+        "ref_project_type": 5,
+        "start_date": "2016-11-01 00:00:00",
+        "title": {
+            "en": "PIR\u0160 GREGOR - GREGOR PIR\u0160 - Young Researcher",
+            "si": "PIR\u0160 GREGOR - GREGOR PIR\u0160 - mladi raziskovalec"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/487"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -85,7 +129,7 @@
             "en": "Decomposing cognition: Working memory mechanism and representations",
             "si": "Razstavljanje kognicije: Mehanizmi in reprezentacije delovnega spomina"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/razstavljanje-kognicije-mehanizmi-reprezentacije-delovnega-spomina"
+        "url": "https://fri.uni-lj.si/sl/projekti/564"
     },
     {
         "end_date": "2024-12-31 00:00:00",
@@ -96,7 +140,7 @@
             "en": "Digitalization as Driving Force for Sustainability of Individuals, Organizations, and Society",
             "si": "Digitalizacija kot gonilo trajnostnega razvoja posameznika, organizacij in dru\u017ebe"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/digitalizacija-kot-gonilo-trajnostnega-razvoja-posameznika-organizacij-druzbe-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/1587"
     },
     {
         "end_date": "2019-07-25 00:00:00",
@@ -107,7 +151,7 @@
             "en": "Hypercomputing for Critical Path Parkinsons Consortium",
             "si": "Raziskovalno delo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/raziskovalno-delo"
+        "url": "https://fri.uni-lj.si/sl/projekti/1597"
     },
     {
         "end_date": "2019-12-31 00:00:00",
@@ -118,6 +162,6 @@
             "en": "Sestava namenskih algoritmov",
             "si": "Sestava namenskih algoritmov"
         },
-        "url": ""
+        "url": "https://fri.uni-lj.si/sl/projekti/1603"
     }
 ]

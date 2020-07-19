@@ -8,7 +8,7 @@
             "en": "Pervasive Computing",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+        "url": "https://fri.uni-lj.si/sl/projekti/15"
     },
     {
         "end_date": "2017-06-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Designed cellular logic",
             "si": "Na\u010drtovana celi\u010dna logi\u010dna vezja"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/nacrtovana-celicna-logicna-vezja"
+        "url": "https://fri.uni-lj.si/sl/projekti/47"
     },
     {
         "end_date": "2012-04-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "RFID F2F - RFID from Farm to Fork",
             "si": "RFID F2F - RFID from Farm to Fork"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+        "url": "https://fri.uni-lj.si/sl/projekti/66"
     },
     {
         "end_date": "2008-07-10 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Izdelava \u0161tudije",
             "si": "Izdelava \u0161tudije"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-studije"
+        "url": "https://fri.uni-lj.si/sl/projekti/345"
     },
     {
         "end_date": "2011-05-25 00:00:00",
@@ -52,7 +52,7 @@
             "en": "Razvoj algoritma in analiza signalov",
             "si": "Razvoj algoritma in analiza signalov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-algoritma-analiza-signalov"
+        "url": "https://fri.uni-lj.si/sl/projekti/348"
     },
     {
         "end_date": "2023-12-31 00:00:00",
@@ -63,7 +63,7 @@
             "en": "Vseprisotno ra\u010dunalni\u0161tvo",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/525"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -74,6 +74,17 @@
             "en": "ClolesteROR in metabilic liver disease",
             "si": "HolesteROR pri presnovnih boleznih jeter"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/holesteror-pri-presnovnih-boleznih-jeter"
+        "url": "https://fri.uni-lj.si/sl/projekti/558"
+    },
+    {
+        "end_date": null,
+        "id": 1660,
+        "ref_project_type": null,
+        "start_date": "2020-02-03 00:00:00",
+        "title": {
+            "en": "Pogodba o poslovnem sodelovanju",
+            "si": "Pogodba o poslovnem sodelovanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1660"
     }
 ]

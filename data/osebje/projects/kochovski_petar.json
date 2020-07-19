@@ -1,1 +1,35 @@
-[{"id": 230, "title": {"si": "EkoSmart - Eko Sistem Pametnega Mesta", "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem"}, "ref_project_type": 6, "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta", "start_date": "2016-08-01 00:00:00", "end_date": "2019-07-31 00:00:00"}]
+[
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 230,
+        "ref_project_type": 6,
+        "start_date": "2016-08-01 00:00:00",
+        "title": {
+            "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
+            "si": "EkoSmart - Eko Sistem Pametnega Mesta"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/230"
+    },
+    {
+        "end_date": "2019-05-24 00:00:00",
+        "id": 533,
+        "ref_project_type": null,
+        "start_date": "2018-04-23 00:00:00",
+        "title": {
+            "en": "SOSTOP/Vita Bits",
+            "si": "SOSTOP/Vita Bits"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/533"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 1631,
+        "ref_project_type": 1,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "DECENTER - Decentralised technologies for orchestrated cloud-to-edge intellingce",
+            "si": "DECENTER - Decentralizirane tehnologije za orkestrirano inteligenco od oblaka do roba"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1631"
+    }
+]

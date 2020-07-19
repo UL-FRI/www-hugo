@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2018-01-31 00:00:00",
+        "id": 80,
+        "ref_project_type": 1,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "SWITCH - Software Workbench for Interactive, Time Critical and\r\nHighly self-adaptive cloud applications",
+            "si": "SWITCH - Programsko okolje za interaktivne, \u010dasovno kriti\u010dne in visoko samoprilagodljive aplikacije"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/80"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 1631,
+        "ref_project_type": 1,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "DECENTER - Decentralised technologies for orchestrated cloud-to-edge intellingce",
+            "si": "DECENTER - Decentralizirane tehnologije za orkestrirano inteligenco od oblaka do roba"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1631"
+    }
+]

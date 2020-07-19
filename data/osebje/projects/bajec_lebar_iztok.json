@@ -8,7 +8,7 @@
             "en": "Pervasive Computing",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+        "url": "https://fri.uni-lj.si/sl/projekti/15"
     },
     {
         "end_date": "2012-04-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "RFID F2F - RFID from Farm to Fork",
             "si": "RFID F2F - RFID from Farm to Fork"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/rfid-f2f-rfid-farm-fork"
+        "url": "https://fri.uni-lj.si/sl/projekti/66"
     },
     {
         "end_date": "2014-09-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "PKP 1 - Development of advanced analytical tools for improvement of building systems operational efficiency",
             "si": "PKP 1 - Razvoj naprednih analitskih orodij za optimizacijo delovanja stavbnih sistemov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-razvoj-naprednih-analitskih-orodij-za-optimizacijo-delovanja-stavbnih-sistemov"
+        "url": "https://fri.uni-lj.si/sl/projekti/120"
     },
     {
         "end_date": "2008-07-10 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Izdelava \u0161tudije",
             "si": "Izdelava \u0161tudije"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/izdelava-studije"
+        "url": "https://fri.uni-lj.si/sl/projekti/345"
     },
     {
         "end_date": "2023-12-31 00:00:00",
@@ -52,6 +52,17 @@
             "en": "Vseprisotno ra\u010dunalni\u0161tvo",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/525"
+    },
+    {
+        "end_date": "2019-11-18 00:00:00",
+        "id": 1630,
+        "ref_project_type": null,
+        "start_date": "2019-10-07 00:00:00",
+        "title": {
+            "en": "Vzpostavitev in vzdr\u017eevanje re\u0161itve ASRfri (licenca)",
+            "si": "Vzpostavitev in vzdr\u017eevanje re\u0161itve ASRfri (licenca)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1630"
     }
 ]

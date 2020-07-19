@@ -8,7 +8,7 @@
             "en": "Internacionalizacija UL",
             "si": "Internacionalizacija UL"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/internacionalizacija-ul"
+        "url": "https://fri.uni-lj.si/sl/projekti/97"
     },
     {
         "end_date": "2018-06-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange",
             "si": "RICERCANDO - MONROE - Rapid Interpretation and Cross-Experiment Root-Cause Analysis in Network Data with Orange"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ricercando-monroe-rapid-interpretation-and-cross-experiment-root-cause-analysis-network"
+        "url": "https://fri.uni-lj.si/sl/projekti/233"
     },
     {
         "end_date": "2020-09-20 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Citizen science to promote creativity, scientific literacy and innovation throughout Europe (COST Action CA15212)",
             "si": "Javna znanost za spodbujanje ustvarjalnosti, znanstvene pismenost in inovacije v Evropi (COST Action CA15212)"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/javna-znanost-za-spodbujanje-ustvarjalnosti-znanstvene-pismenost-inovacije-v-evropi-cost"
+        "url": "https://fri.uni-lj.si/sl/projekti/495"
     },
     {
         "end_date": "2018-02-28 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije",
             "si": "Pogodba za izdelavo \u0161tudije o mo\u017enostih uporabe podatkov agencije"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pogodba-za-izdelavo-studije-o-moznostih-uporabe-podatkov-agencije"
+        "url": "https://fri.uni-lj.si/sl/projekti/508"
     },
     {
         "end_date": "2023-12-31 00:00:00",
@@ -52,6 +52,28 @@
             "en": "Vseprisotno ra\u010dunalni\u0161tvo",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/525"
+    },
+    {
+        "end_date": "2021-09-30 00:00:00",
+        "id": 1618,
+        "ref_project_type": 2,
+        "start_date": "2019-10-01 00:00:00",
+        "title": {
+            "en": "Mobilno ra\u010dunanje za u\u010dinkovito raz\u0161irjanje informacij v izrednih razmerah",
+            "si": "Mobilno ra\u010dunanje za u\u010dinkovito raz\u0161irjanje informacij v izrednih razmerah"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1618"
+    },
+    {
+        "end_date": "2021-06-30 00:00:00",
+        "id": 1631,
+        "ref_project_type": 1,
+        "start_date": "2018-07-01 00:00:00",
+        "title": {
+            "en": "DECENTER - Decentralised technologies for orchestrated cloud-to-edge intellingce",
+            "si": "DECENTER - Decentralizirane tehnologije za orkestrirano inteligenco od oblaka do roba"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1631"
     }
 ]

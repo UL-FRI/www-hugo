@@ -8,7 +8,7 @@
             "en": "Metabolic and inborn factors of reproductive health, birth",
             "si": "Metabolni in prirojeni dejavniki reproduktivnega zdravja, porod"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/metabolni-prirojeni-dejavniki-reproduktivnega-zdravja-porod"
+        "url": "https://fri.uni-lj.si/sl/projekti/2"
     },
     {
         "end_date": "2019-12-31 00:00:00",
@@ -19,6 +19,17 @@
             "en": "Metabolic and inborn factors of reproductive health, birth, II",
             "si": "Metabolni in prirojeni dejavniki reproduktivnega zdravja, porod"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/metabolni-prirojeni-dejavniki-reproduktivnega-zdravja-porod-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/192"
+    },
+    {
+        "end_date": "2025-12-31 00:00:00",
+        "id": 1649,
+        "ref_project_type": 4,
+        "start_date": "2020-01-01 00:00:00",
+        "title": {
+            "en": "Metabolic and inborn factors of reproductive health, birth III",
+            "si": "Metabolni in prirojeni dejavniki reproduktivnega zdravja, porod III"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1649"
     }
 ]

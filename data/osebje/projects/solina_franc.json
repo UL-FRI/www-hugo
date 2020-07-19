@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+        "url": "https://fri.uni-lj.si/sl/projekti/9"
     },
     {
         "end_date": "2018-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2011-09-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Managing technical, business and social implications of Internet of things\u2002in Slovene environment",
             "si": "OTGDV-Ist - Obvladovanje tehni\u010dnih in gospodarsko-dru\u017ebenih vidikov Interneta stvari v slovenskem okolju"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/otgdv-ist-obvladovanje-tehnicnih-gospodarsko-druzbenih-vidikov-interneta-stvari-v"
+        "url": "https://fri.uni-lj.si/sl/projekti/50"
     },
     {
         "end_date": "2013-12-31 00:00:00",
@@ -41,7 +41,7 @@
             "en": "KC CLASS - Cloud Assisted Services",
             "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+        "url": "https://fri.uni-lj.si/sl/projekti/86"
     },
     {
         "end_date": "2013-12-31 00:00:00",
@@ -52,7 +52,7 @@
             "en": "KC OPCOMM - Open Communication Platform for Service Integration",
             "si": "KC OPCOMM - Odprta komunikacijska platforma za integracijo storitev"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kc-opcomm-odprta-komunikacijska-platforma-za-integracijo-storitev"
+        "url": "https://fri.uni-lj.si/sl/projekti/87"
     },
     {
         "end_date": "2014-09-30 00:00:00",
@@ -63,7 +63,7 @@
             "en": "PKP 1 - 3D documentation of cultural heritage",
             "si": "PKP 1 - Fotogrametri\u010dno zajemanje 3D podatkov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-fotogrametricno-zajemanje-3d-podatkov"
+        "url": "https://fri.uni-lj.si/sl/projekti/112"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -74,7 +74,18 @@
             "en": "Segmentation and recovery of superquadrics",
             "si": "Segmentacija in rekonstrukcija superkvadri\u010dnih modelov iz 3D podatkov s pomo\u010djo nevronske mre\u017ee"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/segmentacija-rekonstrukcija-superkvadricnih-modelov-iz-3d-podatkov-s-pomocjo-nevronske-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/559"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
     },
     {
         "end_date": "2019-05-30 00:00:00",
@@ -85,6 +96,6 @@
             "en": "Programiranje",
             "si": "Programiranje"
         },
-        "url": ""
+        "url": "https://fri.uni-lj.si/sl/projekti/1602"
     }
 ]

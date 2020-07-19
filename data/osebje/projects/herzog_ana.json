@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2018-12-31 00:00:00",
+        "id": 502,
+        "ref_project_type": 5,
+        "start_date": "2016-01-01 00:00:00",
+        "title": {
+            "en": "Molecular and other prognosticators of lung cancer and mesothelioma ",
+            "si": "Molekularni ozna\u010devalci raka plju\u010d in njim prilagojeno zdravljenje "
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/502"
+    },
+    {
+        "end_date": "2020-07-31 00:00:00",
+        "id": 1651,
+        "ref_project_type": 6,
+        "start_date": "2020-03-01 00:00:00",
+        "title": {
+            "en": "PKP6 - Computer System for Screening for Dyslexia",
+            "si": "PKP6 - Ra\u010dunalni\u0161ki sistem za prepoznavanje disleksije - DISLEKSIJA"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1651"
+    }
+]

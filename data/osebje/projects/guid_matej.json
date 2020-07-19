@@ -8,7 +8,29 @@
             "en": "Artificial intelligence and inteligent systems",
             "si": "Umetna inteligenca in inteligentni sistemi"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/umetna-inteligenca-inteligentni-sistemi-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
     },
     {
         "end_date": "2014-06-30 00:00:00",
@@ -19,7 +41,7 @@
             "en": "Machine learning for building intelligent tutoring systems",
             "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-v-gradnji-inteligentnih-sistemov-za-poucevanje"
+        "url": "https://fri.uni-lj.si/sl/projekti/40"
     },
     {
         "end_date": "2014-06-30 00:00:00",
@@ -30,7 +52,7 @@
             "en": "Molecular and other prognosticators of lung cancer and mesothelioma ",
             "si": "Molekularni in drugi ozna\u010devalci raka plju\u010d in mezotelioma"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/molekularni-drugi-oznacevalci-raka-pljuc-mezotelioma"
+        "url": "https://fri.uni-lj.si/sl/projekti/41"
     },
     {
         "end_date": "2014-12-31 00:00:00",
@@ -41,6 +63,6 @@
             "en": "Machine learning for building intelligent tutoring systems: conceptualization of problem-solving domains",
             "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje: konceptualizacija domen simboli\u010dnega re\u0161evanja problemov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/strojno-ucenje-v-gradnji-inteligentnih-sistemov-za-poucevanje-konceptualizacija-domen"
+        "url": "https://fri.uni-lj.si/sl/projekti/60"
     }
 ]

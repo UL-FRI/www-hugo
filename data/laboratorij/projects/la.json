@@ -1,0 +1,200 @@
+[
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 6,
+        "ref_project_type": 4,
+        "start_date": "2015-01-01 00:00:00",
+        "title": {
+            "en": "Artificial intelligence and inteligent systems",
+            "si": "Umetna inteligenca in inteligentni sistemi"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/6"
+    },
+    {
+        "end_date": "2019-12-31 00:00:00",
+        "id": 21,
+        "ref_project_type": 4,
+        "start_date": "2014-01-01 00:00:00",
+        "title": {
+            "en": "Parallel and distributed systems",
+            "si": "Sinergetika kompleksnih sistemov in procesov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/21"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 40,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Machine learning for building intelligent tutoring systems",
+            "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/40"
+    },
+    {
+        "end_date": "2014-06-30 00:00:00",
+        "id": 41,
+        "ref_project_type": 5,
+        "start_date": "2011-07-01 00:00:00",
+        "title": {
+            "en": "Molecular and other prognosticators of lung cancer and mesothelioma ",
+            "si": "Molekularni in drugi ozna\u010devalci raka plju\u010d in mezotelioma"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/41"
+    },
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 60,
+        "ref_project_type": 2,
+        "start_date": "2013-01-01 00:00:00",
+        "title": {
+            "en": "Machine learning for building intelligent tutoring systems: conceptualization of problem-solving domains",
+            "si": "Strojno u\u010denje v gradnji inteligentnih sistemov za pou\u010devanje: konceptualizacija domen simboli\u010dnega re\u0161evanja problemov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/60"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 126,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Visualization and analysis of public finance networks",
+            "si": "PKP 2 - Vizualizacija in analiza omre\u017eij javnih financ"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/126"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 129,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - Analysis and visualization of impact factors on organization visits",
+            "si": "PKP 2 - Analiza in vizualizacija dejavnikov vpliva na obiskanost organizacij"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/129"
+    },
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 130,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - A study in the advanced distributed analytics",
+            "si": "PKP 2 - \u0160tudija podpore za napredno in porazdeljeno analitiko"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/130"
+    },
+    {
+        "end_date": "2019-05-31 00:00:00",
+        "id": 209,
+        "ref_project_type": null,
+        "start_date": "2016-06-01 00:00:00",
+        "title": {
+            "en": "Graph Optimisation and Big Data",
+            "si": "Optimizacija grafov in ogromno podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/209"
+    },
+    {
+        "end_date": "2017-04-28 00:00:00",
+        "id": 273,
+        "ref_project_type": null,
+        "start_date": "2016-06-30 00:00:00",
+        "title": {
+            "en": "Razvoj na projektu Visual Assistant",
+            "si": "Razvoj na projektu Visual Assistant"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/273"
+    },
+    {
+        "end_date": "2017-07-31 00:00:00",
+        "id": 385,
+        "ref_project_type": 6,
+        "start_date": "2017-03-01 00:00:00",
+        "title": {
+            "en": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov",
+            "si": "PKP 3 - Video meritve dol\u017ein smu\u010darskih skokov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/385"
+    },
+    {
+        "end_date": null,
+        "id": 404,
+        "ref_project_type": null,
+        "start_date": "2017-02-07 00:00:00",
+        "title": {
+            "en": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov",
+            "si": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/404"
+    },
+    {
+        "end_date": "2018-06-30 00:00:00",
+        "id": 515,
+        "ref_project_type": 6,
+        "start_date": "2018-03-01 00:00:00",
+        "title": {
+            "en": "\u0160IPK 2 - SloRaDe: Slovenian Computer Heritage",
+            "si": "\u0160IPK 2 - Slovenska ra\u010dunalni\u0161ka dedi\u0161\u010dina"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/515"
+    },
+    {
+        "end_date": "2018-08-31 00:00:00",
+        "id": 518,
+        "ref_project_type": 6,
+        "start_date": "2018-04-01 00:00:00",
+        "title": {
+            "en": "PKP 4 - An example of GradKom mobile application usage",
+            "si": "PKP 4 - Neposredna komunikacija med udele\u017eenci gradnje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/518"
+    },
+    {
+        "end_date": "2018-09-15 00:00:00",
+        "id": 536,
+        "ref_project_type": 6,
+        "start_date": "2018-06-15 00:00:00",
+        "title": {
+            "en": "\u0160IPK 3 - SLEDIMedO: Tracker of Media Announcements",
+            "si": "\u0160IPK 3 - Sledilec medijskih objav"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/536"
+    },
+    {
+        "end_date": "2019-07-31 00:00:00",
+        "id": 1579,
+        "ref_project_type": 6,
+        "start_date": "2019-03-01 00:00:00",
+        "title": {
+            "en": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev",
+            "si": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1579"
+    },
+    {
+        "end_date": null,
+        "id": 1636,
+        "ref_project_type": null,
+        "start_date": "2019-10-21 00:00:00",
+        "title": {
+            "en": "Razvojne storitve na projektu izbolj\u0161ave vizualizacijskih tehnik",
+            "si": "Razvojne storitve na projektu izbolj\u0161ave vizualizacijskih tehnik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1636"
+    },
+    {
+        "end_date": "2020-07-31 00:00:00",
+        "id": 1653,
+        "ref_project_type": 6,
+        "start_date": "2020-03-01 00:00:00",
+        "title": {
+            "en": "PKP6 - Mobile Operating System for Industrial Use (MobiIOS)",
+            "si": "PKP6 - Mobilni operacijski sistem za industrijsko uporabo (MobiIOS)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1653"
+    }
+]

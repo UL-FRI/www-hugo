@@ -8,9 +8,9 @@
                 {{ if eq $code .course_code }}
                 <li>
                     {{ if eq $.Site.Language.Lang "en" }}
-                        <a href='{{printf "https://www.fri.uni-lj.si/en/predmet/%s" $code}}' >{{ .title.en }}</a>
+                        <a href='{{printf "https://www.fri.uni-lj.si/en/predmet/%s" $code}}' >{{if reflect.IsMap .title }}{{ .title.en }}{{ else }}{{ .title }}{{ end }}</a>
                     {{ else }}
-                        <a href='{{printf "https://www.fri.uni-lj.si/sl/predmet/%s" $code}}' >{{ .title.sl }}</a>
+                        <a href='{{printf "https://www.fri.uni-lj.si/sl/predmet/%s" $code}}' >{{if reflect.IsMap .title }}{{ .title.sl }}{{ else }}{{ .title }}{{ end }}</a>
                     {{ end }}
                 </li>
                 {{ end }}

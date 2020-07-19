@@ -6,9 +6,9 @@
         "start_date": "2014-01-01 00:00:00",
         "title": {
             "en": "Parallel and distributed systems",
-            "si": "Vzporedni in porazdeljeni sistemi"
+            "si": "Sinergetika kompleksnih sistemov in procesov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vzporedni-porazdeljeni-sistemi"
+        "url": "https://fri.uni-lj.si/sl/projekti/21"
     },
     {
         "end_date": "2015-07-31 00:00:00",
@@ -19,7 +19,18 @@
             "en": "PKP 2 - Analysis and visualization of impact factors on organization visits",
             "si": "PKP 2 - Analiza in vizualizacija dejavnikov vpliva na obiskanost organizacij"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-analiza-vizualizacija-dejavnikov-vpliva-na-obiskanost-organizacij"
+        "url": "https://fri.uni-lj.si/sl/projekti/129"
+    },
+    {
+        "end_date": "2019-05-31 00:00:00",
+        "id": 209,
+        "ref_project_type": null,
+        "start_date": "2016-06-01 00:00:00",
+        "title": {
+            "en": "Graph Optimisation and Big Data",
+            "si": "Optimizacija grafov in ogromno podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/209"
     },
     {
         "end_date": "2017-04-28 00:00:00",
@@ -30,7 +41,7 @@
             "en": "Razvoj na projektu Visual Assistant",
             "si": "Razvoj na projektu Visual Assistant"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-na-projektu-visual-assistant"
+        "url": "https://fri.uni-lj.si/sl/projekti/273"
     },
     {
         "end_date": "2018-06-30 00:00:00",
@@ -41,7 +52,7 @@
             "en": "\u0160IPK 2 - SloRaDe: Slovenian Computer Heritage",
             "si": "\u0160IPK 2 - Slovenska ra\u010dunalni\u0161ka dedi\u0161\u010dina"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sipk-2-slovenska-racunalniska-dediscina"
+        "url": "https://fri.uni-lj.si/sl/projekti/515"
     },
     {
         "end_date": "2018-09-15 00:00:00",
@@ -52,7 +63,7 @@
             "en": "\u0160IPK 3 - SLEDIMedO: Tracker of Media Announcements",
             "si": "\u0160IPK 3 - Sledilec medijskih objav"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sipk-3-sledilec-medijskih-objav"
+        "url": "https://fri.uni-lj.si/sl/projekti/536"
     },
     {
         "end_date": "2019-07-31 00:00:00",
@@ -63,6 +74,17 @@
             "en": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev",
             "si": "PKP 5 - \u0160tudija in izvedba vizualizacijskih obogatitev"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-5-studija-izvedba-vizualizacijskih-obogatitev"
+        "url": "https://fri.uni-lj.si/sl/projekti/1579"
+    },
+    {
+        "end_date": null,
+        "id": 1636,
+        "ref_project_type": null,
+        "start_date": "2019-10-21 00:00:00",
+        "title": {
+            "en": "Razvojne storitve na projektu izbolj\u0161ave vizualizacijskih tehnik",
+            "si": "Razvojne storitve na projektu izbolj\u0161ave vizualizacijskih tehnik"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1636"
     }
 ]

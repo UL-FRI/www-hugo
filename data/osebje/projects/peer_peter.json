@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+        "url": "https://fri.uni-lj.si/sl/projekti/9"
     },
     {
         "end_date": "2018-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2013-12-31 00:00:00",
@@ -30,7 +30,7 @@
             "en": "KC CLASS - Cloud Assisted Services",
             "si": "KC CLASS - Storitve podprte z ra\u010dunalni\u0161tvom v oblaku - CLOUD"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kc-class-storitve-podprte-z-racunalnistvom-v-oblaku-cloud"
+        "url": "https://fri.uni-lj.si/sl/projekti/86"
     },
     {
         "end_date": "2013-12-31 00:00:00",
@@ -41,7 +41,7 @@
             "en": "KC OPCOMM - Open Communication Platform for Service Integration",
             "si": "KC OPCOMM - Odprta komunikacijska platforma za integracijo storitev"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kc-opcomm-odprta-komunikacijska-platforma-za-integracijo-storitev"
+        "url": "https://fri.uni-lj.si/sl/projekti/87"
     },
     {
         "end_date": "2012-08-31 00:00:00",
@@ -52,7 +52,7 @@
             "en": "Sofinanciranje delovnega mesta #2 - KC CLASS in OPCOMM",
             "si": "Sofinanciranje delovnega mesta #2 - KC CLASS in OPCOMM"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sofinanciranje-delovnega-mesta-2-kc-class-opcomm"
+        "url": "https://fri.uni-lj.si/sl/projekti/335"
     },
     {
         "end_date": "2013-12-31 00:00:00",
@@ -63,7 +63,7 @@
             "en": "Sofinanciranje delovnega mesta #1 - KC CLASS in OPCOMM",
             "si": "Sofinanciranje delovnega mesta #1 - KC CLASS in OPCOMM"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sofinanciranje-delovnega-mesta-1-kc-class-opcomm"
+        "url": "https://fri.uni-lj.si/sl/projekti/336"
     },
     {
         "end_date": "2014-06-26 00:00:00",
@@ -74,7 +74,7 @@
             "en": "Projekt APPENERATOR - generator mobilnih aplikacij",
             "si": "Projekt APPENERATOR - generator mobilnih aplikacij"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/projekt-appenerator-generator-mobilnih-aplikacij"
+        "url": "https://fri.uni-lj.si/sl/projekti/338"
     },
     {
         "end_date": "2018-12-31 00:00:00",
@@ -85,7 +85,7 @@
             "en": "Priprava prototpov in izvedba delavnic ",
             "si": "Priprava prototpov in izvedba delavnic "
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/priprava-prototpov-izvedba-delavnic"
+        "url": "https://fri.uni-lj.si/sl/projekti/512"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -96,6 +96,39 @@
             "en": "Segmentation and recovery of superquadrics",
             "si": "Segmentacija in rekonstrukcija superkvadri\u010dnih modelov iz 3D podatkov s pomo\u010djo nevronske mre\u017ee"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/segmentacija-rekonstrukcija-superkvadricnih-modelov-iz-3d-podatkov-s-pomocjo-nevronske-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/559"
+    },
+    {
+        "end_date": "2022-09-30 00:00:00",
+        "id": 567,
+        "ref_project_type": 5,
+        "start_date": "2018-10-01 00:00:00",
+        "title": {
+            "en": "VITEK MATEJ - MATEJ VITEK - Young Researcher",
+            "si": "VITEK MATEJ - MATEJ VITEK - mladi raziskovalec"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/567"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 1607,
+        "ref_project_type": 5,
+        "start_date": "2019-07-01 00:00:00",
+        "title": {
+            "en": "Deidentifikacija obrazov z globokimi generativnimi modeli (FaceGEN)",
+            "si": "Deidentifikacija obrazov z globokimi generativnimi modeli (FaceGEN)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1607"
     }
 ]

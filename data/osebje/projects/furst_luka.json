@@ -1,0 +1,24 @@
+[
+    {
+        "end_date": "2014-12-31 00:00:00",
+        "id": 9,
+        "ref_project_type": 4,
+        "start_date": "2009-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/9"
+    },
+    {
+        "end_date": "2017-04-28 00:00:00",
+        "id": 273,
+        "ref_project_type": null,
+        "start_date": "2016-06-30 00:00:00",
+        "title": {
+            "en": "Razvoj na projektu Visual Assistant",
+            "si": "Razvoj na projektu Visual Assistant"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/273"
+    }
+]

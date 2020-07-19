@@ -8,7 +8,7 @@
             "en": "Pervasive Computing",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+        "url": "https://fri.uni-lj.si/sl/projekti/15"
     },
     {
         "end_date": "2012-04-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Computer vision for mobile computing and interaction",
             "si": "Ra\u010dunalni\u0161ki vid za mobilno procesiranje in interakcijo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-za-mobilno-procesiranje-interakcijo"
+        "url": "https://fri.uni-lj.si/sl/projekti/28"
     },
     {
         "end_date": "2017-06-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Designed cellular logic",
             "si": "Na\u010drtovana celi\u010dna logi\u010dna vezja"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/nacrtovana-celicna-logicna-vezja"
+        "url": "https://fri.uni-lj.si/sl/projekti/47"
     },
     {
         "end_date": "2011-12-31 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Medical Images Compression",
             "si": "Kompresija medicinskih slik"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kompresija-medicinskih-slik"
+        "url": "https://fri.uni-lj.si/sl/projekti/201"
     },
     {
         "end_date": "2017-07-31 00:00:00",
@@ -52,7 +52,7 @@
             "en": "PKP 3 - Razvoj INFOrmacijskega sistema za sledenje, analizo in vodenje vzorcev na podro\u010dju funkcijske GENomike",
             "si": "PKP 3 - Razvoj INFOrmacijskega sistema za sledenje, analizo in vodenje vzorcev na podro\u010dju funkcijske GENomike"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-3-razvoj-informacijskega-sistema-za-sledenje-analizo-vodenje-vzorcev-na-podrocju"
+        "url": "https://fri.uni-lj.si/sl/projekti/386"
     },
     {
         "end_date": "2018-06-30 00:00:00",
@@ -63,7 +63,7 @@
             "en": "\u0160IPK 2 - InfoZdrav: Information System for the Management of Samples, Material and Chemicals in Health Care",
             "si": "\u0160IPK 2 - Informacijski sistem za sledenje vzorcev, materiala in kemikalij v zdravstvu"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sipk-2-informacijski-sistem-za-sledenje-vzorcev-materiala-kemikalij-v-zdravstvu"
+        "url": "https://fri.uni-lj.si/sl/projekti/517"
     },
     {
         "end_date": "2018-08-31 00:00:00",
@@ -74,7 +74,7 @@
             "en": "PKP 4 - IdentGen: Computational Support for Identification of Genetic Predispositions and Diagnosis of Complex Diseases",
             "si": "PKP 4 - Ra\u010dunalni\u0161ka podpora za identifikacijo genskih predispozicij in diagnostiko kompleksnih bolezni"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-racunalniska-podpora-za-identifikacijo-genskih-predispozicij-diagnostiko-kompleksnih"
+        "url": "https://fri.uni-lj.si/sl/projekti/521"
     },
     {
         "end_date": "2023-12-31 00:00:00",
@@ -85,7 +85,7 @@
             "en": "Vseprisotno ra\u010dunalni\u0161tvo",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/525"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -96,6 +96,17 @@
             "en": "ClolesteROR in metabilic liver disease",
             "si": "HolesteROR pri presnovnih boleznih jeter"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/holesteror-pri-presnovnih-boleznih-jeter"
+        "url": "https://fri.uni-lj.si/sl/projekti/558"
+    },
+    {
+        "end_date": "2022-06-30 00:00:00",
+        "id": 1606,
+        "ref_project_type": 5,
+        "start_date": "2019-07-01 00:00:00",
+        "title": {
+            "en": "Sistem integracije podatkov za vrednotenje trajnostne u\u010dinkovitosti slovenskih sosesk",
+            "si": "Sistem integracije podatkov za vrednotenje trajnostne u\u010dinkovitosti slovenskih sosesk"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1606"
     }
 ]

@@ -8,7 +8,7 @@
             "en": "PKP 2 - Smart glasses",
             "si": "PKP 2 - Pametna o\u010dala "
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-pametna-ocala"
+        "url": "https://fri.uni-lj.si/sl/projekti/132"
     },
     {
         "end_date": "2017-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Open Information Extraction for Slovene and Serbian Languages",
             "si": "Odprta ekstrakcija podatkov za slovenski in srbski jezik"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/odprta-ekstrakcija-podatkov-za-slovenski-srbski-jezik"
+        "url": "https://fri.uni-lj.si/sl/projekti/198"
     },
     {
         "end_date": "2017-12-31 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Intelligent Agile Method Framework (iAMF)",
             "si": "Inteligentno ogrodje za konstruiranje agilnih metod"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/inteligentno-ogrodje-za-konstruiranje-agilnih-metod"
+        "url": "https://fri.uni-lj.si/sl/projekti/207"
     },
     {
         "end_date": "2019-07-31 00:00:00",
@@ -41,6 +41,17 @@
             "en": "EkoSmart - EkoSMART \u2013 a smartcity ecosystem",
             "si": "EkoSmart - Eko Sistem Pametnega Mesta"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ekosmart-eko-sistem-pametnega-mesta"
+        "url": "https://fri.uni-lj.si/sl/projekti/230"
+    },
+    {
+        "end_date": "2019-05-24 00:00:00",
+        "id": 533,
+        "ref_project_type": null,
+        "start_date": "2018-04-23 00:00:00",
+        "title": {
+            "en": "SOSTOP/Vita Bits",
+            "si": "SOSTOP/Vita Bits"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/533"
     }
 ]

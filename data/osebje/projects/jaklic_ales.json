@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+        "url": "https://fri.uni-lj.si/sl/projekti/9"
     },
     {
         "end_date": "2018-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -30,6 +30,17 @@
             "en": "Segmentation and recovery of superquadrics",
             "si": "Segmentacija in rekonstrukcija superkvadri\u010dnih modelov iz 3D podatkov s pomo\u010djo nevronske mre\u017ee"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/segmentacija-rekonstrukcija-superkvadricnih-modelov-iz-3d-podatkov-s-pomocjo-nevronske-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/559"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
     }
 ]

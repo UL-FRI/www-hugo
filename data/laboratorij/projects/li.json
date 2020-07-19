@@ -8,7 +8,7 @@
             "en": "Pervasive Computing",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo"
+        "url": "https://fri.uni-lj.si/sl/projekti/15"
     },
     {
         "end_date": "2016-09-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform",
             "si": "AGROIT - Increasing the efficiency of farming through on open standards based AgroIT platform"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/agroit-increasing-efficiency-farming-through-open-standards-based-agroit-platform"
+        "url": "https://fri.uni-lj.si/sl/projekti/77"
     },
     {
         "end_date": "2014-06-20 00:00:00",
@@ -30,7 +30,7 @@
             "en": "MAK - Mobile applications for farms",
             "si": "MAK - Mobilne aplikacije za kmetijsko gospodarstvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/mak-mobilne-aplikacije-za-kmetijsko-gospodarstvo"
+        "url": "https://fri.uni-lj.si/sl/projekti/84"
     },
     {
         "end_date": "2020-12-31 00:00:00",
@@ -41,7 +41,7 @@
             "en": "GETM3 - Global Entrepreneurial Talent Management",
             "si": "GETM3 - Global Entrepreneurial Talent Management"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/getm3-global-entrepreneurial-talent-management"
+        "url": "https://fri.uni-lj.si/sl/projekti/388"
     },
     {
         "end_date": "2019-09-30 00:00:00",
@@ -52,7 +52,7 @@
             "en": "Guidelines for destination management based on carryng capacity and tourism flows models",
             "si": "Smernice za management turisti\u010dnih destinacij na podlagi modelov nosilnih zmogljivosti in turisti\u010dnih tokov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/smernice-za-management-turisticnih-destinacij-na-podlagi-modelov-nosilnih-zmogljivosti-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/523"
     },
     {
         "end_date": "2023-12-31 00:00:00",
@@ -63,7 +63,7 @@
             "en": "Vseprisotno ra\u010dunalni\u0161tvo",
             "si": "Vseprisotno ra\u010dunalni\u0161tvo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vseprisotno-racunalnistvo-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/525"
     },
     {
         "end_date": "2021-08-31 00:00:00",
@@ -74,6 +74,17 @@
             "en": "TURIZEM 4.0 - Tourism 4.0 \u2013 Enriched Tourist Experience",
             "si": "TURIZEM 4.0 - Obogatene turisti\u010dne izku\u0161nje"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/turizem-40-obogatene-turisticne-izkusnje"
+        "url": "https://fri.uni-lj.si/sl/projekti/551"
+    },
+    {
+        "end_date": "2020-02-03 00:00:00",
+        "id": 1610,
+        "ref_project_type": null,
+        "start_date": "2019-06-03 00:00:00",
+        "title": {
+            "en": "Evalvacija in na\u010drtovanje procesov IS",
+            "si": "Evalvacija in na\u010drtovanje procesov IS"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1610"
     }
 ]

@@ -1,1 +1,24 @@
-[{"id": 551, "title": {"si": "TURIZEM 4.0 - Obogatene turisti\u010dne izku\u0161nje", "en": "TURIZEM 4.0 - Tourism 4.0 \u2013 Enriched Tourist Experience"}, "ref_project_type": 6, "url": "https://fri.uni-lj.si/sl/projekti/turizem-40-obogatene-turisticne-izkusnje", "start_date": "2018-09-01 00:00:00", "end_date": "2021-08-31 00:00:00"}]
+[
+    {
+        "end_date": "2019-05-24 00:00:00",
+        "id": 533,
+        "ref_project_type": null,
+        "start_date": "2018-04-23 00:00:00",
+        "title": {
+            "en": "SOSTOP/Vita Bits",
+            "si": "SOSTOP/Vita Bits"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/533"
+    },
+    {
+        "end_date": "2021-08-31 00:00:00",
+        "id": 551,
+        "ref_project_type": 6,
+        "start_date": "2018-09-01 00:00:00",
+        "title": {
+            "en": "TURIZEM 4.0 - Tourism 4.0 \u2013 Enriched Tourist Experience",
+            "si": "TURIZEM 4.0 - Obogatene turisti\u010dne izku\u0161nje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/551"
+    }
+]

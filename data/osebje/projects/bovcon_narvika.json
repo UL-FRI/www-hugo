@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2014-09-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "PKP 1 - A study for the integration of an interactive computer installation into the new building of the Faculty of Computer and Information Science",
             "si": "PKP 1 - \u0160tudija za integracijo interaktivne ra\u010dunalni\u0161ke instalacije v arhitekturo nove stavbe FRI "
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-studija-za-integracijo-interaktivne-racunalniske-instalacije-v-arhitekturo-nove"
+        "url": "https://fri.uni-lj.si/sl/projekti/115"
     },
     {
         "end_date": "2018-06-19 00:00:00",
@@ -30,6 +30,17 @@
             "en": "\u0160IPK 2 - Cultural Heritage: Documenting Contemporary Art with New Technologies",
             "si": "\u0160IPK 2 - Varstvo kulturne dedi\u0161\u010dine: dokumentiranje razstav sodobne umetnosti s pomo\u010djo novih tehnologij"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sipk-2-varstvo-kulturne-dediscine-dokumentiranje-razstav-sodobne-umetnosti-s-pomocjo-novih"
+        "url": "https://fri.uni-lj.si/sl/projekti/516"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
     }
 ]

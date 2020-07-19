@@ -8,7 +8,7 @@
             "en": "Synergy of the technological systems and processes",
             "si": "Sinergetika kompleksnih sistemov in procesov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sinergetika-kompleksnih-sistemov-procesov"
+        "url": "https://fri.uni-lj.si/sl/projekti/13"
     },
     {
         "end_date": "2019-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Synergy of the technological systems and processes",
             "si": "Sinergetika kompleksnih sistemov in procesov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/sinergetika-kompleksnih-sistemov-procesov-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/14"
     },
     {
         "end_date": "2015-12-31 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Automatic annotation of medical video sequences",
             "si": "Samodejno ozna\u010devanje medicinskih video zapisov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/samodejno-oznacevanje-medicinskih-video-zapisov"
+        "url": "https://fri.uni-lj.si/sl/projekti/54"
     },
     {
         "end_date": "2011-12-31 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Modeling of complex dynamic systems with soft computing methods",
             "si": "Modeliranje kompleksnih dinami\u010dnih problemov z metodami mehkega ra\u010dunanja"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/modeliranje-kompleksnih-dinamicnih-problemov-z-metodami-mehkega-racunanja"
+        "url": "https://fri.uni-lj.si/sl/projekti/57"
     },
     {
         "end_date": null,
@@ -52,6 +52,17 @@
             "en": "Krovna pogodba o poslovenem sodelovanju",
             "si": "Krovna pogodba o poslovenem sodelovanju"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/krovna-pogodba-o-poslovenem-sodelovanju"
+        "url": "https://fri.uni-lj.si/sl/projekti/491"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 1589,
+        "ref_project_type": 2,
+        "start_date": "2019-01-15 00:00:00",
+        "title": {
+            "en": "Approximate Computing",
+            "si": "Pribli\u017eno ra\u010dunanje"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1589"
     }
 ]

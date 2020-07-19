@@ -6,9 +6,20 @@
         "start_date": "2014-01-01 00:00:00",
         "title": {
             "en": "Parallel and distributed systems",
-            "si": "Vzporedni in porazdeljeni sistemi"
+            "si": "Sinergetika kompleksnih sistemov in procesov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vzporedni-porazdeljeni-sistemi"
+        "url": "https://fri.uni-lj.si/sl/projekti/21"
+    },
+    {
+        "end_date": "2019-05-31 00:00:00",
+        "id": 209,
+        "ref_project_type": null,
+        "start_date": "2016-06-01 00:00:00",
+        "title": {
+            "en": "Graph Optimisation and Big Data",
+            "si": "Optimizacija grafov in ogromno podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/209"
     },
     {
         "end_date": "2017-04-28 00:00:00",
@@ -19,7 +30,7 @@
             "en": "Razvoj na projektu Visual Assistant",
             "si": "Razvoj na projektu Visual Assistant"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-na-projektu-visual-assistant"
+        "url": "https://fri.uni-lj.si/sl/projekti/273"
     },
     {
         "end_date": null,
@@ -30,7 +41,7 @@
             "en": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov",
             "si": "Oblikovanje, animacija in programiranje elektronskih interaktivnih u\u010dbenikov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/oblikovanje-animacija-programiranje-elektronskih-interaktivnih-ucbenikov"
+        "url": "https://fri.uni-lj.si/sl/projekti/404"
     },
     {
         "end_date": "2018-08-31 00:00:00",
@@ -41,6 +52,17 @@
             "en": "PKP 4 - An example of GradKom mobile application usage",
             "si": "PKP 4 - Neposredna komunikacija med udele\u017eenci gradnje"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-4-neposredna-komunikacija-med-udelezenci-gradnje"
+        "url": "https://fri.uni-lj.si/sl/projekti/518"
+    },
+    {
+        "end_date": "2020-07-31 00:00:00",
+        "id": 1653,
+        "ref_project_type": 6,
+        "start_date": "2020-03-01 00:00:00",
+        "title": {
+            "en": "PKP6 - Mobile Operating System for Industrial Use (MobiIOS)",
+            "si": "PKP6 - Mobilni operacijski sistem za industrijsko uporabo (MobiIOS)"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1653"
     }
 ]

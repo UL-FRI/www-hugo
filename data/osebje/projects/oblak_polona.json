@@ -8,7 +8,7 @@
             "en": "KUL - Kakovost - Univerza v Ljubljani",
             "si": "KUL - Kakovost - Univerza v Ljubljani"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/kul-kakovost-univerza-v-ljubljani"
+        "url": "https://fri.uni-lj.si/sl/projekti/91"
     },
     {
         "end_date": "2014-09-30 00:00:00",
@@ -19,7 +19,7 @@
             "en": "PKP 1 - Avtomatizacija testiranja spletnih aplikacij",
             "si": "PKP 1 - Avtomatizacija testiranja spletnih aplikacij"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/pkp-1-avtomatizacija-testiranja-spletnih-aplikacij"
+        "url": "https://fri.uni-lj.si/sl/projekti/118"
     },
     {
         "end_date": "2017-12-31 00:00:00",
@@ -30,6 +30,28 @@
             "en": "Representations of Quantum Groups via Computational Linear Algebra",
             "si": "Reprezentacije kvantnih grup s pomo\u010djo ra\u010dunske linearne algebre"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/reprezentacije-kvantnih-grup-s-pomocjo-racunske-linearne-algebre"
+        "url": "https://fri.uni-lj.si/sl/projekti/202"
+    },
+    {
+        "end_date": "2020-12-31 00:00:00",
+        "id": 1590,
+        "ref_project_type": 2,
+        "start_date": "2019-01-15 00:00:00",
+        "title": {
+            "en": "Nilpotent orbits and commuting matrices",
+            "si": "Nilpotentne orbite in komutirajo\u010de matrike"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1590"
+    },
+    {
+        "end_date": "2021-09-30 00:00:00",
+        "id": 1619,
+        "ref_project_type": 2,
+        "start_date": "2019-10-01 00:00:00",
+        "title": {
+            "en": "Inverzni problem lastnih vrednosti za graf",
+            "si": "Inverzni problem lastnih vrednosti za graf"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1619"
     }
 ]

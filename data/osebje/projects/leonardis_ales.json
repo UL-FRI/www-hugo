@@ -8,7 +8,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid"
+        "url": "https://fri.uni-lj.si/sl/projekti/9"
     },
     {
         "end_date": "2018-12-31 00:00:00",
@@ -19,7 +19,7 @@
             "en": "Computer Vision",
             "si": "Ra\u010dunalni\u0161ki vid"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-0"
+        "url": "https://fri.uni-lj.si/sl/projekti/11"
     },
     {
         "end_date": "2012-04-30 00:00:00",
@@ -30,7 +30,7 @@
             "en": "Computer vision for mobile computing and interaction",
             "si": "Ra\u010dunalni\u0161ki vid za mobilno procesiranje in interakcijo"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/racunalniski-vid-za-mobilno-procesiranje-interakcijo"
+        "url": "https://fri.uni-lj.si/sl/projekti/28"
     },
     {
         "end_date": "2013-04-30 00:00:00",
@@ -41,7 +41,7 @@
             "en": "Learning a large number of visual object categories for content-based retrieval in image and video databases",
             "si": "U\u010denje velikega \u0161tevila vizualnih kategorij objektov za poizvedovanje v slikovnih in video podatkovnih zbirkah"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-velikega-stevila-vizualnih-kategorij-objektov-za-poizvedovanje-v-slikovnih-video"
+        "url": "https://fri.uni-lj.si/sl/projekti/31"
     },
     {
         "end_date": "2014-06-30 00:00:00",
@@ -52,7 +52,7 @@
             "en": "Learning, analysis, and detection of motion in the framework of a hierarchical compositional visual architecture",
             "si": "U\u010denje, analiza in detekcija gibanja v okviru hierarhi\u010dne kompozicionalne vizualne arhitekture"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/ucenje-analiza-detekcija-gibanja-v-okviru-hierarhicne-kompozicionalne-vizualne-arhitekture"
+        "url": "https://fri.uni-lj.si/sl/projekti/39"
     },
     {
         "end_date": "2010-12-31 00:00:00",
@@ -63,7 +63,7 @@
             "en": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents",
             "si": "POETICON - The 'Poetics' of Everyday Life: Grounding Resources and Mechanisms for Artificial Agents"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/poeticon-poetics-everyday-life-grounding-resources-and-mechanisms-artificial-agents"
+        "url": "https://fri.uni-lj.si/sl/projekti/67"
     },
     {
         "end_date": "2012-06-30 00:00:00",
@@ -74,7 +74,7 @@
             "en": "CogX - Cognitive Systems that Self-Understand and Self-Extend",
             "si": "CogX - Cognitive Systems that Self-Understand and Self-Extend"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/cogx-cognitive-systems-self-understand-and-self-extend"
+        "url": "https://fri.uni-lj.si/sl/projekti/71"
     },
     {
         "end_date": "2021-06-30 00:00:00",
@@ -85,7 +85,7 @@
             "en": "Detection of inconsistencies in complex visual data using deep learning",
             "si": "Iskanje nekonsistentnosti v kompleksnih slikovnih podatkih z globokim u\u010denjem"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/iskanje-nekonsistentnosti-v-kompleksnih-slikovnih-podatkih-z-globokim-ucenjem"
+        "url": "https://fri.uni-lj.si/sl/projekti/560"
     },
     {
         "end_date": "2009-04-30 00:00:00",
@@ -96,6 +96,17 @@
             "en": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network",
             "si": "VISIONTRAIN - Computational and cognitive vision systems : A training European Network"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/visiontrain-computational-and-cognitive-vision-systems-training-european-network"
+        "url": "https://fri.uni-lj.si/sl/projekti/1576"
+    },
+    {
+        "end_date": "2024-12-31 00:00:00",
+        "id": 1585,
+        "ref_project_type": 4,
+        "start_date": "2019-01-01 00:00:00",
+        "title": {
+            "en": "Computer Vision",
+            "si": "Ra\u010dunalni\u0161ki vid"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1585"
     }
 ]

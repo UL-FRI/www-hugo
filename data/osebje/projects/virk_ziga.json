@@ -1,1 +1,24 @@
-[{"id": 128, "title": {"si": "PKP 2 - E-vsebine v izobra\u017eevanju", "en": "PKP 2 - E-content in education"}, "ref_project_type": 6, "url": "https://fri.uni-lj.si/sl/projekti/pkp-2-e-vsebine-v-izobrazevanju", "start_date": "2015-02-01 00:00:00", "end_date": "2015-07-31 00:00:00"}]
+[
+    {
+        "end_date": "2015-07-31 00:00:00",
+        "id": 128,
+        "ref_project_type": 6,
+        "start_date": "2015-02-01 00:00:00",
+        "title": {
+            "en": "PKP 2 - E-content in education",
+            "si": "PKP 2 - E-vsebine v izobra\u017eevanju"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/128"
+    },
+    {
+        "end_date": "2022-09-30 00:00:00",
+        "id": 1626,
+        "ref_project_type": null,
+        "start_date": "2019-10-01 00:00:00",
+        "title": {
+            "en": "Algebraic footprints of geometric features in homology",
+            "si": "Algebrajski odtisi geometrijskih zna\u010dilnosti v homologiji"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/1626"
+    }
+]

@@ -6,9 +6,20 @@
         "start_date": "2014-01-01 00:00:00",
         "title": {
             "en": "Parallel and distributed systems",
-            "si": "Vzporedni in porazdeljeni sistemi"
+            "si": "Sinergetika kompleksnih sistemov in procesov"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/vzporedni-porazdeljeni-sistemi"
+        "url": "https://fri.uni-lj.si/sl/projekti/21"
+    },
+    {
+        "end_date": "2019-05-31 00:00:00",
+        "id": 209,
+        "ref_project_type": null,
+        "start_date": "2016-06-01 00:00:00",
+        "title": {
+            "en": "Graph Optimisation and Big Data",
+            "si": "Optimizacija grafov in ogromno podatkov"
+        },
+        "url": "https://fri.uni-lj.si/sl/projekti/209"
     },
     {
         "end_date": "2017-04-28 00:00:00",
@@ -19,6 +30,6 @@
             "en": "Razvoj na projektu Visual Assistant",
             "si": "Razvoj na projektu Visual Assistant"
         },
-        "url": "https://fri.uni-lj.si/sl/projekti/razvoj-na-projektu-visual-assistant"
+        "url": "https://fri.uni-lj.si/sl/projekti/273"
     }
 ]
