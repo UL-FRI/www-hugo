@@ -11,11 +11,11 @@ mailInfo: taja.runovc@fri.uni-lj.si
 officeHours: ''
 pageTitle: Taja Runovc
 profName: Taja Runovc
-profTitle: Student Affairs
+profTitle: Študentski referat
 projects: []
 resources:
-- name: Personal photo
-  src: photos/runovc_taja.jpeg
-slug: taja-runovc-0
+- name: Osebna fotografija
+  src: photos/taja-runovc.jpeg
+slug: taja-runovc
 telephoneInfo: +386 1 479 8121
 ---
