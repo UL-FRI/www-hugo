@@ -1,6 +1,6 @@
 {{- $url := printf "%sphotos/%s.jpeg" (.Permalink | relURL) .Params.fileName -}}
-
-{{ if fileExists $url }}
+{{- $path := printf "/content/en/osebje/%s/photos/%s.jpeg" .Params.slug .Params.fileName }}
+{{ if fileExists $path }}
 <div>
     <div style='background-image:url({{ $url }})' class="os-image"></div>
 </div>
