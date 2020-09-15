@@ -7,7 +7,7 @@
 {{ else }}
 <div style="background-color:#e9e9e9" class="os-image">
     <div class="name-surname">
-        {{ replace (delimit (findRE "((^| ).{1})" .Params.profName 2) "") " " "" }}
+        {{ replace (delimit (findRE "((^| ).{1})" .Params.pageTitle 2) "") " " "" }}
     </div>
 </div>
 {{ end }}
