@@ -1,9 +1,10 @@
 <head profile="http://www.w3.org/1999/xhtml/vocab">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="shortcut icon" href="https://fri.uni-lj.si/sites/all/themes/fri_theme/favicon.ico" type="image/vnd.microsoft.icon" />
-    <meta name="generator" content="Drupal 7 (http://drupal.org)" />
-    <link rel="canonical" href="https://fri.uni-lj.si/sl/laboratorij/biolab" />
-    <link rel="shortlink" href="https://fri.uni-lj.si/sl/node/1632" />
+    <link rel="shortcut icon" href="https://www.fri.uni-lj.si/sites/all/themes/fri_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+    <link rel="canonical" href="{{.Permalink}}" />
+    <link rel="shortlink" href="https://www.fri.uni-lj.si/sl/node/19670" />
+
     {{ if .IsTranslated }}
     {{ range .Translations }}
     <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
@@ -11,72 +12,69 @@
     {{ end }}
 
     <style type="text/css" media="all">
-        @import url("https://fri.uni-lj.si/modules/system/system.base.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/system/system.menus.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/system/system.messages.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/system/system.theme.css?pubn3c");
+        @import url("https://www.fri.uni-lj.si/modules/system/system.base.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/system/system.menus.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/system/system.messages.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/system/system.theme.css?qci00j");
     </style>
     <style type="text/css" media="all">
-        @import url("https://fri.uni-lj.si/sites/all/modules/simplenews/simplenews.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/ldap/ldap_user/ldap_user.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/comment/comment.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/date/date_api/date.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/field/theme/field.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/node/node.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/search/search.css?pubn3c");
-        @import url("https://fri.uni-lj.si/modules/user/user.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/views/css/views.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/ckeditor/css/ckeditor.css?pubn3c");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/simplenews/simplenews.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/comment/comment.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/date/date_api/date.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/field/theme/field.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/node/node.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/search/search.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/modules/user/user.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/views/css/views.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/ckeditor/css/ckeditor.css?qci00j");
     </style>
     <style type="text/css" media="all">
-        @import url("https://fri.uni-lj.si/sites/all/modules/ctools/css/ctools.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/panels/css/panels.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/video/css/video.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/modules/lang_dropdown/lang_dropdown.css?pubn3c");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/ctools/css/ctools.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/panels/css/panels.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/video/css/video.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/modules/lang_dropdown/lang_dropdown.css?qci00j");
     </style>
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald&amp;subset=latin-ext" media="all" />
     <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,500,300,400&amp;subset=latin-ext" media="all" />
     <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" media="all" />
     <style type="text/css" media="all">
         <!--/*--><![CDATA[/*><!--*/
-        #sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#464646;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}.eu-cookie-compliance-more-button{color:#ffffff !important;}
+        #sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#464646;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,#sliding-popup label,#sliding-popup div,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#ffffff !important;}.eu-cookie-withdraw-tab{border-color:#ffffff;}.eu-cookie-compliance-more-button{color:#ffffff !important;}
 
         /*]]>*/-->
     </style>
     <style type="text/css" media="all">
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/video-js.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/stil.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_osebje.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_obstudiju.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_raziskave.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_novica.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery.bxslider.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery-ui.structure.min.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery-ui.theme.min.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_dogodki_koledar.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/styles.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/bower_components/loaders.css/loaders.min.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/responsive-miha.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/responsive-jure.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_predmet.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_studij.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/general.css?pubn3c");
-        @import url("https://fri.uni-lj.si/sites/all/themes/fri_theme/css/eu_cookie_compliance.css?pubn3c");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/video-js.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/stil.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_osebje.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_obstudiju.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_raziskave.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_novica.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery.bxslider.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery-ui.structure.min.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/jquery-ui.theme.min.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_dogodki_koledar.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/styles.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/bower_components/loaders.css/loaders.min.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/responsive-miha.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/responsive-jure.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_predmet.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/tmp_css_studij.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/general.css?qci00j");
+        @import url("https://www.fri.uni-lj.si/sites/all/themes/fri_theme/css/eu_cookie_compliance.css?qci00j");
     </style>
 
     <!--[if lt IE 7]>
-    <link type="text/css" rel="stylesheet" href="https://fri.uni-lj.si/sites/all/themes/fri_theme/ie6.css?pubn3c" media="all" />
+    <link type="text/css" rel="stylesheet" href="https://www.fri.uni-lj.si/sites/all/themes/fri_theme/ie6.css?qci00j" media="all" />
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
     {{ if .Params.pageTitle}}
-        <title>{{.Params.pageTitle}}</title>
+    <title>{{.Params.pageTitle}}</title>
     {{ else if .Title }}
-        <title>{{.Title}}</title>
+    <title>{{.Title}}</title>
     {{ else }}
-        <title>{{.Site.Params.Title}}</title>
+    <title>{{.Site.Params.Title}}</title>
     {{ end }}
-
 </head>
