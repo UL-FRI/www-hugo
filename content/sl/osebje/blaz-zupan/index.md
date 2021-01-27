@@ -24,7 +24,7 @@ resources:
 slug: blaz-zupan
 telephoneInfo: +386 1 479 8238
 ---
-Predavam in raziskujem na področju odkrivanja znanj iz podatkov. V raziskovalnih projektih mojega laboratorija te tehnike v uporabljamo predvsem na področjih biomedicine. Zadnje čase me predvsem veseli gradnja intuitivnih programskih sistemov za podatkovno analitiko in tehnike zlivanja podatkov. Mnogo teh testirajo in uporabljajo naši partnerji doma in v tujini. Eden od teh je [Baylor College of Medicine](http://www.bcm.edu/), kjer sem gostujoči profesor.
+Jaz predavam in raziskujem na področju odkrivanja znanj iz podatkov. V raziskovalnih projektih mojega laboratorija te tehnike v uporabljamo predvsem na področjih biomedicine. Zadnje čase me predvsem veseli gradnja intuitivnih programskih sistemov za podatkovno analitiko in tehnike zlivanja podatkov. Mnogo teh testirajo in uporabljajo naši partnerji doma in v tujini. Eden od teh je [Baylor College of Medicine](http://www.bcm.edu/), kjer sem gostujoči profesor.
 
 Uživam v načrtovanju aplikacij in programiranju. Sem soavtor programa za podatkovno analitiko [Orange](http://www.ailab.si/orange), programa za interaktivno pregledovanje izraznih profilov genov dictyExpress, spletnega programa za odkrivanje genskih mrež [GenePath](http://www.genepath.org/) (star več kot 10 let a začuda še vedno dela), in knjižnice za matrično faktorizacijo [Nimfa](http://nimfa.biolab.si/). Pri razvoju programov za bioinformatično analizo podatkov sodelujemo tudi z laboratorijskim spin-offom [Genialis](http://www.genialis.com/).
 
